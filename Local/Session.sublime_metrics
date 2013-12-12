@@ -1,0 +1,23 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"All Autocomplete",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"DashDoc",
+		"Function Name Display",
+		"Package Control",
+		"RubyMotion Autocomplete",
+		"SideBarEnhancements",
+		"Tomorrow Color Schemes"
+	],
+	"startup_sec": 0.530317,
+	"syntax":
+	{
+		"HTML (Rails)": 298,
+		"JSON": 2,
+		"Ruby on Rails": 502
+	},
+	"time": 1386838527
+}

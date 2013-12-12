@@ -1,0 +1,12 @@
+//https://github.com/RubyMotionJP/SublimeRubyMotionBuilder
+//https://github.com/farcaller/DashDoc
+[
+  { "keys": ["super+d"], "command": "find_under_expand" },
+  { "keys": ["super+r"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
+  { "keys": ["super+shift+x"], "command": "run_macro_file", "args": { "file": "res://Packages/Default/Delete Line.sublime-macro" } },
+  { "keys": ["super+e"], "command": "goto_definition" },
+  { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
+  { "keys": ["super+shift+1"], "command": "move_to_group", "args": { "group": 0 } },
+  { "keys": ["super+shift+2"], "command": "move_to_group", "args": { "group": 1 } },
+  { "keys": ["super+h"], "command": "dash_doc" },
+]
