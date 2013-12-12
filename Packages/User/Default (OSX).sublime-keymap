@@ -9,4 +9,6 @@
   { "keys": ["super+shift+1"], "command": "move_to_group", "args": { "group": 0 } },
   { "keys": ["super+shift+2"], "command": "move_to_group", "args": { "group": 1 } },
   { "keys": ["super+h"], "command": "dash_doc" },
+  { "keys": ["super+z"], "command": "erb" },
+
 ]
