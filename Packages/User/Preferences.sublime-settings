@@ -10,10 +10,6 @@
 		"Vintage"
 	],
 	"overlay_scroll_bars": "enabled",
-	"rulers":
-	[
-		80
-	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
 	"tab_size": 2,

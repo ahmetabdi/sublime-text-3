@@ -8,7 +8,5 @@
   { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
   { "keys": ["super+shift+1"], "command": "move_to_group", "args": { "group": 0 } },
   { "keys": ["super+shift+2"], "command": "move_to_group", "args": { "group": 1 } },
-  { "keys": ["super+h"], "command": "dash_doc" },
-  { "keys": ["super+z"], "command": "erb" },
-
+  { "keys": ["super+h"], "command": "dash_doc" }
 ]
