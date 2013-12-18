@@ -6,10 +6,13 @@
 		"BracketHighlighter",
 		"DashDoc",
 		"Function Name Display",
+		"GitGutter",
+		"Gitignore",
 		"Ruby Blue Color Scheme",
 		"RubyMotion Autocomplete",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeGit",
 		"Tomorrow Color Schemes"
 	]
 }
