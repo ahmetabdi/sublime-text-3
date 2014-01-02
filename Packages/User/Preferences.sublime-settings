@@ -1,7 +1,42 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.beam",
+		".DS_Store",
+		".tags"
+	],
+	"flatland_sidebar_tree_xsmall": true,
+	"flatland_square_tabs": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache"
+	],
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -10,10 +45,16 @@
 		"Vintage"
 	],
 	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80,
+		120
+	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
 	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"word_wrap": false
 }

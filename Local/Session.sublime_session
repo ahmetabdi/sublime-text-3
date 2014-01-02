@@ -12,17 +12,25 @@
 		"/Users/ahmet/Projects/titledigitalfont"
 	],
 	"last_version": 3059,
-	"last_window_id": 51,
+	"last_window_id": 53,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1285.0,
+		"new_window_height": 1241.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"product_vid",
+						"product_videos_form"
+					],
+					[
+						"vac",
+						"vacancy"
+					],
 					[
 						"product",
 						"productCheck"
@@ -92,1011 +100,20 @@
 						"Package Control: Install Package"
 					],
 					[
-						"git: diff",
-						"Git: Diff"
-					],
-					[
-						"git: status",
+						"git status",
 						"Git: Status"
 					],
 					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 602.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/ahmet/Projects/whitelegg.com/app/views/about/team.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_about_nav.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/sub_category/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/vacancies/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/sub_category.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/seeds.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/pages_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/product.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/about_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/admin_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin/admin_core.js",
-				"/Users/ahmet/Projects/whitelegg.com/config/routes.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/products_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_images_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/config/breadcrumbs.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/product_image.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/base_image_uploader.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/product_uploader.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131211104753_create_product_images.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/products_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/config.ru",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131212154635_create_redactor_assets.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin/redactor-rails/config.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/application/jquery.ui.touch-punch.min.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/application/print.css.scss",
-				"/Users/ahmet/Projects/whitelegg.com/config/application.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/application/core.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/vacancies_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/vacancies_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/vacancies/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_image_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_links.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/new.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/countries_helper.rb",
-				"/Users/ahmet/Projects/whitelegg.com/tmp/cache/assets/development/sass/7ed093490d640a03c7d05314a8962d62746186c8/redactor-custom.scssc",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/news_article.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/categories/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/sub_category_uploader.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/category.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/case_study.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/news_articles/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/case_studies/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_case_studies_module.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/news_articles_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/config/environment.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/vacancy_locations_helper.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/vacancies/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/product_video.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/products/pdf.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/products/search.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/products/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/db/schema.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131209162712_create_vacancies.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_video_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/products/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/application/core.css.scss",
-				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/admin_helper.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/sub_categories_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131218093339_rename_user_id_to_new_user_id.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/layouts/admin.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/.gitignore",
-				"/Users/ahmet/Projects/whitelegg.com/Gemfile",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin/dataTables/config.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/application_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/config/initializers/redactor.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_related_news.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131212154646_devise_create_admin_users.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/redactor_rails/picture.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/page_image.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131210121135_add_sub_category_ref_to_products.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/downloads_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131216105945_create_product_videos.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/redactor_rails/document.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/redactor_rails/asset.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/redactor_rails_picture_uploader.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/redactor_rails_document_uploader.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/redactor_iframe.scss",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/redactor-custom.scss",
-				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/local_group_news_articles_helper.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/bootstrap/_layouts.scss",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/application/magnific_popup.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/inputs/image_preview_input.rb",
-				"/Users/ahmet/Projects/whitelegg.com/config/initializers/inflections.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/news_articles/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131217170922_add_show_to_products.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131217162113_add_image_to_sub_categories.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_related_case_studies.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_downloads_module.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/helpers/application_helper.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/products/to_pdf.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/config/initializers/mime_types.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/application.css",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/downloads_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_download_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_downloads_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_videos_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/downloads/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_downloads_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/case_studies_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/edit.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/edit.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/edit.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/downloads/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/edit.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/admin_users_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/config/database.yml",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/downloads/edit.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/downloads/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/vacancies/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131216122207_add_date_to_news_article.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131216170753_add_publish_on_date_to_vacancies.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/vacancies/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/show.html.erb"
-			],
-			"find":
-			{
-				"height": 23.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"Empty space",
-					"product.rb",
-					"row_leader",
-					"last-child",
-					"Search",
-					"url_for",
-					"sidebar_nav",
-					"html",
-					"vacancy",
-					"Load more News",
-					"BaseImage",
-					"default_scope",
-					"Add A Image",
-					"related_news",
-					"category",
-					"Rails.root",
-					"Destroy",
-					"vacancies",
-					"SAMEORIGIN",
-					".page-header > .btn",
-					".page_header",
-					"BaseFileUploaderUploader",
-					"BaseImageUploader",
-					"BaseImageUploaderUploader",
-					"datatable",
-					"datatable\\",
-					"grouped_options",
-					"index",
-					"sub_category_index",
-					"index",
-					"category_index",
-					"sub_categories_index",
-					"case_study.id",
-					"category",
-					"topic",
-					"Related news",
-					"vacancies",
-					"link_to_add_fields",
-					"_destroy",
-					"sub_category",
-					"admin_news_articles",
-					"casestudyable",
-					"vacancy",
-					"friendly",
-					"vacancy",
-					"friendly",
-					"vacancy",
-					"Vacancy",
-					"vacancy",
-					"Vacancy",
-					"vacancy",
-					"Vacancy",
-					"vacancy",
-					"Vacancy",
-					"vacancy",
-					"Vacancy",
-					"vacancy",
-					"news_article",
-					"NewsArticle",
-					"news_article",
-					"NewsArticle",
-					"news_articles",
-					"create",
-					"turbo",
-					"news_articles_path",
-					"sub_categories",
-					"View all",
-					"sub_category_path",
-					"sub_category",
-					"sub_category_path",
-					"categories",
-					"product.id",
-					"categories",
-					".find(category",
-					"category",
-					"id",
-					"product.id",
-					"id",
-					"category.id",
-					"id",
-					" \n",
-					"categories_path",
-					"categories",
-					"search",
-					"row_leader",
-					"scale",
-					"last-child",
-					"product_pic_1",
-					"case studies",
-					"Case studies",
-					"Related news",
-					"scope",
-					"sort",
-					"=~",
-					"content_header",
-					".page(params",
-					"page",
-					"news_article",
-					"Search",
-					"Search products",
-					"content_header",
-					"products",
-					"active",
-					".content_header",
-					"Related news",
-					"news_articles",
-					"Downloads",
-					"</p>",
-					"object",
-					"Case Studies",
-					"Test Header",
-					"Header",
-					"Related news",
-					"row_leader",
-					"strftime",
-					"sub",
-					"Products",
-					"case studies",
-					"Safety Testing",
-					"Privacy",
-					"\"Home\"",
-					"Home",
-					"Telephone",
-					"FVacnacies",
-					"Vacancies",
-					"Latest",
-					"Back to all",
-					"Products"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"link_to_add_fields",
-					"SelectClubController",
-					"tabs",
-					"CoreImage",
-					"  {",
-					"\n  "
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 23.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 100.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"replace":
-			{
-				"height": 42.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"sub_category/show",
-						"app/views/sub_category/show.html.erb"
+						"status",
+						"Git: Status"
 					],
-					[
-						"pages_controller",
-						"app/controllers/admin/pages_controller.rb"
-					],
-					[
-						"about_nav",
-						"app/views/partials/_about_nav.html.erb"
-					],
-					[
-						"team",
-						"app/views/about/team.html.erb"
-					],
-					[
-						"seeds",
-						"db/seeds.rb"
-					],
-					[
-						"product.rb",
-						"app/models/product.rb"
-					],
-					[
-						"product_image.rb",
-						"app/models/product_image.rb"
-					],
-					[
-						"product_images",
-						"app/views/admin/products/_product_images_fields.html.erb"
-					],
-					[
-						"crumb",
-						"config/breadcrumbs.rb"
-					],
-					[
-						"layouts/a",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"products_controller",
-						"app/controllers/products_controller.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"vacancies_controller",
-						"app/controllers/admin/vacancies_controller.rb"
-					],
-					[
-						"products_controller.rb",
-						"app/controllers/admin/products_controller.rb"
-					],
-					[
-						"products/index",
-						"app/views/admin/products/index.html.erb"
-					],
-					[
-						"admin/core",
-						"app/assets/javascripts/admin/admin_core.js"
-					],
-					[
-						"sub_category.rb",
-						"app/models/sub_category.rb"
-					],
-					[
-						"layouts/appl",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"categories/show",
-						"app/views/categories/show.html.erb"
-					],
-					[
-						"news_articles/show",
-						"app/views/news_articles/show.html.erb"
-					],
-					[
-						"news_article.rb",
-						"app/models/news_article.rb"
-					],
-					[
-						"news_articles/form",
-						"app/views/admin/news_articles/_form.html.erb"
-					],
-					[
-						"vacancies_cont",
-						"app/controllers/admin/vacancies_controller.rb"
-					],
-					[
-						"vacancies/inde",
-						"app/views/admin/vacancies/index.html.erb"
-					],
-					[
-						"products/inde",
-						"app/views/admin/products/index.html.erb"
-					],
-					[
-						"layouts/app",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"product_cont",
-						"app/controllers/admin/products_controller.rb"
-					],
-					[
-						"products_controler",
-						"app/controllers/admin/products_controller.rb"
-					],
-					[
-						"products_con",
-						"app/controllers/admin/products_controller.rb"
-					],
-					[
-						"products_contoller",
-						"app/controllers/admin/products_controller.rb"
-					],
-					[
-						"product/index",
-						"app/views/admin/products/index.html.erb"
-					],
-					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"products/show",
-						"app/views/products/show.html.erb"
-					],
-					[
-						"sub_categories/show",
-						"app/views/admin/sub_categories/show.html.erb"
-					],
-					[
-						"gitign",
-						".gitignore"
-					],
-					[
-						".igi",
-						".gitignore"
-					],
-					[
-						"config.js",
-						"app/assets/javascripts/admin/redactor-rails/config.js"
-					],
-					[
-						"application_controller",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"redactor.rb",
-						"config/initializers/redactor.rb"
-					],
-					[
-						"redactor",
-						"app/assets/javascripts/admin/redactor-rails/config.js"
-					],
-					[
-						"gemfile",
-						"Gemfile"
-					],
-					[
-						"layouts/admin",
-						"app/views/layouts/admin.html.erb"
-					],
-					[
-						"layouts/ap",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"image_upload",
-						"app/uploaders/base_image_uploader.rb"
-					],
-					[
-						"news_articles_c",
-						"app/controllers/admin/news_articles_controller.rb"
-					],
-					[
-						"admin.js",
-						"app/assets/javascripts/admin/admin_core.js"
-					],
-					[
-						"add_show_to_produ",
-						"db/migrate/20131217170922_add_show_to_products.rb"
-					],
-					[
-						"layouts/",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"products/form",
-						"app/views/admin/products/_form.html.erb"
-					],
-					[
-						"product/product_link",
-						"app/views/admin/products/_product_links.html.erb"
-					],
-					[
-						"product/form",
-						"app/views/admin/products/_form.html.erb"
-					],
-					[
-						"sub_categories/form",
-						"app/views/admin/sub_categories/_form.html.erb"
-					],
-					[
-						"sub_categories_cont",
-						"app/controllers/admin/sub_categories_controller.rb"
-					],
-					[
-						"application_con",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"admin_controller",
-						"app/controllers/admin/admin_controller.rb"
-					],
-					[
-						"related_case_studies",
-						"app/views/partials/_related_case_studies.html.erb"
-					],
-					[
-						"related_news",
-						"app/views/partials/_related_news.html.erb"
-					],
-					[
-						"case_studies_modul",
-						"app/views/partials/_case_studies_module.html.erb"
-					],
-					[
-						"downloads_module",
-						"app/views/partials/_downloads_module.html.erb"
-					],
-					[
-						"products_control",
-						"app/controllers/products_controller.rb"
-					],
-					[
-						"mime_tpy",
-						"config/initializers/mime_types.rb"
-					],
-					[
-						"product/pdf",
-						"app/views/products/pdf.html.erb"
-					],
-					[
-						"products_cont",
-						"app/controllers/products_controller.rb"
-					],
-					[
-						"helper",
-						"app/helpers/application_helper.rb"
-					],
-					[
-						"product/show",
-						"app/views/products/show.html.erb"
-					],
-					[
-						"mime_type",
-						"config/initializers/mime_types.rb"
-					],
-					[
-						"application_helper",
-						"app/helpers/application_helper.rb"
-					],
-					[
-						"mime_t",
-						"config/initializers/mime_types.rb"
-					],
-					[
-						"downloads_con",
-						"app/controllers/downloads_controller.rb"
-					],
-					[
-						"vacnacies/inde",
-						"app/views/admin/vacancies/index.html.erb"
-					],
-					[
-						"downloads_for",
-						"app/views/admin/downloads/_form.html.erb"
-					],
-					[
-						"product_links",
-						"app/views/admin/products/_product_links.html.erb"
-					],
-					[
-						"vacancis/inde",
-						"app/views/admin/vacancies/index.html.erb"
-					],
-					[
-						"sub_categories_con",
-						"app/controllers/admin/sub_categories_controller.rb"
-					],
-					[
-						"news_articles_cont",
-						"app/controllers/admin/news_articles_controller.rb"
-					],
-					[
-						"case_studies_con",
-						"app/controllers/admin/case_studies_controller.rb"
-					],
-					[
-						"vacancies_contr",
-						"app/controllers/admin/vacancies_controller.rb"
-					],
-					[
-						"downloads_contro",
-						"app/controllers/admin/downloads_controller.rb"
-					],
-					[
-						"sub_categories/inde",
-						"app/views/admin/sub_categories/index.html.erb"
-					],
-					[
-						"case_studies/inde",
-						"app/views/admin/case_studies/index.html.erb"
-					],
-					[
-						"news_articles/ind",
-						"app/views/admin/news_articles/index.html.erb"
-					],
-					[
-						"categories/inde",
-						"app/views/admin/sub_categories/index.html.erb"
-					],
-					[
-						"downloads/index",
-						"app/views/admin/downloads/index.html.erb"
-					],
-					[
-						"sub_categories/edit",
-						"app/views/admin/sub_categories/edit.html.erb"
-					],
-					[
-						"news_articles/inde",
-						"app/views/admin/news_articles/index.html.erb"
-					],
-					[
-						"news_articles/edit",
-						"app/views/admin/news_articles/edit.html.erb"
-					],
-					[
-						"case_studies/show",
-						"app/views/admin/case_studies/show.html.erb"
-					],
-					[
-						"case_studies/edit",
-						"app/views/admin/case_studies/edit.html.erb"
-					],
-					[
-						"products/edit",
-						"app/views/admin/products/edit.html.erb"
-					],
-					[
-						"case_studies/index",
-						"app/views/admin/case_studies/index.html.erb"
-					],
-					[
-						"pages/index",
-						"app/views/admin/pages/index.html.erb"
-					],
-					[
-						"admin_con",
-						"app/controllers/admin/admin_controller.rb"
-					],
-					[
-						"download/show",
-						"app/views/admin/downloads/show.html.erb"
-					],
-					[
-						"download/edit",
-						"app/views/admin/downloads/edit.html.erb"
-					],
-					[
-						"vacancies_con",
-						"app/controllers/admin/vacancies_controller.rb"
-					],
-					[
-						"news_article_con",
-						"app/controllers/admin/news_articles_controller.rb"
-					],
-					[
-						"news_articles_controller.rb",
-						"app/controllers/admin/news_articles_controller.rb"
-					],
-					[
-						"case_studies_cont",
-						"app/controllers/admin/case_studies_controller.rb"
-					],
-					[
-						"team.html",
-						"app/views/about/team.html.erb"
-					],
-					[
-						"pages/form",
-						"app/views/admin/pages/_form.html.erb"
-					],
-					[
-						"pages/show",
-						"app/views/admin/pages/show.html.erb"
-					],
-					[
-						"vacancies/show",
-						"app/views/vacancies/show.html.erb"
-					],
-					[
-						"vacnacies/show",
-						"app/views/admin/vacancies/show.html.erb"
-					],
-					[
-						"sub_categories_co",
-						"app/controllers/admin/sub_categories_controller.rb"
-					],
-					[
-						"admin_controller.rb",
-						"app/controllers/admin/admin_controller.rb"
-					],
-					[
-						"admin_cont",
-						"app/controllers/admin/admin_controller.rb"
-					],
-					[
-						"application.rb",
-						"config/application.rb"
-					],
-					[
-						"product_vide",
-						"app/models/product_video.rb"
-					],
-					[
-						"product_video",
-						"app/models/product_video.rb"
-					],
-					[
-						"downloads/inde",
-						"app/views/admin/downloads/index.html.erb"
-					],
-					[
-						"gem",
-						"Gemfile"
-					],
-					[
-						"news_article/inde",
-						"app/views/admin/news_articles/index.html.erb"
-					],
-					[
-						"news_articles_contr",
-						"app/controllers/admin/news_articles_controller.rb"
-					],
-					[
-						"category.rb",
-						"app/models/category.rb"
-					],
-					[
-						"product/new",
-						"app/views/admin/products/new.html.erb"
-					],
-					[
-						"products/new",
-						"app/views/admin/products/new.html.erb"
-					],
-					[
-						"produc",
-						"app/models/product.rb"
-					],
-					[
-						"base_video",
-						"app/uploaders/base_video_uploader.rb"
-					],
-					[
-						"product_imag",
-						"db/migrate/20131211104753_create_product_images.rb"
-					],
-					[
-						"product/inde",
-						"app/views/products/index.html.erb"
-					],
-					[
-						"products/ind",
-						"app/views/admin/products/index.html.erb"
-					],
-					[
-						"download/inde",
-						"app/views/admin/downloads/index.html.erb"
-					],
-					[
-						"pages/inde",
-						"app/views/admin/pages/index.html.erb"
-					],
-					[
-						"case_studies_ontroller",
-						"app/controllers/case_studies_controller.rb"
-					],
-					[
-						"case_study.rb",
-						"app/models/case_study.rb"
-					],
-					[
-						"admin/admin_core",
-						"app/assets/javascripts/admin/admin_core.js"
-					],
-					[
-						"admin_core.js",
-						"app/assets/javascripts/admin/admin_core.js"
-					],
-					[
-						"product_image",
-						"app/models/product_image.rb"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
 					[
 						"",
-						"AboutController"
+						"About"
 					],
-					[
-						"return",
-						"textFieldShouldReturn"
-					]
-				],
-				"width": 404.0
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 394.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1989.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"product",
-						"productCheck"
-					],
-					[
-						"vacancy",
-						"vacancyCheck"
-					],
-					[
-						"clic",
-						"click  (function)"
-					],
-					[
-						"hide",
-						"hideAllProductDivs"
-					],
-					[
-						"second",
-						"secondary-btn"
-					],
-					[
-						"edit",
-						"edit_admin_sub_category_path"
-					],
-					[
-						"edit_admin",
-						"edit_admin_case_study_path"
-					],
-					[
-						"intro",
-						"introduction"
-					],
-					[
-						"link_to",
-						"link_to_add_fields"
-					],
-					[
-						"news",
-						"news_article"
-					],
-					[
-						"grou",
-						"grouped_options_for_select"
-					],
-					[
-						"case",
-						"casestudyable_type"
-					],
-					[
-						"do",
-						"do"
-					],
-					[
-						"de",
-						"det	detect { |e| .. }"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"contents": "Remote:   origin @ git@github.com:kyan/whitelegg.com.git\nLocal:    master ~/Projects/whitelegg.com\nHead:     e2cb685 Merge branch 'master' of github.com:kyan/whitelegg.com\n\n\nChanges:\n	Modified   app/views/vacancies/show.html.erb\n\n\n# Movement:\n#    r = refresh status\n#    1-5 = jump to section\n#    n = next item, N = next section\n#    p = previous item, P = previous section\n#\n# Staging:\n#    s = stage file/section, S = stage all unstaged files\n#    ctrl+shift+s = stage all unstaged and untracked files\n#    u = unstage file/section, U = unstage all files\n#    backspace = discard file/section, shift+backspace = discard everything\n#\n# Commit:\n#    c = commit, C = commit -a (add unstaged)\n#    ctrl+shift+c = commit --amend (amend previous commit)\n#\n# Other:\n#    i = ignore file, I = ignore pattern\n#    enter = open file\n#    d = view diff\n#\n# Stashes:\n#    a = apply stash, A = pop stash\n#    z = create stash from worktree",
-					"settings":
-					{
-						"buffer_size": 930,
-						"line_ending": "Unix",
-						"name": "*git-status*: whitelegg.com",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/Users/ahmet/Projects/whitelegg.com/app/views/vacancies/show.html.erb",
-					"settings":
-					{
-						"buffer_size": 605,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 167.0,
-				"selected_items":
-				[
 					[
 						"remoe",
 						"Package Control: Remove Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"Git: Status",
@@ -1122,6 +139,12 @@
 				"height": 126.0,
 				"history":
 				[
+					"ruby",
+					"clear",
+					"puts name",
+					"p name",
+					"name = 1",
+					"python",
 					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
 				]
 			},
@@ -1136,138 +159,138 @@
 			},
 			"file_history":
 			[
-				"/Users/ahmet/Projects/whitelegg.com/app/views/about/team.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_about_nav.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/sub_category/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/vacancies/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/sub_category.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/seeds.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/pages_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/product.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/about_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/admin_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin/admin_core.js",
+				"/Users/ahmet/Projects/whitelegg.com/.gitignore",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/redactor_iframe.css",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/redactor_iframe.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/application.scss",
+				"/Users/ahmet/Projects/whitelegg.com/config/initializers/redactor.rb",
 				"/Users/ahmet/Projects/whitelegg.com/config/routes.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/products_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/application/core.css.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/category.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin.css",
 				"/Users/ahmet/Projects/whitelegg.com/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_images_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/config/breadcrumbs.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/product_image.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/base_image_uploader.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/product_uploader.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131211104753_create_product_images.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/products/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/redactor-custom.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/products_controller.rb",
 				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/products_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/config.ru",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131212154635_create_redactor_assets.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin/redactor-rails/config.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/application/jquery.ui.touch-punch.min.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/application/print.css.scss",
-				"/Users/ahmet/Projects/whitelegg.com/config/application.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/product.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/page.rb",
 				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/application/core.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/vacancies_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/vacancies_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/vacancies/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_image_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_links.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/new.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/countries_helper.rb",
-				"/Users/ahmet/Projects/whitelegg.com/tmp/cache/assets/development/sass/7ed093490d640a03c7d05314a8962d62746186c8/redactor-custom.scssc",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131216090841_add_slug_to_case_studies.rb",
+				"/Users/ahmet/Projects/whitelegg.com/db/schema.rb",
+				"/Users/ahmet/Projects/whitelegg.com/db/seeds.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/layouts/admin.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/sub_category.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/news_articles/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/sub_category/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/news_articles_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/product_uploader.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/news_articles/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/news_articles_controller.rb",
 				"/Users/ahmet/Projects/whitelegg.com/app/models/news_article.rb",
 				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/categories/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/sub_category_uploader.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/category.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/case_study.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/news_articles/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/case_studies/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_case_studies_module.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/news_articles_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/config/environment.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/vacancy_locations_helper.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/vacancies/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/product_video.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/products/pdf.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/products/search.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/products/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/db/schema.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131209162712_create_vacancies.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_video_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/products/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/application/core.css.scss",
-				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/admin_helper.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/sub_categories_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131218093339_rename_user_id_to_new_user_id.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/layouts/admin.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/.gitignore",
-				"/Users/ahmet/Projects/whitelegg.com/Gemfile",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin/dataTables/config.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/application_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/config/initializers/redactor.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_related_news.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131212154646_devise_create_admin_users.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/redactor_rails/picture.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/page_image.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131210121135_add_sub_category_ref_to_products.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/downloads_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131216105945_create_product_videos.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/redactor_rails/document.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/models/redactor_rails/asset.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/redactor_rails_picture_uploader.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/redactor_rails_document_uploader.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/redactor_iframe.scss",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/redactor-custom.scss",
-				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/local_group_news_articles_helper.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/bootstrap/_layouts.scss",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/application/magnific_popup.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/inputs/image_preview_input.rb",
-				"/Users/ahmet/Projects/whitelegg.com/config/initializers/inflections.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/news_articles/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131217170922_add_show_to_products.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131217162113_add_image_to_sub_categories.rb",
 				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_related_case_studies.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_downloads_module.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/helpers/application_helper.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/products/to_pdf.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/config/initializers/mime_types.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/application.css",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/downloads_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_download_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_downloads_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_videos_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/downloads/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_downloads_fields.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin.js",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/case_studies_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/edit.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/edit.html.erb",
 				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/edit.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/downloads/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/index.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/edit.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/admin_users_controller.rb",
-				"/Users/ahmet/Projects/whitelegg.com/config/database.yml",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/downloads/edit.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/downloads/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/vacancies/_form.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131216122207_add_date_to_news_article.rb",
-				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131216170753_add_publish_on_date_to_vacancies.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/sub_categories_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/sub_category_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/product_image.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/vacancies_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/vacancies_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_image_fields.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_product_images_fields.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin/admin_core.js",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/frontend.css.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin/redactor-rails/config.js",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/admin_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/config/breadcrumbs.rb",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131210110145_add_category_ref_to_news_articles.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/show.html.erb",
 				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/vacancies/show.html.erb",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/show.html.erb"
+				"/Users/ahmet/Projects/whitelegg.com/app/views/vacancies/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/case_studies_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/case_studies/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/case_study.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/helpers/vacancies_helper.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/helpers/case_studies_helper.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/case_studies_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/edit.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/vacancies/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/vacancy.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/pages_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_admin_styles.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/test/controllers/products_controller_test.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/products/search.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/tmp/cache/assets/production/sass/7aa01d22d4e7a12477421eb17472788f599edf23/_scaffolding.scssc",
+				"/Users/ahmet/Projects/whitelegg.com/tmp/cache/assets/development/sass/60432c2e342396a4d4eaad1d857f195192ce03fb/core.css.scssc",
+				"/Users/ahmet/Projects/whitelegg.com/tmp/cache/assets/production/sass/7ed093490d640a03c7d05314a8962d62746186c8/redactor-custom.scssc",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin_frontend.css",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/public/assets/whitelegg-ef7c05624f4a5a98cc4324cb313ade02.woff",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/categories/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/application_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/admin_users/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/config/database.yml",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131212154646_devise_create_admin_users.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/download.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/admin_users/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/test/fixtures/admin_users.yml",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/admin_user.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin_frontend/core.css.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_breadcrumbs.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_downloads_fields.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/bootstrap_responsive.scss",
+				"/Users/ahmet/Projects/whitelegg.com/bin/bundle",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/downloads_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/products/pdf.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/case_studies/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/vacancies/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/pages_helper.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_admin_style.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/layouts/style.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/layouts/_style.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/test/controllers/news_articles_controller_test.rb",
+				"/Users/ahmet/Projects/whitelegg.com/test/controllers/contact_controller_test.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/contact_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/about/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_about_nav.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/about/team.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/helpers/about_helper.rb",
+				"/Users/ahmet/Projects/whitelegg.com/config/application.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/application.css",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/admin_frontend.css",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/bootstrap/_layouts.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/vacancies/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/bootstrap/_pager.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/helpers/application_helper.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/redactor_rails_picture_uploader.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_download_fields.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_case_studies_module.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_related_news.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_related_case_studies.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/contact/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/base/terms_of_use.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131212154635_create_redactor_assets.rb",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131210134132_rename_company_name_in_case_studies_to_case_study_tag.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/bootstrap/_component-animations.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_contact_module.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/new.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131218170951_add_show_to_case_studies.rb",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131218170930_add_show_to_news_articles.rb"
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -1282,6 +305,30 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"redactor_box",
+					"redactor_iframe",
+					"yellow",
+					"main_nav",
+					"joins",
+					"redactorbox",
+					"wire_forming",
+					"body",
+					"team_list_form",
+					"content_wrapper",
+					"active",
+					"proxima",
+					"body",
+					"container",
+					"application",
+					"Other News",
+					"update_show",
+					"product",
+					"Add New Team",
+					"no_bullets",
+					"clearfix",
+					"team_list",
+					"Add Image",
+					"sub_categor",
 					"Empty space",
 					"product.rb",
 					"row_leader",
@@ -1385,31 +432,7 @@
 					"content_header",
 					"products",
 					"active",
-					".content_header",
-					"Related news",
-					"news_articles",
-					"Downloads",
-					"</p>",
-					"object",
-					"Case Studies",
-					"Test Header",
-					"Header",
-					"Related news",
-					"row_leader",
-					"strftime",
-					"sub",
-					"Products",
-					"case studies",
-					"Safety Testing",
-					"Privacy",
-					"\"Home\"",
-					"Home",
-					"Telephone",
-					"FVacnacies",
-					"Vacancies",
-					"Latest",
-					"Back to all",
-					"Products"
+					".content_header"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1430,382 +453,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/Users/ahmet/Projects/whitelegg.com"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 930,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										183,
-										183
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"draw_white_space": "none",
-									"function_name_status_row": 6,
-									"git_repo": "/Users/ahmet/Projects/whitelegg.com",
-									"git_status": true,
-									"git_view": "status",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/SublimeGit/syntax/SublimeGit Status.tmLanguage",
-									"translate_tabs_to_spaces": false,
-									"word_wrap": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/ahmet/Projects/whitelegg.com/app/views/vacancies/show.html.erb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 605,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										582,
-										582
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"function_name_status_row": 17,
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
 				"height": 23.0
@@ -1813,28 +460,6 @@
 			"input":
 			{
 				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
 			},
 			"menu_visible": true,
 			"output.exec":
@@ -1845,8 +470,10 @@
 			{
 				"height": 0.0
 			},
-			"position": "56 139 1989 1267 0 0 2560 1418 ",
-			"project": "",
+			"output.git-commit":
+			{
+				"height": 100.0
+			},
 			"replace":
 			{
 				"height": 42.0
@@ -1858,28 +485,376 @@
 				"selected_items":
 				[
 					[
-						"sub_category/show",
-						"app/views/sub_category/show.html.erb"
+						"git",
+						".gitignore"
 					],
 					[
-						"pages_controller",
-						"app/controllers/admin/pages_controller.rb"
+						"redactor_iframe",
+						"app/assets/stylesheets/redactor_iframe.css"
 					],
 					[
-						"about_nav",
-						"app/views/partials/_about_nav.html.erb"
+						"config.js",
+						"app/assets/javascripts/admin/redactor-rails/config.js"
 					],
 					[
-						"team",
-						"app/views/about/team.html.erb"
+						"gitignore",
+						".gitignore"
+					],
+					[
+						"products_cont",
+						"app/controllers/products_controller.rb"
+					],
+					[
+						"core.scs",
+						"app/assets/stylesheets/application/core.css.scss"
+					],
+					[
+						"layouts/app",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"products/show",
+						"app/views/products/show.html.erb"
+					],
+					[
+						"sub_category.rb",
+						"app/models/sub_category.rb"
 					],
 					[
 						"seeds",
 						"db/seeds.rb"
 					],
 					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"products/form",
+						"app/views/admin/products/_form.html.erb"
+					],
+					[
+						"news_articles/inde",
+						"app/views/news_articles/index.html.erb"
+					],
+					[
+						"news_articles/show",
+						"app/views/news_articles/show.html.erb"
+					],
+					[
+						"productupload",
+						"app/uploaders/product_uploader.rb"
+					],
+					[
+						"sub_categories/form",
+						"app/views/admin/sub_categories/_form.html.erb"
+					],
+					[
+						"sub_categories/edit",
+						"app/views/admin/sub_categories/edit.html.erb"
+					],
+					[
+						"sub_category/",
+						"app/views/sub_category/show.html.erb"
+					],
+					[
+						"vacancies_con",
+						"app/controllers/vacancies_controller.rb"
+					],
+					[
+						"news_articles_con",
+						"app/controllers/news_articles_controller.rb"
+					],
+					[
+						"product_image",
+						"app/models/product_image.rb"
+					],
+					[
+						"redactorifra",
+						"app/assets/stylesheets/admin/redactor_iframe.scss"
+					],
+					[
+						"sub_categoires/inde",
+						"app/views/admin/sub_categories/index.html.erb"
+					],
+					[
+						"sub_categories/inde",
+						"app/views/admin/sub_categories/index.html.erb"
+					],
+					[
+						"products/index",
+						"app/views/admin/products/index.html.erb"
+					],
+					[
+						"admincore",
+						"app/assets/javascripts/admin/admin_core.js"
+					],
+					[
+						"news_aritcles/show",
+						"app/views/news_articles/show.html.erb"
+					],
+					[
+						"sub_categories/in",
+						"app/views/admin/sub_categories/index.html.erb"
+					],
+					[
+						"case_studies/inde",
+						"app/views/case_studies/index.html.erb"
+					],
+					[
+						"vacancies",
+						"app/controllers/vacancies_controller.rb"
+					],
+					[
+						"case_studies",
+						"app/controllers/case_studies_controller.rb"
+					],
+					[
+						"sub_categories_con",
+						"app/controllers/admin/sub_categories_controller.rb"
+					],
+					[
+						"news_article/show",
+						"app/views/news_articles/show.html.erb"
+					],
+					[
+						"vacnacies_controller",
+						"app/controllers/vacancies_controller.rb"
+					],
+					[
+						"vacancies/inde",
+						"app/views/vacancies/index.html.erb"
+					],
+					[
+						"vacancies/show",
+						"app/views/admin/vacancies/show.html.erb"
+					],
+					[
+						"pages/show",
+						"app/views/admin/pages/show.html.erb"
+					],
+					[
+						"pages_cont",
+						"app/controllers/admin/pages_controller.rb"
+					],
+					[
+						"case_studies/show",
+						"app/views/admin/case_studies/show.html.erb"
+					],
+					[
+						"sub_categories/show",
+						"app/views/admin/sub_categories/show.html.erb"
+					],
+					[
+						"admin_styles",
+						"app/views/partials/_admin_styles.html.erb"
+					],
+					[
+						"core",
+						"app/assets/stylesheets/application/core.css.scss"
+					],
+					[
+						"admin_front",
+						"app/assets/stylesheets/admin_frontend.css"
+					],
+					[
+						"pages/inde",
+						"app/views/admin/pages/index.html.erb"
+					],
+					[
+						"products/inde",
+						"app/views/admin/products/index.html.erb"
+					],
+					[
+						"layouts/admin",
+						"app/views/layouts/admin.html.erb"
+					],
+					[
+						"sub_category/show",
+						"app/views/sub_category/show.html.erb"
+					],
+					[
+						"categories/show",
+						"app/views/categories/show.html.erb"
+					],
+					[
+						"database",
+						"config/database.yml"
+					],
+					[
+						"admin_users/ind",
+						"app/views/admin/admin_users/index.html.erb"
+					],
+					[
 						"product.rb",
 						"app/models/product.rb"
+					],
+					[
+						"admin.css",
+						"app/assets/stylesheets/admin.css"
+					],
+					[
+						"core.cs",
+						"app/assets/stylesheets/admin_frontend/core.css.scss"
+					],
+					[
+						"breadcrumb",
+						"app/views/partials/_breadcrumbs.html.erb"
+					],
+					[
+						"downloads_field",
+						"app/views/admin/products/_downloads_fields.html.erb"
+					],
+					[
+						"product/form",
+						"app/views/admin/products/_form.html.erb"
+					],
+					[
+						"pages/form",
+						"app/views/admin/pages/_form.html.erb"
+					],
+					[
+						"core.sc",
+						"app/assets/stylesheets/admin_frontend/core.css.scss"
+					],
+					[
+						"about_nav",
+						"app/views/partials/_about_nav.html.erb"
+					],
+					[
+						"about.html.erb",
+						"app/views/about/index.html.erb"
+					],
+					[
+						"layouts/ap",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"core.css",
+						"app/assets/stylesheets/admin_frontend/core.css.scss"
+					],
+					[
+						"news_articles/sh",
+						"app/views/news_articles/show.html.erb"
+					],
+					[
+						"application_helper",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"download.rb",
+						"app/models/download.rb"
+					],
+					[
+						"download_field",
+						"app/views/admin/products/_downloads_fields.html.erb"
+					],
+					[
+						"products_con",
+						"app/controllers/admin/products_controller.rb"
+					],
+					[
+						"downlods_field",
+						"app/views/admin/products/_downloads_fields.html.erb"
+					],
+					[
+						"related_news",
+						"app/views/partials/_related_news.html.erb"
+					],
+					[
+						"related_case",
+						"app/views/partials/_related_case_studies.html.erb"
+					],
+					[
+						"case_studies_module",
+						"app/views/partials/_case_studies_module.html.erb"
+					],
+					[
+						"crumb",
+						"config/breadcrumbs.rb"
+					],
+					[
+						"news_articles/form",
+						"app/views/admin/news_articles/_form.html.erb"
+					],
+					[
+						"case_studies/form",
+						"app/views/admin/case_studies/_form.html.erb"
+					],
+					[
+						"products_controller",
+						"app/controllers/admin/products_controller.rb"
+					],
+					[
+						"case_studies_cont",
+						"app/controllers/admin/case_studies_controller.rb"
+					],
+					[
+						"vacancies_controller",
+						"app/controllers/admin/vacancies_controller.rb"
+					],
+					[
+						"vacancies/form",
+						"app/views/admin/vacancies/_form.html.erb"
+					],
+					[
+						"page_image",
+						"app/models/page_image.rb"
+					],
+					[
+						"page.rb",
+						"app/models/page.rb"
+					],
+					[
+						"team",
+						"app/views/about/team.html.erb"
+					],
+					[
+						"sub_category_co",
+						"app/controllers/sub_category_controller.rb"
+					],
+					[
+						"sub_categories_cont",
+						"app/controllers/admin/sub_categories_controller.rb"
+					],
+					[
+						"seeds.rb",
+						"db/seeds.rb"
+					],
+					[
+						"category.rb",
+						"app/models/category.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"news_article.rb",
+						"app/models/news_article.rb"
+					],
+					[
+						"layouts/appl",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"sub_categories_co",
+						"app/controllers/admin/sub_categories_controller.rb"
+					],
+					[
+						"sub_categories",
+						"app/controllers/admin/sub_categories_controller.rb"
+					],
+					[
+						"products/product_lin",
+						"app/views/admin/products/_product_links.html.erb"
+					],
+					[
+						"pages_controller",
+						"app/controllers/admin/pages_controller.rb"
 					],
 					[
 						"product_image.rb",
@@ -1890,76 +865,20 @@
 						"app/views/admin/products/_product_images_fields.html.erb"
 					],
 					[
-						"crumb",
-						"config/breadcrumbs.rb"
-					],
-					[
 						"layouts/a",
 						"app/views/layouts/application.html.erb"
-					],
-					[
-						"products_controller",
-						"app/controllers/products_controller.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"vacancies_controller",
-						"app/controllers/admin/vacancies_controller.rb"
 					],
 					[
 						"products_controller.rb",
 						"app/controllers/admin/products_controller.rb"
 					],
 					[
-						"products/index",
-						"app/views/admin/products/index.html.erb"
-					],
-					[
 						"admin/core",
 						"app/assets/javascripts/admin/admin_core.js"
 					],
 					[
-						"sub_category.rb",
-						"app/models/sub_category.rb"
-					],
-					[
-						"layouts/appl",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"categories/show",
-						"app/views/categories/show.html.erb"
-					],
-					[
-						"news_articles/show",
-						"app/views/news_articles/show.html.erb"
-					],
-					[
-						"news_article.rb",
-						"app/models/news_article.rb"
-					],
-					[
-						"news_articles/form",
-						"app/views/admin/news_articles/_form.html.erb"
-					],
-					[
 						"vacancies_cont",
 						"app/controllers/admin/vacancies_controller.rb"
-					],
-					[
-						"vacancies/inde",
-						"app/views/admin/vacancies/index.html.erb"
-					],
-					[
-						"products/inde",
-						"app/views/admin/products/index.html.erb"
-					],
-					[
-						"layouts/app",
-						"app/views/layouts/application.html.erb"
 					],
 					[
 						"product_cont",
@@ -1967,10 +886,6 @@
 					],
 					[
 						"products_controler",
-						"app/controllers/admin/products_controller.rb"
-					],
-					[
-						"products_con",
 						"app/controllers/admin/products_controller.rb"
 					],
 					[
@@ -1982,28 +897,12 @@
 						"app/views/admin/products/index.html.erb"
 					],
 					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"products/show",
-						"app/views/products/show.html.erb"
-					],
-					[
-						"sub_categories/show",
-						"app/views/admin/sub_categories/show.html.erb"
-					],
-					[
 						"gitign",
 						".gitignore"
 					],
 					[
 						".igi",
 						".gitignore"
-					],
-					[
-						"config.js",
-						"app/assets/javascripts/admin/redactor-rails/config.js"
 					],
 					[
 						"application_controller",
@@ -2016,18 +915,6 @@
 					[
 						"redactor",
 						"app/assets/javascripts/admin/redactor-rails/config.js"
-					],
-					[
-						"gemfile",
-						"Gemfile"
-					],
-					[
-						"layouts/admin",
-						"app/views/layouts/admin.html.erb"
-					],
-					[
-						"layouts/ap",
-						"app/views/layouts/application.html.erb"
 					],
 					[
 						"image_upload",
@@ -2050,24 +937,8 @@
 						"app/views/layouts/application.html.erb"
 					],
 					[
-						"products/form",
-						"app/views/admin/products/_form.html.erb"
-					],
-					[
 						"product/product_link",
 						"app/views/admin/products/_product_links.html.erb"
-					],
-					[
-						"product/form",
-						"app/views/admin/products/_form.html.erb"
-					],
-					[
-						"sub_categories/form",
-						"app/views/admin/sub_categories/_form.html.erb"
-					],
-					[
-						"sub_categories_cont",
-						"app/controllers/admin/sub_categories_controller.rb"
 					],
 					[
 						"application_con",
@@ -2080,10 +951,6 @@
 					[
 						"related_case_studies",
 						"app/views/partials/_related_case_studies.html.erb"
-					],
-					[
-						"related_news",
-						"app/views/partials/_related_news.html.erb"
 					],
 					[
 						"case_studies_modul",
@@ -2106,10 +973,6 @@
 						"app/views/products/pdf.html.erb"
 					],
 					[
-						"products_cont",
-						"app/controllers/products_controller.rb"
-					],
-					[
 						"helper",
 						"app/helpers/application_helper.rb"
 					],
@@ -2122,10 +985,6 @@
 						"config/initializers/mime_types.rb"
 					],
 					[
-						"application_helper",
-						"app/helpers/application_helper.rb"
-					],
-					[
 						"mime_t",
 						"config/initializers/mime_types.rb"
 					],
@@ -2136,238 +995,6 @@
 					[
 						"vacnacies/inde",
 						"app/views/admin/vacancies/index.html.erb"
-					],
-					[
-						"downloads_for",
-						"app/views/admin/downloads/_form.html.erb"
-					],
-					[
-						"product_links",
-						"app/views/admin/products/_product_links.html.erb"
-					],
-					[
-						"vacancis/inde",
-						"app/views/admin/vacancies/index.html.erb"
-					],
-					[
-						"sub_categories_con",
-						"app/controllers/admin/sub_categories_controller.rb"
-					],
-					[
-						"news_articles_cont",
-						"app/controllers/admin/news_articles_controller.rb"
-					],
-					[
-						"case_studies_con",
-						"app/controllers/admin/case_studies_controller.rb"
-					],
-					[
-						"vacancies_contr",
-						"app/controllers/admin/vacancies_controller.rb"
-					],
-					[
-						"downloads_contro",
-						"app/controllers/admin/downloads_controller.rb"
-					],
-					[
-						"sub_categories/inde",
-						"app/views/admin/sub_categories/index.html.erb"
-					],
-					[
-						"case_studies/inde",
-						"app/views/admin/case_studies/index.html.erb"
-					],
-					[
-						"news_articles/ind",
-						"app/views/admin/news_articles/index.html.erb"
-					],
-					[
-						"categories/inde",
-						"app/views/admin/sub_categories/index.html.erb"
-					],
-					[
-						"downloads/index",
-						"app/views/admin/downloads/index.html.erb"
-					],
-					[
-						"sub_categories/edit",
-						"app/views/admin/sub_categories/edit.html.erb"
-					],
-					[
-						"news_articles/inde",
-						"app/views/admin/news_articles/index.html.erb"
-					],
-					[
-						"news_articles/edit",
-						"app/views/admin/news_articles/edit.html.erb"
-					],
-					[
-						"case_studies/show",
-						"app/views/admin/case_studies/show.html.erb"
-					],
-					[
-						"case_studies/edit",
-						"app/views/admin/case_studies/edit.html.erb"
-					],
-					[
-						"products/edit",
-						"app/views/admin/products/edit.html.erb"
-					],
-					[
-						"case_studies/index",
-						"app/views/admin/case_studies/index.html.erb"
-					],
-					[
-						"pages/index",
-						"app/views/admin/pages/index.html.erb"
-					],
-					[
-						"admin_con",
-						"app/controllers/admin/admin_controller.rb"
-					],
-					[
-						"download/show",
-						"app/views/admin/downloads/show.html.erb"
-					],
-					[
-						"download/edit",
-						"app/views/admin/downloads/edit.html.erb"
-					],
-					[
-						"vacancies_con",
-						"app/controllers/admin/vacancies_controller.rb"
-					],
-					[
-						"news_article_con",
-						"app/controllers/admin/news_articles_controller.rb"
-					],
-					[
-						"news_articles_controller.rb",
-						"app/controllers/admin/news_articles_controller.rb"
-					],
-					[
-						"case_studies_cont",
-						"app/controllers/admin/case_studies_controller.rb"
-					],
-					[
-						"team.html",
-						"app/views/about/team.html.erb"
-					],
-					[
-						"pages/form",
-						"app/views/admin/pages/_form.html.erb"
-					],
-					[
-						"pages/show",
-						"app/views/admin/pages/show.html.erb"
-					],
-					[
-						"vacancies/show",
-						"app/views/vacancies/show.html.erb"
-					],
-					[
-						"vacnacies/show",
-						"app/views/admin/vacancies/show.html.erb"
-					],
-					[
-						"sub_categories_co",
-						"app/controllers/admin/sub_categories_controller.rb"
-					],
-					[
-						"admin_controller.rb",
-						"app/controllers/admin/admin_controller.rb"
-					],
-					[
-						"admin_cont",
-						"app/controllers/admin/admin_controller.rb"
-					],
-					[
-						"application.rb",
-						"config/application.rb"
-					],
-					[
-						"product_vide",
-						"app/models/product_video.rb"
-					],
-					[
-						"product_video",
-						"app/models/product_video.rb"
-					],
-					[
-						"downloads/inde",
-						"app/views/admin/downloads/index.html.erb"
-					],
-					[
-						"gem",
-						"Gemfile"
-					],
-					[
-						"news_article/inde",
-						"app/views/admin/news_articles/index.html.erb"
-					],
-					[
-						"news_articles_contr",
-						"app/controllers/admin/news_articles_controller.rb"
-					],
-					[
-						"category.rb",
-						"app/models/category.rb"
-					],
-					[
-						"product/new",
-						"app/views/admin/products/new.html.erb"
-					],
-					[
-						"products/new",
-						"app/views/admin/products/new.html.erb"
-					],
-					[
-						"produc",
-						"app/models/product.rb"
-					],
-					[
-						"base_video",
-						"app/uploaders/base_video_uploader.rb"
-					],
-					[
-						"product_imag",
-						"db/migrate/20131211104753_create_product_images.rb"
-					],
-					[
-						"product/inde",
-						"app/views/products/index.html.erb"
-					],
-					[
-						"products/ind",
-						"app/views/admin/products/index.html.erb"
-					],
-					[
-						"download/inde",
-						"app/views/admin/downloads/index.html.erb"
-					],
-					[
-						"pages/inde",
-						"app/views/admin/pages/index.html.erb"
-					],
-					[
-						"case_studies_ontroller",
-						"app/controllers/case_studies_controller.rb"
-					],
-					[
-						"case_study.rb",
-						"app/models/case_study.rb"
-					],
-					[
-						"admin/admin_core",
-						"app/assets/javascripts/admin/admin_core.js"
-					],
-					[
-						"admin_core.js",
-						"app/assets/javascripts/admin/admin_core.js"
-					],
-					[
-						"product_image",
-						"app/models/product_image.rb"
 					]
 				],
 				"width": 0.0
@@ -2396,21 +1023,20 @@
 				],
 				"width": 404.0
 			},
-			"settings":
-			{
-			},
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 394.0,
+			"side_bar_width": 314.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
-			},
-			"window_id": 50,
-			"workspace_name": ""
-		}
+			}
+		},
+		"new_window_width": 1537.0
+	},
+	"windows":
+	[
 	],
 	"workspaces":
 	{
