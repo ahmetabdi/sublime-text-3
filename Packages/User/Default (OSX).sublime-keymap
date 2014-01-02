@@ -1,5 +1,11 @@
-//https://github.com/RubyMotionJP/SublimeRubyMotionBuilder
-//https://github.com/farcaller/DashDoc
+//https://sublime.wbond.net/packages/All%20Autocomplete
+//https://sublime.wbond.net/packages/BracketHighlighter
+//https://sublime.wbond.net/packages/ApplySyntax
+//https://sublime.wbond.net/packages/GitGutter
+//https://sublime.wbond.net/packages/RubyMotionBuilder
+//https://sublime.wbond.net/packages/DashDoc
+//https://sublime.wbond.net/packages/Ruby%20Debugger
+//https://sublime.wbond.net/packages/RubyTest
 [
   { "keys": ["super+d"], "command": "find_under_expand" },
   { "keys": ["super+r"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
@@ -8,5 +14,54 @@
   { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
   { "keys": ["super+shift+1"], "command": "move_to_group", "args": { "group": 0 } },
   { "keys": ["super+shift+2"], "command": "move_to_group", "args": { "group": 1 } },
-  { "keys": ["super+h"], "command": "dash_doc" }
+  { "keys": ["super+h"], "command": "dash_doc" },
+  { "keys": ["f1"], "command": "move_to_group", "args": { "group": 0 } },
+  { "keys": ["f2"], "command": "move_to_group", "args": { "group": 1 } },
+  { "keys": ["f3"], "command": "erb" },
+  {
+    "keys": ["shift+f1"],
+    "command": "set_layout",
+    "args":
+    {
+      "cols": [0.0, 1.0],
+      "rows": [0.0, 1.0],
+      "cells": [[0, 0, 1, 1]]
+    }
+  },
+  {
+    "keys": ["shift+f2"],
+    "command": "set_layout",
+    "args":
+    {
+      "cols": [0.0, 0.5, 1.0],
+      "rows": [0.0, 1.0],
+      "cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+    }
+  },
 ]
+
+// Start/Stop debugging session
+
+// Start Debugging - F6
+// Start Debugging Rails - Shift+F6
+// Start Debugging (Current file) - Alt+Shift+F6
+// Pause Debugger - Alt+d, b
+// Stop Debugging - Alt+d, k
+
+
+// Breakpoints
+
+// Toggle Breakpoint - F9
+// Toggle Conditional Breakpoint - Shift+F9
+// Clear Breakpoints - Alt+Shift+F9
+
+
+// Cursor control
+
+// Step Over - F10
+// Step Into - F11
+// Step up - - Alt+d, u
+// Step down - - Alt+d, d
+// Continue - F8
+// Run To Line (goto) - ctrl+F10 or ⌘+F10
+// Jumo to line - Ctrl+Shift+F10 or ⌘+Shift+F10
