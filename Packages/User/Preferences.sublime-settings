@@ -23,9 +23,9 @@
 		"*.psd",
 		"*.db",
 		"*.beam",
-		".DS_Store",
 		".tags",
 		".keep",
+		".DS_Store",
 		"Gemfile.lock",
 		"master"
 	],
