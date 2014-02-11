@@ -26,7 +26,6 @@
 		".tags",
 		".keep",
 		".DS_Store",
-		"Gemfile.lock",
 		"master"
 	],
 	"flatland_sidebar_tree_xsmall": true,

@@ -1,32 +1,152 @@
 {
 	"folder_history":
 	[
-		"/Users/ahmet/Projects/joybox-helicopter",
-		"/Users/ahmet/Projects/two_halves",
+		"/Users/ahmet/Projects/greenshieldsjcb.com",
+		"/Users/ahmet/Projects/kyan_bar",
 		"/Users/ahmet/Projects/titlechallenge",
+		"/Users/ahmet/Projects/cbr2images",
+		"/Users/ahmet/Projects/ElementalTowerDefence",
+		"/Users/ahmet/Projects/CryptoBar",
+		"/Users/ahmet/Projects/joybox-shooter",
+		"/Users/ahmet/Projects/CryptoBar/build/MacOSX-10.9-Release",
+		"/Users/ahmet/Projects/Joybox-Examples/Gorillas/ios",
+		"/Users/ahmet/Projects/Joybox-Examples/Animations/ios",
+		"/Users/ahmet/Projects/two_halves",
+		"/Users/ahmet/Projects/ahmetabdi.github.io",
+		"/Users/ahmet/Projects/titletest",
+		"/Users/ahmet/Projects/extra_time",
+		"/Users/ahmet/Projects/titlechallenge_old",
 		"/Users/ahmet/Projects/homecountiescarers.co.uk",
 		"/Users/ahmet/Projects/whitelegg.com",
+		"/Users/ahmet/Projects/test",
+		"/Users/ahmet/Projects/joybox-helicopter",
 		"/Users/ahmet/Projects/viner",
 		"/Users/ahmet/Projects/unirest_test",
 		"/Users/ahmet/Projects/unirest_test/lib",
-		"/Users/ahmet/Projects/joybox-shooter",
 		"/Users/ahmet/Projects/FBDigitalFont",
 		"/Users/ahmet/Projects",
-		"/Users/ahmet/Projects/titletest",
 		"/Users/ahmet/Projects/titledigitalfont"
 	],
 	"last_version": 3059,
-	"last_window_id": 94,
+	"last_window_id": 195,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1098.0,
+		"new_window_height": 1094.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"playe",
+						"playingStyleView"
+					],
+					[
+						"con",
+						"content_document"
+					],
+					[
+						"cont",
+						"content_document"
+					],
+					[
+						"KUI",
+						"KUIBezierPathArrowDirectionUp"
+					],
+					[
+						"del",
+						"delegate"
+					],
+					[
+						"largeSle",
+						"largeSleeveRight"
+					],
+					[
+						"defaultSle",
+						"defaultSleeveRight"
+					],
+					[
+						"defaultSlee",
+						"defaultSleeveRight"
+					],
+					[
+						"defa",
+						"defaultPlayerFrame"
+					],
+					[
+						"gesture",
+						"gestureRecognizer"
+					],
+					[
+						"declineTrans",
+						"declineTransferButton"
+					],
+					[
+						"conti",
+						"continueButton"
+					],
+					[
+						"UIButt",
+						"UIButtonTypeSystem"
+					],
+					[
+						"center",
+						"centerPosition"
+					],
+					[
+						"reti",
+						"retiring_this_season"
+					],
+					[
+						"return",
+						"return_from_injury"
+					],
+					[
+						"return_fro",
+						"return_from_injury"
+					],
+					[
+						"number_of_fixture",
+						"number_of_fixtures_for_round"
+					],
+					[
+						"sub",
+						"subviews"
+					],
+					[
+						"substi",
+						"substituteController"
+					],
+					[
+						"work_for_us",
+						"work_for_us_image"
+					],
+					[
+						"why_ch",
+						"why_choose_us_image"
+					],
+					[
+						"the_com",
+						"the_community_image"
+					],
+					[
+						"kasia_",
+						"kasia_paul_image"
+					],
+					[
+						"Curren",
+						"CurrentSaveGame"
+					],
+					[
+						"r",
+						"r	attr_reader .."
+					],
+					[
+						"R",
+						"R"
+					],
 					[
 						"priva",
 						"privacy_policy"
@@ -128,15 +248,47 @@
 						"Git: Status"
 					],
 					[
-						"rubym",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
 						"rubymot",
 						"ObjC2RubyMotion: objc_to_ruby_motion"
 					],
 					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"rubymotion",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"ruby mot",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
 						"rubymo",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubymoti",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"git satus",
+						"Git: Status"
+					],
+					[
+						"git satu",
+						"Set Syntax: SublimeGit Status"
+					],
+					[
+						"ruby moti",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubym",
 						"ObjC2RubyMotion: objc_to_ruby_motion"
 					],
 					[
@@ -152,20 +304,12 @@
 						"Build: Build"
 					],
 					[
-						"rubymotion",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
 						"ruby motion",
 						"ObjC2RubyMotion: objc_to_ruby_motion"
 					],
 					[
 						"obb",
 						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"list pack",
@@ -216,7 +360,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 561.0
+				"width": 489.0
 			},
 			"console":
 			{
@@ -243,142 +387,142 @@
 			},
 			"file_history":
 			[
-				"/Users/ahmet/Projects/joybox-helicopter/app/layers/game_layer.rb",
-				"/Users/ahmet/Projects/joybox-helicopter/app/sprites/orb.rb",
-				"/Users/ahmet/Projects/joybox-helicopter/app/helpers/game_helper.rb",
-				"/Users/ahmet/Projects/joybox-helicopter/app/layers/game_helper.rb",
-				"/Users/ahmet/Projects/joybox-helicopter/app/sprites/background.rb",
-				"/Users/ahmet/Projects/joybox-helicopter/app/sprites/obstacle.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/tab_view_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/match/results_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/toolbars/player_positions_toolbar.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/stats_tables/stats_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/new_game/select_club_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/league_tables/league_tables_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/toolbar.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/transfers/transfers_history/transfers_history_table_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/players/players_table_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_fetch_request_table_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/transfers/transfers_history/transfers_history_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/transfers/transfers_history_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/models/transfer_history.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/continue_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/resources/theme.nss",
-				"/Users/ahmet/Projects/titlechallenge/resources/theme_bckup.nss",
-				"/Users/ahmet/Projects/titlechallenge/build/iPhoneSimulator-7.0-Development/TitleChallenge.app/theme_bckup.nss",
-				"/Users/ahmet/Projects/titlechallenge/build/iPhoneSimulator-7.0-Development/TitleChallenge.app/theme.nss",
-				"/Users/ahmet/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge_spec.app/theme_bckup.nss",
-				"/Users/ahmet/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge_spec.app/theme.nss",
-				"/Users/ahmet/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.app/theme_bckup.nss",
-				"/Users/ahmet/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.app/theme.nss",
-				"/Users/ahmet/Projects/titlechallenge/Gemfile",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_label.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/main_menu.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/save_game/current_save_game.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/results/results_table_view.rb",
 				"/Users/ahmet/Projects/titlechallenge/Rakefile",
-				"/Users/ahmet/Projects/titlechallenge/.gitignore",
-				"/Users/ahmet/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.app/PkgInfo",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_table_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/transfer_history/club_transfer_history_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/transfer_history/club_transfer_history_table_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/transfer_history/club_transfer_history_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/stats_tables/top_assists_controller.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/layouts/admin.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/sub_pages/new.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/sub_pages/index.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/sub_pages/edit.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/sub_pages/_form.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/controllers/sub_pages_controller.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/models/sub_page.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/controllers/admin/sub_pages_controller.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/db/seeds.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/controllers/admin/admin_users_controller.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/db/migrate/20140109162822_add_slug_to_sub_pages.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/models/redactor_rails/asset.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/stylesheets/redactor_iframe.css.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/public/redactor_iframe.css.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/javascripts/admin/admin_core.js",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/config/routes.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/db/migrate/20140109130935_create_sub_pages.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/db/migrate/20140109154738_add_position_to_sub_pages.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/controllers/admin/admin_controller.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/Rakefile",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/javascripts/admin/bootstrap-filestyle.min.js",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/javascripts/admin/redactor-rails/config.js.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/javascripts/admin/bootstrap.js.coffee",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/javascripts/admin/dataTables/config.js",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/javascripts/application.js",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/javascripts/admin.js",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/javascripts/site.js",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/javascripts/site.js",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/config/locales/en.yml",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/base/contact_us_send.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/controllers/base_controller.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/mailers/contact_mailer.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/contact_mailer/contact_form.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/lib/classes/Swift/Mailer.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/lib/classes/Swift/Transport/MailInvoker.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/lib/classes/Swift/Transport/Esmtp/Auth/CramMd5Authenticator.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/config/initializers/mime_types.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/contact_us.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/base/contact_us.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/stylesheets/core.css.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/config/environments/development.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/models/redactor_rails/document.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/Gemfile",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/helpers/application_helper.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/tmp/cache/assets/development/sass/49e6fa070f5f7e6314c23d83fa8eee2695a5a748/jquery.dataTables.bootstrap.css.scssc",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/stylesheets/admin/login.css.scss",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/config/initializers/session_store.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/controllers/application_controller.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/config/application.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/includes/ad_work_for_us.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/lib/classes/Swift/KeyCache/NullKeyCache.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/uploaders/redactor_rails_document_uploader.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/uploaders/redactor_rails_picture_uploader.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/sub_pages/show.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/base/what_we_do.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/includes/ad_what_we_do.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/css/core.css",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/what_we_do.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/base/who_we_are.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/base/work_for_us.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/db/schema.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/.gitignore",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/pages/show.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/controllers/admin/pages_controller.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/pages/index.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/sub_pages/show.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/pages/edit.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/db/migrate/20140109153603_add_publish_boolean_to_sub_pages.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/pages/_form.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/pages/new.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/stylesheets/admin/bootstrap/_progress-bars.scss",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/admin_users/show.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/admin_users/new.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/admin/admin_users/index.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/models/admin_user.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/lib/classes/Swift/Transport/Esmtp/Auth/PlainAuthenticator.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/models/redactor_rails/picture.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/base/where_we_work.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/where_we_work.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/work_for_us.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/tmp/cache/assets/development/sprockets/e19bfea72487f784395576b7cd15d335",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/db/migrate/20140109134707_create_redactor_assets.rb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/assets/stylesheets/admin/bootstrap/_component-animations.scss",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/app/views/base/why_choose_us.html.erb",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/who_we_are.php",
-				"/Users/ahmet/Projects/homecountiescarers.co.uk/old/why_choose_us.php"
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_summary/home_highlight_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_summary/summary_table_cell_behaviour.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_summary/base_highlight_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/resources/theme.nss",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/match/results_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/Readme.md",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_label.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_icons.rb",
+				"/Users/ahmet/Projects/titlechallenge/.repl_history",
+				"/Users/ahmet/Projects/titlechallenge/app/models/player.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_ratings/standard_player_ratings_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/features/support/hooks.rb",
+				"/Users/ahmet/Projects/titlechallenge/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Pods-project-headers.hmap",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_ratings/player_ratings_table_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/container.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/models/club.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/squad/squad_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/squad/squad_news_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/tactics/substitute_controller.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/lib/uploader.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/landingpage/show.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_promotions.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/stylesheets/js/jquery.validate.js",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_quotes.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/schema.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/controllers/base.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/spec/models/content_promotion_spec.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/controllers/content_promotions.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/content_promotion.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/production_logs.txt",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/pgdump.dump",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/helpers/used_products_helper.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/from_fms/usedmach.csv",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/controllers/landing_pages.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/layouts/application.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/app.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/064_add_api_locks_and_api_keys.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/config/application.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/_meta.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/stylesheets/core.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/javascripts/core.js",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/content.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/stylesheets/application.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/assets/stylesheets/application.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/service.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/javascripts/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.cfm",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/javascripts/tiny_mce/themes/advanced/source_editor.htm",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/landing_pages/index.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/landing_page.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/landing_pages/_form.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/layouts/application.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/controllers/landing_page.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/spec/models/landing_page_spec.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/spec/models/landing_page_image_spec.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/090_create_landing_pages.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_call_to_action.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/content_button.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_contact.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/spec/spec_helper.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/app.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/match_incidents_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/incident_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/incident.rb",
+				"/Users/ahmet/Projects/titlechallenge/.bundle/install.log",
+				"/Users/ahmet/Projects/titlechallenge/app/views/club/tactics/team_sheet/player_shirt.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/competition_fixture_runner.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/tactics/team_sheet_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/club/tactics/team_sheet/outfield_shirt.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/tactics/tactics_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/club/tactics/substitutes_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/ui_tactics_button_icon.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/squad/squad_table_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/squad/player_stats_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/helper_methods.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/club_colors.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/squad/player_stats_table_header.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/icons/arrow_icon.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/icons/shirt_button_icon.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/transfers/shortlist_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/ball_button_icon.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/back_button.rb",
+				"/Users/ahmet/Projects/titlechallenge/.motion-bundler.rb",
+				"/Users/ahmet/Projects/titlechallenge/resources/ball.pcvd",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/generators.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/about.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/careers.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/parts.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/contact.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/legal.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/finance.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/stylesheets/themes/olive/style.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/060_add_position_and_publish_to_team_member_categories.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/javascripts/fckeditor/editor/skins/office2003/fck_dialog_ie6.js",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/parts_special_offer.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/kaminari/_prev_page.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/stylesheets/print.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/config/vhosts/production.vhosts.conf.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/javascripts/tiny_mce/utils/validate.js",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/javascripts/tiny_mce/plugins/visualblocks/css/visualblocks.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/contents/_form.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_literature_pdf.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/controllers/base.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_latestnews.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/config.ru",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/Capfile",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_depot_finder.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_archives.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/040_add_show_phone_and_show_email_to_team_member.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/layouts/application-ajax.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/stylesheets/themes/kyan-default/layout.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/controllers/contents.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/news_article.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/news_articles/_form.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/096_add_main_image_to_landing_page.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/095_drop_landing_page_images.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/068_add_manufacturer_id_to_machine_categories.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/controllers/landing_page_image.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/landing_page_image.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/091_create_landing_page_images.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/094_create_content_buttons_contents.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/093_create_content_promotions_contents.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/092_create_content_documents_contents.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/content_document.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/087_create_content_documents.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/014_create_contents.rb"
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 91.0,
 				"where_history":
 				[
 					""
@@ -389,134 +533,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"TabViewButton",
-					"normalColor",
-					"EM.",
-					"TabViewButton",
-					"tabBarLabelOn",
-					"TabBarLabel",
-					"tabBarLabel",
-					"primaryFontName",
-					"tabBarLabel",
-					"TabViewButton",
-					"leagueTable",
-					"Toolbar",
-					"header_view",
-					"objectAtIndex",
-					"sectionName",
-					"leaguetablerow",
-					"newsArticleCheck",
-					"section_home",
-					"html",
-					"mail",
-					".order(:pos",
-					"sub_page_down",
-					"product_down",
-					"cate",
-					"sub-categories",
-					"sub_category",
-					"friendly_id",
-					"sub_category",
-					"news-article-check",
-					"news_article",
-					"page",
-					"sub_page",
-					"page",
-					"admin_user",
-					"\"",
-					"activ",
-					"summer",
-					"assets",
-					"\"",
-					"Page",
-					"page",
-					"Page",
-					"page",
-					"Page",
-					"@pages",
-					"products",
-					"fontdeck",
-					"images",
-					"footer.png",
-					"whitelegg",
-					"@data = {}",
-					"hidden_amount",
-					"transfers history",
-					"updateColor",
-					"primaryColor",
-					"commentaryLabel\ncommentaryLabel",
-					"commentaryLabel",
-					"col",
-					"backgroundColor",
-					"commentaryView",
-					"match",
-					"commentar",
-					"UITableViewCell",
-					"commentary",
-					"goal",
-					"EM",
-					"\"Season",
-					"Season",
-					"table",
-					"textColor",
-					"tableView",
-					"controller",
-					"self",
-					"self.tabl",
-					"reload",
-					"clearColor",
-					"backgroundColor",
-					"reloadData",
-					"controller",
-					"ClubTransferHistoryTableView",
-					"Total",
-					"UIColor.whi",
+					"TABLE",
+					"processing week",
+					"primaryFontSize",
 					"label",
-					"font",
-					"tabs",
-					"arch",
-					"navigationController",
-					"teamSheetController",
-					"player",
-					"goalkeeperShirt",
-					"playerShirt",
-					"GridRow",
-					"Total",
-					"@data = {}",
-					"updatePlayerTransferListStatus",
-					"transferListPlayerButton",
-					"club details",
-					"wanted by",
-					"attr_accessor",
-					"transfer_history",
-					"week_number",
-					"week_numbers",
-					"wanted_transfer_targets",
-					"wantedtransfer",
-					"attributesView",
-					"full_name",
-					"CurrentSaveGame",
-					"competitionFixture",
-					"Loading menu items",
-					"competition",
-					"MatchStatsController",
-					"MatchStatsController.init",
-					"MatchStatsController.initWithCom",
-					"MatchController.alloc.initWith",
-					"MatchStatsController",
-					"ResultsController",
-					"ResultsController.alloc.initWith",
-					"ResultsController.alloc.init",
-					"ResultsController",
-					"playFix",
-					"MatchController",
-					"MatchController.init",
-					"competitionFix",
-					"MatchStatsController",
-					"MatchStatsController.initWith",
-					"competitionFixture",
-					"ResultsController",
-					"leagueTables.each_with_object([])"
+					"customLabel",
+					"view",
+					"UICustomLabel.alloc.init.tap",
+					"length",
+					"playingStyleView",
+					"playing_style",
+					"style",
+					"landing_page_background",
+					"IMAGE_EXTENSIONS",
+					"process_extensions",
+					"content_wrap",
+					"content",
+					"service",
+					"content",
+					"admin_thumb",
+					"largePlayerShirtSizeMultiplier",
+					"sleeveRightPath",
+					"increaseShirtSize",
+					"increaseSize",
+					"helper",
+					"high_lum",
+					"high_lumiancnce",
+					"primaryColor",
+					"secondary",
+					"luminance",
+					"rootLayer",
+					"anotherLayer",
+					"rootLayer",
+					"upArrowView",
+					"rootLayer",
+					"insertSublayer",
+					"upArrow",
+					"scale",
+					"downArrowView",
+					", :object => @content",
+					"buttons",
+					"content_promotions",
+					"timerwolf",
+					"image_tag",
+					"Interested?",
+					"Intrested?",
+					"offer",
+					"Special Offers",
+					"container",
+					"img",
+					"mg",
+					"Document",
+					"document",
+					"promotion",
+					"Document",
+					"document",
+					"@content",
+					"content_document_id",
+					"params[:content_document_ids]",
+					"check_box_tag",
+					"<%= f.label",
+					"<%= check_box_tag",
+					"document",
+					"Document",
+					"document",
+					"Document",
+					"document",
+					"page_title",
+					"document",
+					"content_documents_contents",
+					"string",
+					"perma",
+					"permalink",
+					"main_img",
+					"news_article",
+					"containerView",
+					"addSubView",
+					"rootLayer",
+					"arrowView",
+					"addSublayer",
+					"frame",
+					"UIView.alloc.init",
+					"add_icon",
+					"goalLayer",
+					"CAShapeLayer.layer.tap",
+					"directionArrow",
+					"playingStyleView",
+					"UIView",
+					"containerView",
+					"UIView",
+					"CAShapeLayer.layer.tap",
+					"directionArrow",
+					"CAShapeLayer.layer.tap",
+					"ShirtButtonIcon",
+					"homepage_image",
+					"lead_img",
+					"homepage_image",
+					"homepage_images",
+					"button_caption",
+					"homepage_images",
+					"homepage_image",
+					"landing_page",
+					"LandingPage",
+					"landing_pages",
+					"title",
+					"news_article",
+					"news_articles",
+					"news_article",
+					"summary",
+					"landing_page",
+					"news_article",
+					"NewsArticle",
+					"news_articles",
+					"/news/show",
+					"slug",
+					"permalink",
+					"news",
+					"button_class",
+					"SquadButton",
+					"button_class",
+					"SquadButton",
+					"UICustomButton",
+					"rect",
+					"Rect",
+					"rect",
+					"Rect",
+					"rect",
+					"Rect",
+					"rect"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -534,8 +678,8 @@
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": false
+				"whole_word": true,
+				"wrap": true
 			},
 			"incremental_find":
 			{
@@ -569,516 +713,516 @@
 				"selected_items":
 				[
 					[
-						"transfer_history",
-						"app/views/transfers/transfers_history/transfers_history_table_view.rb"
-					],
-					[
-						"gemfile",
-						"Gemfile"
-					],
-					[
-						"main_menu",
-						"app/lib/main_menu.rb"
-					],
-					[
-						"results_cot",
-						"app/controllers/match/results_controller.rb"
-					],
-					[
-						"transfer_histor",
-						"app/views/transfers/transfers_history/transfers_history_table_view.rb"
-					],
-					[
-						"transferhistorytable",
-						"app/views/transfers/transfers_history/transfers_history_table_view.rb"
-					],
-					[
 						"rake",
 						"Rakefile"
 					],
 					[
-						"sub_pages/in",
-						"app/views/admin/sub_pages/index.html.erb"
+						"theme",
+						"resources/theme.nss"
 					],
 					[
-						"admin.html.erb",
-						"app/views/layouts/admin.html.erb"
+						"theme.n",
+						"resources/theme.nss"
 					],
 					[
-						"sub_page_con",
-						"app/controllers/admin/sub_pages_controller.rb"
+						"resource.nss",
+						"resources/theme.nss"
 					],
 					[
-						"sub_pages",
-						"app/controllers/sub_pages_controller.rb"
+						"home",
+						"app/views/match/match_summary/home_highlight_table_view_cell.rb"
 					],
 					[
-						"routes",
-						"config/routes.rb"
+						"player.rb",
+						"app/models/player.rb"
 					],
 					[
-						".js",
-						"app/assets/javascripts/admin/admin_core.js"
+						"readme",
+						"Readme.md"
 					],
 					[
-						"base_control",
-						"app/controllers/base_controller.rb"
+						"playerratingtable",
+						"app/views/match/match_ratings/standard_player_ratings_table_view_cell.rb"
 					],
 					[
-						"mailer",
-						"app/mailers/contact_mailer.rb"
+						"commentary_view",
+						"app/views/match/match_incidents/commentary_view.rb"
 					],
 					[
-						"contact_us",
-						"old/contact_us.php"
+						"squad_cont",
+						"app/controllers/club/squad/squad_controller.rb"
 					],
 					[
-						"development.rb",
-						"config/environments/development.rb"
+						"promotion",
+						"app/views/shared/_promotions.html.erb"
 					],
 					[
-						"contactus.htm",
-						"app/views/base/contact_us.html.erb"
-					],
-					[
-						"contact",
-						"old/contact_us.php"
-					],
-					[
-						"contact_mailer",
-						"app/mailers/contact_mailer.rb"
-					],
-					[
-						"core",
-						"app/assets/stylesheets/core.css.erb"
-					],
-					[
-						"application_helper",
-						"app/helpers/application_helper.rb"
-					],
-					[
-						"layouts/ap",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"config.js.e",
-						"app/assets/javascripts/admin/redactor-rails/config.js.erb"
-					],
-					[
-						"sub_page/for",
-						"app/views/admin/sub_pages/_form.html.erb"
-					],
-					[
-						"sub_page/in",
-						"app/views/admin/sub_pages/index.html.erb"
-					],
-					[
-						"seeds",
-						"db/seeds.rb"
-					],
-					[
-						"add_slug_to",
-						"db/migrate/20140109162822_add_slug_to_sub_pages.rb"
-					],
-					[
-						"sub_page",
-						"app/models/sub_page.rb"
-					],
-					[
-						"core.cs",
-						"old/css/core.css"
-					],
-					[
-						"what_we",
-						"app/views/base/what_we_do.html.erb"
-					],
-					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"sub_pages_co",
-						"app/controllers/admin/sub_pages_controller.rb"
-					],
-					[
-						"sub_pages/inde",
-						"app/views/admin/sub_pages/index.html.erb"
-					],
-					[
-						"sub_pages_con",
-						"app/controllers/admin/sub_pages_controller.rb"
-					],
-					[
-						"pages_cont",
-						"app/controllers/admin/pages_controller.rb"
-					],
-					[
-						"sub_pag",
-						"app/controllers/admin/sub_pages_controller.rb"
-					],
-					[
-						"pages_controler",
-						"app/controllers/admin/pages_controller.rb"
-					],
-					[
-						"pages/inde",
-						"app/views/admin/pages/index.html.erb"
-					],
-					[
-						"admin_users",
-						"app/controllers/admin/admin_users_controller.rb"
-					],
-					[
-						"base_con",
-						"app/controllers/base_controller.rb"
-					],
-					[
-						"application_con",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"sub_cate",
-						"app/controllers/admin/sub_pages_controller.rb"
-					],
-					[
-						"admin_users_c",
-						"app/controllers/admin/admin_users_controller.rb"
-					],
-					[
-						"where_we_work",
-						"app/views/base/where_we_work.html.erb"
-					],
-					[
-						"work_for",
-						"app/views/base/work_for_us.html.erb"
-					],
-					[
-						"case_controler",
-						"app/controllers/base_controller.rb"
-					],
-					[
-						"who_we_are",
-						"app/views/base/who_we_are.html.erb"
-					],
-					[
-						"why_choose",
-						"app/views/base/why_choose_us.html.erb"
-					],
-					[
-						"in_the_com",
-						"app/views/base/in_the_community.html.erb"
-					],
-					[
-						"core.css",
-						"old/css/core.css"
-					],
-					[
-						"config.js",
-						"app/assets/javascripts/admin/redactor-rails/config.js.erb"
-					],
-					[
-						"rename",
-						"db/migrate/20140109143214_rename_user_id_to_new_admin_user_id.rb"
-					],
-					[
-						"asset.rb",
-						"app/models/redactor_rails/asset.rb"
-					],
-					[
-						"redactor",
-						"app/uploaders/redactor_rails_picture_uploader.rb"
-					],
-					[
-						"document.rb",
-						"app/models/redactor_rails/document.rb"
-					],
-					[
-						"picture.rb",
-						"app/models/redactor_rails/picture.rb"
-					],
-					[
-						"what_we_do",
-						"app/views/base/what_we_do.html.erb"
-					],
-					[
-						"application_cont",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"admin_helper",
-						"app/helpers/admin_helper.rb"
-					],
-					[
-						"application.rb",
-						"config/application.rb"
+						"uploader.rb",
+						"lib/uploader.rb"
 					],
 					[
 						"application.html",
 						"app/views/layouts/application.html.erb"
 					],
 					[
-						"application",
-						"config/application.rb"
+						"core.css",
+						"public/stylesheets/core.css"
 					],
 					[
-						"appication_help",
-						"app/helpers/application_helper.rb"
+						"service",
+						"app/views/base/service.html.erb"
 					],
 					[
-						"layouts",
-						"app/views/layouts/application.html.erb"
+						"landingpage/sho",
+						"app/views/landingpage/show.html.erb"
 					],
 					[
-						"banner.ht",
-						"app/views/partials/_banner.html.erb"
+						"landing_page",
+						"models/landing_page.rb"
+					],
+					[
+						"content_promo",
+						"models/content_promotion.rb"
+					],
+					[
+						"content.rb",
+						"models/content.rb"
+					],
+					[
+						"shared/",
+						"app/views/shared/_contact.html.erb"
+					],
+					[
+						"incident_view",
+						"app/views/match/match_incidents/incident_view_cell.rb"
+					],
+					[
+						"commentary",
+						"app/views/match/match_incidents/commentary_view.rb"
+					],
+					[
+						"outfie",
+						"app/views/club/tactics/team_sheet/outfield_shirt.rb"
+					],
+					[
+						"tactics",
+						"app/controllers/club/tactics/team_sheet_controller.rb"
+					],
+					[
+						"shirt_ico",
+						"app/lib/icons/shirt_button_icon.rb"
+					],
+					[
+						"shirt_icon",
+						"app/lib/icons/shirt_button_icon.rb"
+					],
+					[
+						"button_icn",
+						"app/lib/buttons/ball_button_icon.rb"
+					],
+					[
+						"button_icon",
+						"app/lib/icons/shirt_button_icon.rb"
+					],
+					[
+						"content/form",
+						"admin/views/contents/_form.erb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"shared/contact",
+						"app/views/shared/_contact.html.erb"
+					],
+					[
+						"layout",
+						"admin/views/layouts/application.erb"
+					],
+					[
+						"news_artic",
+						"models/news_article.rb"
+					],
+					[
+						"landing_page.rb",
+						"models/landing_page.rb"
+					],
+					[
+						"app.rb",
+						"admin/app.rb"
+					],
+					[
+						"sch",
+						"db/schema.rb"
+					],
+					[
+						"create_content_doc",
+						"db/migrate/092_create_content_documents_contents.rb"
+					],
+					[
+						"landingpage/inde",
+						"admin/views/landing_pages/index.erb"
+					],
+					[
+						"news_article/inde",
+						"admin/views/news_articles/index.erb"
+					],
+					[
+						"news_article/form",
+						"admin/views/news_articles/_form.erb"
+					],
+					[
+						"landing_page/form",
+						"admin/views/landing_pages/_form.erb"
+					],
+					[
+						"landingpage/edit",
+						"admin/views/landing_pages/edit.erb"
+					],
+					[
+						"admin/landingpage/ind",
+						"admin/views/landing_pages/index.erb"
+					],
+					[
+						"shirt_button",
+						"app/lib/icons/shirt_button_icon.rb"
+					],
+					[
+						"squad_contr",
+						"app/controllers/club/squad/squad_controller.rb"
+					],
+					[
+						"news_article.rb",
+						"models/news_article.rb"
+					],
+					[
+						"landing_page_image",
+						"models/landing_page_image.rb"
+					],
+					[
+						"create_news",
+						"db/migrate/002_create_news_articles.rb"
+					],
+					[
+						"news.rb",
+						"models/news_article.rb"
+					],
+					[
+						"base",
+						"app/controllers/base.rb"
+					],
+					[
+						"squad_but",
+						"app/lib/buttons/sub_nav/squad_button.rb"
+					],
+					[
+						"squad_table_header",
+						"app/views/squad/player_stats_table_header.rb"
+					],
+					[
+						"squad_table",
+						"app/views/squad/player_stats_table_header.rb"
+					],
+					[
+						"clubdetailsbutton",
+						"app/lib/buttons/sub_nav/club_details_button.rb"
+					],
+					[
+						"playershirt",
+						"app/views/club/tactics/team_sheet/player_shirt.rb"
+					],
+					[
+						"squad_button",
+						"app/lib/buttons/sub_nav/squad_button.rb"
+					],
+					[
+						"ui_custom_but",
+						"app/lib/ui_custom_button.rb"
+					],
+					[
+						"squad_con",
+						"app/controllers/club/squad/squad_controller.rb"
+					],
+					[
+						"seed.rb",
+						"app/db/seed.rb"
+					],
+					[
+						"choose_manage",
+						"app/controllers/new_game/choose_manager_controller.rb"
+					],
+					[
+						"tactics_con",
+						"app/controllers/club/tactics/tactics_controller.rb"
+					],
+					[
+						"club_dr",
+						"app/controllers/club/club_details_controller.rb"
+					],
+					[
+						"transfer_list_con",
+						"app/controllers/transfers/transfer_list_controller.rb"
+					],
+					[
+						"gamec",
+						"app/controllers/save_game_controller.rb"
 					],
 					[
 						"rakefile",
 						"Rakefile"
 					],
 					[
-						"clubhistory",
-						"app/views/club/transfer_history/club_transfer_history_table_view.rb"
-					],
-					[
-						"player_shirt",
-						"app/views/tactics/team_sheet/player_shirt.rb"
-					],
-					[
-						"tactics",
-						"app/views/tactics/team_sheet/grid/grid_row.rb"
-					],
-					[
-						"historytableview",
-						"app/views/club/club_history_table_view.rb"
-					],
-					[
-						"history_table",
-						"app/views/transfers/transfers_history/transfers_history_table_view.rb"
-					],
-					[
-						"",
-						"app/views/squad/player/player_profile_view.rb"
-					],
-					[
-						"transferhistoryview",
-						"app/views/transfers/transfers_history/transfers_history_table_view.rb"
-					],
-					[
-						"trans",
-						"app/models/transfer_history.rb"
-					],
-					[
-						"season.rb",
-						"app/models/season.rb"
-					],
-					[
-						"transfer_historycon",
-						"app/controllers/transfers/transfers_history_controller.rb"
-					],
-					[
-						"transfers_history",
-						"app/controllers/club/transfer_history/club_transfer_history_controller.rb"
-					],
-					[
-						"wanted_tr",
-						"app/models/wanted_transfer_target.rb"
-					],
-					[
-						"player",
-						"app/models/player.rb"
-					],
-					[
-						"playerview",
-						"app/views/players/players_table_view.rb"
+						"club",
+						"app/models/club.rb"
 					],
 					[
 						"club.rb",
 						"app/models/club.rb"
 					],
 					[
-						"main_men",
-						"app/lib/main_menu.rb"
+						"gemfile",
+						"Gemfile"
 					],
 					[
-						"seasonrb",
-						"app/models/season.rb"
+						"generator",
+						"app/lib/injury_generator.rb"
 					],
 					[
-						"leaguetable",
-						"app/models/league_table.rb"
+						"outfiel",
+						"app/views/club/tactics/team_sheet/outfield_shirt.rb"
 					],
 					[
-						"results",
-						"app/controllers/match/results_controller.rb"
+						"player_shirt",
+						"app/views/club/tactics/team_sheet/player_shirt.rb"
 					],
 					[
-						"league_table.rb",
-						"app/models/league_table.rb"
+						"out",
+						"app/views/club/tactics/team_sheet/outfield_shirt.rb"
+					],
+					[
+						"team_sheet_con",
+						"app/controllers/club/tactics/team_sheet_controller.rb"
+					],
+					[
+						"transfer_history_con",
+						"app/controllers/transfers/transfers_history_controller.rb"
+					],
+					[
+						"incident_view_cell",
+						"app/views/match/incident_view_cell.rb"
+					],
+					[
+						"shortlist",
+						"app/views/transfers/shortlist/shortlist_table_view.rb"
+					],
+					[
+						"short",
+						"app/controllers/transfers/shortlist_controller.rb"
+					],
+					[
+						"short_list",
+						"app/controllers/club/shortlist/club_shortlist_controller.rb"
+					],
+					[
+						"theme.nss",
+						"resources/theme.nss"
+					],
+					[
+						"player",
+						"app/models/player.rb"
+					],
+					[
+						"player_stats",
+						"app/views/squad/player_stats_table_view_cell.rb"
+					],
+					[
+						"playercontractra",
+						"app/views/squad/player_contract_table_view_cell.rb"
+					],
+					[
+						"squad_controll",
+						"app/controllers/club/squad/squad_controller.rb"
+					],
+					[
+						"transferlist_con",
+						"app/controllers/transfers/transfer_list_controller.rb"
+					],
+					[
+						"shortl",
+						"app/controllers/transfers/shortlist_controller.rb"
+					],
+					[
+						"substi",
+						"app/controllers/club/tactics/substitute_controller.rb"
+					],
+					[
+						"playerstatstableheader",
+						"app/views/squad/player_stats_table_header.rb"
+					],
+					[
+						"header",
+						"vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Pods-project-headers.hmap"
+					],
+					[
+						"subs",
+						"app/controllers/club/tactics/substitute_controller.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"app_delegate",
+						"app/app_delegate.rb"
 					],
 					[
 						"results_con",
 						"app/controllers/match/results_controller.rb"
 					],
 					[
-						"dashboard_c",
+						"player_stats_table_view_cell",
+						"app/views/squad/player_stats_table_view_cell.rb"
+					],
+					[
+						"news_item",
+						"app/models/news_item.rb"
+					],
+					[
+						"newsitem",
+						"app/models/news_item.rb"
+					],
+					[
+						"competition_fixture_runn",
+						"app/lib/competition_fixture_runner.rb"
+					],
+					[
+						"news_item_ge",
+						"app/lib/transfers/news_item_generator.rb"
+					],
+					[
+						"news_ite",
+						"app/models/news_item.rb"
+					],
+					[
+						"news_item_player",
+						"app/models/news_item_player_back_from_suspension.rb"
+					],
+					[
+						"squad_new",
+						"app/views/squad/squad_news_view.rb"
+					],
+					[
+						"squad_news",
+						"app/views/squad/squad_news_view.rb"
+					],
+					[
+						"container_con",
+						"app/controllers/container_controller.rb"
+					],
+					[
+						"current",
+						"app/save_game/current_save_game.rb"
+					],
+					[
+						"league_table",
+						"app/views/league_tables/league_table_view.rb"
+					],
+					[
+						"club_deta",
+						"app/controllers/club/club_details_controller.rb"
+					],
+					[
+						"uicustomswitch",
+						"app/lib/ui_custom_switch_table_view_cell.rb"
+					],
+					[
+						"container_co",
+						"app/controllers/container_controller.rb"
+					],
+					[
+						"container",
+						"app/lib/container.rb"
+					],
+					[
+						"club_detail",
+						"app/controllers/club/club_details_controller.rb"
+					],
+					[
+						"dash",
 						"app/controllers/dashboard_controller.rb"
 					],
 					[
-						"history",
-						"app/controllers/transfers/transfers_history_controller.rb"
+						"toolbar.rb",
+						"app/lib/toolbar.rb"
 					],
 					[
-						"matchsummar",
-						"app/views/match/match_summary_view.rb"
+						"squad",
+						"app/views/squad/squad_news_view.rb"
 					],
 					[
-						"red_card",
-						"app/views/match/red_card_view.rb"
+						"table_view",
+						"app/views/league_tables/league_table_view_cell.rb"
 					],
 					[
-						"ui_custom_fetch",
-						"app/lib/ui_custom_fetch_request_table_view.rb"
+						"squad_",
+						"app/views/squad/squad_news_view.rb"
 					],
 					[
-						"club_transfer",
-						"app/views/club/transfer_history/club_transfer_history_table_view_cell.rb"
+						"squad_view",
+						"app/views/squad/squad_news_view.rb"
 					],
 					[
-						"news_artic",
-						"app/models/news_article.rb"
+						"results_table_view",
+						"app/views/results/results_table_view.rb"
 					],
 					[
-						"products_cont",
-						"app/controllers/products_controller.rb"
+						"next_con",
+						"app/lib/next_controller.rb"
 					],
 					[
-						"pdf",
-						"app/views/products/pdf.pdf.erb"
+						"squad_news_con",
+						"app/controllers/club/squad/squad_news_controller.rb"
 					],
 					[
-						"search",
-						"app/views/products/search.html.erb"
+						"newsitemgener",
+						"app/lib/transfers/news_item_generator.rb"
 					],
 					[
-						"case_studies",
-						"app/views/partials/_related_case_studies.html.erb"
+						"newsitempredicate",
+						"app/predicates/news_item_predicate.rb"
 					],
 					[
-						"related_news",
-						"app/views/partials/_related_news.html.erb"
+						"news",
+						"app/models/news_item.rb"
 					],
 					[
-						"vacancies/inde",
-						"app/views/vacancies/index.html.erb"
+						"nextcontroller",
+						"app/lib/next_controller.rb"
 					],
 					[
-						"news_articles/inde",
-						"app/views/news_articles/index.html.erb"
+						"newitempl",
+						"app/models/news_item_player_injured.rb"
 					],
 					[
-						"products/inde",
-						"app/views/admin/products/index.html.erb"
+						"squadnewcon",
+						"app/controllers/club/squad/squad_news_controller.rb"
 					],
 					[
-						"case_studies/inde",
-						"app/views/admin/case_studies/index.html.erb"
+						"newsitemgenerator",
+						"app/lib/transfers/news_item_generator.rb"
 					],
 					[
-						"products/index",
-						"app/views/admin/products/index.html.erb"
+						"comprunner",
+						"app/lib/competition_fixture_runner.rb"
 					],
 					[
-						"news_articles_con",
-						"app/controllers/admin/news_articles_controller.rb"
-					],
-					[
-						"configuration_con",
-						"app/controllers/admin/configuration_controller.rb"
-					],
-					[
-						"layouts/admin",
-						"app/views/layouts/admin.html.erb"
-					],
-					[
-						"admin_users/inde",
-						"app/views/admin/admin_users/index.html.erb"
-					],
-					[
-						"admin_user.rb",
-						"app/models/admin_user.rb"
-					],
-					[
-						"admin_users_controller.rb",
-						"app/controllers/admin/admin_users_controller.rb"
-					],
-					[
-						"product_image",
-						"app/models/product_image.rb"
-					],
-					[
-						"products/show",
-						"app/views/products/show.html.erb"
-					],
-					[
-						"case_studies/ine",
-						"app/views/admin/case_studies/index.html.erb"
-					],
-					[
-						"layouts/app",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"vacancies_controller",
-						"app/controllers/vacancies_controller.rb"
-					],
-					[
-						"breadcrum",
-						"config/breadcrumbs.rb"
-					],
-					[
-						"mime_type",
-						"config/initializers/mime_types.rb"
-					],
-					[
-						"case_studies_cont",
-						"app/controllers/admin/case_studies_controller.rb"
-					],
-					[
-						".yml",
-						"config/locales/en.yml"
-					],
-					[
-						"case_studies_con",
-						"app/controllers/admin/case_studies_controller.rb"
-					],
-					[
-						"case_studies_co",
-						"app/controllers/admin/case_studies_controller.rb"
-					],
-					[
-						"case_studies/form",
-						"app/views/admin/case_studies/_form.html.erb"
-					],
-					[
-						"case_study.rb",
-						"app/models/case_study.rb"
-					],
-					[
-						"product.rb",
-						"app/models/product.rb"
-					],
-					[
-						"case_studies_form",
-						"app/views/admin/case_studies/_form.html.erb"
-					],
-					[
-						"sub_categories_c",
-						"app/controllers/admin/sub_categories_controller.rb"
-					],
-					[
-						"sub_categories_con",
-						"app/controllers/admin/sub_categories_controller.rb"
+						"approac",
+						"app/controllers/club/squad/approach_player_controller.rb"
 					]
 				],
 				"width": 0.0
@@ -1093,7 +1237,7 @@
 			},
 			"select_symbol":
 			{
-				"height": 370.0,
+				"height": 30.0,
 				"selected_items":
 				[
 					[
@@ -1111,16 +1255,3542 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 227.0,
+			"side_bar_width": 293.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1365.0
+		"new_window_width": 1491.0
 	},
 	"windows":
 	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"playe",
+						"playingStyleView"
+					],
+					[
+						"con",
+						"content_document"
+					],
+					[
+						"cont",
+						"content_document"
+					],
+					[
+						"KUI",
+						"KUIBezierPathArrowDirectionUp"
+					],
+					[
+						"del",
+						"delegate"
+					],
+					[
+						"largeSle",
+						"largeSleeveRight"
+					],
+					[
+						"defaultSle",
+						"defaultSleeveRight"
+					],
+					[
+						"defaultSlee",
+						"defaultSleeveRight"
+					],
+					[
+						"defa",
+						"defaultPlayerFrame"
+					],
+					[
+						"gesture",
+						"gestureRecognizer"
+					],
+					[
+						"declineTrans",
+						"declineTransferButton"
+					],
+					[
+						"conti",
+						"continueButton"
+					],
+					[
+						"UIButt",
+						"UIButtonTypeSystem"
+					],
+					[
+						"center",
+						"centerPosition"
+					],
+					[
+						"reti",
+						"retiring_this_season"
+					],
+					[
+						"return",
+						"return_from_injury"
+					],
+					[
+						"return_fro",
+						"return_from_injury"
+					],
+					[
+						"number_of_fixture",
+						"number_of_fixtures_for_round"
+					],
+					[
+						"sub",
+						"subviews"
+					],
+					[
+						"substi",
+						"substituteController"
+					],
+					[
+						"work_for_us",
+						"work_for_us_image"
+					],
+					[
+						"why_ch",
+						"why_choose_us_image"
+					],
+					[
+						"the_com",
+						"the_community_image"
+					],
+					[
+						"kasia_",
+						"kasia_paul_image"
+					],
+					[
+						"Curren",
+						"CurrentSaveGame"
+					],
+					[
+						"r",
+						"r	attr_reader .."
+					],
+					[
+						"R",
+						"R"
+					],
+					[
+						"priva",
+						"privacy_policy"
+					],
+					[
+						"trasnfer",
+						"transferAmountView"
+					],
+					[
+						"transfer",
+						"transfer_history"
+					],
+					[
+						"player",
+						"playerNameView"
+					],
+					[
+						"seas",
+						"season_number"
+					],
+					[
+						"fal",
+						"falsify_all_other_product_images"
+					],
+					[
+						"product_vid",
+						"product_videos_form"
+					],
+					[
+						"vac",
+						"vacancy"
+					],
+					[
+						"product",
+						"productCheck"
+					],
+					[
+						"vacancy",
+						"vacancyCheck"
+					],
+					[
+						"clic",
+						"click  (function)"
+					],
+					[
+						"hide",
+						"hideAllProductDivs"
+					],
+					[
+						"second",
+						"secondary-btn"
+					],
+					[
+						"edit",
+						"edit_admin_sub_category_path"
+					],
+					[
+						"edit_admin",
+						"edit_admin_case_study_path"
+					],
+					[
+						"intro",
+						"introduction"
+					],
+					[
+						"link_to",
+						"link_to_add_fields"
+					],
+					[
+						"news",
+						"news_article"
+					],
+					[
+						"grou",
+						"grouped_options_for_select"
+					],
+					[
+						"case",
+						"casestudyable_type"
+					],
+					[
+						"do",
+						"do"
+					],
+					[
+						"de",
+						"det	detect { |e| .. }"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/incident_view_cell.rb",
+					"settings":
+					{
+						"buffer_size": 3529,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_summary/match_summary_view.rb",
+					"settings":
+					{
+						"buffer_size": 2690,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_container_view.rb",
+					"settings":
+					{
+						"buffer_size": 1253,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/match_incidents_view.rb",
+					"settings":
+					{
+						"buffer_size": 1677,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/neutral_incident_view_cell.rb",
+					"settings":
+					{
+						"buffer_size": 141,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/ahmet/Projects/titlechallenge/app/controllers/match/match_controller.rb",
+					"settings":
+					{
+						"buffer_size": 11052,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 1624 files for \"commentaryView\"\n\n/Users/ahmet/Projects/titlechallenge/app/controllers/match/match_controller.rb:\n   57          layout.metrics \"scoreboardHeight\" => scoreboardHeight,\n   58                         \"pageControlHeight\" => pageControlHeight,\n   59:                        \"quickCommentaryViewHeight\" => quickCommentaryViewHeight\n   60          layout.vertical \"|[topLayoutGuide][scoreboardView(scoreboardHeight)][pageControl(==pageControlHeight)][containerView]|\"\n   61          layout.vertical \"[continueButton(47)]|\"\n   62:         layout.vertical \"[commentaryQuickView(quickCommentaryViewHeight)]|\", :centerx\n   63          layout.horizontal \"|[topLayoutGuide]|\"\n   64          layout.horizontal \"|[continueButton]|\"\n   ..\n  137  \n  138    def commentaryContainerView\n  139:     @commentaryContainerView ||= CommentaryView.alloc.initWithAttributes(self)\n  140    end\n  141  \n  ...\n  191        # highlight.commentary.each do |commentary|\n  192        #   # sleep 1\n  193:       #   puts \"about to call newCommentary on commentaryView\"\n  194:       #   commentaryView.newCommentary(highlight, commentary)\n  195        #   puts \"about to call newCommentary on commentaryQuickView\"\n  196        #   #commentaryQuickView.newCommentary(commentary)\n  ...\n  306    end\n  307  \n  308:   def containerMinusQuickCommentaryViewHeight\n  309:     containerHeight - quickCommentaryViewHeight\n  310    end\n  311  \n  ...\n  315        \"containerWidth\" => containerWidth,\n  316        \"containerHeight\" => containerHeight,\n  317:       \"containerMinusQuickCommentaryViewHeight\" => containerMinusQuickCommentaryViewHeight\n  318      }\n  319      containerView.addConstraints(\n  ...\n  367      scrollView.addConstraints(\n  368        NSLayoutConstraint.constraintsWithVisualFormat(\n  369:         \"V:|[summaryView(==containerMinusQuickCommentaryViewHeight)]|\",\n  370          options:0,\n  371          metrics:metrics,\n  ...\n  386      scrollView.addConstraints(\n  387        NSLayoutConstraint.constraintsWithVisualFormat(\n  388:         \"V:|[playerRatingsView(==containerMinusQuickCommentaryViewHeight)]|\",\n  389          options:0,\n  390          metrics:metrics,\n  ...\n  394    end\n  395  \n  396:   def quickCommentaryViewHeight\n  397      47\n  398    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_view.rb:\n    1: class CommentaryView < UIView\n    2  \n    3    attr_accessor :controller\n    .\n    5    def initWithAttributes(controller)\n    6      self.controller = controller\n    7:     init.tap do |commentaryView|\n    8:       commentaryView.backgroundColor = UIColor.clearColor\n    9:       commentaryView.translatesAutoresizingMaskIntoConstraints = false\n   10        Motion::Layout.new do |layout|\n   11:         layout.view commentaryView\n   12          layout.subviews \"matchIncidentsView\" => matchIncidentsView\n   13          layout.vertical \"|-10-[matchIncidentsView]|\"\n   ..\n   32    # end\n   33    def newCommentary(highlight, commentary)\n   34:     puts \"Start CommentaryView.newCommentary\"\n   35      #EM.schedule_on_main do\n   36        matchIncidentsView.newIncident(\n   37          Incident.new(highlight, commentary)\n   38        )\n   39:       puts \"END CommentaryView.newCommentary\"\n   40      #end\n   41    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/incident_view_cell.rb:\n   14        Motion::Layout.new do |layout|\n   15          layout.view cell.contentView\n   16:         layout.subviews \"commentaryView\" => commentaryView\n   17           #               \"minuteView\" => minuteView\n   18:         layout.vertical \"|[commentaryView]|\"\n   19:         layout.horizontal \"|-20-[commentaryView]-20-|\"\n   20          #layout.horizontal \"|-20-[minuteView]-20-|\"\n   21        end\n   ..\n   40    def updateContents(incident)\n   41      self.incident = incident\n   42:     self.commentaryView.text = commentaryText\n   43      self.minuteView.text = minuteText\n   44    end\n   ..\n   58    end\n   59  \n   60:   def commentaryView\n   61:     @commentaryView ||= UICustomLabel.alloc.init.tap do |label|\n   62        label.lineBreakMode = NSLineBreakByWordWrapping\n   63        label.numberOfLines = 0\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n146 matches across 7 files\n\n\nSearching 1624 files for \"commentaryView\"\n\n/Users/ahmet/Projects/titlechallenge/app/controllers/match/match_controller.rb:\n   57          layout.metrics \"scoreboardHeight\" => scoreboardHeight,\n   58                         \"pageControlHeight\" => pageControlHeight,\n   59:                        \"quickCommentaryViewHeight\" => quickCommentaryViewHeight\n   60          layout.vertical \"|[topLayoutGuide][scoreboardView(scoreboardHeight)][pageControl(==pageControlHeight)][containerView]|\"\n   61          layout.vertical \"[continueButton(47)]|\"\n   62:         layout.vertical \"[commentaryQuickView(quickCommentaryViewHeight)]|\", :centerx\n   63          layout.horizontal \"|[topLayoutGuide]|\"\n   64          layout.horizontal \"|[continueButton]|\"\n   ..\n  137  \n  138    def commentaryContainerView\n  139:     @commentaryContainerView ||= CommentaryView.alloc.initWithAttributes(self)\n  140    end\n  141  \n  ...\n  191        # highlight.commentary.each do |commentary|\n  192        #   # sleep 1\n  193:       #   puts \"about to call newCommentary on commentaryView\"\n  194:       #   commentaryView.newCommentary(highlight, commentary)\n  195        #   puts \"about to call newCommentary on commentaryQuickView\"\n  196        #   #commentaryQuickView.newCommentary(commentary)\n  ...\n  306    end\n  307  \n  308:   def containerMinusQuickCommentaryViewHeight\n  309:     containerHeight - quickCommentaryViewHeight\n  310    end\n  311  \n  ...\n  315        \"containerWidth\" => containerWidth,\n  316        \"containerHeight\" => containerHeight,\n  317:       \"containerMinusQuickCommentaryViewHeight\" => containerMinusQuickCommentaryViewHeight\n  318      }\n  319      containerView.addConstraints(\n  ...\n  367      scrollView.addConstraints(\n  368        NSLayoutConstraint.constraintsWithVisualFormat(\n  369:         \"V:|[summaryView(==containerMinusQuickCommentaryViewHeight)]|\",\n  370          options:0,\n  371          metrics:metrics,\n  ...\n  386      scrollView.addConstraints(\n  387        NSLayoutConstraint.constraintsWithVisualFormat(\n  388:         \"V:|[playerRatingsView(==containerMinusQuickCommentaryViewHeight)]|\",\n  389          options:0,\n  390          metrics:metrics,\n  ...\n  394    end\n  395  \n  396:   def quickCommentaryViewHeight\n  397      47\n  398    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_view.rb:\n    5    def initWithAttributes(controller)\n    6      self.controller = controller\n    7:     init.tap do |commentaryView|\n    8:       commentaryView.backgroundColor = UIColor.clearColor\n    9:       commentaryView.translatesAutoresizingMaskIntoConstraints = false\n   10        Motion::Layout.new do |layout|\n   11:         layout.view commentaryView\n   12          layout.subviews \"matchIncidentsView\" => matchIncidentsView\n   13          layout.vertical \"|-10-[matchIncidentsView]|\"\n   ..\n   32    # end\n   33    def newCommentary(highlight, commentary)\n   34:     puts \"Start CommentaryView.newCommentary\"\n   35      #EM.schedule_on_main do\n   36        matchIncidentsView.newIncident(\n   37          Incident.new(highlight, commentary)\n   38        )\n   39:       puts \"END CommentaryView.newCommentary\"\n   40      #end\n   41    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/incident_view_cell.rb:\n   14        Motion::Layout.new do |layout|\n   15          layout.view cell.contentView\n   16:         layout.subviews \"commentaryView\" => commentaryView\n   17           #               \"minuteView\" => minuteView\n   18:         layout.vertical \"|[commentaryView]|\"\n   19:         layout.horizontal \"|-20-[commentaryView]-20-|\"\n   20          #layout.horizontal \"|-20-[minuteView]-20-|\"\n   21        end\n   ..\n   40    def updateContents(incident)\n   41      self.incident = incident\n   42:     self.commentaryView.text = commentaryText\n   43      self.minuteView.text = minuteText\n   44    end\n   ..\n   58    end\n   59  \n   60:   def commentaryView\n   61:     @commentaryView ||= UICustomLabel.alloc.init.tap do |label|\n   62        label.lineBreakMode = NSLineBreakByWordWrapping\n   63        label.numberOfLines = 0\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n145 matches across 7 files\n\n\nSearching 1719 files for \"commentaryView\"\n\n/Users/ahmet/Projects/titlechallenge/app/controllers/match/match_controller.rb:\n   57          layout.metrics \"scoreboardHeight\" => scoreboardHeight,\n   58                         \"pageControlHeight\" => pageControlHeight,\n   59:                        \"quickCommentaryViewHeight\" => quickCommentaryViewHeight\n   60          layout.vertical \"|[topLayoutGuide][scoreboardView(scoreboardHeight)][pageControl(==pageControlHeight)][containerView]|\"\n   61          layout.vertical \"[continueButton(47)]|\"\n   62:         layout.vertical \"[commentaryQuickView(quickCommentaryViewHeight)]|\", :centerx\n   63          layout.horizontal \"|[topLayoutGuide]|\"\n   64          layout.horizontal \"|[continueButton]|\"\n   ..\n  137  \n  138    def commentaryContainerView\n  139:     @commentaryContainerView ||= CommentaryView.alloc.initWithAttributes(self)\n  140    end\n  141  \n  ...\n  191        # highlight.commentary.each do |commentary|\n  192        #   # sleep 1\n  193:       #   puts \"about to call newCommentary on commentaryView\"\n  194:       #   commentaryView.newCommentary(highlight, commentary)\n  195        #   puts \"about to call newCommentary on commentaryQuickView\"\n  196        #   #commentaryQuickView.newCommentary(commentary)\n  ...\n  306    end\n  307  \n  308:   def containerMinusQuickCommentaryViewHeight\n  309:     containerHeight - quickCommentaryViewHeight\n  310    end\n  311  \n  ...\n  315        \"containerWidth\" => containerWidth,\n  316        \"containerHeight\" => containerHeight,\n  317:       \"containerMinusQuickCommentaryViewHeight\" => containerMinusQuickCommentaryViewHeight\n  318      }\n  319      containerView.addConstraints(\n  ...\n  367      scrollView.addConstraints(\n  368        NSLayoutConstraint.constraintsWithVisualFormat(\n  369:         \"V:|[summaryView(==containerMinusQuickCommentaryViewHeight)]|\",\n  370          options:0,\n  371          metrics:metrics,\n  ...\n  386      scrollView.addConstraints(\n  387        NSLayoutConstraint.constraintsWithVisualFormat(\n  388:         \"V:|[playerRatingsView(==containerMinusQuickCommentaryViewHeight)]|\",\n  389          options:0,\n  390          metrics:metrics,\n  ...\n  394    end\n  395  \n  396:   def quickCommentaryViewHeight\n  397      47\n  398    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_container_view.rb:\n    5    def initWithAttributes(controller)\n    6      self.controller = controller\n    7:     init.tap do |commentaryView|\n    8:       commentaryView.backgroundColor = UIColor.clearColor\n    9:       commentaryView.translatesAutoresizingMaskIntoConstraints = false\n   10        Motion::Layout.new do |layout|\n   11:         layout.view commentaryView\n   12          layout.subviews \"matchIncidentsView\" => matchIncidentsView\n   13          layout.vertical \"|-10-[matchIncidentsView]|\"\n   ..\n   32    # end\n   33    def newCommentary(highlight, commentary)\n   34:     puts \"Start CommentaryView.newCommentary\"\n   35      #EM.schedule_on_main do\n   36        matchIncidentsView.newIncident(\n   37          Incident.new(highlight, commentary)\n   38        )\n   39:       puts \"END CommentaryView.newCommentary\"\n   40      #end\n   41    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/incident_view_cell.rb:\n   14        Motion::Layout.new do |layout|\n   15          layout.view cell.contentView\n   16:         layout.subviews \"commentaryView\" => commentaryView\n   17           #               \"minuteView\" => minuteView\n   18:         layout.vertical \"|[commentaryView]|\"\n   19:         layout.horizontal \"|-20-[commentaryView]-20-|\"\n   20          #layout.horizontal \"|-20-[minuteView]-20-|\"\n   21        end\n   ..\n   40    def updateContents(incident)\n   41      self.incident = incident\n   42:     self.commentaryView.text = commentaryText\n   43      self.minuteView.text = minuteText\n   44    end\n   ..\n   58    end\n   59  \n   60:   def commentaryView\n   61:     @commentaryView ||= UICustomLabel.alloc.init.tap do |label|\n   62        label.lineBreakMode = NSLineBreakByWordWrapping\n   63        label.numberOfLines = 0\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n145 matches across 7 files\n\n\nSearching 1719 files for \"commentaryView\"\n\n/Users/ahmet/Projects/titlechallenge/app/controllers/match/match_controller.rb:\n   57          layout.metrics \"scoreboardHeight\" => scoreboardHeight,\n   58                         \"pageControlHeight\" => pageControlHeight,\n   59:                        \"quickCommentaryViewHeight\" => quickCommentaryViewHeight\n   60          layout.vertical \"|[topLayoutGuide][scoreboardView(scoreboardHeight)][pageControl(==pageControlHeight)][containerView]|\"\n   61          layout.vertical \"[continueButton(47)]|\"\n   62:         layout.vertical \"[commentaryQuickView(quickCommentaryViewHeight)]|\", :centerx\n   63          layout.horizontal \"|[topLayoutGuide]|\"\n   64          layout.horizontal \"|[continueButton]|\"\n   ..\n  191        # highlight.commentary.each do |commentary|\n  192        #   # sleep 1\n  193:       #   puts \"about to call newCommentary on commentaryView\"\n  194:       #   commentaryView.newCommentary(highlight, commentary)\n  195        #   puts \"about to call newCommentary on commentaryQuickView\"\n  196        #   #commentaryQuickView.newCommentary(commentary)\n  ...\n  306    end\n  307  \n  308:   def containerMinusQuickCommentaryViewHeight\n  309:     containerHeight - quickCommentaryViewHeight\n  310    end\n  311  \n  ...\n  315        \"containerWidth\" => containerWidth,\n  316        \"containerHeight\" => containerHeight,\n  317:       \"containerMinusQuickCommentaryViewHeight\" => containerMinusQuickCommentaryViewHeight\n  318      }\n  319      containerView.addConstraints(\n  ...\n  367      scrollView.addConstraints(\n  368        NSLayoutConstraint.constraintsWithVisualFormat(\n  369:         \"V:|[summaryView(==containerMinusQuickCommentaryViewHeight)]|\",\n  370          options:0,\n  371          metrics:metrics,\n  ...\n  386      scrollView.addConstraints(\n  387        NSLayoutConstraint.constraintsWithVisualFormat(\n  388:         \"V:|[playerRatingsView(==containerMinusQuickCommentaryViewHeight)]|\",\n  389          options:0,\n  390          metrics:metrics,\n  ...\n  394    end\n  395  \n  396:   def quickCommentaryViewHeight\n  397      47\n  398    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_container_view.rb:\n    5    def initWithAttributes(controller)\n    6      self.controller = controller\n    7:     init.tap do |commentaryView|\n    8:       commentaryView.backgroundColor = UIColor.clearColor\n    9:       commentaryView.translatesAutoresizingMaskIntoConstraints = false\n   10        Motion::Layout.new do |layout|\n   11:         layout.view commentaryView\n   12          layout.subviews \"matchIncidentsView\" => matchIncidentsView\n   13          layout.vertical \"|-10-[matchIncidentsView]|\"\n   ..\n   32    # end\n   33    def newCommentary(highlight, commentary)\n   34:     puts \"Start CommentaryView.newCommentary\"\n   35      #EM.schedule_on_main do\n   36        matchIncidentsView.newIncident(\n   37          Incident.new(highlight, commentary)\n   38        )\n   39:       puts \"END CommentaryView.newCommentary\"\n   40      #end\n   41    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/incident_view_cell.rb:\n   14        Motion::Layout.new do |layout|\n   15          layout.view cell.contentView\n   16:         layout.subviews \"commentaryView\" => commentaryView\n   17           #               \"minuteView\" => minuteView\n   18:         layout.vertical \"|[commentaryView]|\"\n   19:         layout.horizontal \"|-20-[commentaryView]-20-|\"\n   20          #layout.horizontal \"|-20-[minuteView]-20-|\"\n   21        end\n   ..\n   40    def updateContents(incident)\n   41      self.incident = incident\n   42:     self.commentaryView.text = commentaryText\n   43      self.minuteView.text = minuteText\n   44    end\n   ..\n   58    end\n   59  \n   60:   def commentaryView\n   61:     @commentaryView ||= UICustomLabel.alloc.init.tap do |label|\n   62        label.lineBreakMode = NSLineBreakByWordWrapping\n   63        label.numberOfLines = 0\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n144 matches across 7 files\n\n\nSearching 1719 files for \"commentaryView\"\n\n/Users/ahmet/Projects/titlechallenge/app/controllers/match/match_controller.rb:\n   57          layout.metrics \"scoreboardHeight\" => scoreboardHeight,\n   58                         \"pageControlHeight\" => pageControlHeight,\n   59:                        \"quickCommentaryViewHeight\" => quickCommentaryViewHeight\n   60          layout.vertical \"|[topLayoutGuide][scoreboardView(scoreboardHeight)][pageControl(==pageControlHeight)][containerView]|\"\n   61          layout.vertical \"[continueButton(47)]|\"\n   62:         layout.vertical \"[commentaryQuickView(quickCommentaryViewHeight)]|\", :centerx\n   63          layout.horizontal \"|[topLayoutGuide]|\"\n   64          layout.horizontal \"|[continueButton]|\"\n   ..\n  191        # highlight.commentary.each do |commentary|\n  192        #   # sleep 1\n  193:       #   puts \"about to call newCommentary on commentaryView\"\n  194:       #   commentaryView.newCommentary(highlight, commentary)\n  195        #   puts \"about to call newCommentary on commentaryQuickView\"\n  196        #   #commentaryQuickView.newCommentary(commentary)\n  ...\n  306    end\n  307  \n  308:   def containerMinusQuickCommentaryViewHeight\n  309:     containerHeight - quickCommentaryViewHeight\n  310    end\n  311  \n  ...\n  315        \"containerWidth\" => containerWidth,\n  316        \"containerHeight\" => containerHeight,\n  317:       \"containerMinusQuickCommentaryViewHeight\" => containerMinusQuickCommentaryViewHeight\n  318      }\n  319      containerView.addConstraints(\n  ...\n  367      scrollView.addConstraints(\n  368        NSLayoutConstraint.constraintsWithVisualFormat(\n  369:         \"V:|[summaryView(==containerMinusQuickCommentaryViewHeight)]|\",\n  370          options:0,\n  371          metrics:metrics,\n  ...\n  386      scrollView.addConstraints(\n  387        NSLayoutConstraint.constraintsWithVisualFormat(\n  388:         \"V:|[playerRatingsView(==containerMinusQuickCommentaryViewHeight)]|\",\n  389          options:0,\n  390          metrics:metrics,\n  ...\n  394    end\n  395  \n  396:   def quickCommentaryViewHeight\n  397      47\n  398    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_container_view.rb:\n   32    # end\n   33    def newCommentary(highlight, commentary)\n   34:     puts \"Start CommentaryView.newCommentary\"\n   35      #EM.schedule_on_main do\n   36        matchIncidentsView.newIncident(\n   37          Incident.new(highlight, commentary)\n   38        )\n   39:       puts \"END CommentaryView.newCommentary\"\n   40      #end\n   41    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/incident_view_cell.rb:\n   14        Motion::Layout.new do |layout|\n   15          layout.view cell.contentView\n   16:         layout.subviews \"commentaryView\" => commentaryView\n   17           #               \"minuteView\" => minuteView\n   18:         layout.vertical \"|[commentaryView]|\"\n   19:         layout.horizontal \"|-20-[commentaryView]-20-|\"\n   20          #layout.horizontal \"|-20-[minuteView]-20-|\"\n   21        end\n   ..\n   40    def updateContents(incident)\n   41      self.incident = incident\n   42:     self.commentaryView.text = commentaryText\n   43      self.minuteView.text = minuteText\n   44    end\n   ..\n   58    end\n   59  \n   60:   def commentaryView\n   61:     @commentaryView ||= UICustomLabel.alloc.init.tap do |label|\n   62        label.lineBreakMode = NSLineBreakByWordWrapping\n   63        label.numberOfLines = 0\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n140 matches across 7 files\n\n\nSearching 1719 files for \"CommentaryView\"\n\n/Users/ahmet/Projects/titlechallenge/app/controllers/match/match_controller.rb:\n   57          layout.metrics \"scoreboardHeight\" => scoreboardHeight,\n   58                         \"pageControlHeight\" => pageControlHeight,\n   59:                        \"quickCommentaryViewHeight\" => quickCommentaryViewHeight\n   60          layout.vertical \"|[topLayoutGuide][scoreboardView(scoreboardHeight)][pageControl(==pageControlHeight)][containerView]|\"\n   61          layout.vertical \"[continueButton(47)]|\"\n   62:         layout.vertical \"[commentaryQuickView(quickCommentaryViewHeight)]|\", :centerx\n   63          layout.horizontal \"|[topLayoutGuide]|\"\n   64          layout.horizontal \"|[continueButton]|\"\n   ..\n  191        # highlight.commentary.each do |commentary|\n  192        #   # sleep 1\n  193:       #   puts \"about to call newCommentary on commentaryView\"\n  194:       #   commentaryView.newCommentary(highlight, commentary)\n  195        #   puts \"about to call newCommentary on commentaryQuickView\"\n  196        #   #commentaryQuickView.newCommentary(commentary)\n  ...\n  306    end\n  307  \n  308:   def containerMinusQuickCommentaryViewHeight\n  309:     containerHeight - quickCommentaryViewHeight\n  310    end\n  311  \n  ...\n  315        \"containerWidth\" => containerWidth,\n  316        \"containerHeight\" => containerHeight,\n  317:       \"containerMinusQuickCommentaryViewHeight\" => containerMinusQuickCommentaryViewHeight\n  318      }\n  319      containerView.addConstraints(\n  ...\n  367      scrollView.addConstraints(\n  368        NSLayoutConstraint.constraintsWithVisualFormat(\n  369:         \"V:|[summaryView(==containerMinusQuickCommentaryViewHeight)]|\",\n  370          options:0,\n  371          metrics:metrics,\n  ...\n  386      scrollView.addConstraints(\n  387        NSLayoutConstraint.constraintsWithVisualFormat(\n  388:         \"V:|[playerRatingsView(==containerMinusQuickCommentaryViewHeight)]|\",\n  389          options:0,\n  390          metrics:metrics,\n  ...\n  394    end\n  395  \n  396:   def quickCommentaryViewHeight\n  397      47\n  398    end\n\n/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/incident_view_cell.rb:\n   14        Motion::Layout.new do |layout|\n   15          layout.view cell.contentView\n   16:         layout.subviews \"commentaryView\" => commentaryView\n   17           #               \"minuteView\" => minuteView\n   18:         layout.vertical \"|[commentaryView]|\"\n   19:         layout.horizontal \"|-20-[commentaryView]-20-|\"\n   20          #layout.horizontal \"|-20-[minuteView]-20-|\"\n   21        end\n   ..\n   40    def updateContents(incident)\n   41      self.incident = incident\n   42:     self.commentaryView.text = commentaryText\n   43      self.minuteView.text = minuteText\n   44    end\n   ..\n   58    end\n   59  \n   60:   def commentaryView\n   61:     @commentaryView ||= UICustomLabel.alloc.init.tap do |label|\n   62        label.lineBreakMode = NSLineBreakByWordWrapping\n   63        label.numberOfLines = 0\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneOS-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.app/TitleChallenge:\n    <binary>\n\n~/Projects/titlechallenge/build/iPhoneSimulator-6.1-Development/TitleChallenge.dSYM/Contents/Resources/DWARF/TitleChallenge:\n    <binary>\n\n138 matches across 6 files\n",
+					"settings":
+					{
+						"buffer_size": 25974,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_ratings/player_ratings_table_view.rb",
+					"settings":
+					{
+						"buffer_size": 1939,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/ahmet/Projects/titlechallenge/app/controllers/league_tables/league_tables_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1418,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_quick_view.rb",
+					"settings":
+					{
+						"buffer_size": 790,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 96.0,
+				"selected_items":
+				[
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"rubymot",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"rubymotion",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"ruby mot",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"rubymo",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubymoti",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"git satus",
+						"Git: Status"
+					],
+					[
+						"git satu",
+						"Set Syntax: SublimeGit Status"
+					],
+					[
+						"ruby moti",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubym",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"SublimeLinter",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"build",
+						"Build: Build"
+					],
+					[
+						"ruby motion",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"obb",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"list package",
+						"Package Control: List Packages"
+					],
+					[
+						"list packa",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"remoe",
+						"Package Control: Remove Package"
+					],
+					[
+						"Git: Status",
+						"Git: Status"
+					],
+					[
+						"git: diff",
+						"Git: Diff"
+					],
+					[
+						"git: status",
+						"Git: Status"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 489.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"ruby",
+					"clear",
+					"puts name",
+					"p name",
+					"name = 1",
+					"python",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/ahmet/Projects/titlechallenge/app/models/league_table.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/models/league_fixture.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/league_table_updater.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/league_tables/league_tables_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/app_delegate.rb",
+				"/Users/ahmet/Projects/titlechallenge/vendor/TestFlight/TestFlight+AsyncLogging.h",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/incident.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_ratings/player_ratings_table_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/tactics/team_sheet_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_change_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_fetch_request_table_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/match_incidents_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/Rakefile",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_view_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/squad/squad_table_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/squad/player_contract_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/squad/player_stats_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/continue_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_summary/home_highlight_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_summary/summary_table_cell_behaviour.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_summary/base_highlight_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/resources/theme.nss",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/match/results_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/Readme.md",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_label.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_icons.rb",
+				"/Users/ahmet/Projects/titlechallenge/.repl_history",
+				"/Users/ahmet/Projects/titlechallenge/app/models/player.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_ratings/standard_player_ratings_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/features/support/hooks.rb",
+				"/Users/ahmet/Projects/titlechallenge/vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Pods-project-headers.hmap",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/container.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/models/club.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/squad/squad_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/squad/squad_news_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/tactics/substitute_controller.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/lib/uploader.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/landingpage/show.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_promotions.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/stylesheets/js/jquery.validate.js",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_quotes.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/schema.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/controllers/base.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/spec/models/content_promotion_spec.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/controllers/content_promotions.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/content_promotion.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/production_logs.txt",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/pgdump.dump",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/helpers/used_products_helper.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/from_fms/usedmach.csv",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/controllers/landing_pages.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/layouts/application.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/app.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/064_add_api_locks_and_api_keys.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/config/application.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/_meta.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/stylesheets/core.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/javascripts/core.js",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/content.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/stylesheets/application.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/assets/stylesheets/application.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/service.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/javascripts/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.cfm",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/javascripts/tiny_mce/themes/advanced/source_editor.htm",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/landing_pages/index.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/landing_page.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/landing_pages/_form.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/layouts/application.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/controllers/landing_page.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/spec/models/landing_page_spec.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/spec/models/landing_page_image_spec.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/090_create_landing_pages.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_call_to_action.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/content_button.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_contact.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/spec/spec_helper.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/app.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/incident_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/.bundle/install.log",
+				"/Users/ahmet/Projects/titlechallenge/app/views/club/tactics/team_sheet/player_shirt.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/competition_fixture_runner.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/club/tactics/team_sheet/outfield_shirt.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/tactics/tactics_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/club/tactics/substitutes_view.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/ui_tactics_button_icon.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view_cell.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/helper_methods.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/club_colors.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/views/squad/player_stats_table_header.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/icons/arrow_icon.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/icons/shirt_button_icon.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/controllers/transfers/shortlist_controller.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/ball_button_icon.rb",
+				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/back_button.rb",
+				"/Users/ahmet/Projects/titlechallenge/.motion-bundler.rb",
+				"/Users/ahmet/Projects/titlechallenge/resources/ball.pcvd",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/generators.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/about.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/careers.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/parts.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/contact.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/legal.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/base/finance.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/stylesheets/themes/olive/style.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/060_add_position_and_publish_to_team_member_categories.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/javascripts/fckeditor/editor/skins/office2003/fck_dialog_ie6.js",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/parts_special_offer.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/kaminari/_prev_page.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/stylesheets/print.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/config/vhosts/production.vhosts.conf.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/javascripts/tiny_mce/utils/validate.js",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/javascripts/tiny_mce/plugins/visualblocks/css/visualblocks.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/contents/_form.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_literature_pdf.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/controllers/base.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_latestnews.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/config.ru",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/Capfile",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_depot_finder.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/app/views/shared/_archives.html.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/db/migrate/040_add_show_phone_and_show_email_to_team_member.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/layouts/application-ajax.erb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/public/admin/stylesheets/themes/kyan-default/layout.css",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/controllers/contents.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/models/news_article.rb",
+				"/Users/ahmet/Projects/greenshieldsjcb.com/admin/views/news_articles/_form.erb"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 91.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"commentaryView",
+					"CommentaryView",
+					"commentaryView",
+					"reloadData",
+					"update_commentary",
+					"newHigh",
+					"competitionFixtureRunner",
+					"kickOff!",
+					"new_highlight",
+					"newCommentary",
+					"EM.schedule_on_main do",
+					"schedule_on_main",
+					"League Tables",
+					"EM.schedule_on",
+					"add_highlight_to_table",
+					"EM.schedule_on_main",
+					"configure",
+					"add_highlight_to_table",
+					"add_highlight",
+					"newHighlight",
+					"newIncident",
+					"IncidentViewCell",
+					"main",
+					"prov",
+					"NEW IncidentViewCell",
+					"versusLabel",
+					"title",
+					"new_title",
+					"playingStyleLabel",
+					"All out attack",
+					"Kick Off!",
+					"processing week",
+					"primaryFontSize",
+					"label",
+					"customLabel",
+					"view",
+					"UICustomLabel.alloc.init.tap",
+					"length",
+					"playingStyleView",
+					"playing_style",
+					"style",
+					"landing_page_background",
+					"IMAGE_EXTENSIONS",
+					"process_extensions",
+					"content_wrap",
+					"content",
+					"service",
+					"content",
+					"admin_thumb",
+					"largePlayerShirtSizeMultiplier",
+					"sleeveRightPath",
+					"increaseShirtSize",
+					"increaseSize",
+					"helper",
+					"high_lum",
+					"high_lumiancnce",
+					"primaryColor",
+					"secondary",
+					"luminance",
+					"rootLayer",
+					"anotherLayer",
+					"rootLayer",
+					"upArrowView",
+					"rootLayer",
+					"insertSublayer",
+					"upArrow",
+					"scale",
+					"downArrowView",
+					", :object => @content",
+					"buttons",
+					"content_promotions",
+					"timerwolf",
+					"image_tag",
+					"Interested?",
+					"Intrested?",
+					"offer",
+					"Special Offers",
+					"container",
+					"img",
+					"mg",
+					"Document",
+					"document",
+					"promotion",
+					"Document",
+					"document",
+					"@content",
+					"content_document_id",
+					"params[:content_document_ids]",
+					"check_box_tag",
+					"<%= f.label",
+					"<%= check_box_tag",
+					"document",
+					"Document",
+					"document",
+					"Document",
+					"document",
+					"page_title",
+					"document",
+					"content_documents_contents",
+					"string",
+					"perma",
+					"permalink",
+					"main_img",
+					"news_article",
+					"containerView",
+					"addSubView",
+					"rootLayer",
+					"arrowView",
+					"addSublayer",
+					"frame",
+					"UIView.alloc.init",
+					"add_icon",
+					"goalLayer",
+					"CAShapeLayer.layer.tap",
+					"directionArrow",
+					"playingStyleView",
+					"UIView",
+					"containerView",
+					"UIView",
+					"CAShapeLayer.layer.tap",
+					"directionArrow",
+					"CAShapeLayer.layer.tap",
+					"ShirtButtonIcon",
+					"homepage_image",
+					"lead_img",
+					"homepage_image",
+					"homepage_images",
+					"button_caption"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"link_to_add_fields",
+					"SelectClubController",
+					"tabs",
+					"CoreImage",
+					"  {",
+					"\n  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/ahmet/Projects/titlechallenge"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/incident_view_cell.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3529,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1648,
+										1662
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_summary/match_summary_view.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2690,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1518,
+										1518
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_container_view.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1253,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1065,
+										1076
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/match_incidents_view.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1677,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										973,
+										1123
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/neutral_incident_view_cell.rb",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 141,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										32,
+										48
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/ahmet/Projects/titlechallenge/app/controllers/match/match_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11052,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4942,
+										4953
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2271.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25974,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												301,
+												315
+											],
+											[
+												331,
+												345
+											],
+											[
+												600,
+												614
+											],
+											[
+												834,
+												848
+											],
+											[
+												1045,
+												1059
+											],
+											[
+												1078,
+												1092
+											],
+											[
+												1328,
+												1342
+											],
+											[
+												1383,
+												1397
+											],
+											[
+												1564,
+												1578
+											],
+											[
+												1608,
+												1622
+											],
+											[
+												1841,
+												1855
+											],
+											[
+												2089,
+												2103
+											],
+											[
+												2218,
+												2232
+											],
+											[
+												2369,
+												2383
+											],
+											[
+												2550,
+												2564
+											],
+											[
+												2579,
+												2593
+											],
+											[
+												2644,
+												2658
+											],
+											[
+												2780,
+												2794
+											],
+											[
+												3023,
+												3037
+											],
+											[
+												3222,
+												3236
+											],
+											[
+												3494,
+												3508
+											],
+											[
+												3513,
+												3527
+											],
+											[
+												3621,
+												3635
+											],
+											[
+												3679,
+												3693
+											],
+											[
+												3873,
+												3887
+											],
+											[
+												4008,
+												4022
+											],
+											[
+												4035,
+												4049
+											],
+											[
+												5013,
+												5027
+											],
+											[
+												5043,
+												5057
+											],
+											[
+												5312,
+												5326
+											],
+											[
+												5546,
+												5560
+											],
+											[
+												5757,
+												5771
+											],
+											[
+												5790,
+												5804
+											],
+											[
+												6040,
+												6054
+											],
+											[
+												6095,
+												6109
+											],
+											[
+												6276,
+												6290
+											],
+											[
+												6320,
+												6334
+											],
+											[
+												6553,
+												6567
+											],
+											[
+												6801,
+												6815
+											],
+											[
+												6930,
+												6944
+											],
+											[
+												7176,
+												7190
+											],
+											[
+												7205,
+												7219
+											],
+											[
+												7270,
+												7284
+											],
+											[
+												7406,
+												7420
+											],
+											[
+												7649,
+												7663
+											],
+											[
+												7848,
+												7862
+											],
+											[
+												8120,
+												8134
+											],
+											[
+												8139,
+												8153
+											],
+											[
+												8247,
+												8261
+											],
+											[
+												8305,
+												8319
+											],
+											[
+												8499,
+												8513
+											],
+											[
+												8634,
+												8648
+											],
+											[
+												8661,
+												8675
+											],
+											[
+												9639,
+												9653
+											],
+											[
+												9669,
+												9683
+											],
+											[
+												9938,
+												9952
+											],
+											[
+												10172,
+												10186
+											],
+											[
+												10383,
+												10397
+											],
+											[
+												10416,
+												10430
+											],
+											[
+												10666,
+												10680
+											],
+											[
+												10721,
+												10735
+											],
+											[
+												10902,
+												10916
+											],
+											[
+												10946,
+												10960
+											],
+											[
+												11179,
+												11193
+											],
+											[
+												11427,
+												11441
+											],
+											[
+												11556,
+												11570
+											],
+											[
+												11812,
+												11826
+											],
+											[
+												11841,
+												11855
+											],
+											[
+												11906,
+												11920
+											],
+											[
+												12042,
+												12056
+											],
+											[
+												12285,
+												12299
+											],
+											[
+												12484,
+												12498
+											],
+											[
+												12756,
+												12770
+											],
+											[
+												12775,
+												12789
+											],
+											[
+												12883,
+												12897
+											],
+											[
+												12941,
+												12955
+											],
+											[
+												13135,
+												13149
+											],
+											[
+												13270,
+												13284
+											],
+											[
+												13297,
+												13311
+											],
+											[
+												14275,
+												14289
+											],
+											[
+												14305,
+												14319
+											],
+											[
+												14574,
+												14588
+											],
+											[
+												14861,
+												14875
+											],
+											[
+												14894,
+												14908
+											],
+											[
+												15144,
+												15158
+											],
+											[
+												15199,
+												15213
+											],
+											[
+												15380,
+												15394
+											],
+											[
+												15424,
+												15438
+											],
+											[
+												15657,
+												15671
+											],
+											[
+												15905,
+												15919
+											],
+											[
+												16034,
+												16048
+											],
+											[
+												16290,
+												16304
+											],
+											[
+												16319,
+												16333
+											],
+											[
+												16384,
+												16398
+											],
+											[
+												16520,
+												16534
+											],
+											[
+												16763,
+												16777
+											],
+											[
+												16962,
+												16976
+											],
+											[
+												17234,
+												17248
+											],
+											[
+												17253,
+												17267
+											],
+											[
+												17361,
+												17375
+											],
+											[
+												17419,
+												17433
+											],
+											[
+												17613,
+												17627
+											],
+											[
+												17748,
+												17762
+											],
+											[
+												17775,
+												17789
+											],
+											[
+												18753,
+												18767
+											],
+											[
+												18783,
+												18797
+											],
+											[
+												19052,
+												19066
+											],
+											[
+												19339,
+												19353
+											],
+											[
+												19372,
+												19386
+											],
+											[
+												19622,
+												19636
+											],
+											[
+												19677,
+												19691
+											],
+											[
+												19858,
+												19872
+											],
+											[
+												19902,
+												19916
+											],
+											[
+												20135,
+												20149
+											],
+											[
+												20383,
+												20397
+											],
+											[
+												20512,
+												20526
+											],
+											[
+												20748,
+												20762
+											],
+											[
+												20947,
+												20961
+											],
+											[
+												21219,
+												21233
+											],
+											[
+												21238,
+												21252
+											],
+											[
+												21346,
+												21360
+											],
+											[
+												21404,
+												21418
+											],
+											[
+												21598,
+												21612
+											],
+											[
+												21733,
+												21747
+											],
+											[
+												21760,
+												21774
+											],
+											[
+												22738,
+												22752
+											],
+											[
+												22768,
+												22782
+											],
+											[
+												23037,
+												23051
+											],
+											[
+												23324,
+												23338
+											],
+											[
+												23357,
+												23371
+											],
+											[
+												23607,
+												23621
+											],
+											[
+												23662,
+												23676
+											],
+											[
+												23843,
+												23857
+											],
+											[
+												23887,
+												23901
+											],
+											[
+												24120,
+												24134
+											],
+											[
+												24368,
+												24382
+											],
+											[
+												24497,
+												24511
+											],
+											[
+												24758,
+												24772
+											],
+											[
+												24777,
+												24791
+											],
+											[
+												24885,
+												24899
+											],
+											[
+												24943,
+												24957
+											],
+											[
+												25137,
+												25151
+											],
+											[
+												25272,
+												25286
+											],
+											[
+												25299,
+												25313
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										23327,
+										23327
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 6,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 8255.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_ratings/player_ratings_table_view.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1939,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										930,
+										987
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/Users/ahmet/Projects/titlechallenge/app/controllers/league_tables/league_tables_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1418,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										799,
+										799
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/Users/ahmet/Projects/titlechallenge/app/views/match/match_incidents/commentary_quick_view.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 790,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										330,
+										330
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-commit":
+			{
+				"height": 100.0
+			},
+			"position": "460 113 1491 1116 0 0 2560 1418 ",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"summaryview",
+						"app/views/match/match_summary/match_summary_view.rb"
+					],
+					[
+						"playerratingsview",
+						"app/views/match/match_ratings/player_ratings_table_view.rb"
+					],
+					[
+						"leaugetacon",
+						"app/controllers/league_tables/league_tables_controller.rb"
+					],
+					[
+						"league_table_co",
+						"app/controllers/league_tables/league_tables_controller.rb"
+					],
+					[
+						"incident",
+						"app/lib/incident.rb"
+					],
+					[
+						"matchincidentsview",
+						"app/views/match/match_incidents/match_incidents_view.rb"
+					],
+					[
+						"incidentviewcell",
+						"app/views/match/match_incidents/incident_view_cell.rb"
+					],
+					[
+						"commentaryquickview",
+						"app/views/match/match_incidents/commentary_quick_view.rb"
+					],
+					[
+						"league_table_con",
+						"app/controllers/league_tables/league_tables_controller.rb"
+					],
+					[
+						"rake",
+						"Rakefile"
+					],
+					[
+						"theme",
+						"resources/theme.nss"
+					],
+					[
+						"theme.n",
+						"resources/theme.nss"
+					],
+					[
+						"resource.nss",
+						"resources/theme.nss"
+					],
+					[
+						"home",
+						"app/views/match/match_summary/home_highlight_table_view_cell.rb"
+					],
+					[
+						"player.rb",
+						"app/models/player.rb"
+					],
+					[
+						"readme",
+						"Readme.md"
+					],
+					[
+						"playerratingtable",
+						"app/views/match/match_ratings/standard_player_ratings_table_view_cell.rb"
+					],
+					[
+						"commentary_view",
+						"app/views/match/match_incidents/commentary_view.rb"
+					],
+					[
+						"squad_cont",
+						"app/controllers/club/squad/squad_controller.rb"
+					],
+					[
+						"promotion",
+						"app/views/shared/_promotions.html.erb"
+					],
+					[
+						"uploader.rb",
+						"lib/uploader.rb"
+					],
+					[
+						"application.html",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"core.css",
+						"public/stylesheets/core.css"
+					],
+					[
+						"service",
+						"app/views/base/service.html.erb"
+					],
+					[
+						"landingpage/sho",
+						"app/views/landingpage/show.html.erb"
+					],
+					[
+						"landing_page",
+						"models/landing_page.rb"
+					],
+					[
+						"content_promo",
+						"models/content_promotion.rb"
+					],
+					[
+						"content.rb",
+						"models/content.rb"
+					],
+					[
+						"shared/",
+						"app/views/shared/_contact.html.erb"
+					],
+					[
+						"incident_view",
+						"app/views/match/match_incidents/incident_view_cell.rb"
+					],
+					[
+						"commentary",
+						"app/views/match/match_incidents/commentary_view.rb"
+					],
+					[
+						"outfie",
+						"app/views/club/tactics/team_sheet/outfield_shirt.rb"
+					],
+					[
+						"tactics",
+						"app/controllers/club/tactics/team_sheet_controller.rb"
+					],
+					[
+						"shirt_ico",
+						"app/lib/icons/shirt_button_icon.rb"
+					],
+					[
+						"shirt_icon",
+						"app/lib/icons/shirt_button_icon.rb"
+					],
+					[
+						"button_icn",
+						"app/lib/buttons/ball_button_icon.rb"
+					],
+					[
+						"button_icon",
+						"app/lib/icons/shirt_button_icon.rb"
+					],
+					[
+						"content/form",
+						"admin/views/contents/_form.erb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"shared/contact",
+						"app/views/shared/_contact.html.erb"
+					],
+					[
+						"layout",
+						"admin/views/layouts/application.erb"
+					],
+					[
+						"news_artic",
+						"models/news_article.rb"
+					],
+					[
+						"landing_page.rb",
+						"models/landing_page.rb"
+					],
+					[
+						"app.rb",
+						"admin/app.rb"
+					],
+					[
+						"sch",
+						"db/schema.rb"
+					],
+					[
+						"create_content_doc",
+						"db/migrate/092_create_content_documents_contents.rb"
+					],
+					[
+						"landingpage/inde",
+						"admin/views/landing_pages/index.erb"
+					],
+					[
+						"news_article/inde",
+						"admin/views/news_articles/index.erb"
+					],
+					[
+						"news_article/form",
+						"admin/views/news_articles/_form.erb"
+					],
+					[
+						"landing_page/form",
+						"admin/views/landing_pages/_form.erb"
+					],
+					[
+						"landingpage/edit",
+						"admin/views/landing_pages/edit.erb"
+					],
+					[
+						"admin/landingpage/ind",
+						"admin/views/landing_pages/index.erb"
+					],
+					[
+						"shirt_button",
+						"app/lib/icons/shirt_button_icon.rb"
+					],
+					[
+						"squad_contr",
+						"app/controllers/club/squad/squad_controller.rb"
+					],
+					[
+						"news_article.rb",
+						"models/news_article.rb"
+					],
+					[
+						"landing_page_image",
+						"models/landing_page_image.rb"
+					],
+					[
+						"create_news",
+						"db/migrate/002_create_news_articles.rb"
+					],
+					[
+						"news.rb",
+						"models/news_article.rb"
+					],
+					[
+						"base",
+						"app/controllers/base.rb"
+					],
+					[
+						"squad_but",
+						"app/lib/buttons/sub_nav/squad_button.rb"
+					],
+					[
+						"squad_table_header",
+						"app/views/squad/player_stats_table_header.rb"
+					],
+					[
+						"squad_table",
+						"app/views/squad/player_stats_table_header.rb"
+					],
+					[
+						"clubdetailsbutton",
+						"app/lib/buttons/sub_nav/club_details_button.rb"
+					],
+					[
+						"playershirt",
+						"app/views/club/tactics/team_sheet/player_shirt.rb"
+					],
+					[
+						"squad_button",
+						"app/lib/buttons/sub_nav/squad_button.rb"
+					],
+					[
+						"ui_custom_but",
+						"app/lib/ui_custom_button.rb"
+					],
+					[
+						"squad_con",
+						"app/controllers/club/squad/squad_controller.rb"
+					],
+					[
+						"seed.rb",
+						"app/db/seed.rb"
+					],
+					[
+						"choose_manage",
+						"app/controllers/new_game/choose_manager_controller.rb"
+					],
+					[
+						"tactics_con",
+						"app/controllers/club/tactics/tactics_controller.rb"
+					],
+					[
+						"club_dr",
+						"app/controllers/club/club_details_controller.rb"
+					],
+					[
+						"transfer_list_con",
+						"app/controllers/transfers/transfer_list_controller.rb"
+					],
+					[
+						"gamec",
+						"app/controllers/save_game_controller.rb"
+					],
+					[
+						"rakefile",
+						"Rakefile"
+					],
+					[
+						"club",
+						"app/models/club.rb"
+					],
+					[
+						"club.rb",
+						"app/models/club.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"generator",
+						"app/lib/injury_generator.rb"
+					],
+					[
+						"outfiel",
+						"app/views/club/tactics/team_sheet/outfield_shirt.rb"
+					],
+					[
+						"player_shirt",
+						"app/views/club/tactics/team_sheet/player_shirt.rb"
+					],
+					[
+						"out",
+						"app/views/club/tactics/team_sheet/outfield_shirt.rb"
+					],
+					[
+						"team_sheet_con",
+						"app/controllers/club/tactics/team_sheet_controller.rb"
+					],
+					[
+						"transfer_history_con",
+						"app/controllers/transfers/transfers_history_controller.rb"
+					],
+					[
+						"incident_view_cell",
+						"app/views/match/incident_view_cell.rb"
+					],
+					[
+						"shortlist",
+						"app/views/transfers/shortlist/shortlist_table_view.rb"
+					],
+					[
+						"short",
+						"app/controllers/transfers/shortlist_controller.rb"
+					],
+					[
+						"short_list",
+						"app/controllers/club/shortlist/club_shortlist_controller.rb"
+					],
+					[
+						"theme.nss",
+						"resources/theme.nss"
+					],
+					[
+						"player",
+						"app/models/player.rb"
+					],
+					[
+						"player_stats",
+						"app/views/squad/player_stats_table_view_cell.rb"
+					],
+					[
+						"playercontractra",
+						"app/views/squad/player_contract_table_view_cell.rb"
+					],
+					[
+						"squad_controll",
+						"app/controllers/club/squad/squad_controller.rb"
+					],
+					[
+						"transferlist_con",
+						"app/controllers/transfers/transfer_list_controller.rb"
+					],
+					[
+						"shortl",
+						"app/controllers/transfers/shortlist_controller.rb"
+					],
+					[
+						"substi",
+						"app/controllers/club/tactics/substitute_controller.rb"
+					],
+					[
+						"playerstatstableheader",
+						"app/views/squad/player_stats_table_header.rb"
+					],
+					[
+						"header",
+						"vendor/Pods/build/Pods.build/Release-iphonesimulator/Pods.build/Pods-project-headers.hmap"
+					],
+					[
+						"subs",
+						"app/controllers/club/tactics/substitute_controller.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"app_delegate",
+						"app/app_delegate.rb"
+					],
+					[
+						"results_con",
+						"app/controllers/match/results_controller.rb"
+					],
+					[
+						"player_stats_table_view_cell",
+						"app/views/squad/player_stats_table_view_cell.rb"
+					],
+					[
+						"news_item",
+						"app/models/news_item.rb"
+					],
+					[
+						"newsitem",
+						"app/models/news_item.rb"
+					],
+					[
+						"competition_fixture_runn",
+						"app/lib/competition_fixture_runner.rb"
+					],
+					[
+						"news_item_ge",
+						"app/lib/transfers/news_item_generator.rb"
+					],
+					[
+						"news_ite",
+						"app/models/news_item.rb"
+					],
+					[
+						"news_item_player",
+						"app/models/news_item_player_back_from_suspension.rb"
+					],
+					[
+						"squad_new",
+						"app/views/squad/squad_news_view.rb"
+					],
+					[
+						"squad_news",
+						"app/views/squad/squad_news_view.rb"
+					],
+					[
+						"container_con",
+						"app/controllers/container_controller.rb"
+					],
+					[
+						"current",
+						"app/save_game/current_save_game.rb"
+					],
+					[
+						"league_table",
+						"app/views/league_tables/league_table_view.rb"
+					],
+					[
+						"club_deta",
+						"app/controllers/club/club_details_controller.rb"
+					],
+					[
+						"uicustomswitch",
+						"app/lib/ui_custom_switch_table_view_cell.rb"
+					],
+					[
+						"container_co",
+						"app/controllers/container_controller.rb"
+					],
+					[
+						"container",
+						"app/lib/container.rb"
+					],
+					[
+						"club_detail",
+						"app/controllers/club/club_details_controller.rb"
+					],
+					[
+						"dash",
+						"app/controllers/dashboard_controller.rb"
+					],
+					[
+						"toolbar.rb",
+						"app/lib/toolbar.rb"
+					],
+					[
+						"squad",
+						"app/views/squad/squad_news_view.rb"
+					],
+					[
+						"table_view",
+						"app/views/league_tables/league_table_view_cell.rb"
+					],
+					[
+						"squad_",
+						"app/views/squad/squad_news_view.rb"
+					],
+					[
+						"squad_view",
+						"app/views/squad/squad_news_view.rb"
+					],
+					[
+						"results_table_view",
+						"app/views/results/results_table_view.rb"
+					],
+					[
+						"next_con",
+						"app/lib/next_controller.rb"
+					],
+					[
+						"squad_news_con",
+						"app/controllers/club/squad/squad_news_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 30.0,
+				"selected_items":
+				[
+					[
+						"",
+						"AboutController"
+					],
+					[
+						"return",
+						"textFieldShouldReturn"
+					]
+				],
+				"width": 606.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 293.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 191,
+			"workspace_name": ""
+		}
 	],
 	"workspaces":
 	{

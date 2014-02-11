@@ -1,32 +1,17 @@
 {
 	"installed_packages":
 	[
-		"All Autocomplete",
-		"Alternative Autocompletion",
 		"ApplySyntax",
 		"BracketHighlighter",
 		"DashDoc",
-		"Dotfiles Syntax Highlighting",
-		"Function Name Display",
 		"GitGutter",
-		"Github Color Theme",
-		"Gitignore",
-		"HTML5",
 		"LiveReload",
 		"ObjC2RubyMotion",
-		"Ruby Blue Color Scheme",
-		"Ruby Debugger",
 		"RubyMotion Autocomplete",
-		"RubyTest",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeLinter",
-		"SublimeREPL",
-		"Theme - Argonaut",
-		"Theme - Farzher",
-		"Theme - Flatland",
-		"Tomorrow Color Schemes",
-		"White Night Theme"
+		"Theme - Flatland"
 	]
 }
