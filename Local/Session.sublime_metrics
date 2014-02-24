@@ -2,37 +2,11 @@
 	"licensed": true,
 	"packages":
 	[
+		"Alignment",
 		"ApplySyntax",
 		"BracketHighlighter",
-		"GitGutter",
-		"LiveReload",
-		"ObjC2RubyMotion",
-		"Package Control",
-		"RubyMotion Autocomplete",
-		"SideBarEnhancements",
-		"SublimeGit",
-		"Theme - Flatland",
-		"ApplySyntax",
-		"BracketHighlighter",
-		"GitGutter",
-		"LiveReload",
-		"ObjC2RubyMotion",
-		"Package Control",
-		"RubyMotion Autocomplete",
-		"SublimeGit",
-		"Theme - Flatland",
-		"ApplySyntax",
-		"BracketHighlighter",
-		"GitGutter",
-		"LiveReload",
-		"ObjC2RubyMotion",
-		"Package Control",
-		"RubyMotion Autocomplete",
-		"SideBarEnhancements",
-		"SublimeGit",
-		"Theme - Flatland",
-		"ApplySyntax",
-		"BracketHighlighter",
+		"ColorPicker",
+		"DashDoc",
 		"GitGutter",
 		"LiveReload",
 		"ObjC2RubyMotion",
@@ -42,14 +16,14 @@
 		"SublimeGit",
 		"Theme - Flatland"
 	],
-	"startup_sec": 0.527799,
+	"startup_sec": 0.469027,
 	"syntax":
 	{
-		"HTML (Rails)": 5,
-		"Plain text": 5,
-		"Ruby": 300,
-		"Ruby on Rails": 2,
-		"SQL": 10
+		"HTML (Rails)": 6,
+		"Ruby": 143,
+		"Shell-Unix-Generic": 2,
+		"XML": 1,
+		"YAML": 3
 	},
-	"time": 1391504364
+	"time": 1393231767
 }
