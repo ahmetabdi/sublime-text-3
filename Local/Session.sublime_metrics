@@ -8,6 +8,7 @@
 		"ColorPicker",
 		"DashDoc",
 		"GitGutter",
+		"Google Spell Check",
 		"LiveReload",
 		"ObjC2RubyMotion",
 		"Package Control",
@@ -16,14 +17,12 @@
 		"SublimeGit",
 		"Theme - Flatland"
 	],
-	"startup_sec": 0.469027,
+	"startup_sec": 0.569455,
 	"syntax":
 	{
-		"HTML (Rails)": 6,
-		"Ruby": 143,
-		"Shell-Unix-Generic": 2,
-		"XML": 1,
-		"YAML": 3
+		"HTML (Rails)": 115,
+		"Ruby": 17,
+		"Ruby on Rails": 109
 	},
-	"time": 1393231767
+	"time": 1393491484
 }
