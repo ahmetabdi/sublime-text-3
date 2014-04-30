@@ -1,23 +1,35 @@
 {
 	"folder_history":
 	[
+		"/Users/ahmet/MyProjects/share",
 		"/Users/ahmet/Projects/app.blueskyeducation.co.uk",
+		"/Users/ahmet/MyProjects/share2",
+		"/Users/ahmet/Projects/whitelegg.com",
+		"/Users/ahmet/Projects/my.mumbu.com",
+		"/Users/ahmet/Projects/mumbu.com",
+		"/Users/ahmet/Projects/sagedemo/sageone_pay_shell",
+		"/Users/ahmet/Projects/sage/mysageone_uk/host_app",
+		"/Users/ahmet/Projects/sage/sage_one_accounts_uk",
+		"/Users/ahmet/Projects/sage/mysageone_uk",
+		"/Users/ahmet/Projects/greenshieldsjcb.com",
+		"/Users/ahmet/Projects/homecountiescarers.co.uk",
+		"/Users/ahmet/my-gap-medics",
+		"/Users/ahmet/Projects/my-gap-medics",
+		"/Users/ahmet/Desktop",
+		"/Users/ahmet/Projects/SearchKickDemo",
+		"/Users/ahmet/Projects/themoviedb",
 		"/Users/ahmet/MyProjects/phasertest",
 		"/Users/ahmet/MyProjects",
 		"/Users/ahmet/MyProjects/jstest",
 		"/Users/ahmet/MyProjects/testapp",
 		"/Users/ahmet/Projects/app.blueskyeducation.co.uk2",
 		"/Users/ahmet/MyProjects/themoviedb",
-		"/Users/ahmet/Projects/greenshieldsjcb.com",
 		"/Users/ahmet/Projects/titlechallenge",
-		"/Users/ahmet/Projects/themoviedb",
 		"/Users/ahmet/Projects/marketing.blueskyeducation.co.uk",
 		"/Users/ahmet/Projects/blueskyeducation-co-uk",
 		"/Users/ahmet/Projects/testjoybox",
 		"/Users/ahmet/Projects/ElementalTowerDefence",
-		"/Users/ahmet/Projects/whitelegg.com",
 		"/Users/ahmet/Projects/two_halves",
-		"/Users/ahmet/Projects/homecountiescarers.co.uk",
 		"/Users/ahmet/Projects/cbr2images",
 		"/Users/ahmet/Projects/title_table_test",
 		"/Users/ahmet/Projects/titletest",
@@ -40,17 +52,97 @@
 		"/Users/ahmet/Projects/titledigitalfont"
 	],
 	"last_version": 3059,
-	"last_window_id": 263,
+	"last_window_id": 459,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1305.0,
+		"new_window_height": 955.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"feat",
+						"featured_sub_category_products"
+					],
+					[
+						"sub_sub_ca",
+						"sub_sub_category_id"
+					],
+					[
+						"call_to",
+						"call_to_action_url"
+					],
+					[
+						"grouped",
+						"grouped_sub_sub_categories"
+					],
+					[
+						"end_incl",
+						"end_date_inclusive"
+					],
+					[
+						"accepted_cand",
+						"accepted_candidate_connection_in_pool"
+					],
+					[
+						"sse_evalu",
+						"sse_evaluation_evidence"
+					],
+					[
+						"publi",
+						"published_proforma"
+					],
+					[
+						"visit_the",
+						"visit_the_atkey_admin_tab"
+					],
+					[
+						"visit_the_atkey_admin",
+						"visit_the_atkey_admin_tab"
+					],
+					[
+						"visit_the_at",
+						"visit_the_atkey_admin_area"
+					],
+					[
+						"tutorial_gor",
+						"tutorial_group_"
+					],
+					[
+						"visit_the_atkey",
+						"visit_the_atkey_admin_tab"
+					],
+					[
+						"self_eva",
+						"self_evaluations"
+					],
+					[
+						"va",
+						"vao	validates_acceptance_of"
+					],
+					[
+						"not",
+						"notification"
+					],
+					[
+						"compl",
+						"completed_notifications"
+					],
+					[
+						"notifi",
+						"notification_output"
+					],
+					[
+						"orga",
+						"organisation_se_path"
+					],
+					[
+						"u",
+						"u"
+					],
 					[
 						"def",
 						"defcreate	def create - resource"
@@ -70,10 +162,6 @@
 					[
 						"organisation",
 						"organisation_objective"
-					],
-					[
-						"orga",
-						"organisation"
 					],
 					[
 						"visit_theo",
@@ -122,10 +210,6 @@
 					[
 						"Part",
 						"Partnerships"
-					],
-					[
-						"visit_the",
-						"visit_the_atkey_admin_area_for"
 					],
 					[
 						"atkey_or",
@@ -384,20 +468,44 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 96.0,
+				"height": 74.0,
 				"selected_items":
 				[
+					[
+						"git blame",
+						"Git: Blame"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"open",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"git ",
+						"Git: Fetch"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
 					[
 						"git status",
 						"Git: Status"
 					],
 					[
-						"spell",
-						"Google Spell Check"
+						"git staut",
+						"Git: Status"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"spell",
+						"Google Spell Check"
 					],
 					[
 						"installp",
@@ -410,10 +518,6 @@
 					[
 						"rubymot",
 						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"ruby mot",
@@ -512,7 +616,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 561.0
+				"width": 543.0
 			},
 			"console":
 			{
@@ -539,138 +643,138 @@
 			},
 			"file_history":
 			[
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_myblue/project_file.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_myblue/project.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/pdr_report.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/support/notification_helpers.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/support/delayed_job_macros.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/lib/notification_processor.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/notification.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/notice.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20110729080632_new_organisation_types.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/users/new_organisation.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/atkeyadmin/news_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/delayed_job_production.monitrc",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/script/delayed_job",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/cpd/delete_evidence.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/old_migrations/101_remove_org_permission_id.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/old_migrations/20100715085532_review_overview_comment.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/adviser_development_record.rb",
 				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/database.yml",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/level.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/tmp/letter_opener/1393251725_2cd1bbf/plain.html",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_myblue/project_membership.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_files_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20120501154517_create_project_files.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_myblue/project_file_group.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_file_groups_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/myblue_projects/project_file_groups.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_files/index.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/profile/edit_profile_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/marketing/profile/_event_notifications.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/profile_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/script/performance/profiler",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/atkeyadmin/professions/professions_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/database.yml.travis",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_files.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_files/edit.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/user.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_file_groups/edit.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/myblue_projects/project_memberships.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/models/project_membership_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/initializers/mail.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/models/message_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_file_groups/index.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/evidence_comments/_form.html.erb",
+				"/Users/ahmet/MyProjects/share/spec/scraper/comic_spec.rb",
+				"/Users/ahmet/MyProjects/share/spec/scraper/movie_spec.rb",
+				"/Users/ahmet/MyProjects/share/spec/models/comic_spec.rb",
+				"/Users/ahmet/MyProjects/share/.ruby-version",
+				"/Users/ahmet/MyProjects/share/.ruby-gemset",
+				"/Users/ahmet/MyProjects/share/.gitignore",
+				"/Users/ahmet/MyProjects/share/.rspec",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/tmp/cache/sass/27c6cd21d17a5e9e1c84f9295377ff8e52542d2b/fonts.scssc",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/stylesheets/app/pdf.css.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/executive_summary/pdf.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/lib/pdf_generator.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/padp_document.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/Procfile",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/stylesheets/app/core.scss",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/.idea/scopes/scope_settings.xml",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/.idea/runConfigurations/spec__app_blueskyeducation_co_uk.xml",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/.gitignore",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/stylesheets/app/tables.css",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/executive_summary_cell.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/executive_summary/result.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/exceptional.yml",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/locales/en.yml",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/executive_summary/show.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/orgadmin/reports/view_report.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/orgadmin/reports/view_strategic_improvement_plan.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/journal/view.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/.idea/vcs.xml",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/progress/_report.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/linemanager/reports/view_report.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/federations/base/view_report.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/stylesheets/app/user-orgadmin.scss",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/Gemfile",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_breadcrumbs.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_case_studies_module.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_industry_applications.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131212095440_add_page_ref_to_page_images.rb",
+				"/Users/ahmet/Projects/whitelegg.com/config/initializers/wrap_parameters.rb",
+				"/Users/ahmet/Projects/whitelegg.com/public/assets/print-ae76376c0ca751fa053dab8ee9fc62de.css",
+				"/Users/ahmet/Projects/whitelegg.com/Procfile",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/categories/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20140410082042_create_category_videos.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/case_study.rb",
+				"/Users/ahmet/Projects/whitelegg.com/config.ru",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/categories/_industry_application_fields.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/categories/_industry_applications_fields.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/.ruby-gemset",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/categories/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/categories/_form.html.erb",
+				"/Users/ahmet/MyProjects/share/lib/tasks/comics.rake",
+				"/Users/ahmet/MyProjects/share/lib/tasks/movies.rake",
+				"/Users/ahmet/MyProjects/share/config/locales/en.yml",
+				"/Users/ahmet/MyProjects/share/.idea/.rakeTasks",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/strategic_improvement_plan/_data.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/executive_summary/_data.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/reports/self_evaluation_executive_summary_report.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/environment.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/atkeyadmin/users/_se_evaluations.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_sse/sse_evaluation.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/schema.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/script/spec_server",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_sse/sse_proforma.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_sse/sse_improvement_plan.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/reports/school_self_evaluation.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/shared/reports/_create_sse_report.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/orgadmin/reports/_group_categories.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/shared/reports/all/_group_categories.html.erb",
 				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/public/_maintenance.html",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/routes.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/myblue_projects/project_files.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/project_file_groups.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/professions.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/permissions.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/cpds.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/categories.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/articles.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/objectives.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20100817085036_fix_ticket_closed_at.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/lib/friends.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/project_files_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20140225135227_create_project_file_groups.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/base_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/lib/abilities/myblue_projects.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20130117155023_update_expert_visibility.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20120927083601_update_projects_visibility.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20130225153035_update_visibility_set_by_organisation.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/shared/expert_visibility_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/partnerships/tab_visibility_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_visibility.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/user_ability.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/article.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/my_projects_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/base_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/initializers/backtrace_silencers.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20120312174821_event_bookings_delivered_at.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/script/breakpointer",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/201_create_padp_form_bs.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/docs/project_groups.graffle",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_myblue/project_categorisation.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_alerts/project_alert.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_file_groups/",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/SELECT first_name, second_name, number_of_logins F",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/helpers/application_helper.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/users_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/account/manage_mentors.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/public/assets/manifest-adviser.css",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/public/assets/manifest.css",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/112_date_activity_set.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/script/dbconsole",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/lib/reports_controller_extensions/report_permissions.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/organisation_admin/reports/report_permissions_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/job.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/permission.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/jobs.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/245_report_permission.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_reports/report_evaluation.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/atkeyadmin/permissions_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_reports/report.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/javascripts/reports.js",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/support/organisation_admin_helpers.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/federated_job.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/group_job.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/initializers/delayed_job.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/152_adviser_targets_job.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/support/helpers.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/layouts/myblue/project.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/job_ability.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/fixtures/jobs.yml",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/profile/join_org_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/projects_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/show.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/new.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/index.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/comment_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/create_project_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/delete_project_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/edit.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/delete.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/confirm_reactivate.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/confirm_mothball.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_sidebar.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_project.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_mothball_rules.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_form.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/stylesheets/myblue/project_files.css",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/javascripts/myblue/project_files.js",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_memberships_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_comments_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_members_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_topics_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/helpers/myblue/projects_helper.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/proposed_learning_plan_content.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/adviser_discussion_comment.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20120907143918_add_internal_proposed_learning_types.rb"
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/objectives/_achieved.html.erb",
+				"/Users/ahmet/MyProjects/share/Gemfile",
+				"/Users/ahmet/MyProjects/share/spec/spec_helper.rb",
+				"/Users/ahmet/MyProjects/share/Guardfile",
+				"/Users/ahmet/MyProjects/share/Procfile",
+				"/Users/ahmet/MyProjects/share/lib/tasks/comics.rb",
+				"/Users/ahmet/MyProjects/share/log/development.log",
+				"/Users/ahmet/MyProjects/share/config/schedule.rb",
+				"/Users/ahmet/MyProjects/share/db/seeds.rb",
+				"/Users/ahmet/MyProjects/share/app/views/layouts/application.html.erb",
+				"/Users/ahmet/MyProjects/share/README.md",
+				"/Users/ahmet/MyProjects/share/config/database.yml.sample",
+				"/Users/ahmet/MyProjects/share/config/database.yml",
+				"/Users/ahmet/MyProjects/share/config/puma.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/assets/stylesheets/core.css.scss",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/candidates/organisation/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/candidates/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/assets/stylesheets/organisation/organisation.css.scss",
+				"/Users/ahmet/Projects/my.mumbu.com/app/assets/stylesheets/candidate/candidate.css.scss",
+				"/Users/ahmet/Projects/my.mumbu.com/app/assets/javascripts/core.js",
+				"/Users/ahmet/Projects/my.mumbu.com/db/migrate/20131016132614_create_organisations.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/config/initializers/carrierwave.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/.idea/runConfigurations/spec__my_mumbu_com.xml",
+				"/Users/ahmet/Projects/my.mumbu.com/.idea/runConfigurations/Development__my_mumbu_com.xml",
+				"/Users/ahmet/Projects/my.mumbu.com/.env",
+				"/Users/ahmet/Projects/my.mumbu.com/config/locales/en/views/candidates/organisations.yml",
+				"/Users/ahmet/Projects/my.mumbu.com/spec/factories/organisations.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/lib/organisation_searcher.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/models/organisation.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/db/schema.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/dashboard/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/profile/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/account/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/search/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/talent_pools/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/shared/_links.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/controllers/organisations/search_controller.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/assets/javascripts/organisation/organisation.js",
+				"/Users/ahmet/Projects/my.mumbu.com/app/controllers/candidates/sessions_controller.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/candidates/reference_mailer/validation_request.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/controllers/candidates/candidate_references_controller.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/config/locales/en/views/candidates/candidate_references.yml",
+				"/Users/ahmet/Projects/my.mumbu.com/app/workers/reference_notifier.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/mailers/candidates/reference_mailer.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/candidates/shared/_links.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/controllers/candidates/registrations_controller.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/README.md",
+				"/Users/ahmet/Projects/my.mumbu.com/log/test.log",
+				"/Users/ahmet/Projects/my.mumbu.com/config/locales/en/mailers/candidates/reference_mailer.yml",
+				"/Users/ahmet/Projects/my.mumbu.com/spec/models/candidate_reference_spec.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/spec/factories/candidate_references.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/models/candidate_reference.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/lib/candidate_searcher.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/models/candidate.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/tmp/cache/assets/development/sprockets/b60ae9eb3ddf9b53377273d628f44810",
+				"/Users/ahmet/Projects/my.mumbu.com/tmp/cache/assets/development/sprockets/d70036bdaca05be231b3797d61474c0a",
+				"/Users/ahmet/Projects/my.mumbu.com/tmp/cache/assets/development/sprockets/84cabdcb3a4df200ef7a64429257d830"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 23.0
 			},
 			"find_in_files":
 			{
@@ -685,134 +789,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"project_file",
-					"project_file_group",
-					"interests",
-					"project_file_no_groups",
-					"joins",
-					"where",
-					"You have no folders created yet",
-					"Manage Files",
-					"@membership.manageable_project_file_groups",
-					"is_project_owner",
-					"project",
-					"edit_myblue_project_file_path",
-					"label",
-					"project_file",
-					"You are not authorised to access this page.",
-					"load_and_authorize_resource",
-					"CanCan::AccessDenied",
-					"Updating folders for the project",
-					":download",
-					"rb",
-					"Upload files to the project",
-					"load_and_authorize_resource",
-					"Updating folders for the project:",
-					"Manage Folders",
-					"manage folders",
-					"manageable_project_file_groups",
-					"You are not authorised to access this page.",
-					"Manage folders",
-					"Basic user",
-					"Line Manager",
-					"Report 1",
-					"line_manager",
-					"setup_permissions",
-					"level 1",
-					"project_file_group",
-					"project_file_groups",
-					"projects/files",
-					"Project files",
-					"Manage Folders",
-					"render files",
-					"partial files",
-					"files",
-					"project_files",
-					"project_file_groups",
-					"project_file_grou",
-					"project_file_group",
-					"project_files",
-					"project_file_groups",
-					"groups",
-					"rc",
-					"@categories",
-					"resources_header",
-					"My Resources",
-					"file",
-					"Kyan::Uploadable::ClassMethods",
-					"project_file_group",
-					"project_group",
-					"project_files",
-					":61",
-					"label",
-					"project_file",
-					"manageable_project_files",
-					"project_files",
-					"manageable_project_files",
-					"project_files",
-					"manageable_project_files",
-					"membership",
-					"project",
-					"No project files uploaded.",
-					"calendar_permission",
-					"resources_permission",
-					"View news article",
-					"org_priority",
-					"user",
-					"login_app_primary_user",
-					"New organisation priority",
-					"New organisation priority »",
-					"Organisation: SSE School Change\nOrganisation Objectives\nOrganisation priorities\nNew organisation priority",
-					"Organisation: SSE School Change\nOrganisation Objectives\nOrganisation priorities\nNew organisation priority »",
-					"FactoryGirl.create(:job",
-					"Check the boxes to select users that belong to this group",
-					":xpath",
-					"login_app_primary_user",
-					"\"Invite users\"",
-					"\"Details\"",
-					"BlueSky overall stats »",
-					"select \"",
-					"within",
-					"CPD Activities",
-					"Activites",
-					"CPD Activites",
-					"click_on \"CPD\"",
-					"partnership_tab",
-					"PartnershipsTab",
-					"Tick to turn on tabs for this Partnership",
-					"PartnershipTab",
-					"PartnershipTabs",
-					"Tab.all",
-					"login_app_user",
-					":message",
-					"FactoryGirl.create(:message",
-					"tab_hidden",
-					"Select the tabs you would like to hide from the navigation.",
-					"nav_sub",
-					"valid_file_formats",
-					"Document label",
-					"doc",
-					"iconv",
-					"require",
-					"geo",
-					"file",
-					"@premises",
-					"Imported Organisations",
-					"imported",
-					"atkey_organisation_premises_path",
-					"imported_organisations",
-					"Import organisations »",
-					" \n",
-					"Imported Organisations",
-					"Imported Organsisations",
-					"Admin »",
+					"remove_column",
+					"drop_column",
+					".report_table",
+					"executive_summary/pdf",
+					"<%= render :partial => 'executive_summary'",
+					"report",
+					"Generated",
+					"table",
+					"#content_main",
+					"The report results",
+					"\n\nThe report results below were b",
+					"\nThe report results below were b",
+					"The report results below were b",
+					"The report results below were base",
+					"The report results below were based on the following criteria being choosen:\n",
+					"executive_summary_report",
+					"Self Evaluation Executive Summary Report",
+					"sendgrid",
+					"group_proformas",
+					"grouped_proformas",
+					"link_to @candidate.email",
+					".phone",
+					"organisation",
+					"<li class=\"email\"",
+					"profile.partials.details.phone",
+					"not_a_member",
+					"Not a member",
+					"register",
+					"Register today",
+					"Thank you for verifying this reference!",
+					"Please click the link",
+					"validation_request",
+					"phone-number",
+					".phone-number",
+					"xe118",
+					"phone_number",
+					"Phone number",
+					"S3",
+					"S3_ENF",
+					"def logo_for",
+					"223",
+					"validates :job_ids",
+					"Must be atleast",
+					"Reporting date range: ",
+					"se activity report from being saved",
+					"<h3>Individuals</h3>",
+					"Individuals",
+					"Create Self Evaluation Activity Report",
+					"validates :job_ids",
+					"Individuals",
+					"Job ids can't be blank",
+					"proformas",
+					"group_proformas",
+					"unarchi",
+					"UK manufacturing for over 70 years",
+					"UK manufacturing for over 80 years",
+					"image",
+					"medium",
 					"url",
-					"FactoryGirl.create(:job",
-					"jobs",
-					"job",
-					"jobs",
-					"save",
-					"Save"
+					"add_column",
+					"Industry applications",
+					"link_to news_article.title",
+					"NewsArticle",
+					".joins",
+					"featured_sub_category_products",
+					"category_videos",
+					"change_column",
+					"url",
+					"category_videos",
+					"file",
+					".html_safe",
+					"Team/Faculty Aspect Evaluations",
+					"Criteria Selection",
+					"Select groups that the reviewee must belong to.",
+					"Self Evaluation Records submitted on or after this date",
+					"completed_proformas",
+					"Self Evaluation Proforma Report",
+					"devise.en.yml",
+					"devise.en",
+					"defaults",
+					".yml",
+					"no_search_results_found",
+					"t(en",
+					"wkhtmltopdf",
+					"Team/Faculty Aspect Evaluations",
+					"The report results below were based on the following criteria being choosen:",
+					"precompile",
+					"stylesheet_link_tag",
+					"stylesheet_link-tag",
+					"random",
+					"url_for",
+					"related_news",
+					"related_case_studies",
+					"auth",
+					"simple_auth",
+					"vhost",
+					"btn-primary",
+					"category_videos_fields",
+					"friendly_id",
+					"wysiwyg",
+					"please confirm",
+					"clear confirm you are",
+					"The report results below were based on the following criteria being choosen:",
+					"section-nav-item",
+					"data-bg",
+					"employee",
+					"payRun",
+					"salary",
+					"bonus",
+					"salary",
+					"PayRunEntryProcessor",
+					"last",
+					"datetime",
+					"Self Evaluation Records submitted on or after this date",
+					"Self Evaluation Records submitted on or after this date\\",
+					"Self Evaluation Proforma Report",
+					"Aspect Evaluation Evidence",
+					"Improvement Plan Entries",
+					"enable_processing",
+					" Strategic Improvement Plan Report",
+					"Team/Organisation aspect evaluations",
+					"Team/Faculty Aspect Evaluations",
+					"Organisation Aspect Evaluations",
+					"Team/Faculty Aspect Evaluations",
+					"Submitted after date",
+					":sse_proformas",
+					"sse_proformas",
+					"The report results below were based on the following criteria being choosen:"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -820,6 +924,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"whitelegg_development",
 					"link_to_add_fields",
 					"SelectClubController",
 					"tabs",
@@ -865,516 +970,516 @@
 				"selected_items":
 				[
 					[
-						"project.rb",
-						"app/models/_myblue/project.rb"
+						"readme",
+						"README.md"
 					],
 					[
-						"notification_helpers",
-						"spec/acceptance/support/notification_helpers.rb"
+						"pdf.scs",
+						"app/assets/stylesheets/app/pdf.css.erb"
 					],
 					[
-						"delayed_job_marc",
-						"spec/support/delayed_job_macros.rb"
+						".scss",
+						"app/assets/stylesheets/app/core.scss"
 					],
 					[
-						"project_file.rb",
-						"app/models/_myblue/project_file.rb"
+						"executive_summary/",
+						"app/cells/executive_summary/pdf.html.erb"
 					],
 					[
-						"project_files_spec",
-						"spec/acceptance/app/myblue/projects/project_files_spec.rb"
-					],
-					[
-						"project_file_contr",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_file_group_con",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"project_file_group.rb",
-						"app/models/_myblue/project_file_group.rb"
-					],
-					[
-						"project_file_gr",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"project_file_groups.rb",
-						"spec/factories/myblue_projects/project_file_groups.rb"
-					],
-					[
-						"project_files_cont",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"create_project_spec.rb",
-						"spec/acceptance/app/myblue/projects/create_project_spec.rb"
-					],
-					[
-						"database",
-						"config/database.yml"
-					],
-					[
-						"project_files_spec.rb",
-						"spec/acceptance/app/myblue/projects/project_files_spec.rb"
-					],
-					[
-						"",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"project_file_controller.rb",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_files/index",
-						"app/views/myblue/project_files/index.html.erb"
-					],
-					[
-						"project_meme",
-						"app/models/_myblue/project_membership.rb"
-					],
-					[
-						"user.rb",
-						"app/models/user.rb"
-					],
-					[
-						"project_file_groups_con",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"project_file_groups/index",
-						"app/views/myblue/project_file_groups/index.html.erb"
-					],
-					[
-						"project_file_grou",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"project_file",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"_files.html",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"project_file_groups/edit",
-						"app/views/myblue/project_file_groups/edit.html.erb"
-					],
-					[
-						"project_files/edit",
-						"app/views/myblue/project_files/edit.html.erb"
-					],
-					[
-						"myblue/base_con",
-						"app/controllers/myblue/base_controller.rb"
-					],
-					[
-						"ability",
-						"lib/abilities/myblue_projects.rb"
-					],
-					[
-						"base_con",
-						"app/controllers/base_controller.rb"
-					],
-					[
-						"project_file_groups",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"membership.rb",
-						"app/models/_myblue/project_membership.rb"
-					],
-					[
-						"project_file_group/in",
-						"app/views/myblue/project_file_groups/index.html.erb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"project_file_con",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_files_con",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_files/inde",
-						"app/views/myblue/project_files/index.html.erb"
-					],
-					[
-						"project_files_controller.rb",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"_files.ht",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"project_mebe",
-						"app/models/_myblue/project_membership.rb"
-					],
-					[
-						"project_memeber",
-						"spec/models/project_membership_spec.rb"
-					],
-					[
-						"myblue/base",
-						"app/controllers/myblue/base_controller.rb"
-					],
-					[
-						"project_file_group",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"job.rb",
-						"app/models/job.rb"
-					],
-					[
-						"permission.rb",
-						"app/models/permission.rb"
-					],
-					[
-						"report_perm",
-						"lib/reports_controller_extensions/report_permissions.rb"
-					],
-					[
-						"jobs.rb",
-						"spec/factories/jobs.rb"
-					],
-					[
-						"project_files.rb",
-						"spec/factories/myblue_projects/project_files.rb"
-					],
-					[
-						"myblue/projects/show",
-						"app/views/myblue/projects/show.html.erb"
-					],
-					[
-						"project/show",
-						"app/views/myblue/projects/show.html.erb"
-					],
-					[
-						"project_file.r",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"projects_controller",
-						"app/controllers/myblue/projects_controller.rb"
-					],
-					[
-						"projects/_files",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"projects_controller.rb",
-						"app/controllers/myblue/projects_controller.rb"
-					],
-					[
-						"create_project_files",
-						"db/migrate/20120501154517_create_project_files.rb"
-					],
-					[
-						"project_files",
-						"db/migrate/20120501154517_create_project_files.rb"
-					],
-					[
-						"resource_control",
-						"app/controllers/resources_controller.rb"
-					],
-					[
-						"resources_contr",
-						"app/controllers/resources_controller.rb"
-					],
-					[
-						"form_document",
-						"app/views/resources/_form_document.html.erb"
-					],
-					[
-						"add_documen",
-						"app/views/resources/add_document.html.erb"
-					],
-					[
-						"project_files_contr",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_file_group/index",
-						"app/views/myblue/project_file_groups/index.html.erb"
-					],
-					[
-						"project_file_gro",
-						"app/models/_myblue/project_file_group.rb"
-					],
-					[
-						"project_fiel.rb",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"create_project_file",
-						"db/migrate/20120501154517_create_project_files.rb"
-					],
-					[
-						"_files.html.erb",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"project_file_groups/inde",
-						"app/views/myblue/project_file_groups/index.html.erb"
-					],
-					[
-						"files.html.erb",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"project.html.erb",
-						"app/views/layouts/myblue/project.html.erb"
-					],
-					[
-						"myblue/project/files",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"projcet_file.rb",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"project_file_groups_control",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"create_project_file_gr",
-						"db/migrate/20140225135227_create_project_file_groups.rb"
-					],
-					[
-						"group.rb",
-						"app/models/group.rb"
-					],
-					[
-						"resource_group",
-						"app/models/resource_group.rb"
-					],
-					[
-						"news_spec",
-						"spec/acceptance/app/organisation_admin/news/news_spec.rb"
-					],
-					[
-						"news_spec.rb",
-						"spec/acceptance/app/atkeyadmin/news/news_spec.rb"
-					],
-					[
-						"orgadmin/news_con",
-						"app/controllers/orgadmin/news_controller.rb"
-					],
-					[
-						"orgadmin/news/inde",
-						"app/views/orgadmin/news/index.html.erb"
-					],
-					[
-						"factories/article",
-						"spec/factories/articles.rb"
-					],
-					[
-						"factories/organisation_objec",
-						"spec/factories/organisation_objectives.rb"
-					],
-					[
-						"factories/organisation_prior",
-						"spec/factories/organisation_priorities.rb"
-					],
-					[
-						"priorities/index",
-						"app/views/orgadmin/organisation_priorities/index.html.erb"
-					],
-					[
-						"objectives.rb",
-						"spec/factories/objectives.rb"
-					],
-					[
-						"factories/objec",
-						"spec/factories/objectives.rb"
-					],
-					[
-						"user_groups_spec",
-						"spec/acceptance/app/organisation_admin/users/user_groups_spec.rb"
-					],
-					[
-						"app_de",
-						"app/app_delegate.rb"
-					],
-					[
-						"rakefile",
-						"Rakefile"
-					],
-					[
-						"overall_stats",
-						"app/views/atkeyadmin/reports/overall_stats.html.erb"
-					],
-					[
-						".rvmrc",
-						".rvmrc"
-					],
-					[
-						"factories/cpd",
-						"spec/factories/cpds.rb"
-					],
-					[
-						"organisation_spec",
-						"spec/acceptance/app/atkeyadmin/organisations/organisation_spec.rb"
-					],
-					[
-						"edit_cpd_ac",
-						"spec/acceptance/app/user/cpd_activities/edit_cpd_activity_spec.rb"
-					],
-					[
-						"permissions/acces",
-						"spec/acceptance/app/organisation_admin/permissions/access_spec.rb"
-					],
-					[
-						"account_con",
-						"app/controllers/account_controller.rb"
+						"view_report.html.erb",
+						"app/views/orgadmin/reports/view_report.html.erb"
 					],
 					[
 						"gemfile",
 						"Gemfile"
 					],
 					[
-						"gefile",
-						"Gemfile"
+						"categories/show",
+						"app/views/categories/show.html.erb"
 					],
 					[
-						"partnership",
-						"app/models/_tabs/partnership_tab.rb"
+						"",
+						".ruby-gemset"
 					],
 					[
-						"message",
-						"spec/models/message_spec.rb"
+						".rake",
+						"lib/tasks/comics.rake"
 					],
 					[
-						"resource_cate",
-						"app/models/resource_category.rb"
+						"self_evaluation_executive_summary_report.",
+						"app/models/reports/self_evaluation_executive_summary_report.rb"
 					],
 					[
-						"resources_spec",
-						"spec/acceptance/app/organisation_admin/resources/resources_spec.rb"
+						"se_evaluation.rb",
+						"app/models/_sse/sse_evaluation.rb"
 					],
 					[
-						"edit_tabs",
-						"app/views/myblue/users/edit_tabs.html.erb"
+						"sse_proforma.rb",
+						"app/models/_sse/sse_proforma.rb"
 					],
 					[
-						"user_tab",
-						"spec/acceptance/app/organisation_admin/users/update_user_details_spec.rb"
+						"_group_categories.html.erb",
+						"app/views/shared/reports/all/_group_categories.html.erb"
 					],
 					[
-						"user_tab.rb",
-						"app/models/_tabs/user_tab.rb"
+						"proc",
+						"Procfile"
 					],
 					[
-						"myblue/users",
-						"app/controllers/myblue/users_controller.rb"
+						"procfile",
+						"Procfile"
 					],
 					[
-						"layout/app",
-						"app/views/layouts/application.html.erb"
+						"config",
+						"config.ru"
 					],
 					[
-						"ability.rb",
-						"app/models/user_ability.rb"
+						"core.css",
+						"app/assets/stylesheets/core.css.scss"
 					],
 					[
-						"spec_helper",
-						"spec/spec_helper.rb"
+						"organisaions.yml",
+						"config/locales/en/views/candidates/organisations.yml"
 					],
 					[
-						"professions_spce.rb",
-						"spec/acceptance/app/atkeyadmin/professions/professions_spec.rb"
-					],
-					[
-						"observation_spec",
-						"spec/models/observation_spec.rb"
-					],
-					[
-						"article_docu",
-						"app/models/article_document.rb"
-					],
-					[
-						"article_doc",
-						"app/models/article_document.rb"
-					],
-					[
-						"article.rb",
-						"app/models/article.rb"
-					],
-					[
-						"news_con",
-						"app/controllers/atkeyadmin/news_controller.rb"
-					],
-					[
-						"standards_spec",
-						"spec/acceptance/app/atkeyadmin/standards/standards_spec.rb"
-					],
-					[
-						"organisation_premises",
-						"app/models/organisation_premises.rb"
-					],
-					[
-						"organisation_premises_con",
-						"app/controllers/atkeyadmin/organisation_premises_controller.rb"
-					],
-					[
-						"organi",
-						"app/models/organisation.rb"
-					],
-					[
-						"organisations.rb",
-						"spec/factories/organisations.rb"
-					],
-					[
-						"contact.rb",
-						"app/models/contact.rb"
-					],
-					[
-						"organisation_auth",
-						"app/models/organisation_authority.rb"
+						"schema.rb",
+						"db/schema.rb"
 					],
 					[
 						"organisation.rb",
 						"app/models/organisation.rb"
 					],
 					[
-						"organisations_controll",
-						"app/controllers/atkeyadmin/organisations_controller.rb"
+						"organisations/show.htmlerb",
+						"app/views/organisations/account/show.html.erb"
 					],
 					[
-						"organisation_controller",
-						"app/controllers/atkeyadmin/organisations_controller.rb"
+						"organisations/show",
+						"app/views/organisations/profile/show.html.erb"
 					],
 					[
-						"orgnisations/primary",
-						"app/views/atkeyadmin/organisations/primary_user.html.erb"
+						"organisations/show.html",
+						"app/views/organisations/dashboard/show.html.erb"
 					],
 					[
-						"county.rb",
-						"app/models/county.rb"
+						"organisation/show.h",
+						"app/views/organisations/dashboard/show.html.erb"
 					],
 					[
-						"organisations/form",
-						"app/views/atkeyadmin/organisations/_form.html.erb"
+						"register",
+						"app/controllers/candidates/registrations_controller.rb"
 					],
 					[
-						"users_con",
-						"app/controllers/atkeyadmin/users_controller.rb"
+						"candidate_references_controller.rb",
+						"app/controllers/candidates/candidate_references_controller.rb"
 					],
 					[
-						"users/view",
-						"app/views/atkeyadmin/users/view.html.erb"
+						"candidate/show.html.erb",
+						"app/views/organisations/candidates/show.html.erb"
+					],
+					[
+						"organisation_upload",
+						"app/uploaders/organisation_avatar_uploader.rb"
+					],
+					[
+						"ruby-veri",
+						".ruby-version"
+					],
+					[
+						"mailer.",
+						"app/mailers/candidates/reference_mailer.rb"
+					],
+					[
+						"orgprofdeta",
+						"app/views/organisations/profile/_details_edit.html.erb"
+					],
+					[
+						"readme.",
+						"README.md"
+					],
+					[
+						"uploader",
+						"app/uploaders/organisation_avatar_uploader.rb"
+					],
+					[
+						"se_strategic_improvement_plan_report_spec.rb",
+						"spec/acceptance/app/organisation_admin/reports/se_strategic_improvement_plan_report_spec.rb"
+					],
+					[
+						"se_strategic_improvement_plan_report_spec",
+						"spec/acceptance/app/organisation_admin/reports/se_strategic_improvement_plan_report_spec.rb"
+					],
+					[
+						"_group_catego",
+						"app/views/shared/reports/all/_group_categories.html.erb"
+					],
+					[
+						"_group_categories",
+						"app/views/shared/reports/all/_group_categories.html.erb"
+					],
+					[
+						"create_sse_report.h",
+						"app/views/shared/reports/_create_sse_report.html.erb"
+					],
+					[
+						"redactor_i",
+						"app/uploaders/redactor_rails_picture_uploader.rb"
+					],
+					[
+						"industry_ap",
+						"app/uploaders/industry_application_uploader.rb"
+					],
+					[
+						"indstry_applicatio",
+						"app/uploaders/industry_application_uploader.rb"
+					],
+					[
+						"industry_application",
+						"app/views/partials/_industry_applications.html.erb"
+					],
+					[
+						"products/index",
+						"app/views/products/index.html.erb"
+					],
+					[
+						"categories/index.",
+						"app/views/admin/sub_categories/index.html.erb"
+					],
+					[
+						"case_study.rb",
+						"app/models/case_study.rb"
+					],
+					[
+						"case_studies/index",
+						"app/views/case_studies/index.html.erb"
+					],
+					[
+						"news_articles/inde",
+						"app/views/news_articles/index.html.erb"
+					],
+					[
+						"case_studies/index.html",
+						"app/views/case_studies/index.html.erb"
+					],
+					[
+						"news_article_image",
+						"app/uploaders/news_article_image_uploader.rb"
+					],
+					[
+						"news_article/form",
+						"app/views/admin/news_articles/_form.html.erb"
+					],
+					[
+						"news_article.rb",
+						"app/models/news_article.rb"
+					],
+					[
+						"news_articles/index",
+						"app/views/news_articles/index.html.erb"
+					],
+					[
+						"base_image_up",
+						"app/uploaders/base_image_uploader.rb"
+					],
+					[
+						"product.rb",
+						"app/models/product.rb"
+					],
+					[
+						"seeds.rb",
+						"db/seeds.rb"
+					],
+					[
+						"readm.emd",
+						"README.md"
+					],
+					[
+						"categories/form",
+						"app/views/admin/categories/_form.html.erb"
+					],
+					[
+						"industry_appli",
+						"app/views/partials/_industry_applications.html.erb"
+					],
+					[
+						"categories/show.html.erb",
+						"app/views/categories/show.html.erb"
+					],
+					[
+						"industry_application.rb",
+						"app/models/industry_application.rb"
+					],
+					[
+						"content_blocks.html",
+						"app/views/partials/_content_blocks.html.erb"
+					],
+					[
+						"categories_controller",
+						"app/controllers/admin/categories_controller.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"add_url_text",
+						"db/migrate/20140423154114_add_url_text_to_content_blocks.rb"
+					],
+					[
+						"industry_applications",
+						"app/views/partials/_industry_applications.html.erb"
+					],
+					[
+						"categories/show.ht",
+						"app/views/categories/show.html.erb"
+					],
+					[
+						"about_controller",
+						"app/controllers/about_controller.rb"
+					],
+					[
+						"breadc",
+						"config/breadcrumbs.rb"
+					],
+					[
+						"categories/show.html",
+						"app/views/categories/show.html.erb"
+					],
+					[
+						"categories_conto",
+						"app/controllers/categories_controller.rb"
+					],
+					[
+						"change_file",
+						"db/migrate/20140423102632_change_file_to_url_in_category_videos.rb"
+					],
+					[
+						"category_video",
+						"db/migrate/20140410082042_create_category_videos.rb"
+					],
+					[
+						"_video_fields",
+						"app/views/admin/categories/_category_video_fields.html.erb"
+					],
+					[
+						"se_activity_report.rb",
+						"app/models/_reports/se_activity_report.rb"
+					],
+					[
+						"se_proforma.rb",
+						"app/models/_sse/sse_proforma.rb"
+					],
+					[
+						"all/group_cate",
+						"app/views/shared/reports/all/_group_categories.html.erb"
+					],
+					[
+						"reports_controller.rb",
+						"app/controllers/atkeyadmin/reports_controller.rb"
+					],
+					[
+						"proforma.rb",
+						"app/models/_sse/sse_proforma.rb"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						"devise.en.yml",
+						"config/locales/en/defaults/devise.en.yml"
+					],
+					[
+						".html.erb",
+						"app/views/admin/invitations/new.html.erb"
+					],
+					[
+						"en.yml",
+						"config/locales/en.yml"
+					],
+					[
+						"database",
+						"config/database.yml"
+					],
+					[
+						"user.rb",
+						"app/models/admin_user.rb"
+					],
+					[
+						"content_blocks.html.erb",
+						"app/views/partials/_content_blocks.html.erb"
+					],
+					[
+						"industry_applications.html",
+						"app/views/partials/_industry_applications.html.erb"
+					],
+					[
+						"sse_improvement_plan.rb",
+						"app/models/_sse/sse_improvement_plan.rb"
+					],
+					[
+						"view_stra",
+						"app/views/orgadmin/reports/view_strategic_improvement_plan.html.erb"
+					],
+					[
+						"report_evaluation.rb",
+						"app/models/_reports/report_evaluation.rb"
+					],
+					[
+						"sse_improvement",
+						"app/models/_sse/sse_improvement_plan.rb"
+					],
+					[
+						"application.css",
+						"app/assets/stylesheets/application.css"
+					],
+					[
+						"print.css",
+						"app/assets/stylesheets/print/print.css.scss"
+					],
+					[
+						".yml",
+						"config/locales/en.yml"
+					],
+					[
+						"genera.",
+						"app/views/news_articles/general.html.erb"
+					],
+					[
+						"news_article_con",
+						"app/controllers/news_articles_controller.rb"
+					],
+					[
+						"news_article_controller",
+						"app/controllers/news_articles_controller.rb"
+					],
+					[
+						"sub_category/show.html.erb",
+						"app/views/sub_category/show.html.erb"
+					],
+					[
+						"news/index.",
+						"app/views/news_articles/index.html.erb"
+					],
+					[
+						"routes.rb",
+						"config/routes.rb"
+					],
+					[
+						"related_news.html",
+						"app/views/partials/_related_news.html.erb"
+					],
+					[
+						"related_case_stud",
+						"app/views/partials/_related_case_studies.html.erb"
+					],
+					[
+						"admin/categories/form",
+						"app/views/admin/categories/_form.html.erb"
+					],
+					[
+						"sub_category.rb",
+						"app/models/sub_category.rb"
+					],
+					[
+						"admin/core.css",
+						"app/assets/stylesheets/admin/bootstrap/_carousel.scss"
+					],
+					[
+						"admin.css",
+						"app/assets/stylesheets/admin.css"
+					],
+					[
+						"products/form",
+						"app/views/admin/products/_form.html.erb"
+					],
+					[
+						"categories_controller.rb",
+						"app/controllers/admin/categories_controller.rb"
+					],
+					[
+						"categories_cont",
+						"app/controllers/categories_controller.rb"
+					],
+					[
+						"categories/index",
+						"app/views/admin/categories/index.html.erb"
+					],
+					[
+						"sub_category/show.html.",
+						"app/views/sub_category/show.html.erb"
+					],
+					[
+						"helper.rb",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"products_ocnt",
+						"app/controllers/products_controller.rb"
+					],
+					[
+						"lib/select",
+						"lib/select.rb"
+					],
+					[
+						"sse_improvemtn_plan",
+						"app/models/_sse/sse_improvement_plan.rb"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js.erb"
+					],
+					[
+						"assets/print.cs",
+						"app/assets/stylesheets/print.css"
+					],
+					[
+						"schemarb",
+						"db/schema.rb"
+					],
+					[
+						"process",
+						"app/services/pay_run_entry_processor.rb"
+					],
+					[
+						"pay_run.rb",
+						"app/models/pay_run.rb"
+					],
+					[
+						"employee",
+						"app/models/employee.rb"
+					],
+					[
+						"employee.rb",
+						"app/models/employee.rb"
+					],
+					[
+						"add_start",
+						"db/migrate/20140416091540_add_startdate_to_employees.rb"
+					],
+					[
+						"add_startdate",
+						"db/migrate/20140416091540_add_startdate_to_employees.rb"
+					],
+					[
+						"_welcome",
+						"app/views/welcome/_welcome.html.erb"
+					],
+					[
+						"improvement_plan.rb",
+						"app/models/_sse/sse_improvement_plan.rb"
+					],
+					[
+						"school_self_eval",
+						"app/models/reports/school_self_evaluation.rb"
+					],
+					[
+						"aspect_evaluation_contro",
+						"app/controllers/orgadmin/sse/aspect_evaluations_controller.rb"
+					],
+					[
+						"init",
+						"config/initializers/secret_token.rb"
 					]
 				],
 				"width": 0.0
@@ -1407,14 +1512,14 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 353.0,
+			"side_bar_width": 184.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 1
 			}
 		},
-		"new_window_width": 2299.0
+		"new_window_width": 1589.0
 	},
 	"windows":
 	[
@@ -1423,6 +1528,86 @@
 			{
 				"selected_items":
 				[
+					[
+						"feat",
+						"featured_sub_category_products"
+					],
+					[
+						"sub_sub_ca",
+						"sub_sub_category_id"
+					],
+					[
+						"call_to",
+						"call_to_action_url"
+					],
+					[
+						"grouped",
+						"grouped_sub_sub_categories"
+					],
+					[
+						"end_incl",
+						"end_date_inclusive"
+					],
+					[
+						"accepted_cand",
+						"accepted_candidate_connection_in_pool"
+					],
+					[
+						"sse_evalu",
+						"sse_evaluation_evidence"
+					],
+					[
+						"publi",
+						"published_proforma"
+					],
+					[
+						"visit_the",
+						"visit_the_atkey_admin_tab"
+					],
+					[
+						"visit_the_atkey_admin",
+						"visit_the_atkey_admin_tab"
+					],
+					[
+						"visit_the_at",
+						"visit_the_atkey_admin_area"
+					],
+					[
+						"tutorial_gor",
+						"tutorial_group_"
+					],
+					[
+						"visit_the_atkey",
+						"visit_the_atkey_admin_tab"
+					],
+					[
+						"self_eva",
+						"self_evaluations"
+					],
+					[
+						"va",
+						"vao	validates_acceptance_of"
+					],
+					[
+						"not",
+						"notification"
+					],
+					[
+						"compl",
+						"completed_notifications"
+					],
+					[
+						"notifi",
+						"notification_output"
+					],
+					[
+						"orga",
+						"organisation_se_path"
+					],
+					[
+						"u",
+						"u"
+					],
 					[
 						"def",
 						"defcreate	def create - resource"
@@ -1442,10 +1627,6 @@
 					[
 						"organisation",
 						"organisation_objective"
-					],
-					[
-						"orga",
-						"organisation"
 					],
 					[
 						"visit_theo",
@@ -1494,10 +1675,6 @@
 					[
 						"Part",
 						"Partnerships"
-					],
-					[
-						"visit_the",
-						"visit_the_atkey_admin_area_for"
 					],
 					[
 						"atkey_or",
@@ -1755,72 +1932,48 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/edit_project_spec.rb",
-					"settings":
-					{
-						"buffer_size": 8870,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_file_groups/index.html.erb",
-					"settings":
-					{
-						"buffer_size": 1683,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_files/index.html.erb",
-					"settings":
-					{
-						"buffer_size": 1715,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_file_groups/edit.html.erb",
-					"settings":
-					{
-						"buffer_size": 737,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/projects_controller.rb",
-					"settings":
-					{
-						"buffer_size": 2420,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_files_controller.rb",
-					"settings":
-					{
-						"buffer_size": 2042,
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 96.0,
+				"height": 74.0,
 				"selected_items":
 				[
+					[
+						"git blame",
+						"Git: Blame"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"open",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"git ",
+						"Git: Fetch"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
 					[
 						"git status",
 						"Git: Status"
 					],
 					[
-						"spell",
-						"Google Spell Check"
+						"git staut",
+						"Git: Status"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"spell",
+						"Google Spell Check"
 					],
 					[
 						"installp",
@@ -1833,10 +1986,6 @@
 					[
 						"rubymot",
 						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"ruby mot",
@@ -1935,7 +2084,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 561.0
+				"width": 543.0
 			},
 			"console":
 			{
@@ -1962,138 +2111,138 @@
 			},
 			"file_history":
 			[
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_file_groups/edit.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_file_groups_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_myblue/project_file_group.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_myblue/project_file.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_myblue/project_membership.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_myblue/project.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/pdr_report.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/routes.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20120501154517_create_project_files.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_files.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_files/edit.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/orgadmin/reports/edit_professional_objective.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/marketing/profile/edit_password.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/users/edit_tabs.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/evidence_comments/edit.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20090618131557_evidence_document_indexes.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/entry_document.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/environment.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/support/notification_helpers.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/support/delayed_job_macros.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/lib/notification_processor.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/notification.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/notice.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20110729080632_new_organisation_types.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/users/new_organisation.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/atkeyadmin/news_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/delayed_job_production.monitrc",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/script/delayed_job",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/cpd/delete_evidence.html.erb",
+				"/Users/ahmet/MyProjects/share/Gemfile",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/old_migrations/101_remove_org_permission_id.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/old_migrations/20100715085532_review_overview_comment.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/adviser_development_record.rb",
 				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/database.yml",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/level.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/tmp/letter_opener/1393251725_2cd1bbf/plain.html",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_files_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/myblue_projects/project_file_groups.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_files/index.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/profile/edit_profile_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/marketing/profile/_event_notifications.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/profile_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/script/performance/profiler",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/atkeyadmin/professions/professions_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/database.yml.travis",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/user.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/myblue_projects/project_memberships.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/models/project_membership_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/initializers/mail.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/models/message_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_file_groups/index.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/evidence_comments/_form.html.erb",
+				"/Users/ahmet/MyProjects/share/spec/scraper/comic_spec.rb",
+				"/Users/ahmet/MyProjects/share/spec/scraper/movie_spec.rb",
+				"/Users/ahmet/MyProjects/share/spec/models/comic_spec.rb",
+				"/Users/ahmet/MyProjects/share/.ruby-version",
+				"/Users/ahmet/MyProjects/share/.ruby-gemset",
+				"/Users/ahmet/MyProjects/share/.gitignore",
+				"/Users/ahmet/MyProjects/share/.rspec",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/tmp/cache/sass/27c6cd21d17a5e9e1c84f9295377ff8e52542d2b/fonts.scssc",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/stylesheets/app/pdf.css.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/executive_summary/pdf.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/lib/pdf_generator.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/padp_document.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/Procfile",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/stylesheets/app/core.scss",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/.idea/scopes/scope_settings.xml",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/.idea/runConfigurations/spec__app_blueskyeducation_co_uk.xml",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/.gitignore",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/stylesheets/app/tables.css",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/executive_summary_cell.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/executive_summary/result.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/exceptional.yml",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/locales/en.yml",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/executive_summary/show.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/orgadmin/reports/view_report.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/orgadmin/reports/view_strategic_improvement_plan.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/journal/view.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/.idea/vcs.xml",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/progress/_report.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/linemanager/reports/view_report.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/federations/base/view_report.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/stylesheets/app/user-orgadmin.scss",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/Gemfile",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_breadcrumbs.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_case_studies_module.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_industry_applications.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131212095440_add_page_ref_to_page_images.rb",
+				"/Users/ahmet/Projects/whitelegg.com/config/initializers/wrap_parameters.rb",
+				"/Users/ahmet/Projects/whitelegg.com/public/assets/print-ae76376c0ca751fa053dab8ee9fc62de.css",
+				"/Users/ahmet/Projects/whitelegg.com/Procfile",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/categories/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20140410082042_create_category_videos.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/case_study.rb",
+				"/Users/ahmet/Projects/whitelegg.com/config.ru",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/categories/_industry_application_fields.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/categories/_industry_applications_fields.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/.ruby-gemset",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/categories/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/categories/_form.html.erb",
+				"/Users/ahmet/MyProjects/share/lib/tasks/comics.rake",
+				"/Users/ahmet/MyProjects/share/lib/tasks/movies.rake",
+				"/Users/ahmet/MyProjects/share/config/locales/en.yml",
+				"/Users/ahmet/MyProjects/share/.idea/.rakeTasks",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/strategic_improvement_plan/_data.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/cells/executive_summary/_data.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/reports/self_evaluation_executive_summary_report.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/environment.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/atkeyadmin/users/_se_evaluations.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_sse/sse_evaluation.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/schema.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/script/spec_server",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_sse/sse_proforma.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_sse/sse_improvement_plan.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/reports/school_self_evaluation.rb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/shared/reports/_create_sse_report.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/orgadmin/reports/_group_categories.html.erb",
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/shared/reports/all/_group_categories.html.erb",
 				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/public/_maintenance.html",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/myblue_projects/project_files.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/project_file_groups.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/professions.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/permissions.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/cpds.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/categories.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/articles.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/objectives.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20100817085036_fix_ticket_closed_at.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/lib/friends.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/project_files_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20140225135227_create_project_file_groups.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/base_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/lib/abilities/myblue_projects.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20130117155023_update_expert_visibility.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20120927083601_update_projects_visibility.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20130225153035_update_visibility_set_by_organisation.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/shared/expert_visibility_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/partnerships/tab_visibility_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_visibility.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/user_ability.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/article.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/my_projects_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/base_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/initializers/backtrace_silencers.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/20120312174821_event_bookings_delivered_at.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/script/breakpointer",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/201_create_padp_form_bs.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/docs/project_groups.graffle",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_myblue/project_categorisation.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_alerts/project_alert.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_file_groups/",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/SELECT first_name, second_name, number_of_logins F",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/helpers/application_helper.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/users_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/account/manage_mentors.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/public/assets/manifest-adviser.css",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/public/assets/manifest.css",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/112_date_activity_set.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/script/dbconsole",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/lib/reports_controller_extensions/report_permissions.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/organisation_admin/reports/report_permissions_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/job.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/permission.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/factories/jobs.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/245_report_permission.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_reports/report_evaluation.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/atkeyadmin/permissions_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/_reports/report.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/javascripts/reports.js",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/support/organisation_admin_helpers.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/federated_job.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/group_job.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/config/initializers/delayed_job.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/db/migrate/152_adviser_targets_job.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/support/helpers.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/layouts/myblue/project.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/models/job_ability.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/fixtures/jobs.yml",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/profile/join_org_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/projects_controller.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/show.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/new.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/index.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/comment_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/create_project_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/delete_project_spec.rb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/edit.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/delete.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/confirm_reactivate.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/confirm_mothball.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_sidebar.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_project.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_mothball_rules.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/projects/_form.html.erb",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/stylesheets/myblue/project_files.css",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/assets/javascripts/myblue/project_files.js",
-				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_memberships_controller.rb"
+				"/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/objectives/_achieved.html.erb",
+				"/Users/ahmet/MyProjects/share/spec/spec_helper.rb",
+				"/Users/ahmet/MyProjects/share/Guardfile",
+				"/Users/ahmet/MyProjects/share/Procfile",
+				"/Users/ahmet/MyProjects/share/lib/tasks/comics.rb",
+				"/Users/ahmet/MyProjects/share/log/development.log",
+				"/Users/ahmet/MyProjects/share/config/schedule.rb",
+				"/Users/ahmet/MyProjects/share/db/seeds.rb",
+				"/Users/ahmet/MyProjects/share/app/views/layouts/application.html.erb",
+				"/Users/ahmet/MyProjects/share/README.md",
+				"/Users/ahmet/MyProjects/share/config/database.yml.sample",
+				"/Users/ahmet/MyProjects/share/config/database.yml",
+				"/Users/ahmet/MyProjects/share/config/puma.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/assets/stylesheets/core.css.scss",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/candidates/organisation/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/candidates/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/assets/stylesheets/organisation/organisation.css.scss",
+				"/Users/ahmet/Projects/my.mumbu.com/app/assets/stylesheets/candidate/candidate.css.scss",
+				"/Users/ahmet/Projects/my.mumbu.com/app/assets/javascripts/core.js",
+				"/Users/ahmet/Projects/my.mumbu.com/db/migrate/20131016132614_create_organisations.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/config/initializers/carrierwave.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/.idea/runConfigurations/spec__my_mumbu_com.xml",
+				"/Users/ahmet/Projects/my.mumbu.com/.idea/runConfigurations/Development__my_mumbu_com.xml",
+				"/Users/ahmet/Projects/my.mumbu.com/.env",
+				"/Users/ahmet/Projects/my.mumbu.com/config/locales/en/views/candidates/organisations.yml",
+				"/Users/ahmet/Projects/my.mumbu.com/spec/factories/organisations.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/lib/organisation_searcher.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/models/organisation.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/db/schema.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/dashboard/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/profile/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/account/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/search/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/talent_pools/show.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/organisations/shared/_links.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/controllers/organisations/search_controller.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/assets/javascripts/organisation/organisation.js",
+				"/Users/ahmet/Projects/my.mumbu.com/app/controllers/candidates/sessions_controller.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/candidates/reference_mailer/validation_request.html.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/controllers/candidates/candidate_references_controller.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/config/locales/en/views/candidates/candidate_references.yml",
+				"/Users/ahmet/Projects/my.mumbu.com/app/workers/reference_notifier.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/mailers/candidates/reference_mailer.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/views/candidates/shared/_links.erb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/controllers/candidates/registrations_controller.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/README.md",
+				"/Users/ahmet/Projects/my.mumbu.com/log/test.log",
+				"/Users/ahmet/Projects/my.mumbu.com/config/locales/en/mailers/candidates/reference_mailer.yml",
+				"/Users/ahmet/Projects/my.mumbu.com/spec/models/candidate_reference_spec.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/spec/factories/candidate_references.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/models/candidate_reference.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/lib/candidate_searcher.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/app/models/candidate.rb",
+				"/Users/ahmet/Projects/my.mumbu.com/tmp/cache/assets/development/sprockets/b60ae9eb3ddf9b53377273d628f44810",
+				"/Users/ahmet/Projects/my.mumbu.com/tmp/cache/assets/development/sprockets/d70036bdaca05be231b3797d61474c0a",
+				"/Users/ahmet/Projects/my.mumbu.com/tmp/cache/assets/development/sprockets/84cabdcb3a4df200ef7a64429257d830"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 23.0
 			},
 			"find_in_files":
 			{
@@ -2108,134 +2257,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"project_file_groups",
-					"Manage files »",
-					"Manage Files",
-					"manage_files",
-					"Updating folders for the project",
-					"project_file",
-					"project_file_group",
-					"interests",
-					"project_file_no_groups",
-					"joins",
-					"where",
-					"You have no folders created yet",
-					"Manage Files",
-					"@membership.manageable_project_file_groups",
-					"is_project_owner",
-					"project",
-					"edit_myblue_project_file_path",
-					"label",
-					"project_file",
-					"You are not authorised to access this page.",
-					"load_and_authorize_resource",
-					"CanCan::AccessDenied",
-					"Updating folders for the project",
-					":download",
-					"rb",
-					"Upload files to the project",
-					"load_and_authorize_resource",
-					"Updating folders for the project:",
-					"Manage Folders",
-					"manage folders",
-					"manageable_project_file_groups",
-					"You are not authorised to access this page.",
-					"Manage folders",
-					"Basic user",
-					"Line Manager",
-					"Report 1",
-					"line_manager",
-					"setup_permissions",
-					"level 1",
-					"project_file_group",
-					"project_file_groups",
-					"projects/files",
-					"Project files",
-					"Manage Folders",
-					"render files",
-					"partial files",
-					"files",
-					"project_files",
-					"project_file_groups",
-					"project_file_grou",
-					"project_file_group",
-					"project_files",
-					"project_file_groups",
-					"groups",
-					"rc",
-					"@categories",
-					"resources_header",
-					"My Resources",
-					"file",
-					"Kyan::Uploadable::ClassMethods",
-					"project_file_group",
-					"project_group",
-					"project_files",
-					":61",
-					"label",
-					"project_file",
-					"manageable_project_files",
-					"project_files",
-					"manageable_project_files",
-					"project_files",
-					"manageable_project_files",
-					"membership",
-					"project",
-					"No project files uploaded.",
-					"calendar_permission",
-					"resources_permission",
-					"View news article",
-					"org_priority",
-					"user",
-					"login_app_primary_user",
-					"New organisation priority",
-					"New organisation priority »",
-					"Organisation: SSE School Change\nOrganisation Objectives\nOrganisation priorities\nNew organisation priority",
-					"Organisation: SSE School Change\nOrganisation Objectives\nOrganisation priorities\nNew organisation priority »",
-					"FactoryGirl.create(:job",
-					"Check the boxes to select users that belong to this group",
-					":xpath",
-					"login_app_primary_user",
-					"\"Invite users\"",
-					"\"Details\"",
-					"BlueSky overall stats »",
-					"select \"",
-					"within",
-					"CPD Activities",
-					"Activites",
-					"CPD Activites",
-					"click_on \"CPD\"",
-					"partnership_tab",
-					"PartnershipsTab",
-					"Tick to turn on tabs for this Partnership",
-					"PartnershipTab",
-					"PartnershipTabs",
-					"Tab.all",
-					"login_app_user",
-					":message",
-					"FactoryGirl.create(:message",
-					"tab_hidden",
-					"Select the tabs you would like to hide from the navigation.",
-					"nav_sub",
-					"valid_file_formats",
-					"Document label",
-					"doc",
-					"iconv",
-					"require",
-					"geo",
-					"file",
-					"@premises",
-					"Imported Organisations",
-					"imported",
-					"atkey_organisation_premises_path",
-					"imported_organisations",
-					"Import organisations »",
-					" \n",
-					"Imported Organisations",
-					"Imported Organsisations",
-					"Admin »",
+					"remove_column",
+					"drop_column",
+					".report_table",
+					"executive_summary/pdf",
+					"<%= render :partial => 'executive_summary'",
+					"report",
+					"Generated",
+					"table",
+					"#content_main",
+					"The report results",
+					"\n\nThe report results below were b",
+					"\nThe report results below were b",
+					"The report results below were b",
+					"The report results below were base",
+					"The report results below were based on the following criteria being choosen:\n",
+					"executive_summary_report",
+					"Self Evaluation Executive Summary Report",
+					"sendgrid",
+					"group_proformas",
+					"grouped_proformas",
+					"link_to @candidate.email",
+					".phone",
+					"organisation",
+					"<li class=\"email\"",
+					"profile.partials.details.phone",
+					"not_a_member",
+					"Not a member",
+					"register",
+					"Register today",
+					"Thank you for verifying this reference!",
+					"Please click the link",
+					"validation_request",
+					"phone-number",
+					".phone-number",
+					"xe118",
+					"phone_number",
+					"Phone number",
+					"S3",
+					"S3_ENF",
+					"def logo_for",
+					"223",
+					"validates :job_ids",
+					"Must be atleast",
+					"Reporting date range: ",
+					"se activity report from being saved",
+					"<h3>Individuals</h3>",
+					"Individuals",
+					"Create Self Evaluation Activity Report",
+					"validates :job_ids",
+					"Individuals",
+					"Job ids can't be blank",
+					"proformas",
+					"group_proformas",
+					"unarchi",
+					"UK manufacturing for over 70 years",
+					"UK manufacturing for over 80 years",
+					"image",
+					"medium",
 					"url",
-					"FactoryGirl.create(:job"
+					"add_column",
+					"Industry applications",
+					"link_to news_article.title",
+					"NewsArticle",
+					".joins",
+					"featured_sub_category_products",
+					"category_videos",
+					"change_column",
+					"url",
+					"category_videos",
+					"file",
+					".html_safe",
+					"Team/Faculty Aspect Evaluations",
+					"Criteria Selection",
+					"Select groups that the reviewee must belong to.",
+					"Self Evaluation Records submitted on or after this date",
+					"completed_proformas",
+					"Self Evaluation Proforma Report",
+					"devise.en.yml",
+					"devise.en",
+					"defaults",
+					".yml",
+					"no_search_results_found",
+					"t(en",
+					"wkhtmltopdf",
+					"Team/Faculty Aspect Evaluations",
+					"The report results below were based on the following criteria being choosen:",
+					"precompile",
+					"stylesheet_link_tag",
+					"stylesheet_link-tag",
+					"random",
+					"url_for",
+					"related_news",
+					"related_case_studies",
+					"auth",
+					"simple_auth",
+					"vhost",
+					"btn-primary",
+					"category_videos_fields",
+					"friendly_id",
+					"wysiwyg",
+					"please confirm",
+					"clear confirm you are",
+					"The report results below were based on the following criteria being choosen:",
+					"section-nav-item",
+					"data-bg",
+					"employee",
+					"payRun",
+					"salary",
+					"bonus",
+					"salary",
+					"PayRunEntryProcessor",
+					"last",
+					"datetime",
+					"Self Evaluation Records submitted on or after this date",
+					"Self Evaluation Records submitted on or after this date\\",
+					"Self Evaluation Proforma Report",
+					"Aspect Evaluation Evidence",
+					"Improvement Plan Entries",
+					"enable_processing",
+					" Strategic Improvement Plan Report",
+					"Team/Organisation aspect evaluations",
+					"Team/Faculty Aspect Evaluations",
+					"Organisation Aspect Evaluations",
+					"Team/Faculty Aspect Evaluations",
+					"Submitted after date",
+					":sse_proformas",
+					"sse_proformas",
+					"The report results below were based on the following criteria being choosen:"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2243,6 +2392,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"whitelegg_development",
 					"link_to_add_fields",
 					"SelectClubController",
 					"tabs",
@@ -2260,1095 +2410,14 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "/Users/ahmet/Projects/app.blueskyeducation.co.uk"
+					"path": "/Users/ahmet/MyProjects/share"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/spec/acceptance/app/myblue/projects/edit_project_spec.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8870,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1057,
-										1057
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"apply_syntax_touched": true,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_file_groups/index.html.erb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1683,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1109,
-										1109
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"apply_syntax_touched": true,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_files/index.html.erb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1715,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1101,
-										1101
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"apply_syntax_touched": true,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/views/myblue/project_file_groups/edit.html.erb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 737,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										168,
-										168
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"apply_syntax_touched": true,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 4,
-							"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/projects_controller.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2420,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1193,
-										1193
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"apply_syntax_touched": true,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/Users/ahmet/Projects/app.blueskyeducation.co.uk/app/controllers/myblue/project_files_controller.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2042,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										467,
-										467
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"apply_syntax_touched": true,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -3369,18 +2438,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.62377954779,
 					1.0
 				],
 				"rows":
@@ -3402,7 +2464,7 @@
 			{
 				"height": 100.0
 			},
-			"position": "201 82 2299 1327 0 0 2560 1418 ",
+			"position": "485 206 1589 977 0 0 2560 1418 ",
 			"project": "",
 			"replace":
 			{
@@ -3415,516 +2477,516 @@
 				"selected_items":
 				[
 					[
-						"project_file_groups/edit",
-						"app/views/myblue/project_file_groups/edit.html.erb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"project_file_group_con",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"project_files_controller",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_files/index",
-						"app/views/myblue/project_files/index.html.erb"
-					],
-					[
-						"routes.rb",
-						"config/routes.rb"
-					],
-					[
-						"project.rb",
-						"app/models/_myblue/project.rb"
-					],
-					[
-						"project_file_controller",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"projects_controller.rb",
-						"app/controllers/myblue/projects_controller.rb"
-					],
-					[
-						"edit_project_spec.rb",
-						"spec/acceptance/app/myblue/projects/edit_project_spec.rb"
-					],
-					[
-						"notification_helpers",
-						"spec/acceptance/support/notification_helpers.rb"
-					],
-					[
-						"delayed_job_marc",
-						"spec/support/delayed_job_macros.rb"
-					],
-					[
-						"project_file.rb",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"project_files_spec",
-						"spec/acceptance/app/myblue/projects/project_files_spec.rb"
-					],
-					[
-						"project_file_contr",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_file_group.rb",
-						"app/models/_myblue/project_file_group.rb"
-					],
-					[
-						"project_file_gr",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"project_file_groups.rb",
-						"spec/factories/myblue_projects/project_file_groups.rb"
-					],
-					[
-						"project_files_cont",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"create_project_spec.rb",
-						"spec/acceptance/app/myblue/projects/create_project_spec.rb"
-					],
-					[
-						"database",
-						"config/database.yml"
-					],
-					[
-						"project_files_spec.rb",
-						"spec/acceptance/app/myblue/projects/project_files_spec.rb"
-					],
-					[
-						"",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"project_file_controller.rb",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_meme",
-						"app/models/_myblue/project_membership.rb"
-					],
-					[
-						"user.rb",
-						"app/models/user.rb"
-					],
-					[
-						"project_file_groups_con",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"project_file_groups/index",
-						"app/views/myblue/project_file_groups/index.html.erb"
-					],
-					[
-						"project_file_grou",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"project_file",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"_files.html",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"project_files/edit",
-						"app/views/myblue/project_files/edit.html.erb"
-					],
-					[
-						"myblue/base_con",
-						"app/controllers/myblue/base_controller.rb"
-					],
-					[
-						"ability",
-						"lib/abilities/myblue_projects.rb"
-					],
-					[
-						"base_con",
-						"app/controllers/base_controller.rb"
-					],
-					[
-						"project_file_groups",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"membership.rb",
-						"app/models/_myblue/project_membership.rb"
-					],
-					[
-						"project_file_group/in",
-						"app/views/myblue/project_file_groups/index.html.erb"
-					],
-					[
-						"project_file_con",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_files_con",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_files/inde",
-						"app/views/myblue/project_files/index.html.erb"
-					],
-					[
-						"project_files_controller.rb",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"_files.ht",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"project_mebe",
-						"app/models/_myblue/project_membership.rb"
-					],
-					[
-						"project_memeber",
-						"spec/models/project_membership_spec.rb"
-					],
-					[
-						"myblue/base",
-						"app/controllers/myblue/base_controller.rb"
-					],
-					[
-						"project_file_group",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"job.rb",
-						"app/models/job.rb"
-					],
-					[
-						"permission.rb",
-						"app/models/permission.rb"
-					],
-					[
-						"report_perm",
-						"lib/reports_controller_extensions/report_permissions.rb"
-					],
-					[
-						"jobs.rb",
-						"spec/factories/jobs.rb"
-					],
-					[
-						"project_files.rb",
-						"spec/factories/myblue_projects/project_files.rb"
-					],
-					[
-						"myblue/projects/show",
-						"app/views/myblue/projects/show.html.erb"
-					],
-					[
-						"project/show",
-						"app/views/myblue/projects/show.html.erb"
-					],
-					[
-						"project_file.r",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"projects_controller",
-						"app/controllers/myblue/projects_controller.rb"
-					],
-					[
-						"projects/_files",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"create_project_files",
-						"db/migrate/20120501154517_create_project_files.rb"
-					],
-					[
-						"project_files",
-						"db/migrate/20120501154517_create_project_files.rb"
-					],
-					[
-						"resource_control",
-						"app/controllers/resources_controller.rb"
-					],
-					[
-						"resources_contr",
-						"app/controllers/resources_controller.rb"
-					],
-					[
-						"form_document",
-						"app/views/resources/_form_document.html.erb"
-					],
-					[
-						"add_documen",
-						"app/views/resources/add_document.html.erb"
-					],
-					[
-						"project_files_contr",
-						"app/controllers/myblue/project_files_controller.rb"
-					],
-					[
-						"project_file_group/index",
-						"app/views/myblue/project_file_groups/index.html.erb"
-					],
-					[
-						"project_file_gro",
-						"app/models/_myblue/project_file_group.rb"
-					],
-					[
-						"project_fiel.rb",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"create_project_file",
-						"db/migrate/20120501154517_create_project_files.rb"
-					],
-					[
-						"_files.html.erb",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"project_file_groups/inde",
-						"app/views/myblue/project_file_groups/index.html.erb"
-					],
-					[
-						"files.html.erb",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"project.html.erb",
-						"app/views/layouts/myblue/project.html.erb"
-					],
-					[
-						"myblue/project/files",
-						"app/views/myblue/projects/_files.html.erb"
-					],
-					[
-						"projcet_file.rb",
-						"app/models/_myblue/project_file.rb"
-					],
-					[
-						"project_file_groups_control",
-						"app/controllers/myblue/project_file_groups_controller.rb"
-					],
-					[
-						"create_project_file_gr",
-						"db/migrate/20140225135227_create_project_file_groups.rb"
-					],
-					[
-						"group.rb",
-						"app/models/group.rb"
-					],
-					[
-						"resource_group",
-						"app/models/resource_group.rb"
-					],
-					[
-						"news_spec",
-						"spec/acceptance/app/organisation_admin/news/news_spec.rb"
-					],
-					[
-						"news_spec.rb",
-						"spec/acceptance/app/atkeyadmin/news/news_spec.rb"
-					],
-					[
-						"orgadmin/news_con",
-						"app/controllers/orgadmin/news_controller.rb"
-					],
-					[
-						"orgadmin/news/inde",
-						"app/views/orgadmin/news/index.html.erb"
-					],
-					[
-						"factories/article",
-						"spec/factories/articles.rb"
-					],
-					[
-						"factories/organisation_objec",
-						"spec/factories/organisation_objectives.rb"
-					],
-					[
-						"factories/organisation_prior",
-						"spec/factories/organisation_priorities.rb"
-					],
-					[
-						"priorities/index",
-						"app/views/orgadmin/organisation_priorities/index.html.erb"
-					],
-					[
-						"objectives.rb",
-						"spec/factories/objectives.rb"
-					],
-					[
-						"factories/objec",
-						"spec/factories/objectives.rb"
-					],
-					[
-						"user_groups_spec",
-						"spec/acceptance/app/organisation_admin/users/user_groups_spec.rb"
-					],
-					[
-						"app_de",
-						"app/app_delegate.rb"
-					],
-					[
-						"rakefile",
-						"Rakefile"
-					],
-					[
-						"overall_stats",
-						"app/views/atkeyadmin/reports/overall_stats.html.erb"
-					],
-					[
-						".rvmrc",
-						".rvmrc"
-					],
-					[
-						"factories/cpd",
-						"spec/factories/cpds.rb"
-					],
-					[
-						"organisation_spec",
-						"spec/acceptance/app/atkeyadmin/organisations/organisation_spec.rb"
-					],
-					[
-						"edit_cpd_ac",
-						"spec/acceptance/app/user/cpd_activities/edit_cpd_activity_spec.rb"
-					],
-					[
-						"permissions/acces",
-						"spec/acceptance/app/organisation_admin/permissions/access_spec.rb"
-					],
-					[
-						"account_con",
-						"app/controllers/account_controller.rb"
-					],
-					[
 						"gemfile",
 						"Gemfile"
 					],
 					[
-						"gefile",
-						"Gemfile"
+						"readme",
+						"README.md"
 					],
 					[
-						"partnership",
-						"app/models/_tabs/partnership_tab.rb"
+						"pdf.scs",
+						"app/assets/stylesheets/app/pdf.css.erb"
 					],
 					[
-						"message",
-						"spec/models/message_spec.rb"
+						".scss",
+						"app/assets/stylesheets/app/core.scss"
 					],
 					[
-						"resource_cate",
-						"app/models/resource_category.rb"
+						"executive_summary/",
+						"app/cells/executive_summary/pdf.html.erb"
 					],
 					[
-						"resources_spec",
-						"spec/acceptance/app/organisation_admin/resources/resources_spec.rb"
+						"view_report.html.erb",
+						"app/views/orgadmin/reports/view_report.html.erb"
 					],
 					[
-						"edit_tabs",
-						"app/views/myblue/users/edit_tabs.html.erb"
+						"categories/show",
+						"app/views/categories/show.html.erb"
 					],
 					[
-						"user_tab",
-						"spec/acceptance/app/organisation_admin/users/update_user_details_spec.rb"
+						"",
+						".ruby-gemset"
 					],
 					[
-						"user_tab.rb",
-						"app/models/_tabs/user_tab.rb"
+						".rake",
+						"lib/tasks/comics.rake"
 					],
 					[
-						"myblue/users",
-						"app/controllers/myblue/users_controller.rb"
+						"self_evaluation_executive_summary_report.",
+						"app/models/reports/self_evaluation_executive_summary_report.rb"
 					],
 					[
-						"layout/app",
-						"app/views/layouts/application.html.erb"
+						"se_evaluation.rb",
+						"app/models/_sse/sse_evaluation.rb"
 					],
 					[
-						"ability.rb",
-						"app/models/user_ability.rb"
+						"sse_proforma.rb",
+						"app/models/_sse/sse_proforma.rb"
 					],
 					[
-						"spec_helper",
-						"spec/spec_helper.rb"
+						"_group_categories.html.erb",
+						"app/views/shared/reports/all/_group_categories.html.erb"
 					],
 					[
-						"professions_spce.rb",
-						"spec/acceptance/app/atkeyadmin/professions/professions_spec.rb"
+						"proc",
+						"Procfile"
 					],
 					[
-						"observation_spec",
-						"spec/models/observation_spec.rb"
+						"procfile",
+						"Procfile"
 					],
 					[
-						"article_docu",
-						"app/models/article_document.rb"
+						"config",
+						"config.ru"
 					],
 					[
-						"article_doc",
-						"app/models/article_document.rb"
+						"core.css",
+						"app/assets/stylesheets/core.css.scss"
 					],
 					[
-						"article.rb",
-						"app/models/article.rb"
+						"organisaions.yml",
+						"config/locales/en/views/candidates/organisations.yml"
 					],
 					[
-						"news_con",
-						"app/controllers/atkeyadmin/news_controller.rb"
-					],
-					[
-						"standards_spec",
-						"spec/acceptance/app/atkeyadmin/standards/standards_spec.rb"
-					],
-					[
-						"organisation_premises",
-						"app/models/organisation_premises.rb"
-					],
-					[
-						"organisation_premises_con",
-						"app/controllers/atkeyadmin/organisation_premises_controller.rb"
-					],
-					[
-						"organi",
-						"app/models/organisation.rb"
-					],
-					[
-						"organisations.rb",
-						"spec/factories/organisations.rb"
-					],
-					[
-						"contact.rb",
-						"app/models/contact.rb"
-					],
-					[
-						"organisation_auth",
-						"app/models/organisation_authority.rb"
+						"schema.rb",
+						"db/schema.rb"
 					],
 					[
 						"organisation.rb",
 						"app/models/organisation.rb"
 					],
 					[
-						"organisations_controll",
-						"app/controllers/atkeyadmin/organisations_controller.rb"
+						"organisations/show.htmlerb",
+						"app/views/organisations/account/show.html.erb"
 					],
 					[
-						"organisation_controller",
-						"app/controllers/atkeyadmin/organisations_controller.rb"
+						"organisations/show",
+						"app/views/organisations/profile/show.html.erb"
 					],
 					[
-						"orgnisations/primary",
-						"app/views/atkeyadmin/organisations/primary_user.html.erb"
+						"organisations/show.html",
+						"app/views/organisations/dashboard/show.html.erb"
+					],
+					[
+						"organisation/show.h",
+						"app/views/organisations/dashboard/show.html.erb"
+					],
+					[
+						"register",
+						"app/controllers/candidates/registrations_controller.rb"
+					],
+					[
+						"candidate_references_controller.rb",
+						"app/controllers/candidates/candidate_references_controller.rb"
+					],
+					[
+						"candidate/show.html.erb",
+						"app/views/organisations/candidates/show.html.erb"
+					],
+					[
+						"organisation_upload",
+						"app/uploaders/organisation_avatar_uploader.rb"
+					],
+					[
+						"ruby-veri",
+						".ruby-version"
+					],
+					[
+						"mailer.",
+						"app/mailers/candidates/reference_mailer.rb"
+					],
+					[
+						"orgprofdeta",
+						"app/views/organisations/profile/_details_edit.html.erb"
+					],
+					[
+						"readme.",
+						"README.md"
+					],
+					[
+						"uploader",
+						"app/uploaders/organisation_avatar_uploader.rb"
+					],
+					[
+						"se_strategic_improvement_plan_report_spec.rb",
+						"spec/acceptance/app/organisation_admin/reports/se_strategic_improvement_plan_report_spec.rb"
+					],
+					[
+						"se_strategic_improvement_plan_report_spec",
+						"spec/acceptance/app/organisation_admin/reports/se_strategic_improvement_plan_report_spec.rb"
+					],
+					[
+						"_group_catego",
+						"app/views/shared/reports/all/_group_categories.html.erb"
+					],
+					[
+						"_group_categories",
+						"app/views/shared/reports/all/_group_categories.html.erb"
+					],
+					[
+						"create_sse_report.h",
+						"app/views/shared/reports/_create_sse_report.html.erb"
+					],
+					[
+						"redactor_i",
+						"app/uploaders/redactor_rails_picture_uploader.rb"
+					],
+					[
+						"industry_ap",
+						"app/uploaders/industry_application_uploader.rb"
+					],
+					[
+						"indstry_applicatio",
+						"app/uploaders/industry_application_uploader.rb"
+					],
+					[
+						"industry_application",
+						"app/views/partials/_industry_applications.html.erb"
+					],
+					[
+						"products/index",
+						"app/views/products/index.html.erb"
+					],
+					[
+						"categories/index.",
+						"app/views/admin/sub_categories/index.html.erb"
+					],
+					[
+						"case_study.rb",
+						"app/models/case_study.rb"
+					],
+					[
+						"case_studies/index",
+						"app/views/case_studies/index.html.erb"
+					],
+					[
+						"news_articles/inde",
+						"app/views/news_articles/index.html.erb"
+					],
+					[
+						"case_studies/index.html",
+						"app/views/case_studies/index.html.erb"
+					],
+					[
+						"news_article_image",
+						"app/uploaders/news_article_image_uploader.rb"
+					],
+					[
+						"news_article/form",
+						"app/views/admin/news_articles/_form.html.erb"
+					],
+					[
+						"news_article.rb",
+						"app/models/news_article.rb"
+					],
+					[
+						"news_articles/index",
+						"app/views/news_articles/index.html.erb"
+					],
+					[
+						"base_image_up",
+						"app/uploaders/base_image_uploader.rb"
+					],
+					[
+						"product.rb",
+						"app/models/product.rb"
+					],
+					[
+						"seeds.rb",
+						"db/seeds.rb"
+					],
+					[
+						"readm.emd",
+						"README.md"
+					],
+					[
+						"categories/form",
+						"app/views/admin/categories/_form.html.erb"
+					],
+					[
+						"industry_appli",
+						"app/views/partials/_industry_applications.html.erb"
+					],
+					[
+						"categories/show.html.erb",
+						"app/views/categories/show.html.erb"
+					],
+					[
+						"industry_application.rb",
+						"app/models/industry_application.rb"
+					],
+					[
+						"content_blocks.html",
+						"app/views/partials/_content_blocks.html.erb"
+					],
+					[
+						"categories_controller",
+						"app/controllers/admin/categories_controller.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"add_url_text",
+						"db/migrate/20140423154114_add_url_text_to_content_blocks.rb"
+					],
+					[
+						"industry_applications",
+						"app/views/partials/_industry_applications.html.erb"
+					],
+					[
+						"categories/show.ht",
+						"app/views/categories/show.html.erb"
+					],
+					[
+						"about_controller",
+						"app/controllers/about_controller.rb"
+					],
+					[
+						"breadc",
+						"config/breadcrumbs.rb"
+					],
+					[
+						"categories/show.html",
+						"app/views/categories/show.html.erb"
+					],
+					[
+						"categories_conto",
+						"app/controllers/categories_controller.rb"
+					],
+					[
+						"change_file",
+						"db/migrate/20140423102632_change_file_to_url_in_category_videos.rb"
+					],
+					[
+						"category_video",
+						"db/migrate/20140410082042_create_category_videos.rb"
+					],
+					[
+						"_video_fields",
+						"app/views/admin/categories/_category_video_fields.html.erb"
+					],
+					[
+						"se_activity_report.rb",
+						"app/models/_reports/se_activity_report.rb"
+					],
+					[
+						"se_proforma.rb",
+						"app/models/_sse/sse_proforma.rb"
+					],
+					[
+						"all/group_cate",
+						"app/views/shared/reports/all/_group_categories.html.erb"
+					],
+					[
+						"reports_controller.rb",
+						"app/controllers/atkeyadmin/reports_controller.rb"
+					],
+					[
+						"proforma.rb",
+						"app/models/_sse/sse_proforma.rb"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						"devise.en.yml",
+						"config/locales/en/defaults/devise.en.yml"
+					],
+					[
+						".html.erb",
+						"app/views/admin/invitations/new.html.erb"
+					],
+					[
+						"en.yml",
+						"config/locales/en.yml"
+					],
+					[
+						"database",
+						"config/database.yml"
+					],
+					[
+						"user.rb",
+						"app/models/admin_user.rb"
+					],
+					[
+						"content_blocks.html.erb",
+						"app/views/partials/_content_blocks.html.erb"
+					],
+					[
+						"industry_applications.html",
+						"app/views/partials/_industry_applications.html.erb"
+					],
+					[
+						"sse_improvement_plan.rb",
+						"app/models/_sse/sse_improvement_plan.rb"
+					],
+					[
+						"view_stra",
+						"app/views/orgadmin/reports/view_strategic_improvement_plan.html.erb"
+					],
+					[
+						"report_evaluation.rb",
+						"app/models/_reports/report_evaluation.rb"
+					],
+					[
+						"sse_improvement",
+						"app/models/_sse/sse_improvement_plan.rb"
+					],
+					[
+						"application.css",
+						"app/assets/stylesheets/application.css"
+					],
+					[
+						"print.css",
+						"app/assets/stylesheets/print/print.css.scss"
+					],
+					[
+						".yml",
+						"config/locales/en.yml"
+					],
+					[
+						"genera.",
+						"app/views/news_articles/general.html.erb"
+					],
+					[
+						"news_article_con",
+						"app/controllers/news_articles_controller.rb"
+					],
+					[
+						"news_article_controller",
+						"app/controllers/news_articles_controller.rb"
+					],
+					[
+						"sub_category/show.html.erb",
+						"app/views/sub_category/show.html.erb"
+					],
+					[
+						"news/index.",
+						"app/views/news_articles/index.html.erb"
+					],
+					[
+						"routes.rb",
+						"config/routes.rb"
+					],
+					[
+						"related_news.html",
+						"app/views/partials/_related_news.html.erb"
+					],
+					[
+						"related_case_stud",
+						"app/views/partials/_related_case_studies.html.erb"
+					],
+					[
+						"admin/categories/form",
+						"app/views/admin/categories/_form.html.erb"
+					],
+					[
+						"sub_category.rb",
+						"app/models/sub_category.rb"
+					],
+					[
+						"admin/core.css",
+						"app/assets/stylesheets/admin/bootstrap/_carousel.scss"
+					],
+					[
+						"admin.css",
+						"app/assets/stylesheets/admin.css"
+					],
+					[
+						"products/form",
+						"app/views/admin/products/_form.html.erb"
+					],
+					[
+						"categories_controller.rb",
+						"app/controllers/admin/categories_controller.rb"
+					],
+					[
+						"categories_cont",
+						"app/controllers/categories_controller.rb"
+					],
+					[
+						"categories/index",
+						"app/views/admin/categories/index.html.erb"
+					],
+					[
+						"sub_category/show.html.",
+						"app/views/sub_category/show.html.erb"
+					],
+					[
+						"helper.rb",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"products_ocnt",
+						"app/controllers/products_controller.rb"
+					],
+					[
+						"lib/select",
+						"lib/select.rb"
+					],
+					[
+						"sse_improvemtn_plan",
+						"app/models/_sse/sse_improvement_plan.rb"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js.erb"
+					],
+					[
+						"assets/print.cs",
+						"app/assets/stylesheets/print.css"
+					],
+					[
+						"schemarb",
+						"db/schema.rb"
+					],
+					[
+						"process",
+						"app/services/pay_run_entry_processor.rb"
+					],
+					[
+						"pay_run.rb",
+						"app/models/pay_run.rb"
+					],
+					[
+						"employee",
+						"app/models/employee.rb"
+					],
+					[
+						"employee.rb",
+						"app/models/employee.rb"
+					],
+					[
+						"add_start",
+						"db/migrate/20140416091540_add_startdate_to_employees.rb"
+					],
+					[
+						"add_startdate",
+						"db/migrate/20140416091540_add_startdate_to_employees.rb"
+					],
+					[
+						"_welcome",
+						"app/views/welcome/_welcome.html.erb"
+					],
+					[
+						"improvement_plan.rb",
+						"app/models/_sse/sse_improvement_plan.rb"
+					],
+					[
+						"school_self_eval",
+						"app/models/reports/school_self_evaluation.rb"
+					],
+					[
+						"aspect_evaluation_contro",
+						"app/controllers/orgadmin/sse/aspect_evaluations_controller.rb"
+					],
+					[
+						"init",
+						"config/initializers/secret_token.rb"
 					]
 				],
 				"width": 0.0
@@ -3960,13 +3022,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 353.0,
+			"side_bar_width": 184.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 1
 			},
-			"window_id": 263,
+			"window_id": 459,
 			"workspace_name": ""
 		}
 	],

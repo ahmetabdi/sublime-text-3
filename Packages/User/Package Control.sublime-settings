@@ -1,20 +1,10 @@
 {
 	"installed_packages":
 	[
-		"Alignment",
 		"ApplySyntax",
-		"BracketHighlighter",
-		"ColorPicker",
-		"DashDoc",
 		"GitGutter",
-		"Google Spell Check",
-		"LiveReload",
-		"ObjC2RubyMotion",
-		"RubyMotion Autocomplete",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"SublimeGit",
-		"SublimeLinter",
 		"Theme - Flatland"
 	]
 }
