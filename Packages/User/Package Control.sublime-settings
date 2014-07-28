@@ -1,9 +1,19 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"ApplySyntax",
+		"BracketHighlighter",
+		"Copy to HipChat",
+		"DashDoc",
+		"Dayle Rees Color Schemes",
+		"Delete Current File",
 		"GitGutter",
-		"SideBarEnhancements",
+		"Monokai Gray",
+		"ObjC2RubyMotion",
+		"RubyTest",
+		"SCSS",
+		"Spotify",
 		"SublimeGit",
 		"Theme - Flatland"
 	]

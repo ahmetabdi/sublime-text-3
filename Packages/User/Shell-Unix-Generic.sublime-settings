@@ -1,0 +1,14 @@
+{
+	"apply_syntax_extensions":
+	[
+		"sh",
+		"bash",
+		"zsh"
+	],
+	"extensions":
+	[
+		"sh",
+		"bash",
+		"zsh"
+	]
+}

@@ -1,16 +1,26 @@
-//https://sublime.wbond.net/packages/All%20Autocomplete
-//https://sublime.wbond.net/packages/BracketHighlighter
-//https://sublime.wbond.net/packages/ApplySyntax
-//https://sublime.wbond.net/packages/GitGutter
-//https://sublime.wbond.net/packages/RubyMotionBuilder
-//https://sublime.wbond.net/packages/DashDoc
-//https://sublime.wbond.net/packages/Ruby%20Debugger
-//https://sublime.wbond.net/packages/RubyTest
-//guard-livereload gem
+// https://sublime.wbond.net/packages/All%20Autocomplete
+// https://sublime.wbond.net/packages/BracketHighlighter
+// https://sublime.wbond.net/packages/ApplySyntax
+// https://sublime.wbond.net/packages/GitGutter
+// https://sublime.wbond.net/packages/RubyMotionBuilder
+// https://sublime.wbond.net/packages/DashDoc
+// https://sublime.wbond.net/packages/Ruby%20Debugger
+// https://sublime.wbond.net/packages/RubyTest
+// guard-livereload gem
+// https://github.com/phlco/CopyToHipChat
 [
   { "keys": ["super+d"], "command": "find_under_expand" },
+  { "keys": ["super+t"], "command": "toggle_side_bar" },
+  { "keys": ["super+shift+c"], "command": "copy_to_hip_chat" },
+  { "keys": ["super+enter"], "command": "toggle_full_screen" },
   { "keys": ["super+r"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
   { "keys": ["super+shift+x"], "command": "run_macro_file", "args": { "file": "res://Packages/Default/Delete Line.sublime-macro" } },
+  { "keys": ["ctrl+r"], "command": "run_single_ruby_test",
+    "context": [ { "key": "selector", "operator": "equal",
+                   "operand": "source.ruby, source.rspec, text.gherkin.feature"
+               } ]
+  },
+  { "keys": ["ctrl+e"], "command": "show_test_panel" }, // show test panel
   { "keys": ["super+e"], "command": "goto_definition" },
   { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
   { "keys": ["super+shift+1"], "command": "move_to_group", "args": { "group": 0 } },
@@ -18,7 +28,9 @@
   { "keys": ["super+h"], "command": "dash_doc" },
   { "keys": ["f1"], "command": "move_to_group", "args": { "group": 0 } },
   { "keys": ["f2"], "command": "move_to_group", "args": { "group": 1 } },
-  { "keys": ["f3"], "command": "erb" },
+  { "keys": ["f3"], "command": "spotify_next_track"},
+  // { "keys": ["f3"], "command": "erb" },
+  { "keys": ["super+shift+w"], "command": "delete_file"},
   {
     "keys": ["shift+f1"],
     "command": "set_layout",
@@ -40,29 +52,3 @@
     }
   },
 ]
-
-// Start/Stop debugging session
-
-// Start Debugging - F6
-// Start Debugging Rails - Shift+F6
-// Start Debugging (Current file) - Alt+Shift+F6
-// Pause Debugger - Alt+d, b
-// Stop Debugging - Alt+d, k
-
-
-// Breakpoints
-
-// Toggle Breakpoint - F9
-// Toggle Conditional Breakpoint - Shift+F9
-// Clear Breakpoints - Alt+Shift+F9
-
-
-// Cursor control
-
-// Step Over - F10
-// Step Into - F11
-// Step up - - Alt+d, u
-// Step down - - Alt+d, d
-// Continue - F8
-// Run To Line (goto) - ctrl+F10 or ⌘+F10
-// Jumo to line - Ctrl+Shift+F10 or ⌘+Shift+F10

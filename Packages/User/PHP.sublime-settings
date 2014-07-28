@@ -1,0 +1,18 @@
+{
+	"apply_syntax_extensions":
+	[
+		"php5",
+		"php4",
+		"php3",
+		"inc",
+		"phtml"
+	],
+	"extensions":
+	[
+		"php5",
+		"php4",
+		"php3",
+		"inc",
+		"phtml"
+	]
+}
