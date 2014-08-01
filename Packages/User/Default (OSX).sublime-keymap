@@ -9,8 +9,14 @@
 // guard-livereload gem
 // https://github.com/phlco/CopyToHipChat
 [
+  { "keys": ["super+s"], "command": "browser_refresh", "args": {
+    "auto_save": true,
+    "delay": 0.0,
+    "activate_browser": false,
+    "browser_name" : "Google Chrome" }
+  },
   { "keys": ["super+d"], "command": "find_under_expand" },
-  { "keys": ["super+t"], "command": "toggle_side_bar" },
+  // { "keys": ["super+t"], "command": "toggle_side_bar" },
   { "keys": ["super+shift+c"], "command": "copy_to_hip_chat" },
   { "keys": ["super+enter"], "command": "toggle_full_screen" },
   { "keys": ["super+r"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
@@ -29,6 +35,7 @@
   { "keys": ["f1"], "command": "move_to_group", "args": { "group": 0 } },
   { "keys": ["f2"], "command": "move_to_group", "args": { "group": 1 } },
   { "keys": ["f3"], "command": "spotify_next_track"},
+  { "keys": ["f4"], "command": "change_quotes"},
   // { "keys": ["f3"], "command": "erb" },
   { "keys": ["super+shift+w"], "command": "delete_file"},
   {

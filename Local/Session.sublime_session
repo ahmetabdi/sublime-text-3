@@ -1,19 +1,23 @@
 {
 	"folder_history":
 	[
-		"/Users/ahmet/Projects/sage/sage_one_payroll_ukie",
-		"/Users/ahmet/Projects/sage/sage_one_accounts_uk",
-		"/Users/ahmet/MyProjects/themoviedb",
-		"/Users/ahmet/Projects/titlechallenge",
 		"/Users/ahmet/MyProjects/share",
-		"/Users/ahmet/MyProjects/chef-repo",
+		"/Users/ahmet/Projects/sage/sage_one_payroll_ukie",
+		"/Users/ahmet/Projects/whitelegg.com",
+		"/Users/ahmet/MyProjects/themoviedb",
+		"/Users/ahmet/MyProjects/multitool",
+		"/Users/ahmet/Projects/titlechallenge",
+		"/Users/ahmet/Projects/sage/sage_one_accounts_uk",
+		"/Users/ahmet/MyProjects/Hello",
 		"/Users/ahmet/Projects/my.mumbu.com",
 		"/Users/ahmet/Projects/mumbu.com",
-		"/Users/ahmet/Projects/whitelegg.com",
-		"/Users/ahmet/Projects/two_halves",
 		"/Users/ahmet/MyProjects/scraper",
-		"/Users/ahmet/MyProjects/pig",
 		"/Users/ahmet/Projects/sage",
+		"/Users/ahmet/MyProjects/RubyMotionSamples/ios/Beers",
+		"/Users/ahmet/MyProjects/RubyMotionSamples/ios/Beers/resources",
+		"/Users/ahmet/MyProjects/chef-repo",
+		"/Users/ahmet/Projects/two_halves",
+		"/Users/ahmet/MyProjects/pig",
 		"/Users/ahmet/Projects/app.blueskyeducation.co.uk",
 		"/Users/ahmet/.rvm/gems/ruby-2.1.0@titlechallenge/bundler/gems/extra_time-511b0abd3dc8",
 		"/Users/ahmet/Projects/extra_time",
@@ -81,17 +85,29 @@
 		"/Users/ahmet/Projects/titledigitalfont"
 	],
 	"last_version": 3059,
-	"last_window_id": 931,
+	"last_window_id": 989,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1291.0,
+		"new_window_height": 1068.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"pension_plan",
+						"pension_plans_attributes"
+					],
+					[
+						"pensio",
+						"pension_plans"
+					],
+					[
+						"workeras",
+						"WorkerCategoriser"
+					],
 					[
 						"fetc",
 						"fetch_response"
@@ -591,34 +607,82 @@
 					[
 						"kasia_",
 						"kasia_paul_image"
-					],
-					[
-						"Curren",
-						"CurrentSaveGame"
-					],
-					[
-						"r",
-						"r	attr_reader .."
-					],
-					[
-						"R",
-						"R"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 52.0,
+				"height": 96.0,
 				"selected_items":
 				[
 					[
-						"git status",
-						"Git: Status"
-					],
-					[
 						"git blame",
 						"Git: Blame"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"lint mode",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"evalu",
+						"Worksheet: Evaluate worksheet"
+					],
+					[
+						"worksh",
+						"Worksheet: Evaluate worksheet"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"license",
+						"SublimeGit: Add License"
+					],
+					[
+						"install packa",
+						"Package Control: Install Package"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"markdown pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"path",
+						"Snippet: path_from_here( .. )"
+					],
+					[
+						"git status",
+						"Git: Status"
 					],
 					[
 						"git st",
@@ -629,20 +693,12 @@
 						"Set Syntax: SublimeGit Show"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						" git status",
 						"Git: Status"
 					],
 					[
 						"next tra",
 						"Spotify: Next Track"
-					],
-					[
-						"install pack",
-						"Package Control: Install Package"
 					],
 					[
 						"list package",
@@ -667,10 +723,6 @@
 					[
 						"delete",
 						"File: Delete"
-					],
-					[
-						"install pac",
-						"Package Control: Install Package"
 					],
 					[
 						" git blame",
@@ -805,10 +857,6 @@
 						"Package Control: List Packages"
 					],
 					[
-						"install p",
-						"Package Control: Install Package"
-					],
-					[
 						"status",
 						"Git: Status"
 					],
@@ -860,138 +908,138 @@
 			},
 			"file_history":
 			[
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/extlib/README.txt",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Rakefile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/src/net/sf/sahi/plugin/FileReader.java",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/support/eps_reporting_period_return_shared_examples.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/support/eps_resubmission.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/locales/payroll/en.yml",
-				"/Users/ahmet/Projects/sage/sage_one_accounts_uk/README.md",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/payroll_uk2010_model_factory.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/employment/grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/uk/pre_rti_employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/pre_rti_employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/uk/employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/ie/employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/ie/employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/fixtures/payroll_employments.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll_enums.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/payroll_schedule.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/deploy_payroll.sh",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/fixtures/payroll_addresses.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/package.json",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/support/employees.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/payroll/tests/data/HmrcImp_EmpList_0ees.txt",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/employment_pays.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/payroll/validation_rules/email-multi.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/pensions/autoenrolment_controller.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/.idea/workspace.xml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/employment_selection.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne-Payroll/test/011 Leavers/george_reinstate_leaver.sah",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Gemfile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/config/os.properties",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/hmrc/online_web_service.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/payroll/auto_enrolment/worker_assessment.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/configuration.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/search.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/movie.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/episode.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/season.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/tv.rb",
-				"/Users/ahmet/MyProjects/themoviedb/themoviedb.gemspec",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/resource.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/find_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/find.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/vcr/movie/credits_for_id.yml",
-				"/Users/ahmet/MyProjects/themoviedb/spec/person_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/person.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/movie_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/genre.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/vcr/movie/movie_belongs_for_id.yml",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/api.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/hash_to_openstruct.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb.rb",
-				"/Users/ahmet/MyProjects/themoviedb/Gemfile",
-				"/Users/ahmet/MyProjects/themoviedb/Gemfile.lock",
-				"/Users/ahmet/MyProjects/themoviedb/spec/company_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_scheme.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pension_schemes/_form.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_Pensions.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/public/fonts/sageone-icons/sageone-icons-webfont.svg",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/pension_schemes_controller.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/worker_assessment.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/pay/submission/pay_run.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_add_business_payment_form.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/payroll_company/_includable_earnings.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/nominal/pay_run.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/pay_review.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/pay_frequency.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/README.md",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/pensions/worker_categoriser.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sso_templates/project/WebSignOn.Application.PreProd.v11/bin/WebSignOn.Application.Resources.xml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/htdocs/demo/window_opener.htm",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/table_cells/league_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/base_player_profile_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/player_profile_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/player_profile_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/table_cells/league_table_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/dashboard/dashboard_league_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/squad/player_profile_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/predicates/player_predicate.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/transfers/search/player_search_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/ib.xcodeproj/project.pbxproj",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view_header.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/league_tables/league_tables_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/league_table_updater.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/models/league_table.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/models/league_fixture.rb",
-				"/Users/ahmet/Projects/titlechallenge/features/support/launch.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/big_box_buttons/big_box_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/touchable_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/helper_methods.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/shortlist_player_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/upgrade_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/approach_player_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/kick_off_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/tactics/team_sheet_pre_game_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/custom_ui_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/styles.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/cancel_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/continue_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/table_header_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/club_colors.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/continue.rb",
-				"/Users/ahmet/Projects/titlechallenge/Rakefile",
-				"/Users/ahmet/Projects/titlechallenge/spec/helpers_spec.rb",
-				"/Users/ahmet/Projects/titlechallenge/features/support/hooks.rb",
-				"/Users/ahmet/MyProjects/share/.ruby-gemset",
-				"/Users/ahmet/MyProjects/share/.ruby-version",
 				"/Users/ahmet/MyProjects/share/Gemfile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_PayrollCore.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_payrollmixins.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/public/stylesheets/SageOne_MSIE_Payroll.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_base.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/views/settings/payroll_business.html.erb_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/stories/payroll_stories.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/run_payroll_tests.sh",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_incomplete_preparation_dialog.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_valid_staging_date.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb",
+				"/Users/ahmet/MyProjects/share/Procfile",
+				"/Users/ahmet/MyProjects/share/lib/tasks/movies.rake",
+				"/Users/ahmet/MyProjects/share/LICENSE",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/pension_schemes/nest_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Guardfile",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/spec_helper.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/controllers/payroll/slow_payroll_employees_controller_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/givens/sageone_payment.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/db/schema.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/newrelic.yml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/bin/${userdata.dir}/logs/junit/TEST-sophieSimpleVATReturn__30Mar2010__16_14_05.xml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_schemes/nest.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/com_check_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Rakefile",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/sageid/index.html.erb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/uk/auto_enrolment/auto_enrolment.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/locales/payroll/en.yml",
+				"/Users/ahmet/MyProjects/share/db/schema.rb",
+				"/Users/ahmet/MyProjects/share/app/views/static_pages/_movie.html.erb",
+				"/Users/ahmet/MyProjects/share/app/views/static_pages/home.html.erb",
+				"/Users/ahmet/MyProjects/share/app/controllers/static_pages_controller.rb",
+				"/Users/ahmet/MyProjects/share/app/views/static_pages/_big_post.html.erb",
+				"/Users/ahmet/MyProjects/share/db/migrate/20140730075107_create_movies.rb",
+				"/Users/ahmet/MyProjects/share/db/migrate/20140729074837_create_comics.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_scheme.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/pension_schemes.js",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_Pensions.scss",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll_enums.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/package.json",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/controllers/payroll/pension_schemes_controller_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/pension_schemes/now_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/pension_schemes/custom_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/pension_schemes/the_peoples_pension_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne/Admin/cashbook_ug.sah",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config.ru",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/run_tests.sh",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_schemes/custom.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/db/migrate/archive/20091210102402_create_user_settings.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/givens/payroll/pension_scheme.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/pension_schemes_controller.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/payroll/pension_schemes/pension_schemes.js",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne/Preprod/pp_new_sales_expense.sah",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_schemes/scottish_widows.rb",
 				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/locales/payroll/en-IE.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pension_schemes/add_plan.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/auto_enrolment.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_modal.html.erb"
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/initializers/menu.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/apps.yml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/initializers/sage_one_constants.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_valid_staging_date.html.erb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/automation/spec/manual_import_employee_add_edit_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/.idea/misc.xml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/database.yml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/_notify_employees_task.html.erb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/_nominate_contact_task.html.erb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne/Downloads/activationcodes_used.csv",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/application.css",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/config/os.properties",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/htdocs/demo/checkbox_onchange.htm",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/_review_arrangements_task.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/products_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/product.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/pdf.css",
+				"/Users/ahmet/Projects/whitelegg.com/config/database.yml",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131212154646_devise_create_admin_users.rb",
+				"/Users/ahmet/Projects/whitelegg.com/vendor/assets/stylesheets/pdf.css",
+				"/Users/ahmet/Projects/whitelegg.com/public/pdf.css",
+				"/Users/ahmet/Projects/whitelegg.com/public/assets/pdf.css",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/_page_image_fields.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/products_sub_category.rb",
+				"/Users/ahmet/Projects/whitelegg.com/tmp/cache/assets/development/sass/60432c2e342396a4d4eaad1d857f195192ce03fb/fonts.css.scssc",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_video_module.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/helpers/application_helper.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/application.css",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin.css",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/vacancies/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_sub_categories/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/categories/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/admin_users/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/sub_category.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/sub_sub_category.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/products/pdf_footer.pdf.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/products/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/db/schema.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/vacancy.rb",
+				"/Users/ahmet/Projects/whitelegg.com/Procfile",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/vacancies/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/vacancies_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/case_study.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/partials/_errors.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/errors_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/config/environment.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/news_article.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/case_studies/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/case_studies_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/Capfile",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/edit.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/test/controllers/news_articles_controller_test.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/errors/does_not_exist.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/bootstrap.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/application.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/sub_category/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/Gemfile",
+				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/branches_helper.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/admin_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin.js",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20140422160625_add_description_to_categories.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/sub_category_uploader.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/revenue_payment.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/README.md",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/pensions/worker_categoriser.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/ae_worker_assessment_report.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/uk/ae_workforce_assessment_grid_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/.idea/workspace.xml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/worker_assessment.html.erb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/uk/task/ae_assess_workforce_task.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/payroll_pay_event.rb",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-settings"
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 23.0
 			},
 			"find_in_files":
 			{
@@ -1008,134 +1056,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"load_grid_pres",
-					"ae_workforce_assessment_grid",
-					"AeWorkforceAssessmentGrid",
-					"data_to_display",
-					"AeWorkforceAssessmentGrid.data_to_display",
-					"']",
-					"['",
-					"results",
-					"['",
-					"']",
-					"@movie",
-					"detail",
-					"['",
-					"=\"30\"",
-					"maxlength=\"30\"",
-					"gross_tp",
-					"includable_earnings",
-					"Include in Calculation of",
-					"list_in_list",
-					"new_payroll_business_payment_alias_description",
-					"defaultBackgroundColor",
-					"default_tap_behaviour_enabled",
-					"setHighlighted",
-					"default_tap_behaviour_enabled",
-					"setHighlighted",
-					"needs_highlight?",
-					"leagueTableRow",
-					"needs_highlight",
-					"League Tables",
-					"touched_down_background_color",
-					"successTappedButton",
-					"Kick Off!",
-					"shadeRGBColor",
-					"number_to_currency",
-					"high_luminance",
-					"colourComparison",
-					"comma_and_list",
-					"shadeRGBColor",
-					"include HelperMethods",
-					"include Helper",
-					"ClubColors",
-					"shadeRGBColor",
-					"0.8",
-					"rgb",
-					"include Helper",
-					"rgb",
-					"UIColor",
-					"R",
-					"bottom_button",
-					"bottom_page",
-					"#autoEnrolmentPod",
-					"&bullet",
-					"&:bullet",
-					"stylesheet_link_tag \"auto_enrolment\"",
-					"stylesheet_link_tag \"payroll",
-					"stylesheet_link_tag",
-					"payroll",
-					"stylesheet",
-					"auto_enrol_pod",
-					"auto_enrol_valid_staging",
-					"incompletePreparation",
-					"display: list-item",
-					"<li>",
-					"incomplete_preparation",
-					"have_not_completed",
-					"You have not completed the following:",
+					"livereload",
+					"3031",
+					"guard",
+					"cannot_proceed",
+					"You've reached your staging date but you cann",
+					"You've reached your staging dat",
 					"list.inform",
-					"Inform The Pension's Regulator of your AE contact",
-					" Inform The Pension's Regulator of your AE contact",
-					"incompletePreparation",
-					"raw-list",
-					"&bullet",
-					"incompletePreparation",
-					"prepare.text",
-					"To be prepared for Auto ",
-					"incomplete_preparation.reached_staging_date",
-					"Your business has reached its",
-					"&bullet",
+					"Inform The Pensions Regulator of your pensions contact,",
+					"nest",
+					"default",
+					"pension_payment_source",
+					"You must set up a default payment",
 					"nest_pension_scheme",
-					".new",
-					"new",
-					"PensionSchemes",
-					"maximum_threshold",
-					"valid.maximum_threshold",
-					"minimum_threshold",
-					"Rate must be at least £0",
-					"earnings_threshold",
-					"terms.description",
-					"By using this pension provider in Sage One Payro",
-					"terms.description",
-					"By using this pension provider in Sage One Payroll, you are a",
-					"Payroll::Pension.Title",
-					"show",
-					"Payroll::Pension",
-					"pension",
-					"Payroll::Pension",
-					"pension",
-					"I18",
-					"shortlistButton",
-					"\"Shortlist\"",
-					"  include TouchableButton",
-					"touchable",
-					"include Taggab",
-					"terms",
-					"Enrolment requirements",
-					"mee Autoenrol",
-					"return_page",
-					"Return to prepar",
-					"bigBox",
-					"UICustomButton",
-					"upgradeBox",
-					"upgradeBoxLabel",
-					"upgradeContainer",
-					"box",
-					"upgradeButtonLabel",
-					"upgradeBox",
-					"box",
-					"setTitle(\"",
-					"cancelButton",
-					"CancelButton",
-					"CustomUIButton",
-					"\"Upgrade\"",
-					"TouchableButton",
-					"upgradeBox",
-					"upgradeBoxLabel",
-					"\"Upgrade\"",
-					"Upgrade",
-					"self"
+					"at_least_one",
+					"plans_count_valid",
+					"at_least_one",
+					"pension_plans_attributes",
+					"apps",
+					"APPS",
+					"apps.yml",
+					"appls.yml",
+					"'/pensions'",
+					"ata-tooltip=",
+					"ata-tooltip=\"Pensions\"",
+					"UILink",
+					"/pensions",
+					"pensions",
+					"\"Pensions\"",
+					"must_",
+					"co,,uni",
+					"must_create",
+					"You must create a qualifying pens",
+					"Find out more about staging dates",
+					"the_peoples_pension",
+					"Manage your pensions in Sage One Payroll",
+					"development",
+					"video-lightbox",
+					"render",
+					"render partial:",
+					"bootstrap",
+					"error",
+					"review_arrangements_no_text",
+					"action_but",
+					"review_arrangements.",
+					"Pension schemes must pass certain qualifying criteria to meet automatic enrolment requirements.",
+					"holid",
+					"Non UK Worker",
+					"excluded",
+					"calc_reason",
+					"def auto_enrolment_worker_type",
+					"def worker_category",
+					"worker_assessment",
+					"should",
+					"worker_category",
+					"ae_worker_category",
+					"last_pay_event",
+					"employment",
+					"@age",
+					"@pay_event",
+					"worker_assessment",
+					"WorkerCategoriser",
+					"Excluded (Over 75)",
+					"Excluded",
+					"params[:full_name]",
+					"Register as a candidate",
+					"text",
+					"string",
+					"other_images",
+					"tags",
+					"other_images",
+					"main_image",
+					"download_link",
+					"review_arrangements_no_text",
+					"now",
+					"link",
+					"nominate_contact.link",
+					"inform",
+					"Valid NEST ID",
+					"% Apply to Qualifying Earnings",
+					"&bullet",
+					"PageInfo.Payroll::Pensions",
+					"Auto Enrolment Preparation",
+					"Payroll::Pensions::Autoenrolment.title",
+					"Payroll::Pensions::Autoenrolment.Title",
+					"worker_assessment",
+					"Autoenrolment.worker_assessment",
+					"Payroll::Pensions::Autoenrolment.worker",
+					"Payroll::Pensions::Autoenrolment",
+					"Payroll::Pensions::Autoenrolment.worker_asses",
+					"Auto Enrolment Preparation",
+					"apps.yml",
+					"nav_payroll_pensions",
+					"'/pensions'",
+					"/pensions",
+					"nav_payroll_reports",
+					"\"Pensions",
+					"apps.yml",
+					"valid_staging_date?",
+					"reached_staging_date",
+					"reached_staging_date_on",
+					"staging_date",
+					"reached",
+					"reached_staging_date",
+					"reached",
+					"staging_date",
+					"nav_payroll_pensions",
+					" nav_payroll_pensions",
+					"\"Pensions\"",
+					"UILink",
+					"Use this screen to assess which of your emp",
+					"have_content",
+					"default",
+					"auromatic",
+					"Find out more about staging ",
+					"The Auto Enrolment legislation requires you to nominate a pensions contact for correspondence from The Pension Regulator",
+					"auro",
+					"To be prepared for Auto Enrolment you need to",
+					"pension regul",
+					"Inform The Pensions R",
+					"prepare for auto",
+					"To prepare for automatic enrolment you ne",
+					"Automatic enrolment will come into force for you",
+					"Find out more about",
+					"your PAYE ref",
+					"PAYE refer",
+					"The staging date for comm",
+					"As a UK employer",
+					"Sage does not"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1159,7 +1207,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 23.0
 			},
 			"input":
 			{
@@ -1176,7 +1224,7 @@
 			},
 			"replace":
 			{
-				"height": 46.0
+				"height": 42.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1185,8 +1233,320 @@
 				"selected_items":
 				[
 					[
+						"profi",
+						"Procfile"
+					],
+					[
+						"spec_help",
+						"spec/spec_helper.rb"
+					],
+					[
+						"nest_spec.rb",
+						"spec/models/payroll/pension_schemes/nest_spec.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"schema.rb",
+						"db/schema.rb"
+					],
+					[
+						"pension_scheme.rb",
+						"app/models/payroll/pension_scheme.rb"
+					],
+					[
+						"custom_spec",
+						"spec/models/payroll/pension_schemes/custom_spec.rb"
+					],
+					[
+						"the_people",
+						"spec/models/payroll/pension_schemes/the_peoples_pension_spec.rb"
+					],
+					[
+						"now_spec",
+						"spec/models/payroll/pension_schemes/now_spec.rb"
+					],
+					[
+						"custom_spec.rb",
+						"spec/models/payroll/pension_schemes/custom_spec.rb"
+					],
+					[
+						"pension_scheme_contro",
+						"spec/controllers/payroll/pension_schemes_controller_spec.rb"
+					],
+					[
+						"pension_schemes_controller",
+						"app/controllers/payroll/pension_schemes_controller.rb"
+					],
+					[
+						"pension_scheme_controller",
+						"app/controllers/payroll/pension_schemes_controller.rb"
+					],
+					[
+						"menu.rb",
+						"config/initializers/menu.rb"
+					],
+					[
+						"database.yml",
+						"config/database.yml"
+					],
+					[
+						"autoenrolment/",
+						"app/views/payroll/pensions/autoenrolment/_notify_employees_task.html.erb"
+					],
+					[
+						"en.yml",
+						"config/locales/payroll/en.yml"
+					],
+					[
+						"products/form",
+						"app/views/admin/products/_form.html.erb"
+					],
+					[
+						"pdf.css",
+						"vendor/assets/stylesheets/pdf.css"
+					],
+					[
+						"pdf.c",
+						"app/assets/stylesheets/pdf.css"
+					],
+					[
+						"application_helper",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"product/form",
+						"app/views/admin/products/_form.html.erb"
+					],
+					[
+						"sub_sub_cate",
+						"app/models/sub_sub_category.rb"
+					],
+					[
+						"product.rb",
+						"app/models/product.rb"
+					],
+					[
+						"vacancies/form",
+						"app/views/admin/vacancies/_form.html.erb"
+					],
+					[
+						"vacancy.rb",
+						"app/models/vacancy.rb"
+					],
+					[
+						"case_studies/form",
+						"app/views/admin/case_studies/_form.html.erb"
+					],
+					[
+						"errors.h",
+						"app/views/admin/partials/_errors.html.erb"
+					],
+					[
+						"case_study.rb",
+						"app/models/case_study.rb"
+					],
+					[
+						"errors.html",
+						"app/views/admin/partials/_errors.html.erb"
+					],
+					[
+						"news_article/form",
+						"app/views/admin/news_articles/_form.html.erb"
+					],
+					[
+						"news_article.rb",
+						"app/models/news_article.rb"
+					],
+					[
+						"admin/bootstra",
+						"app/assets/stylesheets/admin/bootstrap.scss"
+					],
+					[
+						"admin.css",
+						"app/assets/stylesheets/admin.css"
+					],
+					[
+						"sub_category.rb",
+						"app/models/sub_category.rb"
+					],
+					[
+						"autoenrolment.scss",
+						"app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss"
+					],
+					[
+						"workercategor",
+						"lib/payroll/pensions/worker_categoriser.rb"
+					],
+					[
+						"worker_asessment_",
+						"lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb"
+					],
+					[
+						"worker_asessment_da",
+						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
+					],
+					[
+						"workercategoriser",
+						"lib/payroll/pensions/worker_categoriser.rb"
+					],
+					[
+						"worker_assessment_",
+						"app/models/payroll/ae_worker_assessment_report.rb"
+					],
+					[
+						"workforce_assesment",
+						"lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb"
+					],
+					[
+						"workforce_",
+						"spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb"
+					],
+					[
+						"workforce_assesmen",
+						"spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb"
+					],
+					[
+						"spec/lib/payroll/presenters/uk/ae_workforce_assessment_grid_spec.rb",
+						"spec/lib/payroll/presenters/uk/ae_workforce_assessment_grid_spec.rb"
+					],
+					[
 						"readme",
 						"README.md"
+					],
+					[
+						"worker_assessment_gr",
+						"lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb"
+					],
+					[
+						"common_fields",
+						"app/views/candidates/account/_common_fields.html.erb"
+					],
+					[
+						"version",
+						"lib/scraper/version.rb"
+					],
+					[
+						"autoenrolment/assess",
+						"app/views/payroll/pensions/autoenrolment/_assess_workforce_task.html.erb"
+					],
+					[
+						"autoenrolment/review",
+						"app/views/payroll/pensions/autoenrolment/_review_arrangements_task.html.erb"
+					],
+					[
+						"routes.rb",
+						"config/routes.rb"
+					],
+					[
+						"autoenrolment/nomi",
+						"app/views/payroll/pensions/autoenrolment/_nominate_contact_task.html.erb"
+					],
+					[
+						"en-ie.yml",
+						"config/locales/payroll/en-IE.yml"
+					],
+					[
+						"pension_schemes.js",
+						"app/assets/javascripts/payroll/pension_schemes/pension_schemes.js"
+					],
+					[
+						"worker_assesment_repo",
+						"app/models/payroll/ae_worker_assessment_report.rb"
+					],
+					[
+						"worker_assessment",
+						"app/models/payroll/ae_worker_assessment_report.rb"
+					],
+					[
+						"autoenrolment_cont",
+						"app/controllers/payroll/pensions/autoenrolment_controller.rb"
+					],
+					[
+						"worker_assessment.html.erb",
+						"app/views/payroll/pensions/autoenrolment/worker_assessment.html.erb"
+					],
+					[
+						"en-ie",
+						"config/locales/payroll/en-IE.yml"
+					],
+					[
+						"spec/views/payroll/pension_schemes/_form.html.erb_spec.rb",
+						"spec/views/payroll/pension_schemes/_form.html.erb_spec.rb"
+					],
+					[
+						"payroll/en.yml",
+						"config/locales/payroll/en.yml"
+					],
+					[
+						"prepare.html.erb",
+						"app/views/payroll/pensions/autoenrolment/prepare.html.erb"
+					],
+					[
+						"pension_schemes/form",
+						"app/views/payroll/pension_schemes/_form.html.erb"
+					],
+					[
+						"application_helper.rb",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"auto_enrolment.ht",
+						"app/views/payroll/pensions/uk/_auto_enrol_assessment.html.erb"
+					],
+					[
+						"pensions.scss",
+						"app/assets/stylesheets/payroll/modules/_Pensions.scss"
+					],
+					[
+						"pension_scheme/form",
+						"app/views/payroll/pension_schemes/_form.html.erb"
+					],
+					[
+						"pension.scss",
+						"app/assets/stylesheets/payroll/modules/_Pensions.scss"
+					],
+					[
+						"pension_payment_sources/",
+						"app/views/payroll/pension_payment_sources/_section.html.erb"
+					],
+					[
+						"pension_payment_sources/form",
+						"app/views/payroll/pension_payment_sources/_form.html.erb"
+					],
+					[
+						"payment_source",
+						"app/views/payroll/pension_schemes/add_payment_source.html.erb"
+					],
+					[
+						"autoenrolment.scs",
+						"app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss"
+					],
+					[
+						"footer",
+						"app/views/layouts/_footer.html.erb"
+					],
+					[
+						"locals/en-ie",
+						"config/locales/en-IE.yml"
+					],
+					[
+						"en-ie.ym",
+						"config/locales/payroll/en-IE.yml"
+					],
+					[
+						"pension_plans/",
+						"app/views/payroll/pension_plans/_plan_types.erb"
+					],
+					[
+						"auto_enrolment.scs",
+						"app/assets/stylesheets/auto_enrolment.css"
+					],
+					[
+						"pension_schemes/form.h",
+						"app/views/payroll/pension_schemes/_form.html.erb"
 					],
 					[
 						"ereadme",
@@ -1237,18 +1597,6 @@
 						"lib/themoviedb/api.rb"
 					],
 					[
-						"pension_scheme.rb",
-						"app/models/payroll/pension_scheme.rb"
-					],
-					[
-						"pension_schemes/form",
-						"app/views/payroll/pension_schemes/_form.html.erb"
-					],
-					[
-						"workforce_",
-						"spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb"
-					],
-					[
 						"worker_assesment_da",
 						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
 					],
@@ -1259,10 +1607,6 @@
 					[
 						"worker_asess",
 						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
-					],
-					[
-						"gemfile",
-						"Gemfile"
 					],
 					[
 						"league_table_view_cel",
@@ -1305,16 +1649,8 @@
 						"app/lib/helper_methods.rb"
 					],
 					[
-						"pensions.scss",
-						"app/assets/stylesheets/payroll/modules/_Pensions.scss"
-					],
-					[
 						"payroll.scss",
 						"app/assets/stylesheets/payroll/_PayrollCore.scss"
-					],
-					[
-						"auto_enrolment.scs",
-						"app/assets/stylesheets/auto_enrolment.css"
 					],
 					[
 						"_all.scss",
@@ -1349,14 +1685,6 @@
 						"spec/models/payroll/pension_scheme_spec.rb"
 					],
 					[
-						"the_people",
-						"spec/models/payroll/pension_schemes/the_peoples_pension_spec.rb"
-					],
-					[
-						"nest_spec.rb",
-						"spec/models/payroll/pension_schemes/nest_spec.rb"
-					],
-					[
 						"now_spec.rb",
 						"spec/models/payroll/pension_schemes/now_spec.rb"
 					],
@@ -1371,18 +1699,6 @@
 					[
 						"payroll_pay_submission_controller_spec",
 						"spec/controllers/payroll/payroll_pay_submission_controller_spec.rb"
-					],
-					[
-						"pension_schemes_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"en-ie.ym",
-						"config/locales/payroll/en-IE.yml"
-					],
-					[
-						"en.yml",
-						"config/locales/payroll/en.yml"
 					],
 					[
 						"autoenrolment.rb",
@@ -1427,274 +1743,6 @@
 					[
 						"cancel_butto",
 						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"cancel_bu",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"continue_but",
-						"app/lib/buttons/continue_button.rb"
-					],
-					[
-						"pension_scheme_cont",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"_app_logged_in",
-						"app/views/layouts/_app_logged_in.html.erb"
-					],
-					[
-						"transfer_neg",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_negotiati",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_negotiator.rb",
-						"app/lib/transfers/transfer_negotiator.rb"
-					],
-					[
-						"transfer_completer.rb",
-						"app/lib/transfers/transfer_completer.rb"
-					],
-					[
-						"ui_view_bo",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"continue_button",
-						"app/lib/buttons/continue_button.rb"
-					],
-					[
-						"subsb",
-						"lib/two_halves/highlights/substitution.rb"
-					],
-					[
-						"incident.rb",
-						"lib/two_halves/incident.rb"
-					],
-					[
-						"substitution",
-						"lib/two_halves/highlights/substitution.rb"
-					],
-					[
-						"team_sheet_contr",
-						"app/controllers/club/tactics/team_sheet_in_game_controller.rb"
-					],
-					[
-						"rakefile",
-						"Rakefile"
-					],
-					[
-						"team_sheet_controll",
-						"app/controllers/club/tactics/team_sheet_in_game_controller.rb"
-					],
-					[
-						"team_sheet_con",
-						"app/controllers/club/tactics/team_sheet_base_controller.rb"
-					],
-					[
-						"substite_shirt.rb",
-						"app/views/club/tactics/team_sheet/substitute_shirt.rb"
-					],
-					[
-						"shortlist_player_but",
-						"app/lib/buttons/shortlist_player_button.rb"
-					],
-					[
-						"ui_search_but",
-						"app/lib/buttons/ui_search_button.rb"
-					],
-					[
-						"transfer_negotiation_cont",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"uiviewboxbut",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"schemes_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"routes.rb",
-						"config/routes.rb"
-					],
-					[
-						"scheme_contro",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"pension_plan.rb",
-						"app/models/payroll/pension_plan.rb"
-					],
-					[
-						"pension_plan_con",
-						"app/views/payroll/pension_plans/_section.html.erb"
-					],
-					[
-						"schema.rb",
-						"db/schema.rb"
-					],
-					[
-						"auto_enrol_valid_staging_date",
-						"app/views/payroll/pensions/uk/_auto_enrol_valid_staging_date.html.erb"
-					],
-					[
-						"spec/views/payroll/payroll_summary/index.html.erb_spec.rb",
-						"spec/views/payroll/payroll_summary/index.html.erb_spec.rb"
-					],
-					[
-						"app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb",
-						"app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb"
-					],
-					[
-						"pension_scheme_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"schemes/index.html.erb",
-						"app/views/payroll/pension_schemes/index.html.erb"
-					],
-					[
-						"ie.yml",
-						"config/locales/payroll/en-IE.yml"
-					],
-					[
-						"pensions/form.html.erb",
-						"app/views/payroll/pension_schemes/_form.html.erb"
-					],
-					[
-						"pensions_scheme",
-						"app/assets/javascripts/payroll/pension_schemes/pension_schemes.js"
-					],
-					[
-						"payroll_employees/form",
-						"app/views/payroll/payroll_employees/_payroll_employees_form.html.erb"
-					],
-					[
-						"auto_enrol_pod.scss",
-						"app/assets/stylesheets/payroll/modules/_auto_enrol_pod.scss"
-					],
-					[
-						"auto_enrol_modal",
-						"app/views/payroll/pensions/uk/_auto_enrol_modal.html.erb"
-					],
-					[
-						"_auto_enrol_pod.scss",
-						"app/assets/stylesheets/payroll/modules/_auto_enrol_pod.scss"
-					],
-					[
-						"ui_custom",
-						"app/lib/ui_custom_picker_controller.rb"
-					],
-					[
-						"ui_view_box_button",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"shortlist_con",
-						"app/controllers/transfers/shortlist_controller.rb"
-					],
-					[
-						"uiviewbox_b",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"result_view.rb",
-						"app/views/match/scoreboard/result_view.rb"
-					],
-					[
-						"devise.css",
-						"app/assets/stylesheets/devise/devise.css.scss"
-					],
-					[
-						"organisation_controller.rb",
-						"app/controllers/candidates/organisation_controller.rb"
-					],
-					[
-						"registration_controller.rb",
-						"app/controllers/organisations/registrations_controller.rb"
-					],
-					[
-						"registrations_con",
-						"spec/features/organisations/registrations_controller_spec.rb"
-					],
-					[
-						"organisation_controller",
-						"app/controllers/candidates/organisation_controller.rb"
-					],
-					[
-						"organisation.rb",
-						"app/models/organisation.rb"
-					],
-					[
-						"organisation_spec",
-						"spec/features/organisations/organisation_users_controller_spec.rb"
-					],
-					[
-						"organisation_spec.rb",
-						"spec/models/organisation_spec.rb"
-					],
-					[
-						"migrate/admins",
-						"db/migrate/20131024092928_add_devise_to_admins.rb"
-					],
-					[
-						"transfer_negotiation_control",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"uiview_box_but",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"transfer_list_controller",
-						"app/controllers/transfers/transfer_list_controller.rb"
-					],
-					[
-						"player_search_controller",
-						"app/controllers/transfers/search/player_search_controller.rb"
-					],
-					[
-						"club.rb",
-						"app/models/club.rb"
-					],
-					[
-						"club_specr.b",
-						"spec/models/club_spec.rb"
-					],
-					[
-						"container_controlle",
-						"app/controllers/container_controller.rb"
-					],
-					[
-						"approach_player_con",
-						"app/controllers/club/squad/approach_player_controller.rb"
-					],
-					[
-						"transfer_negoti",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_cofnirmation",
-						"app/controllers/club/squad/transfer_confirmation_controller.rb"
-					],
-					[
-						"transfer_confirmation",
-						"app/controllers/club/squad/transfer_confirmation_controller.rb"
-					],
-					[
-						"select_save_game",
-						"app/controllers/save_game/select_save_game_slot_contoller.rb"
 					]
 				],
 				"width": 0.0
@@ -1709,9 +1757,13 @@
 			},
 			"select_symbol":
 			{
-				"height": 370.0,
+				"height": 52.0,
 				"selected_items":
 				[
+					[
+						"auto_enrolment_work",
+						"auto_enrolment_worker_type"
+					],
 					[
 						"redCard",
 						"redCard"
@@ -1729,19 +1781,19 @@
 						"textFieldShouldReturn"
 					]
 				],
-				"width": 480.0
+				"width": 714.0
 			},
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 164.0,
+			"side_bar_width": 277.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1490.0
+		"new_window_width": 1673.0
 	},
 	"windows":
 	[
@@ -1751,1706 +1803,17 @@
 				"selected_items":
 				[
 					[
-						"fetc",
-						"fetch_response"
+						"pension_plan",
+						"pension_plans_attributes"
 					],
 					[
-						"validat",
-						"validates_presence_of"
+						"pensio",
+						"pension_plans"
 					],
 					[
-						"defa",
-						"default_scheme"
+						"workeras",
+						"WorkerCategoriser"
 					],
-					[
-						"share",
-						"share_production"
-					],
-					[
-						"shirt",
-						"shirtPath"
-					],
-					[
-						"clubs",
-						"clubs_with_bids_accepted"
-					],
-					[
-						"set_ap",
-						"set_page_meta"
-					],
-					[
-						"add_",
-						"add_development_dependency"
-					],
-					[
-						"pan",
-						"panGestureRecognizer"
-					],
-					[
-						"willMove",
-						"willMoveToPosition"
-					],
-					[
-						"round",
-						"rounded_bank_balance"
-					],
-					[
-						"pay",
-						"payroll_calc_outputs"
-					],
-					[
-						"latest",
-						"latest_calc_output"
-					],
-					[
-						"out",
-						"output"
-					],
-					[
-						"index",
-						"index_path"
-					],
-					[
-						"numberof",
-						"numberOfRowsInSection"
-					],
-					[
-						"section",
-						"sectionInfo"
-					],
-					[
-						"sub",
-						"sublayers"
-					],
-					[
-						"get",
-						"gestureRecognizer"
-					],
-					[
-						"UIGes",
-						"UIGestureRecognizerStateEnded"
-					],
-					[
-						"UIGesture",
-						"UIGestureRecognizerStateEnded"
-					],
-					[
-						"size",
-						"sizeToFit"
-					],
-					[
-						"moving",
-						"moving_up_down"
-					],
-					[
-						"atr",
-						"attributed_name"
-					],
-					[
-						"player_his",
-						"player_history"
-					],
-					[
-						"org",
-						"organisation_user"
-					],
-					[
-						"update",
-						"update_attribute"
-					],
-					[
-						"Trasn",
-						"TransferHistoryPredicate"
-					],
-					[
-						"season",
-						"season_number"
-					],
-					[
-						"ined",
-						"in_edit_mode"
-					],
-					[
-						"primar",
-						"primary_home_color"
-					],
-					[
-						"bus",
-						"business_being_viewed"
-					],
-					[
-						"tax",
-						"tax_year_reporting_period"
-					],
-					[
-						"slider",
-						"slider_clicked"
-					],
-					[
-						"tapGes",
-						"tapGestureRecognizer"
-					],
-					[
-						"player",
-						"playerShirt"
-					],
-					[
-						"gr",
-						"gridPosition"
-					],
-					[
-						"first",
-						"firstXiShirts"
-					],
-					[
-						"isA",
-						"isAPreviousPlayer"
-					],
-					[
-						"previous",
-						"previousStarPlayerbutton"
-					],
-					[
-						"subs",
-						"substituteShirts"
-					],
-					[
-						"gest",
-						"gestureRecognizerString"
-					],
-					[
-						"Remove",
-						"removePanGesture"
-					],
-					[
-						"dele",
-						"deleteButton"
-					],
-					[
-						"member",
-						"membership"
-					],
-					[
-						"busines",
-						"business"
-					],
-					[
-						"succ",
-						"Successfully"
-					],
-					[
-						"business",
-						"business_being_viewed"
-					],
-					[
-						"payrol",
-						"payroll_employments"
-					],
-					[
-						"public",
-						"public_project"
-					],
-					[
-						"is",
-						"is_approved_project_member"
-					],
-					[
-						"myblue_proj",
-						"myblue_project_path"
-					],
-					[
-						"myblue",
-						"myblue_project_project_files_path"
-					],
-					[
-						"feat",
-						"featured_sub_category_products"
-					],
-					[
-						"sub_sub_ca",
-						"sub_sub_category_id"
-					],
-					[
-						"call_to",
-						"call_to_action_url"
-					],
-					[
-						"grouped",
-						"grouped_sub_sub_categories"
-					],
-					[
-						"end_incl",
-						"end_date_inclusive"
-					],
-					[
-						"accepted_cand",
-						"accepted_candidate_connection_in_pool"
-					],
-					[
-						"sse_evalu",
-						"sse_evaluation_evidence"
-					],
-					[
-						"publi",
-						"published_proforma"
-					],
-					[
-						"visit_the",
-						"visit_the_atkey_admin_tab"
-					],
-					[
-						"visit_the_atkey_admin",
-						"visit_the_atkey_admin_tab"
-					],
-					[
-						"visit_the_at",
-						"visit_the_atkey_admin_area"
-					],
-					[
-						"tutorial_gor",
-						"tutorial_group_"
-					],
-					[
-						"visit_the_atkey",
-						"visit_the_atkey_admin_tab"
-					],
-					[
-						"self_eva",
-						"self_evaluations"
-					],
-					[
-						"va",
-						"vao	validates_acceptance_of"
-					],
-					[
-						"not",
-						"notification"
-					],
-					[
-						"compl",
-						"completed_notifications"
-					],
-					[
-						"notifi",
-						"notification_output"
-					],
-					[
-						"orga",
-						"organisation_se_path"
-					],
-					[
-						"u",
-						"u"
-					],
-					[
-						"def",
-						"defcreate	def create - resource"
-					],
-					[
-						"visi",
-						"visit_the_organisation_admin_area"
-					],
-					[
-						"Objec",
-						"Objectives"
-					],
-					[
-						"visit",
-						"visit_the_organisation_admin_tab"
-					],
-					[
-						"organisation",
-						"organisation_objective"
-					],
-					[
-						"visit_theo",
-						"visit_the_organisation_admin_area"
-					],
-					[
-						"organisat",
-						"organisation_premises"
-					],
-					[
-						"atkey_orga",
-						"atkey_organisations_path"
-					],
-					[
-						"atkey",
-						"atkey_organisations_path"
-					],
-					[
-						"at",
-						"atkey_organisations_path"
-					],
-					[
-						"button",
-						"button_search_panel"
-					],
-					[
-						"visit_at",
-						"visit_the_atkey_admin_area"
-					],
-					[
-						"visit_the_",
-						"visit_the_atkey_admin_area"
-					],
-					[
-						"visit_th",
-						"visit_the_atkey_admin_tab"
-					],
-					[
-						"publis",
-						"published_on_marketing_site"
-					],
-					[
-						"Part",
-						"Partnerships"
-					],
-					[
-						"atkey_or",
-						"atkey_organisations_path"
-					],
-					[
-						"atkey_user",
-						"atkey_users_path"
-					],
-					[
-						"hometeam",
-						"homeTeamLeaguePositionView"
-					],
-					[
-						"homeTeam",
-						"homeTeamLeaguePositionView"
-					],
-					[
-						"awayTeam",
-						"awayTeamLeaguePositionView"
-					],
-					[
-						"competitio",
-						"competitionFixture"
-					],
-					[
-						"left",
-						"leftLeagueResults"
-					],
-					[
-						"comment",
-						"commentaryView"
-					],
-					[
-						"current",
-						"current_player_history"
-					],
-					[
-						"sort",
-						"sortDescriptorWithKey"
-					],
-					[
-						"goto",
-						"goToPlayerProfileButton"
-					],
-					[
-						"goToPlayerP",
-						"goToPlayerProfileButton"
-					],
-					[
-						"game",
-						"game_opts"
-					],
-					[
-						"ga",
-						"game_opts"
-					],
-					[
-						"playe",
-						"playingStyleView"
-					],
-					[
-						"con",
-						"content_document"
-					],
-					[
-						"cont",
-						"content_document"
-					],
-					[
-						"KUI",
-						"KUIBezierPathArrowDirectionUp"
-					],
-					[
-						"del",
-						"delegate"
-					],
-					[
-						"largeSle",
-						"largeSleeveRight"
-					],
-					[
-						"defaultSle",
-						"defaultSleeveRight"
-					],
-					[
-						"defaultSlee",
-						"defaultSleeveRight"
-					],
-					[
-						"gesture",
-						"gestureRecognizer"
-					],
-					[
-						"declineTrans",
-						"declineTransferButton"
-					],
-					[
-						"conti",
-						"continueButton"
-					],
-					[
-						"UIButt",
-						"UIButtonTypeSystem"
-					],
-					[
-						"center",
-						"centerPosition"
-					],
-					[
-						"reti",
-						"retiring_this_season"
-					],
-					[
-						"return",
-						"return_from_injury"
-					],
-					[
-						"return_fro",
-						"return_from_injury"
-					],
-					[
-						"number_of_fixture",
-						"number_of_fixtures_for_round"
-					],
-					[
-						"substi",
-						"substituteController"
-					],
-					[
-						"work_for_us",
-						"work_for_us_image"
-					],
-					[
-						"why_ch",
-						"why_choose_us_image"
-					],
-					[
-						"the_com",
-						"the_community_image"
-					],
-					[
-						"kasia_",
-						"kasia_paul_image"
-					],
-					[
-						"Curren",
-						"CurrentSaveGame"
-					],
-					[
-						"r",
-						"r	attr_reader .."
-					],
-					[
-						"R",
-						"R"
-					]
-				]
-			},
-			"buffers":
-			[
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 52.0,
-				"selected_items":
-				[
-					[
-						"git status",
-						"Git: Status"
-					],
-					[
-						"git blame",
-						"Git: Blame"
-					],
-					[
-						"git st",
-						"Set Syntax: SublimeGit Status"
-					],
-					[
-						"git s",
-						"Set Syntax: SublimeGit Show"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						" git status",
-						"Git: Status"
-					],
-					[
-						"next tra",
-						"Spotify: Next Track"
-					],
-					[
-						"install pack",
-						"Package Control: Install Package"
-					],
-					[
-						"list package",
-						"Package Control: List Packages"
-					],
-					[
-						"",
-						"Git: Show"
-					],
-					[
-						"convert case",
-						"Convert Case: Title Case"
-					],
-					[
-						"conver case",
-						"Convert Case: Swap Case"
-					],
-					[
-						"upper case",
-						"Convert Case: Upper Case"
-					],
-					[
-						"delete",
-						"File: Delete"
-					],
-					[
-						"install pac",
-						"Package Control: Install Package"
-					],
-					[
-						" git blame",
-						"Git: Blame"
-					],
-					[
-						"spot",
-						"Spotify: Next Track"
-					],
-					[
-						"next",
-						"Spotify: Next Track"
-					],
-					[
-						"rubymotion",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubymot",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"ruubymo",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubymoti",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubymto",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubynot",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"ribymot",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubymo",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"remove ",
-						"Package Control: Remove Package"
-					],
-					[
-						"inde",
-						"Indent XML"
-					],
-					[
-						"blame",
-						"Git: Blame"
-					],
-					[
-						"open",
-						"File: Open In Browser - Production Server"
-					],
-					[
-						"git ",
-						"Git: Fetch"
-					],
-					[
-						"git staut",
-						"Git: Status"
-					],
-					[
-						"spell",
-						"Google Spell Check"
-					],
-					[
-						"installp",
-						"Package Control: Install Package"
-					],
-					[
-						"ruby mot",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"ruby",
-						"Set Syntax: Ruby"
-					],
-					[
-						"git satus",
-						"Git: Status"
-					],
-					[
-						"git satu",
-						"Set Syntax: SublimeGit Status"
-					],
-					[
-						"ruby moti",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubym",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"SublimeLinter",
-						"SublimeLinter: Choose Gutter Theme"
-					],
-					[
-						"build",
-						"Build: Build"
-					],
-					[
-						"ruby motion",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"obb",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"list pack",
-						"Package Control: List Packages"
-					],
-					[
-						"list packa",
-						"Package Control: List Packages"
-					],
-					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
-						"install p",
-						"Package Control: Install Package"
-					],
-					[
-						"status",
-						"Git: Status"
-					],
-					[
-						"remoe",
-						"Package Control: Remove Package"
-					],
-					[
-						"Git: Status",
-						"Git: Status"
-					],
-					[
-						"git: diff",
-						"Git: Diff"
-					],
-					[
-						"git: status",
-						"Git: Status"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 561.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"ruby",
-					"clear",
-					"puts name",
-					"p name",
-					"name = 1",
-					"python",
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/ahmet/Projects/sage/sage_one_accounts_uk/README.md",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/payroll_uk2010_model_factory.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/employment/grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/uk/pre_rti_employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/pre_rti_employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/uk/employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/ie/employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/ie/employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/fixtures/payroll_employments.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll_enums.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/payroll_schedule.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/deploy_payroll.sh",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/fixtures/payroll_addresses.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/package.json",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/support/employees.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/payroll/tests/data/HmrcImp_EmpList_0ees.txt",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/employment_pays.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/payroll/validation_rules/email-multi.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/locales/payroll/en.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/pensions/autoenrolment_controller.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/.idea/workspace.xml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/employment_selection.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne-Payroll/test/011 Leavers/george_reinstate_leaver.sah",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Gemfile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/config/os.properties",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/hmrc/online_web_service.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/payroll/auto_enrolment/worker_assessment.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/configuration.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/search.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/movie.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/episode.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/season.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/tv.rb",
-				"/Users/ahmet/MyProjects/themoviedb/themoviedb.gemspec",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/resource.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/find_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/find.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/vcr/movie/credits_for_id.yml",
-				"/Users/ahmet/MyProjects/themoviedb/spec/person_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/person.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/movie_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/genre.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/vcr/movie/movie_belongs_for_id.yml",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/api.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/hash_to_openstruct.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb.rb",
-				"/Users/ahmet/MyProjects/themoviedb/Gemfile",
-				"/Users/ahmet/MyProjects/themoviedb/Gemfile.lock",
-				"/Users/ahmet/MyProjects/themoviedb/spec/company_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_scheme.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pension_schemes/_form.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_Pensions.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/public/fonts/sageone-icons/sageone-icons-webfont.svg",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/pension_schemes_controller.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/worker_assessment.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/pay/submission/pay_run.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_add_business_payment_form.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/payroll_company/_includable_earnings.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/nominal/pay_run.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/pay_review.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/pay_frequency.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/README.md",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Rakefile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/pensions/worker_categoriser.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sso_templates/project/WebSignOn.Application.PreProd.v11/bin/WebSignOn.Application.Resources.xml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/htdocs/demo/window_opener.htm",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/table_cells/league_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/base_player_profile_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/player_profile_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/player_profile_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/table_cells/league_table_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/dashboard/dashboard_league_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/squad/player_profile_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/predicates/player_predicate.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/transfers/search/player_search_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/ib.xcodeproj/project.pbxproj",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view_header.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/league_tables/league_tables_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/league_table_updater.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/models/league_table.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/models/league_fixture.rb",
-				"/Users/ahmet/Projects/titlechallenge/features/support/launch.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/big_box_buttons/big_box_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/touchable_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/helper_methods.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/shortlist_player_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/upgrade_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/approach_player_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/kick_off_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/tactics/team_sheet_pre_game_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/custom_ui_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/styles.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/cancel_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/continue_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/table_header_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/club_colors.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/continue.rb",
-				"/Users/ahmet/Projects/titlechallenge/Rakefile",
-				"/Users/ahmet/Projects/titlechallenge/spec/helpers_spec.rb",
-				"/Users/ahmet/Projects/titlechallenge/features/support/hooks.rb",
-				"/Users/ahmet/MyProjects/share/.ruby-gemset",
-				"/Users/ahmet/MyProjects/share/.ruby-version",
-				"/Users/ahmet/MyProjects/share/Gemfile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_PayrollCore.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_payrollmixins.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/public/stylesheets/SageOne_MSIE_Payroll.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_base.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/views/settings/payroll_business.html.erb_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/stories/payroll_stories.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/run_payroll_tests.sh",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_incomplete_preparation_dialog.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_valid_staging_date.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/locales/payroll/en-IE.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pension_schemes/add_plan.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/auto_enrolment.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_modal.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/uk/auto_enrolment/auto_enrolment.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne/Downloads/activationcodes_used.csv",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/address.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/payroll_summary_controller.rb"
-			],
-			"find":
-			{
-				"height": 25.0
-			},
-			"find_in_files":
-			{
-				"height": 91.0,
-				"where_history":
-				[
-					"",
-					"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/payroll_pay_submission",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"load_grid_pres",
-					"ae_workforce_assessment_grid",
-					"AeWorkforceAssessmentGrid",
-					"data_to_display",
-					"AeWorkforceAssessmentGrid.data_to_display",
-					"']",
-					"['",
-					"results",
-					"['",
-					"']",
-					"@movie",
-					"detail",
-					"['",
-					"=\"30\"",
-					"maxlength=\"30\"",
-					"gross_tp",
-					"includable_earnings",
-					"Include in Calculation of",
-					"list_in_list",
-					"new_payroll_business_payment_alias_description",
-					"defaultBackgroundColor",
-					"default_tap_behaviour_enabled",
-					"setHighlighted",
-					"default_tap_behaviour_enabled",
-					"setHighlighted",
-					"needs_highlight?",
-					"leagueTableRow",
-					"needs_highlight",
-					"League Tables",
-					"touched_down_background_color",
-					"successTappedButton",
-					"Kick Off!",
-					"shadeRGBColor",
-					"number_to_currency",
-					"high_luminance",
-					"colourComparison",
-					"comma_and_list",
-					"shadeRGBColor",
-					"include HelperMethods",
-					"include Helper",
-					"ClubColors",
-					"shadeRGBColor",
-					"0.8",
-					"rgb",
-					"include Helper",
-					"rgb",
-					"UIColor",
-					"R",
-					"bottom_button",
-					"bottom_page",
-					"#autoEnrolmentPod",
-					"&bullet",
-					"&:bullet",
-					"stylesheet_link_tag \"auto_enrolment\"",
-					"stylesheet_link_tag \"payroll",
-					"stylesheet_link_tag",
-					"payroll",
-					"stylesheet",
-					"auto_enrol_pod",
-					"auto_enrol_valid_staging",
-					"incompletePreparation",
-					"display: list-item",
-					"<li>",
-					"incomplete_preparation",
-					"have_not_completed",
-					"You have not completed the following:",
-					"list.inform",
-					"Inform The Pension's Regulator of your AE contact",
-					" Inform The Pension's Regulator of your AE contact",
-					"incompletePreparation",
-					"raw-list",
-					"&bullet",
-					"incompletePreparation",
-					"prepare.text",
-					"To be prepared for Auto ",
-					"incomplete_preparation.reached_staging_date",
-					"Your business has reached its",
-					"&bullet",
-					"nest_pension_scheme",
-					".new",
-					"new",
-					"PensionSchemes",
-					"maximum_threshold",
-					"valid.maximum_threshold",
-					"minimum_threshold",
-					"Rate must be at least £0",
-					"earnings_threshold",
-					"terms.description",
-					"By using this pension provider in Sage One Payro",
-					"terms.description",
-					"By using this pension provider in Sage One Payroll, you are a",
-					"Payroll::Pension.Title",
-					"show",
-					"Payroll::Pension",
-					"pension",
-					"Payroll::Pension",
-					"pension",
-					"I18",
-					"shortlistButton",
-					"\"Shortlist\"",
-					"  include TouchableButton",
-					"touchable",
-					"include Taggab",
-					"terms",
-					"Enrolment requirements",
-					"mee Autoenrol",
-					"return_page",
-					"Return to prepar",
-					"bigBox",
-					"UICustomButton",
-					"upgradeBox",
-					"upgradeBoxLabel",
-					"upgradeContainer",
-					"box",
-					"upgradeButtonLabel",
-					"upgradeBox",
-					"box",
-					"setTitle(\"",
-					"cancelButton",
-					"CancelButton",
-					"CustomUIButton",
-					"\"Upgrade\"",
-					"TouchableButton",
-					"upgradeBox",
-					"upgradeBoxLabel",
-					"\"Upgrade\"",
-					"Upgrade",
-					"self"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"whitelegg_development",
-					"link_to_add_fields",
-					"SelectClubController",
-					"tabs",
-					"CoreImage",
-					"  {",
-					"\n  "
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/Users/ahmet/Projects/sage/sage_one_accounts_uk"
-				}
-			],
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 25.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 110.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"position": "535 61 1490 1313 0 0 2560 1418 ",
-			"project": "",
-			"replace":
-			{
-				"height": 46.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"payrollemploymentgrid",
-						"lib/payroll/presenters/employment/grid.rb"
-					],
-					[
-						"employment_grid.rb",
-						"lib/payroll/presenters/uk/employment_grid.rb"
-					],
-					[
-						"workforce_assesm",
-						"spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb"
-					],
-					[
-						"workforce_assesment_g",
-						"lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb"
-					],
-					[
-						"worker_asessment_data.rb",
-						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
-					],
-					[
-						"tv_spec.rb",
-						"spec/tv_spec.rb"
-					],
-					[
-						"find_spec.rb",
-						"spec/find_spec.rb"
-					],
-					[
-						"person_spec.rb",
-						"spec/person_spec.rb"
-					],
-					[
-						"movie.rb",
-						"lib/themoviedb/movie.rb"
-					],
-					[
-						"sear",
-						"lib/themoviedb/search.rb"
-					],
-					[
-						"api.rb",
-						"lib/themoviedb/api.rb"
-					],
-					[
-						"pension_scheme.rb",
-						"app/models/payroll/pension_scheme.rb"
-					],
-					[
-						"pension_schemes/form",
-						"app/views/payroll/pension_schemes/_form.html.erb"
-					],
-					[
-						"workforce_",
-						"spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb"
-					],
-					[
-						"worker_assesment_da",
-						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
-					],
-					[
-						"pay_run.js",
-						"app/assets/javascripts/pay/submission/pay_run.js"
-					],
-					[
-						"readme",
-						"README.md"
-					],
-					[
-						"worker_asess",
-						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
-					],
-					[
-						"gemfile",
-						"Gemfile"
-					],
-					[
-						"league_table_view_cel",
-						"app/views/league_tables/table_cells/league_table_view_cell.rb"
-					],
-					[
-						"player_profile_table_view",
-						"app/views/club/squad/player/player_profile_table_view_cell.rb"
-					],
-					[
-						"league_table_view_cell",
-						"app/views/league_tables/table_cells/league_table_view_cell.rb"
-					],
-					[
-						"league_table_conten",
-						"app/views/league_tables/table_cells/league_table_content_view.rb"
-					],
-					[
-						"approach_player",
-						"app/lib/buttons/approach_player_button.rb"
-					],
-					[
-						"cancel_but",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"rake",
-						"Rakefile"
-					],
-					[
-						"conti",
-						"app/lib/buttons/continue_button.rb"
-					],
-					[
-						"cancel_b",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"helper_meth",
-						"app/lib/helper_methods.rb"
-					],
-					[
-						"pensions.scss",
-						"app/assets/stylesheets/payroll/modules/_Pensions.scss"
-					],
-					[
-						"payroll.scss",
-						"app/assets/stylesheets/payroll/_PayrollCore.scss"
-					],
-					[
-						"auto_enrolment.scs",
-						"app/assets/stylesheets/auto_enrolment.css"
-					],
-					[
-						"_all.scss",
-						"app/assets/stylesheets/payroll/partials/_all.scss"
-					],
-					[
-						"application.css",
-						"app/assets/stylesheets/application.css"
-					],
-					[
-						"business.rb",
-						"lib/payroll/mixins/business.rb"
-					],
-					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"payroll_s",
-						"app/models/payroll/payroll_schedule.rb"
-					],
-					[
-						"ension_schemes_controller_spec.rb",
-						"spec/controllers/payroll/pension_schemes_controller_spec.rb"
-					],
-					[
-						"spec/controllers/payroll/pension_schemes_controller_spec.rb",
-						"spec/controllers/payroll/pension_schemes_controller_spec.rb"
-					],
-					[
-						"spec/models/payroll/pension_scheme_spec.rb",
-						"spec/models/payroll/pension_scheme_spec.rb"
-					],
-					[
-						"the_people",
-						"spec/models/payroll/pension_schemes/the_peoples_pension_spec.rb"
-					],
-					[
-						"nest_spec.rb",
-						"spec/models/payroll/pension_schemes/nest_spec.rb"
-					],
-					[
-						"now_spec.rb",
-						"spec/models/payroll/pension_schemes/now_spec.rb"
-					],
-					[
-						"spec/models/payroll/pension_schemes/nest_spec.rb",
-						"spec/models/payroll/pension_schemes/nest_spec.rb"
-					],
-					[
-						"pension_schemes_cont",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"payroll_pay_submission_controller_spec",
-						"spec/controllers/payroll/payroll_pay_submission_controller_spec.rb"
-					],
-					[
-						"pension_schemes_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"en-ie.ym",
-						"config/locales/payroll/en-IE.yml"
-					],
-					[
-						"en.yml",
-						"config/locales/payroll/en.yml"
-					],
-					[
-						"autoenrolment.rb",
-						"app/models/payroll/uk/auto_enrolment/auto_enrolment.rb"
-					],
-					[
-						"user.rb",
-						"lib/payroll/mixins/user.rb"
-					],
-					[
-						"pension_scheme",
-						"app/models/payroll/pension_scheme.rb"
-					],
-					[
-						"gemf",
-						"Gemfile"
-					],
-					[
-						"shortlist_player",
-						"app/lib/buttons/shortlist_player_button.rb"
-					],
-					[
-						"shortlist_button",
-						"app/lib/buttons/big_box_buttons/transfers/shortlist_button.rb"
-					],
-					[
-						"approach_player_bu",
-						"app/lib/buttons/approach_player_button.rb"
-					],
-					[
-						"autoenrolment",
-						"app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss"
-					],
-					[
-						"auto_enrolment.sc",
-						"app/assets/stylesheets/auto_enrolment.css"
-					],
-					[
-						"payrollscss",
-						"app/assets/stylesheets/payroll/_PayrollCore.scss"
-					],
-					[
-						"cancel_butto",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"cancel_bu",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"continue_but",
-						"app/lib/buttons/continue_button.rb"
-					],
-					[
-						"pension_scheme_cont",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"_app_logged_in",
-						"app/views/layouts/_app_logged_in.html.erb"
-					],
-					[
-						"transfer_neg",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_negotiati",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_negotiator.rb",
-						"app/lib/transfers/transfer_negotiator.rb"
-					],
-					[
-						"transfer_completer.rb",
-						"app/lib/transfers/transfer_completer.rb"
-					],
-					[
-						"ui_view_bo",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"continue_button",
-						"app/lib/buttons/continue_button.rb"
-					],
-					[
-						"subsb",
-						"lib/two_halves/highlights/substitution.rb"
-					],
-					[
-						"incident.rb",
-						"lib/two_halves/incident.rb"
-					],
-					[
-						"substitution",
-						"lib/two_halves/highlights/substitution.rb"
-					],
-					[
-						"team_sheet_contr",
-						"app/controllers/club/tactics/team_sheet_in_game_controller.rb"
-					],
-					[
-						"rakefile",
-						"Rakefile"
-					],
-					[
-						"team_sheet_controll",
-						"app/controllers/club/tactics/team_sheet_in_game_controller.rb"
-					],
-					[
-						"team_sheet_con",
-						"app/controllers/club/tactics/team_sheet_base_controller.rb"
-					],
-					[
-						"substite_shirt.rb",
-						"app/views/club/tactics/team_sheet/substitute_shirt.rb"
-					],
-					[
-						"shortlist_player_but",
-						"app/lib/buttons/shortlist_player_button.rb"
-					],
-					[
-						"ui_search_but",
-						"app/lib/buttons/ui_search_button.rb"
-					],
-					[
-						"transfer_negotiation_cont",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"uiviewboxbut",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"schemes_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"routes.rb",
-						"config/routes.rb"
-					],
-					[
-						"scheme_contro",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"pension_plan.rb",
-						"app/models/payroll/pension_plan.rb"
-					],
-					[
-						"pension_plan_con",
-						"app/views/payroll/pension_plans/_section.html.erb"
-					],
-					[
-						"schema.rb",
-						"db/schema.rb"
-					],
-					[
-						"auto_enrol_valid_staging_date",
-						"app/views/payroll/pensions/uk/_auto_enrol_valid_staging_date.html.erb"
-					],
-					[
-						"spec/views/payroll/payroll_summary/index.html.erb_spec.rb",
-						"spec/views/payroll/payroll_summary/index.html.erb_spec.rb"
-					],
-					[
-						"app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb",
-						"app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb"
-					],
-					[
-						"pension_scheme_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"schemes/index.html.erb",
-						"app/views/payroll/pension_schemes/index.html.erb"
-					],
-					[
-						"ie.yml",
-						"config/locales/payroll/en-IE.yml"
-					],
-					[
-						"pensions/form.html.erb",
-						"app/views/payroll/pension_schemes/_form.html.erb"
-					],
-					[
-						"pensions_scheme",
-						"app/assets/javascripts/payroll/pension_schemes/pension_schemes.js"
-					],
-					[
-						"payroll_employees/form",
-						"app/views/payroll/payroll_employees/_payroll_employees_form.html.erb"
-					],
-					[
-						"auto_enrol_pod.scss",
-						"app/assets/stylesheets/payroll/modules/_auto_enrol_pod.scss"
-					],
-					[
-						"auto_enrol_modal",
-						"app/views/payroll/pensions/uk/_auto_enrol_modal.html.erb"
-					],
-					[
-						"_auto_enrol_pod.scss",
-						"app/assets/stylesheets/payroll/modules/_auto_enrol_pod.scss"
-					],
-					[
-						"ui_custom",
-						"app/lib/ui_custom_picker_controller.rb"
-					],
-					[
-						"ui_view_box_button",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"shortlist_con",
-						"app/controllers/transfers/shortlist_controller.rb"
-					],
-					[
-						"uiviewbox_b",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"result_view.rb",
-						"app/views/match/scoreboard/result_view.rb"
-					],
-					[
-						"devise.css",
-						"app/assets/stylesheets/devise/devise.css.scss"
-					],
-					[
-						"organisation_controller.rb",
-						"app/controllers/candidates/organisation_controller.rb"
-					],
-					[
-						"registration_controller.rb",
-						"app/controllers/organisations/registrations_controller.rb"
-					],
-					[
-						"registrations_con",
-						"spec/features/organisations/registrations_controller_spec.rb"
-					],
-					[
-						"organisation_controller",
-						"app/controllers/candidates/organisation_controller.rb"
-					],
-					[
-						"organisation.rb",
-						"app/models/organisation.rb"
-					],
-					[
-						"organisation_spec",
-						"spec/features/organisations/organisation_users_controller_spec.rb"
-					],
-					[
-						"organisation_spec.rb",
-						"spec/models/organisation_spec.rb"
-					],
-					[
-						"migrate/admins",
-						"db/migrate/20131024092928_add_devise_to_admins.rb"
-					],
-					[
-						"transfer_negotiation_control",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"uiview_box_but",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"transfer_list_controller",
-						"app/controllers/transfers/transfer_list_controller.rb"
-					],
-					[
-						"player_search_controller",
-						"app/controllers/transfers/search/player_search_controller.rb"
-					],
-					[
-						"club.rb",
-						"app/models/club.rb"
-					],
-					[
-						"club_specr.b",
-						"spec/models/club_spec.rb"
-					],
-					[
-						"container_controlle",
-						"app/controllers/container_controller.rb"
-					],
-					[
-						"approach_player_con",
-						"app/controllers/club/squad/approach_player_controller.rb"
-					],
-					[
-						"transfer_negoti",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_cofnirmation",
-						"app/controllers/club/squad/transfer_confirmation_controller.rb"
-					],
-					[
-						"transfer_confirmation",
-						"app/controllers/club/squad/transfer_confirmation_controller.rb"
-					],
-					[
-						"select_save_game",
-						"app/controllers/save_game/select_save_game_slot_contoller.rb"
-					],
-					[
-						"save_game_slot",
-						"app/controllers/save_game/select_save_game_slot_contoller.rb"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 370.0,
-				"selected_items":
-				[
-					[
-						"redCard",
-						"redCard"
-					],
-					[
-						"cellidenti",
-						"cellIdentifier"
-					],
-					[
-						"",
-						"AboutController"
-					],
-					[
-						"return",
-						"textFieldShouldReturn"
-					]
-				],
-				"width": 480.0
-			},
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 164.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 929,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"fetc",
 						"fetch_response"
@@ -3950,1729 +2313,24 @@
 					[
 						"kasia_",
 						"kasia_paul_image"
-					],
-					[
-						"Curren",
-						"CurrentSaveGame"
-					],
-					[
-						"r",
-						"r	attr_reader .."
-					],
-					[
-						"R",
-						"R"
-					]
-				]
-			},
-			"buffers":
-			[
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 52.0,
-				"selected_items":
-				[
-					[
-						"git status",
-						"Git: Status"
-					],
-					[
-						"git blame",
-						"Git: Blame"
-					],
-					[
-						"git st",
-						"Set Syntax: SublimeGit Status"
-					],
-					[
-						"git s",
-						"Set Syntax: SublimeGit Show"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						" git status",
-						"Git: Status"
-					],
-					[
-						"next tra",
-						"Spotify: Next Track"
-					],
-					[
-						"install pack",
-						"Package Control: Install Package"
-					],
-					[
-						"list package",
-						"Package Control: List Packages"
-					],
-					[
-						"",
-						"Git: Show"
-					],
-					[
-						"convert case",
-						"Convert Case: Title Case"
-					],
-					[
-						"conver case",
-						"Convert Case: Swap Case"
-					],
-					[
-						"upper case",
-						"Convert Case: Upper Case"
-					],
-					[
-						"delete",
-						"File: Delete"
-					],
-					[
-						"install pac",
-						"Package Control: Install Package"
-					],
-					[
-						" git blame",
-						"Git: Blame"
-					],
-					[
-						"spot",
-						"Spotify: Next Track"
-					],
-					[
-						"next",
-						"Spotify: Next Track"
-					],
-					[
-						"rubymotion",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubymot",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"ruubymo",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubymoti",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubymto",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubynot",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"ribymot",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubymo",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"remove ",
-						"Package Control: Remove Package"
-					],
-					[
-						"inde",
-						"Indent XML"
-					],
-					[
-						"blame",
-						"Git: Blame"
-					],
-					[
-						"open",
-						"File: Open In Browser - Production Server"
-					],
-					[
-						"git ",
-						"Git: Fetch"
-					],
-					[
-						"git staut",
-						"Git: Status"
-					],
-					[
-						"spell",
-						"Google Spell Check"
-					],
-					[
-						"installp",
-						"Package Control: Install Package"
-					],
-					[
-						"ruby mot",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"ruby",
-						"Set Syntax: Ruby"
-					],
-					[
-						"git satus",
-						"Git: Status"
-					],
-					[
-						"git satu",
-						"Set Syntax: SublimeGit Status"
-					],
-					[
-						"ruby moti",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubym",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"SublimeLinter",
-						"SublimeLinter: Choose Gutter Theme"
-					],
-					[
-						"build",
-						"Build: Build"
-					],
-					[
-						"ruby motion",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"obb",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"list pack",
-						"Package Control: List Packages"
-					],
-					[
-						"list packa",
-						"Package Control: List Packages"
-					],
-					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
-						"install p",
-						"Package Control: Install Package"
-					],
-					[
-						"status",
-						"Git: Status"
-					],
-					[
-						"remoe",
-						"Package Control: Remove Package"
-					],
-					[
-						"Git: Status",
-						"Git: Status"
-					],
-					[
-						"git: diff",
-						"Git: Diff"
-					],
-					[
-						"git: status",
-						"Git: Status"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 561.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"ruby",
-					"clear",
-					"puts name",
-					"p name",
-					"name = 1",
-					"python",
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/extlib/README.txt",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Rakefile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/src/net/sf/sahi/plugin/FileReader.java",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/support/eps_reporting_period_return_shared_examples.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/support/eps_resubmission.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/locales/payroll/en.yml",
-				"/Users/ahmet/Projects/sage/sage_one_accounts_uk/README.md",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/payroll_uk2010_model_factory.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/employment/grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/uk/pre_rti_employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/pre_rti_employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/uk/employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/ie/employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/ie/employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/fixtures/payroll_employments.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll_enums.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/payroll_schedule.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/deploy_payroll.sh",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/fixtures/payroll_addresses.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/package.json",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/support/employees.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/payroll/tests/data/HmrcImp_EmpList_0ees.txt",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/employment_pays.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/payroll/validation_rules/email-multi.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/pensions/autoenrolment_controller.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/.idea/workspace.xml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/employment_selection.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne-Payroll/test/011 Leavers/george_reinstate_leaver.sah",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Gemfile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/config/os.properties",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/hmrc/online_web_service.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/payroll/auto_enrolment/worker_assessment.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/configuration.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/search.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/movie.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/episode.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/season.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/tv.rb",
-				"/Users/ahmet/MyProjects/themoviedb/themoviedb.gemspec",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/resource.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/find_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/find.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/vcr/movie/credits_for_id.yml",
-				"/Users/ahmet/MyProjects/themoviedb/spec/person_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/person.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/movie_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/genre.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/vcr/movie/movie_belongs_for_id.yml",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/api.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/hash_to_openstruct.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb.rb",
-				"/Users/ahmet/MyProjects/themoviedb/Gemfile",
-				"/Users/ahmet/MyProjects/themoviedb/Gemfile.lock",
-				"/Users/ahmet/MyProjects/themoviedb/spec/company_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_scheme.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pension_schemes/_form.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_Pensions.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/public/fonts/sageone-icons/sageone-icons-webfont.svg",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/pension_schemes_controller.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/worker_assessment.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/pay/submission/pay_run.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_add_business_payment_form.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/payroll_company/_includable_earnings.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/nominal/pay_run.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/pay_review.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/pay_frequency.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/README.md",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/pensions/worker_categoriser.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sso_templates/project/WebSignOn.Application.PreProd.v11/bin/WebSignOn.Application.Resources.xml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/htdocs/demo/window_opener.htm",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/table_cells/league_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/base_player_profile_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/player_profile_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/player_profile_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/table_cells/league_table_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/dashboard/dashboard_league_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/squad/player_profile_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/predicates/player_predicate.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/transfers/search/player_search_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/ib.xcodeproj/project.pbxproj",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view_header.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/league_tables/league_tables_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/league_table_updater.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/models/league_table.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/models/league_fixture.rb",
-				"/Users/ahmet/Projects/titlechallenge/features/support/launch.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/big_box_buttons/big_box_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/touchable_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/helper_methods.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/shortlist_player_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/upgrade_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/approach_player_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/kick_off_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/tactics/team_sheet_pre_game_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/custom_ui_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/styles.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/cancel_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/continue_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/table_header_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/club_colors.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/continue.rb",
-				"/Users/ahmet/Projects/titlechallenge/Rakefile",
-				"/Users/ahmet/Projects/titlechallenge/spec/helpers_spec.rb",
-				"/Users/ahmet/Projects/titlechallenge/features/support/hooks.rb",
-				"/Users/ahmet/MyProjects/share/.ruby-gemset",
-				"/Users/ahmet/MyProjects/share/.ruby-version",
-				"/Users/ahmet/MyProjects/share/Gemfile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_PayrollCore.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_payrollmixins.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/public/stylesheets/SageOne_MSIE_Payroll.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_base.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/views/settings/payroll_business.html.erb_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/stories/payroll_stories.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/run_payroll_tests.sh",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_incomplete_preparation_dialog.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_valid_staging_date.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/locales/payroll/en-IE.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pension_schemes/add_plan.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/auto_enrolment.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_modal.html.erb"
-			],
-			"find":
-			{
-				"height": 25.0
-			},
-			"find_in_files":
-			{
-				"height": 91.0,
-				"where_history":
-				[
-					"",
-					"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/payroll_pay_submission",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"load_grid_pres",
-					"ae_workforce_assessment_grid",
-					"AeWorkforceAssessmentGrid",
-					"data_to_display",
-					"AeWorkforceAssessmentGrid.data_to_display",
-					"']",
-					"['",
-					"results",
-					"['",
-					"']",
-					"@movie",
-					"detail",
-					"['",
-					"=\"30\"",
-					"maxlength=\"30\"",
-					"gross_tp",
-					"includable_earnings",
-					"Include in Calculation of",
-					"list_in_list",
-					"new_payroll_business_payment_alias_description",
-					"defaultBackgroundColor",
-					"default_tap_behaviour_enabled",
-					"setHighlighted",
-					"default_tap_behaviour_enabled",
-					"setHighlighted",
-					"needs_highlight?",
-					"leagueTableRow",
-					"needs_highlight",
-					"League Tables",
-					"touched_down_background_color",
-					"successTappedButton",
-					"Kick Off!",
-					"shadeRGBColor",
-					"number_to_currency",
-					"high_luminance",
-					"colourComparison",
-					"comma_and_list",
-					"shadeRGBColor",
-					"include HelperMethods",
-					"include Helper",
-					"ClubColors",
-					"shadeRGBColor",
-					"0.8",
-					"rgb",
-					"include Helper",
-					"rgb",
-					"UIColor",
-					"R",
-					"bottom_button",
-					"bottom_page",
-					"#autoEnrolmentPod",
-					"&bullet",
-					"&:bullet",
-					"stylesheet_link_tag \"auto_enrolment\"",
-					"stylesheet_link_tag \"payroll",
-					"stylesheet_link_tag",
-					"payroll",
-					"stylesheet",
-					"auto_enrol_pod",
-					"auto_enrol_valid_staging",
-					"incompletePreparation",
-					"display: list-item",
-					"<li>",
-					"incomplete_preparation",
-					"have_not_completed",
-					"You have not completed the following:",
-					"list.inform",
-					"Inform The Pension's Regulator of your AE contact",
-					" Inform The Pension's Regulator of your AE contact",
-					"incompletePreparation",
-					"raw-list",
-					"&bullet",
-					"incompletePreparation",
-					"prepare.text",
-					"To be prepared for Auto ",
-					"incomplete_preparation.reached_staging_date",
-					"Your business has reached its",
-					"&bullet",
-					"nest_pension_scheme",
-					".new",
-					"new",
-					"PensionSchemes",
-					"maximum_threshold",
-					"valid.maximum_threshold",
-					"minimum_threshold",
-					"Rate must be at least £0",
-					"earnings_threshold",
-					"terms.description",
-					"By using this pension provider in Sage One Payro",
-					"terms.description",
-					"By using this pension provider in Sage One Payroll, you are a",
-					"Payroll::Pension.Title",
-					"show",
-					"Payroll::Pension",
-					"pension",
-					"Payroll::Pension",
-					"pension",
-					"I18",
-					"shortlistButton",
-					"\"Shortlist\"",
-					"  include TouchableButton",
-					"touchable",
-					"include Taggab",
-					"terms",
-					"Enrolment requirements",
-					"mee Autoenrol",
-					"return_page",
-					"Return to prepar",
-					"bigBox",
-					"UICustomButton",
-					"upgradeBox",
-					"upgradeBoxLabel",
-					"upgradeContainer",
-					"box",
-					"upgradeButtonLabel",
-					"upgradeBox",
-					"box",
-					"setTitle(\"",
-					"cancelButton",
-					"CancelButton",
-					"CustomUIButton",
-					"\"Upgrade\"",
-					"TouchableButton",
-					"upgradeBox",
-					"upgradeBoxLabel",
-					"\"Upgrade\"",
-					"Upgrade",
-					"self"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"whitelegg_development",
-					"link_to_add_fields",
-					"SelectClubController",
-					"tabs",
-					"CoreImage",
-					"  {",
-					"\n  "
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/Users/ahmet/Projects/sage/sage_one_payroll_ukie"
-				}
-			],
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 25.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 110.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"position": "646 10 1490 1314 0 0 2560 1418 ",
-			"project": "",
-			"replace":
-			{
-				"height": 46.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"readme",
-						"README.md"
-					],
-					[
-						"ereadme",
-						"sahi/extlib/README.txt"
-					],
-					[
-						"payrollemploymentgrid",
-						"lib/payroll/presenters/employment/grid.rb"
-					],
-					[
-						"employment_grid.rb",
-						"lib/payroll/presenters/uk/employment_grid.rb"
-					],
-					[
-						"workforce_assesm",
-						"spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb"
-					],
-					[
-						"workforce_assesment_g",
-						"lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb"
-					],
-					[
-						"worker_asessment_data.rb",
-						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
-					],
-					[
-						"tv_spec.rb",
-						"spec/tv_spec.rb"
-					],
-					[
-						"find_spec.rb",
-						"spec/find_spec.rb"
-					],
-					[
-						"person_spec.rb",
-						"spec/person_spec.rb"
-					],
-					[
-						"movie.rb",
-						"lib/themoviedb/movie.rb"
-					],
-					[
-						"sear",
-						"lib/themoviedb/search.rb"
-					],
-					[
-						"api.rb",
-						"lib/themoviedb/api.rb"
-					],
-					[
-						"pension_scheme.rb",
-						"app/models/payroll/pension_scheme.rb"
-					],
-					[
-						"pension_schemes/form",
-						"app/views/payroll/pension_schemes/_form.html.erb"
-					],
-					[
-						"workforce_",
-						"spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb"
-					],
-					[
-						"worker_assesment_da",
-						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
-					],
-					[
-						"pay_run.js",
-						"app/assets/javascripts/pay/submission/pay_run.js"
-					],
-					[
-						"worker_asess",
-						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
-					],
-					[
-						"gemfile",
-						"Gemfile"
-					],
-					[
-						"league_table_view_cel",
-						"app/views/league_tables/table_cells/league_table_view_cell.rb"
-					],
-					[
-						"player_profile_table_view",
-						"app/views/club/squad/player/player_profile_table_view_cell.rb"
-					],
-					[
-						"league_table_view_cell",
-						"app/views/league_tables/table_cells/league_table_view_cell.rb"
-					],
-					[
-						"league_table_conten",
-						"app/views/league_tables/table_cells/league_table_content_view.rb"
-					],
-					[
-						"approach_player",
-						"app/lib/buttons/approach_player_button.rb"
-					],
-					[
-						"cancel_but",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"rake",
-						"Rakefile"
-					],
-					[
-						"conti",
-						"app/lib/buttons/continue_button.rb"
-					],
-					[
-						"cancel_b",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"helper_meth",
-						"app/lib/helper_methods.rb"
-					],
-					[
-						"pensions.scss",
-						"app/assets/stylesheets/payroll/modules/_Pensions.scss"
-					],
-					[
-						"payroll.scss",
-						"app/assets/stylesheets/payroll/_PayrollCore.scss"
-					],
-					[
-						"auto_enrolment.scs",
-						"app/assets/stylesheets/auto_enrolment.css"
-					],
-					[
-						"_all.scss",
-						"app/assets/stylesheets/payroll/partials/_all.scss"
-					],
-					[
-						"application.css",
-						"app/assets/stylesheets/application.css"
-					],
-					[
-						"business.rb",
-						"lib/payroll/mixins/business.rb"
-					],
-					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"payroll_s",
-						"app/models/payroll/payroll_schedule.rb"
-					],
-					[
-						"ension_schemes_controller_spec.rb",
-						"spec/controllers/payroll/pension_schemes_controller_spec.rb"
-					],
-					[
-						"spec/controllers/payroll/pension_schemes_controller_spec.rb",
-						"spec/controllers/payroll/pension_schemes_controller_spec.rb"
-					],
-					[
-						"spec/models/payroll/pension_scheme_spec.rb",
-						"spec/models/payroll/pension_scheme_spec.rb"
-					],
-					[
-						"the_people",
-						"spec/models/payroll/pension_schemes/the_peoples_pension_spec.rb"
-					],
-					[
-						"nest_spec.rb",
-						"spec/models/payroll/pension_schemes/nest_spec.rb"
-					],
-					[
-						"now_spec.rb",
-						"spec/models/payroll/pension_schemes/now_spec.rb"
-					],
-					[
-						"spec/models/payroll/pension_schemes/nest_spec.rb",
-						"spec/models/payroll/pension_schemes/nest_spec.rb"
-					],
-					[
-						"pension_schemes_cont",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"payroll_pay_submission_controller_spec",
-						"spec/controllers/payroll/payroll_pay_submission_controller_spec.rb"
-					],
-					[
-						"pension_schemes_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"en-ie.ym",
-						"config/locales/payroll/en-IE.yml"
-					],
-					[
-						"en.yml",
-						"config/locales/payroll/en.yml"
-					],
-					[
-						"autoenrolment.rb",
-						"app/models/payroll/uk/auto_enrolment/auto_enrolment.rb"
-					],
-					[
-						"user.rb",
-						"lib/payroll/mixins/user.rb"
-					],
-					[
-						"pension_scheme",
-						"app/models/payroll/pension_scheme.rb"
-					],
-					[
-						"gemf",
-						"Gemfile"
-					],
-					[
-						"shortlist_player",
-						"app/lib/buttons/shortlist_player_button.rb"
-					],
-					[
-						"shortlist_button",
-						"app/lib/buttons/big_box_buttons/transfers/shortlist_button.rb"
-					],
-					[
-						"approach_player_bu",
-						"app/lib/buttons/approach_player_button.rb"
-					],
-					[
-						"autoenrolment",
-						"app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss"
-					],
-					[
-						"auto_enrolment.sc",
-						"app/assets/stylesheets/auto_enrolment.css"
-					],
-					[
-						"payrollscss",
-						"app/assets/stylesheets/payroll/_PayrollCore.scss"
-					],
-					[
-						"cancel_butto",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"cancel_bu",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"continue_but",
-						"app/lib/buttons/continue_button.rb"
-					],
-					[
-						"pension_scheme_cont",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"_app_logged_in",
-						"app/views/layouts/_app_logged_in.html.erb"
-					],
-					[
-						"transfer_neg",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_negotiati",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_negotiator.rb",
-						"app/lib/transfers/transfer_negotiator.rb"
-					],
-					[
-						"transfer_completer.rb",
-						"app/lib/transfers/transfer_completer.rb"
-					],
-					[
-						"ui_view_bo",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"continue_button",
-						"app/lib/buttons/continue_button.rb"
-					],
-					[
-						"subsb",
-						"lib/two_halves/highlights/substitution.rb"
-					],
-					[
-						"incident.rb",
-						"lib/two_halves/incident.rb"
-					],
-					[
-						"substitution",
-						"lib/two_halves/highlights/substitution.rb"
-					],
-					[
-						"team_sheet_contr",
-						"app/controllers/club/tactics/team_sheet_in_game_controller.rb"
-					],
-					[
-						"rakefile",
-						"Rakefile"
-					],
-					[
-						"team_sheet_controll",
-						"app/controllers/club/tactics/team_sheet_in_game_controller.rb"
-					],
-					[
-						"team_sheet_con",
-						"app/controllers/club/tactics/team_sheet_base_controller.rb"
-					],
-					[
-						"substite_shirt.rb",
-						"app/views/club/tactics/team_sheet/substitute_shirt.rb"
-					],
-					[
-						"shortlist_player_but",
-						"app/lib/buttons/shortlist_player_button.rb"
-					],
-					[
-						"ui_search_but",
-						"app/lib/buttons/ui_search_button.rb"
-					],
-					[
-						"transfer_negotiation_cont",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"uiviewboxbut",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"schemes_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"routes.rb",
-						"config/routes.rb"
-					],
-					[
-						"scheme_contro",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"pension_plan.rb",
-						"app/models/payroll/pension_plan.rb"
-					],
-					[
-						"pension_plan_con",
-						"app/views/payroll/pension_plans/_section.html.erb"
-					],
-					[
-						"schema.rb",
-						"db/schema.rb"
-					],
-					[
-						"auto_enrol_valid_staging_date",
-						"app/views/payroll/pensions/uk/_auto_enrol_valid_staging_date.html.erb"
-					],
-					[
-						"spec/views/payroll/payroll_summary/index.html.erb_spec.rb",
-						"spec/views/payroll/payroll_summary/index.html.erb_spec.rb"
-					],
-					[
-						"app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb",
-						"app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb"
-					],
-					[
-						"pension_scheme_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"schemes/index.html.erb",
-						"app/views/payroll/pension_schemes/index.html.erb"
-					],
-					[
-						"ie.yml",
-						"config/locales/payroll/en-IE.yml"
-					],
-					[
-						"pensions/form.html.erb",
-						"app/views/payroll/pension_schemes/_form.html.erb"
-					],
-					[
-						"pensions_scheme",
-						"app/assets/javascripts/payroll/pension_schemes/pension_schemes.js"
-					],
-					[
-						"payroll_employees/form",
-						"app/views/payroll/payroll_employees/_payroll_employees_form.html.erb"
-					],
-					[
-						"auto_enrol_pod.scss",
-						"app/assets/stylesheets/payroll/modules/_auto_enrol_pod.scss"
-					],
-					[
-						"auto_enrol_modal",
-						"app/views/payroll/pensions/uk/_auto_enrol_modal.html.erb"
-					],
-					[
-						"_auto_enrol_pod.scss",
-						"app/assets/stylesheets/payroll/modules/_auto_enrol_pod.scss"
-					],
-					[
-						"ui_custom",
-						"app/lib/ui_custom_picker_controller.rb"
-					],
-					[
-						"ui_view_box_button",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"shortlist_con",
-						"app/controllers/transfers/shortlist_controller.rb"
-					],
-					[
-						"uiviewbox_b",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"result_view.rb",
-						"app/views/match/scoreboard/result_view.rb"
-					],
-					[
-						"devise.css",
-						"app/assets/stylesheets/devise/devise.css.scss"
-					],
-					[
-						"organisation_controller.rb",
-						"app/controllers/candidates/organisation_controller.rb"
-					],
-					[
-						"registration_controller.rb",
-						"app/controllers/organisations/registrations_controller.rb"
-					],
-					[
-						"registrations_con",
-						"spec/features/organisations/registrations_controller_spec.rb"
-					],
-					[
-						"organisation_controller",
-						"app/controllers/candidates/organisation_controller.rb"
-					],
-					[
-						"organisation.rb",
-						"app/models/organisation.rb"
-					],
-					[
-						"organisation_spec",
-						"spec/features/organisations/organisation_users_controller_spec.rb"
-					],
-					[
-						"organisation_spec.rb",
-						"spec/models/organisation_spec.rb"
-					],
-					[
-						"migrate/admins",
-						"db/migrate/20131024092928_add_devise_to_admins.rb"
-					],
-					[
-						"transfer_negotiation_control",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"uiview_box_but",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"transfer_list_controller",
-						"app/controllers/transfers/transfer_list_controller.rb"
-					],
-					[
-						"player_search_controller",
-						"app/controllers/transfers/search/player_search_controller.rb"
-					],
-					[
-						"club.rb",
-						"app/models/club.rb"
-					],
-					[
-						"club_specr.b",
-						"spec/models/club_spec.rb"
-					],
-					[
-						"container_controlle",
-						"app/controllers/container_controller.rb"
-					],
-					[
-						"approach_player_con",
-						"app/controllers/club/squad/approach_player_controller.rb"
-					],
-					[
-						"transfer_negoti",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_cofnirmation",
-						"app/controllers/club/squad/transfer_confirmation_controller.rb"
-					],
-					[
-						"transfer_confirmation",
-						"app/controllers/club/squad/transfer_confirmation_controller.rb"
-					],
-					[
-						"select_save_game",
-						"app/controllers/save_game/select_save_game_slot_contoller.rb"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 370.0,
-				"selected_items":
-				[
-					[
-						"redCard",
-						"redCard"
-					],
-					[
-						"cellidenti",
-						"cellIdentifier"
-					],
-					[
-						"",
-						"AboutController"
-					],
-					[
-						"return",
-						"textFieldShouldReturn"
-					]
-				],
-				"width": 480.0
-			},
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 164.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 931,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"fetc",
-						"fetch_response"
-					],
-					[
-						"validat",
-						"validates_presence_of"
-					],
-					[
-						"defa",
-						"default_scheme"
-					],
-					[
-						"share",
-						"share_production"
-					],
-					[
-						"shirt",
-						"shirtPath"
-					],
-					[
-						"clubs",
-						"clubs_with_bids_accepted"
-					],
-					[
-						"set_ap",
-						"set_page_meta"
-					],
-					[
-						"add_",
-						"add_development_dependency"
-					],
-					[
-						"pan",
-						"panGestureRecognizer"
-					],
-					[
-						"willMove",
-						"willMoveToPosition"
-					],
-					[
-						"round",
-						"rounded_bank_balance"
-					],
-					[
-						"pay",
-						"payroll_calc_outputs"
-					],
-					[
-						"latest",
-						"latest_calc_output"
-					],
-					[
-						"out",
-						"output"
-					],
-					[
-						"index",
-						"index_path"
-					],
-					[
-						"numberof",
-						"numberOfRowsInSection"
-					],
-					[
-						"section",
-						"sectionInfo"
-					],
-					[
-						"sub",
-						"sublayers"
-					],
-					[
-						"get",
-						"gestureRecognizer"
-					],
-					[
-						"UIGes",
-						"UIGestureRecognizerStateEnded"
-					],
-					[
-						"UIGesture",
-						"UIGestureRecognizerStateEnded"
-					],
-					[
-						"size",
-						"sizeToFit"
-					],
-					[
-						"moving",
-						"moving_up_down"
-					],
-					[
-						"atr",
-						"attributed_name"
-					],
-					[
-						"player_his",
-						"player_history"
-					],
-					[
-						"org",
-						"organisation_user"
-					],
-					[
-						"update",
-						"update_attribute"
-					],
-					[
-						"Trasn",
-						"TransferHistoryPredicate"
-					],
-					[
-						"season",
-						"season_number"
-					],
-					[
-						"ined",
-						"in_edit_mode"
-					],
-					[
-						"primar",
-						"primary_home_color"
-					],
-					[
-						"bus",
-						"business_being_viewed"
-					],
-					[
-						"tax",
-						"tax_year_reporting_period"
-					],
-					[
-						"slider",
-						"slider_clicked"
-					],
-					[
-						"tapGes",
-						"tapGestureRecognizer"
-					],
-					[
-						"player",
-						"playerShirt"
-					],
-					[
-						"gr",
-						"gridPosition"
-					],
-					[
-						"first",
-						"firstXiShirts"
-					],
-					[
-						"isA",
-						"isAPreviousPlayer"
-					],
-					[
-						"previous",
-						"previousStarPlayerbutton"
-					],
-					[
-						"subs",
-						"substituteShirts"
-					],
-					[
-						"gest",
-						"gestureRecognizerString"
-					],
-					[
-						"Remove",
-						"removePanGesture"
-					],
-					[
-						"dele",
-						"deleteButton"
-					],
-					[
-						"member",
-						"membership"
-					],
-					[
-						"busines",
-						"business"
-					],
-					[
-						"succ",
-						"Successfully"
-					],
-					[
-						"business",
-						"business_being_viewed"
-					],
-					[
-						"payrol",
-						"payroll_employments"
-					],
-					[
-						"public",
-						"public_project"
-					],
-					[
-						"is",
-						"is_approved_project_member"
-					],
-					[
-						"myblue_proj",
-						"myblue_project_path"
-					],
-					[
-						"myblue",
-						"myblue_project_project_files_path"
-					],
-					[
-						"feat",
-						"featured_sub_category_products"
-					],
-					[
-						"sub_sub_ca",
-						"sub_sub_category_id"
-					],
-					[
-						"call_to",
-						"call_to_action_url"
-					],
-					[
-						"grouped",
-						"grouped_sub_sub_categories"
-					],
-					[
-						"end_incl",
-						"end_date_inclusive"
-					],
-					[
-						"accepted_cand",
-						"accepted_candidate_connection_in_pool"
-					],
-					[
-						"sse_evalu",
-						"sse_evaluation_evidence"
-					],
-					[
-						"publi",
-						"published_proforma"
-					],
-					[
-						"visit_the",
-						"visit_the_atkey_admin_tab"
-					],
-					[
-						"visit_the_atkey_admin",
-						"visit_the_atkey_admin_tab"
-					],
-					[
-						"visit_the_at",
-						"visit_the_atkey_admin_area"
-					],
-					[
-						"tutorial_gor",
-						"tutorial_group_"
-					],
-					[
-						"visit_the_atkey",
-						"visit_the_atkey_admin_tab"
-					],
-					[
-						"self_eva",
-						"self_evaluations"
-					],
-					[
-						"va",
-						"vao	validates_acceptance_of"
-					],
-					[
-						"not",
-						"notification"
-					],
-					[
-						"compl",
-						"completed_notifications"
-					],
-					[
-						"notifi",
-						"notification_output"
-					],
-					[
-						"orga",
-						"organisation_se_path"
-					],
-					[
-						"u",
-						"u"
-					],
-					[
-						"def",
-						"defcreate	def create - resource"
-					],
-					[
-						"visi",
-						"visit_the_organisation_admin_area"
-					],
-					[
-						"Objec",
-						"Objectives"
-					],
-					[
-						"visit",
-						"visit_the_organisation_admin_tab"
-					],
-					[
-						"organisation",
-						"organisation_objective"
-					],
-					[
-						"visit_theo",
-						"visit_the_organisation_admin_area"
-					],
-					[
-						"organisat",
-						"organisation_premises"
-					],
-					[
-						"atkey_orga",
-						"atkey_organisations_path"
-					],
-					[
-						"atkey",
-						"atkey_organisations_path"
-					],
-					[
-						"at",
-						"atkey_organisations_path"
-					],
-					[
-						"button",
-						"button_search_panel"
-					],
-					[
-						"visit_at",
-						"visit_the_atkey_admin_area"
-					],
-					[
-						"visit_the_",
-						"visit_the_atkey_admin_area"
-					],
-					[
-						"visit_th",
-						"visit_the_atkey_admin_tab"
-					],
-					[
-						"publis",
-						"published_on_marketing_site"
-					],
-					[
-						"Part",
-						"Partnerships"
-					],
-					[
-						"atkey_or",
-						"atkey_organisations_path"
-					],
-					[
-						"atkey_user",
-						"atkey_users_path"
-					],
-					[
-						"hometeam",
-						"homeTeamLeaguePositionView"
-					],
-					[
-						"homeTeam",
-						"homeTeamLeaguePositionView"
-					],
-					[
-						"awayTeam",
-						"awayTeamLeaguePositionView"
-					],
-					[
-						"competitio",
-						"competitionFixture"
-					],
-					[
-						"left",
-						"leftLeagueResults"
-					],
-					[
-						"comment",
-						"commentaryView"
-					],
-					[
-						"current",
-						"current_player_history"
-					],
-					[
-						"sort",
-						"sortDescriptorWithKey"
-					],
-					[
-						"goto",
-						"goToPlayerProfileButton"
-					],
-					[
-						"goToPlayerP",
-						"goToPlayerProfileButton"
-					],
-					[
-						"game",
-						"game_opts"
-					],
-					[
-						"ga",
-						"game_opts"
-					],
-					[
-						"playe",
-						"playingStyleView"
-					],
-					[
-						"con",
-						"content_document"
-					],
-					[
-						"cont",
-						"content_document"
-					],
-					[
-						"KUI",
-						"KUIBezierPathArrowDirectionUp"
-					],
-					[
-						"del",
-						"delegate"
-					],
-					[
-						"largeSle",
-						"largeSleeveRight"
-					],
-					[
-						"defaultSle",
-						"defaultSleeveRight"
-					],
-					[
-						"defaultSlee",
-						"defaultSleeveRight"
-					],
-					[
-						"gesture",
-						"gestureRecognizer"
-					],
-					[
-						"declineTrans",
-						"declineTransferButton"
-					],
-					[
-						"conti",
-						"continueButton"
-					],
-					[
-						"UIButt",
-						"UIButtonTypeSystem"
-					],
-					[
-						"center",
-						"centerPosition"
-					],
-					[
-						"reti",
-						"retiring_this_season"
-					],
-					[
-						"return",
-						"return_from_injury"
-					],
-					[
-						"return_fro",
-						"return_from_injury"
-					],
-					[
-						"number_of_fixture",
-						"number_of_fixtures_for_round"
-					],
-					[
-						"substi",
-						"substituteController"
-					],
-					[
-						"work_for_us",
-						"work_for_us_image"
-					],
-					[
-						"why_ch",
-						"why_choose_us_image"
-					],
-					[
-						"the_com",
-						"the_community_image"
-					],
-					[
-						"kasia_",
-						"kasia_paul_image"
-					],
-					[
-						"Curren",
-						"CurrentSaveGame"
-					],
-					[
-						"r",
-						"r	attr_reader .."
-					],
-					[
-						"R",
-						"R"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Users/ahmet/Projects/sage/sage_one_payroll_ukie/README.md",
+					"file": "/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Gemfile",
 					"settings":
 					{
-						"buffer_size": 3171,
+						"buffer_size": 2391,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Guardfile",
+					"settings":
+					{
+						"buffer_size": 1313,
 						"line_ending": "Unix"
 					}
 				}
@@ -5680,16 +2338,76 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 52.0,
+				"height": 96.0,
 				"selected_items":
 				[
 					[
-						"git status",
-						"Git: Status"
-					],
-					[
 						"git blame",
 						"Git: Blame"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"lint mode",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"evalu",
+						"Worksheet: Evaluate worksheet"
+					],
+					[
+						"worksh",
+						"Worksheet: Evaluate worksheet"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"license",
+						"SublimeGit: Add License"
+					],
+					[
+						"install packa",
+						"Package Control: Install Package"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"markdown pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"path",
+						"Snippet: path_from_here( .. )"
+					],
+					[
+						"git status",
+						"Git: Status"
 					],
 					[
 						"git st",
@@ -5700,20 +2418,12 @@
 						"Set Syntax: SublimeGit Show"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						" git status",
 						"Git: Status"
 					],
 					[
 						"next tra",
 						"Spotify: Next Track"
-					],
-					[
-						"install pack",
-						"Package Control: Install Package"
 					],
 					[
 						"list package",
@@ -5738,10 +2448,6 @@
 					[
 						"delete",
 						"File: Delete"
-					],
-					[
-						"install pac",
-						"Package Control: Install Package"
 					],
 					[
 						" git blame",
@@ -5876,10 +2582,6 @@
 						"Package Control: List Packages"
 					],
 					[
-						"install p",
-						"Package Control: Install Package"
-					],
-					[
 						"status",
 						"Git: Status"
 					],
@@ -5931,138 +2633,138 @@
 			},
 			"file_history":
 			[
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/extlib/README.txt",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Rakefile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/src/net/sf/sahi/plugin/FileReader.java",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/support/eps_reporting_period_return_shared_examples.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/support/eps_resubmission.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/locales/payroll/en.yml",
-				"/Users/ahmet/Projects/sage/sage_one_accounts_uk/README.md",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/payroll_uk2010_model_factory.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/employment/grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/uk/pre_rti_employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/pre_rti_employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/uk/employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/lib/payroll/presenters/ie/employment_grid_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/ie/employment_grid.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/fixtures/payroll_employments.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll_enums.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/payroll_schedule.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/deploy_payroll.sh",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/fixtures/payroll_addresses.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/package.json",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/support/employees.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/payroll/tests/data/HmrcImp_EmpList_0ees.txt",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/employment_pays.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/payroll/validation_rules/email-multi.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/pensions/autoenrolment_controller.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/.idea/workspace.xml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/employment_selection.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne-Payroll/test/011 Leavers/george_reinstate_leaver.sah",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Gemfile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/config/os.properties",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/hmrc/online_web_service.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/payroll/auto_enrolment/worker_assessment.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/configuration.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/search.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/movie.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/episode.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/season.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/tv.rb",
-				"/Users/ahmet/MyProjects/themoviedb/themoviedb.gemspec",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/resource.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/find_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/find.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/vcr/movie/credits_for_id.yml",
-				"/Users/ahmet/MyProjects/themoviedb/spec/person_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/person.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/movie_spec.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/genre.rb",
-				"/Users/ahmet/MyProjects/themoviedb/spec/vcr/movie/movie_belongs_for_id.yml",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/api.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb/hash_to_openstruct.rb",
-				"/Users/ahmet/MyProjects/themoviedb/lib/themoviedb.rb",
-				"/Users/ahmet/MyProjects/themoviedb/Gemfile",
-				"/Users/ahmet/MyProjects/themoviedb/Gemfile.lock",
-				"/Users/ahmet/MyProjects/themoviedb/spec/company_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_scheme.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pension_schemes/_form.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_Pensions.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/public/fonts/sageone-icons/sageone-icons-webfont.svg",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/pension_schemes_controller.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/worker_assessment.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/pay/submission/pay_run.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_add_business_payment_form.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/payroll_company/_includable_earnings.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/nominal/pay_run.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/pay_review.js",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/pay_frequency.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/README.md",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/pensions/worker_categoriser.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sso_templates/project/WebSignOn.Application.PreProd.v11/bin/WebSignOn.Application.Resources.xml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/htdocs/demo/window_opener.htm",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/ui_custom_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/table_cells/league_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/base_player_profile_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/player_profile_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/club/squad/player/player_profile_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/table_cells/league_table_content_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/dashboard/dashboard_league_table_view_cell.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/squad/player_profile_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/predicates/player_predicate.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/transfers/search/player_search_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/ib.xcodeproj/project.pbxproj",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view_header.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/views/league_tables/league_table_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/league_tables/league_tables_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/league_table_updater.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/models/league_table.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/models/league_fixture.rb",
-				"/Users/ahmet/Projects/titlechallenge/features/support/launch.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/big_box_buttons/big_box_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/touchable_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/helper_methods.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/shortlist_player_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/upgrade_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/approach_player_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/kick_off_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/controllers/club/tactics/team_sheet_pre_game_controller.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/custom_ui_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/styles.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/cancel_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/buttons/continue_button.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/table_header_view.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/club_colors.rb",
-				"/Users/ahmet/Projects/titlechallenge/app/lib/continue.rb",
-				"/Users/ahmet/Projects/titlechallenge/Rakefile",
-				"/Users/ahmet/Projects/titlechallenge/spec/helpers_spec.rb",
-				"/Users/ahmet/Projects/titlechallenge/features/support/hooks.rb",
-				"/Users/ahmet/MyProjects/share/.ruby-gemset",
-				"/Users/ahmet/MyProjects/share/.ruby-version",
-				"/Users/ahmet/MyProjects/share/Gemfile",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_PayrollCore.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_payrollmixins.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/public/stylesheets/SageOne_MSIE_Payroll.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/_base.scss",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/views/settings/payroll_business.html.erb_spec.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/stories/payroll_stories.rb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/run_payroll_tests.sh",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_incomplete_preparation_dialog.html.erb",
 				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_valid_staging_date.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/spec_helper.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/controllers/application_controller_payroll_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/helpers/start_helper.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne/Security/george_urls.csv",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/vendor/plugins/rails-i18n-translation-inheritance-helper/.gitignore",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/hmrc/rti/helpers.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/payroll/tests/data/HmrcImp_EmpList_0ees.txt",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/stories/hmrc_employee.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/html_renderer.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Guardfile",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/script/performance/profiler",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Procfile",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/my_sage_one/publish_response.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/pension_schemes/nest_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/controllers/payroll/slow_payroll_employees_controller_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/givens/sageone_payment.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/db/schema.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/newrelic.yml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/bin/${userdata.dir}/logs/junit/TEST-sophieSimpleVATReturn__30Mar2010__16_14_05.xml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_schemes/nest.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/com_check_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Rakefile",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/sageid/index.html.erb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/uk/auto_enrolment/auto_enrolment.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/locales/payroll/en.yml",
+				"/Users/ahmet/MyProjects/share/db/schema.rb",
+				"/Users/ahmet/MyProjects/share/app/views/static_pages/_movie.html.erb",
+				"/Users/ahmet/MyProjects/share/app/views/static_pages/home.html.erb",
+				"/Users/ahmet/MyProjects/share/Gemfile",
+				"/Users/ahmet/MyProjects/share/app/controllers/static_pages_controller.rb",
+				"/Users/ahmet/MyProjects/share/app/views/static_pages/_big_post.html.erb",
+				"/Users/ahmet/MyProjects/share/db/migrate/20140730075107_create_movies.rb",
+				"/Users/ahmet/MyProjects/share/db/migrate/20140729074837_create_comics.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_scheme.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/pension_schemes.js",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_Pensions.scss",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll_enums.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/package.json",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/controllers/payroll/pension_schemes_controller_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/pension_schemes/now_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/pension_schemes/custom_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/pension_schemes/the_peoples_pension_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne/Admin/cashbook_ug.sah",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config.ru",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/run_tests.sh",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_schemes/custom.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/db/migrate/archive/20091210102402_create_user_settings.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/givens/payroll/pension_scheme.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/controllers/payroll/pension_schemes_controller.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/javascripts/payroll/pension_schemes/pension_schemes.js",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne/Preprod/pp_new_sales_expense.sah",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/pension_schemes/scottish_widows.rb",
 				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/locales/payroll/en-IE.yml",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pension_schemes/add_plan.html.erb",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/auto_enrolment.css",
-				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/uk/_auto_enrol_modal.html.erb"
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/initializers/menu.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/apps.yml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/initializers/sage_one_constants.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/automation/spec/manual_import_employee_add_edit_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/.idea/misc.xml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/config/database.yml",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/_notify_employees_task.html.erb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/_nominate_contact_task.html.erb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/userdata/scripts/SageOne/Downloads/activationcodes_used.csv",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/assets/stylesheets/application.css",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/config/os.properties",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/sahi/htdocs/demo/checkbox_onchange.htm",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/pensions/autoenrolment/_review_arrangements_task.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/products/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/products_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/product.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/pdf.css",
+				"/Users/ahmet/Projects/whitelegg.com/config/database.yml",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20131212154646_devise_create_admin_users.rb",
+				"/Users/ahmet/Projects/whitelegg.com/vendor/assets/stylesheets/pdf.css",
+				"/Users/ahmet/Projects/whitelegg.com/public/pdf.css",
+				"/Users/ahmet/Projects/whitelegg.com/public/assets/pdf.css",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/_page_image_fields.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/products_sub_category.rb",
+				"/Users/ahmet/Projects/whitelegg.com/tmp/cache/assets/development/sass/60432c2e342396a4d4eaad1d857f195192ce03fb/fonts.css.scssc",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/partials/_video_module.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/helpers/application_helper.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/application.css",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin.css",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/vacancies/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_sub_categories/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/sub_categories/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/pages/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/categories/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/case_studies/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/admin_users/_form.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/sub_category.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/sub_sub_category.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/products/pdf_footer.pdf.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/products/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/db/schema.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/vacancy.rb",
+				"/Users/ahmet/Projects/whitelegg.com/Procfile",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/vacancies/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/vacancies_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/case_study.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/partials/_errors.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/errors_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/config/environment.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/models/news_article.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/case_studies/index.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/case_studies_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/Capfile",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/admin/news_articles/edit.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/test/controllers/news_articles_controller_test.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/errors/does_not_exist.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/bootstrap.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/stylesheets/admin/application.scss",
+				"/Users/ahmet/Projects/whitelegg.com/app/views/sub_category/show.html.erb",
+				"/Users/ahmet/Projects/whitelegg.com/Gemfile",
+				"/Users/ahmet/Projects/whitelegg.com/app/helpers/admin/branches_helper.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/controllers/admin/admin_controller.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/assets/javascripts/admin.js",
+				"/Users/ahmet/Projects/whitelegg.com/db/migrate/20140422160625_add_description_to_categories.rb",
+				"/Users/ahmet/Projects/whitelegg.com/app/uploaders/sub_category_uploader.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/revenue_payment.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/README.md",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/lib/payroll/pensions/worker_categoriser.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb",
+				"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/models/payroll/ae_worker_assessment_report.rb"
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -6079,134 +2781,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"load_grid_pres",
-					"ae_workforce_assessment_grid",
-					"AeWorkforceAssessmentGrid",
-					"data_to_display",
-					"AeWorkforceAssessmentGrid.data_to_display",
-					"']",
-					"['",
-					"results",
-					"['",
-					"']",
-					"@movie",
-					"detail",
-					"['",
-					"=\"30\"",
-					"maxlength=\"30\"",
-					"gross_tp",
-					"includable_earnings",
-					"Include in Calculation of",
-					"list_in_list",
-					"new_payroll_business_payment_alias_description",
-					"defaultBackgroundColor",
-					"default_tap_behaviour_enabled",
-					"setHighlighted",
-					"default_tap_behaviour_enabled",
-					"setHighlighted",
-					"needs_highlight?",
-					"leagueTableRow",
-					"needs_highlight",
-					"League Tables",
-					"touched_down_background_color",
-					"successTappedButton",
-					"Kick Off!",
-					"shadeRGBColor",
-					"number_to_currency",
-					"high_luminance",
-					"colourComparison",
-					"comma_and_list",
-					"shadeRGBColor",
-					"include HelperMethods",
-					"include Helper",
-					"ClubColors",
-					"shadeRGBColor",
-					"0.8",
-					"rgb",
-					"include Helper",
-					"rgb",
-					"UIColor",
-					"R",
-					"bottom_button",
-					"bottom_page",
-					"#autoEnrolmentPod",
-					"&bullet",
-					"&:bullet",
-					"stylesheet_link_tag \"auto_enrolment\"",
-					"stylesheet_link_tag \"payroll",
-					"stylesheet_link_tag",
-					"payroll",
-					"stylesheet",
-					"auto_enrol_pod",
-					"auto_enrol_valid_staging",
-					"incompletePreparation",
-					"display: list-item",
-					"<li>",
-					"incomplete_preparation",
-					"have_not_completed",
-					"You have not completed the following:",
+					"guard",
+					"3031",
+					"guard",
+					"cannot_proceed",
+					"You've reached your staging date but you cann",
+					"You've reached your staging dat",
 					"list.inform",
-					"Inform The Pension's Regulator of your AE contact",
-					" Inform The Pension's Regulator of your AE contact",
-					"incompletePreparation",
-					"raw-list",
-					"&bullet",
-					"incompletePreparation",
-					"prepare.text",
-					"To be prepared for Auto ",
-					"incomplete_preparation.reached_staging_date",
-					"Your business has reached its",
-					"&bullet",
+					"Inform The Pensions Regulator of your pensions contact,",
+					"nest",
+					"default",
+					"pension_payment_source",
+					"You must set up a default payment",
 					"nest_pension_scheme",
-					".new",
-					"new",
-					"PensionSchemes",
-					"maximum_threshold",
-					"valid.maximum_threshold",
-					"minimum_threshold",
-					"Rate must be at least £0",
-					"earnings_threshold",
-					"terms.description",
-					"By using this pension provider in Sage One Payro",
-					"terms.description",
-					"By using this pension provider in Sage One Payroll, you are a",
-					"Payroll::Pension.Title",
-					"show",
-					"Payroll::Pension",
-					"pension",
-					"Payroll::Pension",
-					"pension",
-					"I18",
-					"shortlistButton",
-					"\"Shortlist\"",
-					"  include TouchableButton",
-					"touchable",
-					"include Taggab",
-					"terms",
-					"Enrolment requirements",
-					"mee Autoenrol",
-					"return_page",
-					"Return to prepar",
-					"bigBox",
-					"UICustomButton",
-					"upgradeBox",
-					"upgradeBoxLabel",
-					"upgradeContainer",
-					"box",
-					"upgradeButtonLabel",
-					"upgradeBox",
-					"box",
-					"setTitle(\"",
-					"cancelButton",
-					"CancelButton",
-					"CustomUIButton",
-					"\"Upgrade\"",
-					"TouchableButton",
-					"upgradeBox",
-					"upgradeBoxLabel",
-					"\"Upgrade\"",
-					"Upgrade",
-					"self"
+					"at_least_one",
+					"plans_count_valid",
+					"at_least_one",
+					"pension_plans_attributes",
+					"apps",
+					"APPS",
+					"apps.yml",
+					"appls.yml",
+					"'/pensions'",
+					"ata-tooltip=",
+					"ata-tooltip=\"Pensions\"",
+					"UILink",
+					"/pensions",
+					"pensions",
+					"\"Pensions\"",
+					"must_",
+					"co,,uni",
+					"must_create",
+					"You must create a qualifying pens",
+					"Find out more about staging dates",
+					"the_peoples_pension",
+					"Manage your pensions in Sage One Payroll",
+					"development",
+					"video-lightbox",
+					"render",
+					"render partial:",
+					"bootstrap",
+					"error",
+					"review_arrangements_no_text",
+					"action_but",
+					"review_arrangements.",
+					"Pension schemes must pass certain qualifying criteria to meet automatic enrolment requirements.",
+					"holid",
+					"Non UK Worker",
+					"excluded",
+					"calc_reason",
+					"def auto_enrolment_worker_type",
+					"def worker_category",
+					"worker_assessment",
+					"should",
+					"worker_category",
+					"ae_worker_category",
+					"last_pay_event",
+					"employment",
+					"@age",
+					"@pay_event",
+					"worker_assessment",
+					"WorkerCategoriser",
+					"Excluded (Over 75)",
+					"Excluded",
+					"params[:full_name]",
+					"Register as a candidate",
+					"text",
+					"string",
+					"other_images",
+					"tags",
+					"other_images",
+					"main_image",
+					"download_link",
+					"review_arrangements_no_text",
+					"now",
+					"link",
+					"nominate_contact.link",
+					"inform",
+					"Valid NEST ID",
+					"% Apply to Qualifying Earnings",
+					"&bullet",
+					"PageInfo.Payroll::Pensions",
+					"Auto Enrolment Preparation",
+					"Payroll::Pensions::Autoenrolment.title",
+					"Payroll::Pensions::Autoenrolment.Title",
+					"worker_assessment",
+					"Autoenrolment.worker_assessment",
+					"Payroll::Pensions::Autoenrolment.worker",
+					"Payroll::Pensions::Autoenrolment",
+					"Payroll::Pensions::Autoenrolment.worker_asses",
+					"Auto Enrolment Preparation",
+					"apps.yml",
+					"nav_payroll_pensions",
+					"'/pensions'",
+					"/pensions",
+					"nav_payroll_reports",
+					"\"Pensions",
+					"apps.yml",
+					"valid_staging_date?",
+					"reached_staging_date",
+					"reached_staging_date_on",
+					"staging_date",
+					"reached",
+					"reached_staging_date",
+					"reached",
+					"staging_date",
+					"nav_payroll_pensions",
+					" nav_payroll_pensions",
+					"\"Pensions\"",
+					"UILink",
+					"Use this screen to assess which of your emp",
+					"have_content",
+					"default",
+					"auromatic",
+					"Find out more about staging ",
+					"The Auto Enrolment legislation requires you to nominate a pensions contact for correspondence from The Pension Regulator",
+					"auro",
+					"To be prepared for Auto Enrolment you need to",
+					"pension regul",
+					"Inform The Pensions R",
+					"prepare for auto",
+					"To prepare for automatic enrolment you ne",
+					"Automatic enrolment will come into force for you",
+					"Find out more about",
+					"your PAYE ref",
+					"PAYE refer",
+					"The staging date for comm",
+					"As a UK employer",
+					"Sage does not"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -6238,33 +2940,164 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/ahmet/Projects/sage/sage_one_payroll_ukie/README.md",
+							"file": "/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Gemfile",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3171,
+								"buffer_size": 2391,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1675,
-										1637
+										1965,
+										1965
 									]
 								],
 								"settings":
 								{
+									"BracketHighlighterBusy": false,
 									"apply_syntax_touched": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai (SL).tmTheme",
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 582.0,
+								"translation.y": 462.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/ahmet/Projects/sage/sage_one_payroll_ukie/Guardfile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1313,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1037,
+										1037
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai (SL).tmTheme",
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -6275,7 +3108,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 23.0
 			},
 			"input":
 			{
@@ -6312,11 +3145,11 @@
 			{
 				"height": 0.0
 			},
-			"position": "535 61 1490 1313 0 0 2560 1418 ",
+			"position": "509 45 1673 1090 0 0 2560 1418 ",
 			"project": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 42.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -6325,8 +3158,324 @@
 				"selected_items":
 				[
 					[
+						"guard",
+						"Guardfile"
+					],
+					[
+						"profile",
+						"script/performance/profiler"
+					],
+					[
+						"spec_help",
+						"spec/spec_helper.rb"
+					],
+					[
+						"nest_spec.rb",
+						"spec/models/payroll/pension_schemes/nest_spec.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"schema.rb",
+						"db/schema.rb"
+					],
+					[
+						"pension_scheme.rb",
+						"app/models/payroll/pension_scheme.rb"
+					],
+					[
+						"custom_spec",
+						"spec/models/payroll/pension_schemes/custom_spec.rb"
+					],
+					[
+						"the_people",
+						"spec/models/payroll/pension_schemes/the_peoples_pension_spec.rb"
+					],
+					[
+						"now_spec",
+						"spec/models/payroll/pension_schemes/now_spec.rb"
+					],
+					[
+						"custom_spec.rb",
+						"spec/models/payroll/pension_schemes/custom_spec.rb"
+					],
+					[
+						"pension_scheme_contro",
+						"spec/controllers/payroll/pension_schemes_controller_spec.rb"
+					],
+					[
+						"pension_schemes_controller",
+						"app/controllers/payroll/pension_schemes_controller.rb"
+					],
+					[
+						"pension_scheme_controller",
+						"app/controllers/payroll/pension_schemes_controller.rb"
+					],
+					[
+						"menu.rb",
+						"config/initializers/menu.rb"
+					],
+					[
+						"database.yml",
+						"config/database.yml"
+					],
+					[
+						"autoenrolment/",
+						"app/views/payroll/pensions/autoenrolment/_notify_employees_task.html.erb"
+					],
+					[
+						"en.yml",
+						"config/locales/payroll/en.yml"
+					],
+					[
+						"products/form",
+						"app/views/admin/products/_form.html.erb"
+					],
+					[
+						"pdf.css",
+						"vendor/assets/stylesheets/pdf.css"
+					],
+					[
+						"pdf.c",
+						"app/assets/stylesheets/pdf.css"
+					],
+					[
+						"application_helper",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"product/form",
+						"app/views/admin/products/_form.html.erb"
+					],
+					[
+						"sub_sub_cate",
+						"app/models/sub_sub_category.rb"
+					],
+					[
+						"product.rb",
+						"app/models/product.rb"
+					],
+					[
+						"vacancies/form",
+						"app/views/admin/vacancies/_form.html.erb"
+					],
+					[
+						"vacancy.rb",
+						"app/models/vacancy.rb"
+					],
+					[
+						"case_studies/form",
+						"app/views/admin/case_studies/_form.html.erb"
+					],
+					[
+						"errors.h",
+						"app/views/admin/partials/_errors.html.erb"
+					],
+					[
+						"case_study.rb",
+						"app/models/case_study.rb"
+					],
+					[
+						"errors.html",
+						"app/views/admin/partials/_errors.html.erb"
+					],
+					[
+						"news_article/form",
+						"app/views/admin/news_articles/_form.html.erb"
+					],
+					[
+						"news_article.rb",
+						"app/models/news_article.rb"
+					],
+					[
+						"admin/bootstra",
+						"app/assets/stylesheets/admin/bootstrap.scss"
+					],
+					[
+						"admin.css",
+						"app/assets/stylesheets/admin.css"
+					],
+					[
+						"sub_category.rb",
+						"app/models/sub_category.rb"
+					],
+					[
+						"autoenrolment.scss",
+						"app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss"
+					],
+					[
+						"workercategor",
+						"lib/payroll/pensions/worker_categoriser.rb"
+					],
+					[
+						"worker_asessment_",
+						"lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb"
+					],
+					[
+						"worker_asessment_da",
+						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
+					],
+					[
+						"workercategoriser",
+						"lib/payroll/pensions/worker_categoriser.rb"
+					],
+					[
+						"worker_assessment_",
+						"app/models/payroll/ae_worker_assessment_report.rb"
+					],
+					[
+						"workforce_assesment",
+						"lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb"
+					],
+					[
+						"workforce_",
+						"spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb"
+					],
+					[
+						"workforce_assesmen",
+						"spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb"
+					],
+					[
+						"spec/lib/payroll/presenters/uk/ae_workforce_assessment_grid_spec.rb",
+						"spec/lib/payroll/presenters/uk/ae_workforce_assessment_grid_spec.rb"
+					],
+					[
 						"readme",
 						"README.md"
+					],
+					[
+						"worker_assessment_gr",
+						"lib/payroll/presenters/uk/ae_workforce_assessment_grid.rb"
+					],
+					[
+						"common_fields",
+						"app/views/candidates/account/_common_fields.html.erb"
+					],
+					[
+						"version",
+						"lib/scraper/version.rb"
+					],
+					[
+						"autoenrolment/assess",
+						"app/views/payroll/pensions/autoenrolment/_assess_workforce_task.html.erb"
+					],
+					[
+						"autoenrolment/review",
+						"app/views/payroll/pensions/autoenrolment/_review_arrangements_task.html.erb"
+					],
+					[
+						"routes.rb",
+						"config/routes.rb"
+					],
+					[
+						"autoenrolment/nomi",
+						"app/views/payroll/pensions/autoenrolment/_nominate_contact_task.html.erb"
+					],
+					[
+						"en-ie.yml",
+						"config/locales/payroll/en-IE.yml"
+					],
+					[
+						"pension_schemes.js",
+						"app/assets/javascripts/payroll/pension_schemes/pension_schemes.js"
+					],
+					[
+						"worker_assesment_repo",
+						"app/models/payroll/ae_worker_assessment_report.rb"
+					],
+					[
+						"worker_assessment",
+						"app/models/payroll/ae_worker_assessment_report.rb"
+					],
+					[
+						"autoenrolment_cont",
+						"app/controllers/payroll/pensions/autoenrolment_controller.rb"
+					],
+					[
+						"worker_assessment.html.erb",
+						"app/views/payroll/pensions/autoenrolment/worker_assessment.html.erb"
+					],
+					[
+						"en-ie",
+						"config/locales/payroll/en-IE.yml"
+					],
+					[
+						"spec/views/payroll/pension_schemes/_form.html.erb_spec.rb",
+						"spec/views/payroll/pension_schemes/_form.html.erb_spec.rb"
+					],
+					[
+						"payroll/en.yml",
+						"config/locales/payroll/en.yml"
+					],
+					[
+						"prepare.html.erb",
+						"app/views/payroll/pensions/autoenrolment/prepare.html.erb"
+					],
+					[
+						"pension_schemes/form",
+						"app/views/payroll/pension_schemes/_form.html.erb"
+					],
+					[
+						"application_helper.rb",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"auto_enrolment.ht",
+						"app/views/payroll/pensions/uk/_auto_enrol_assessment.html.erb"
+					],
+					[
+						"pensions.scss",
+						"app/assets/stylesheets/payroll/modules/_Pensions.scss"
+					],
+					[
+						"pension_scheme/form",
+						"app/views/payroll/pension_schemes/_form.html.erb"
+					],
+					[
+						"pension.scss",
+						"app/assets/stylesheets/payroll/modules/_Pensions.scss"
+					],
+					[
+						"pension_payment_sources/",
+						"app/views/payroll/pension_payment_sources/_section.html.erb"
+					],
+					[
+						"pension_payment_sources/form",
+						"app/views/payroll/pension_payment_sources/_form.html.erb"
+					],
+					[
+						"payment_source",
+						"app/views/payroll/pension_schemes/add_payment_source.html.erb"
+					],
+					[
+						"autoenrolment.scs",
+						"app/assets/stylesheets/payroll/modules/_AutoEnrolment.scss"
+					],
+					[
+						"footer",
+						"app/views/layouts/_footer.html.erb"
+					],
+					[
+						"locals/en-ie",
+						"config/locales/en-IE.yml"
+					],
+					[
+						"en-ie.ym",
+						"config/locales/payroll/en-IE.yml"
+					],
+					[
+						"pension_plans/",
+						"app/views/payroll/pension_plans/_plan_types.erb"
+					],
+					[
+						"auto_enrolment.scs",
+						"app/assets/stylesheets/auto_enrolment.css"
+					],
+					[
+						"pension_schemes/form.h",
+						"app/views/payroll/pension_schemes/_form.html.erb"
 					],
 					[
 						"ereadme",
@@ -6377,18 +3526,6 @@
 						"lib/themoviedb/api.rb"
 					],
 					[
-						"pension_scheme.rb",
-						"app/models/payroll/pension_scheme.rb"
-					],
-					[
-						"pension_schemes/form",
-						"app/views/payroll/pension_schemes/_form.html.erb"
-					],
-					[
-						"workforce_",
-						"spec/models/payroll/uk/auto_enrolment/workforce_assessment_data_spec.rb"
-					],
-					[
 						"worker_assesment_da",
 						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
 					],
@@ -6399,10 +3536,6 @@
 					[
 						"worker_asess",
 						"app/models/payroll/uk/auto_enrolment/worker_assessment_data.rb"
-					],
-					[
-						"gemfile",
-						"Gemfile"
 					],
 					[
 						"league_table_view_cel",
@@ -6445,16 +3578,8 @@
 						"app/lib/helper_methods.rb"
 					],
 					[
-						"pensions.scss",
-						"app/assets/stylesheets/payroll/modules/_Pensions.scss"
-					],
-					[
 						"payroll.scss",
 						"app/assets/stylesheets/payroll/_PayrollCore.scss"
-					],
-					[
-						"auto_enrolment.scs",
-						"app/assets/stylesheets/auto_enrolment.css"
 					],
 					[
 						"_all.scss",
@@ -6489,14 +3614,6 @@
 						"spec/models/payroll/pension_scheme_spec.rb"
 					],
 					[
-						"the_people",
-						"spec/models/payroll/pension_schemes/the_peoples_pension_spec.rb"
-					],
-					[
-						"nest_spec.rb",
-						"spec/models/payroll/pension_schemes/nest_spec.rb"
-					],
-					[
 						"now_spec.rb",
 						"spec/models/payroll/pension_schemes/now_spec.rb"
 					],
@@ -6511,18 +3628,6 @@
 					[
 						"payroll_pay_submission_controller_spec",
 						"spec/controllers/payroll/payroll_pay_submission_controller_spec.rb"
-					],
-					[
-						"pension_schemes_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"en-ie.ym",
-						"config/locales/payroll/en-IE.yml"
-					],
-					[
-						"en.yml",
-						"config/locales/payroll/en.yml"
 					],
 					[
 						"autoenrolment.rb",
@@ -6563,278 +3668,6 @@
 					[
 						"payrollscss",
 						"app/assets/stylesheets/payroll/_PayrollCore.scss"
-					],
-					[
-						"cancel_butto",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"cancel_bu",
-						"app/lib/buttons/cancel_button.rb"
-					],
-					[
-						"continue_but",
-						"app/lib/buttons/continue_button.rb"
-					],
-					[
-						"pension_scheme_cont",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"_app_logged_in",
-						"app/views/layouts/_app_logged_in.html.erb"
-					],
-					[
-						"transfer_neg",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_negotiati",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_negotiator.rb",
-						"app/lib/transfers/transfer_negotiator.rb"
-					],
-					[
-						"transfer_completer.rb",
-						"app/lib/transfers/transfer_completer.rb"
-					],
-					[
-						"ui_view_bo",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"continue_button",
-						"app/lib/buttons/continue_button.rb"
-					],
-					[
-						"subsb",
-						"lib/two_halves/highlights/substitution.rb"
-					],
-					[
-						"incident.rb",
-						"lib/two_halves/incident.rb"
-					],
-					[
-						"substitution",
-						"lib/two_halves/highlights/substitution.rb"
-					],
-					[
-						"team_sheet_contr",
-						"app/controllers/club/tactics/team_sheet_in_game_controller.rb"
-					],
-					[
-						"rakefile",
-						"Rakefile"
-					],
-					[
-						"team_sheet_controll",
-						"app/controllers/club/tactics/team_sheet_in_game_controller.rb"
-					],
-					[
-						"team_sheet_con",
-						"app/controllers/club/tactics/team_sheet_base_controller.rb"
-					],
-					[
-						"substite_shirt.rb",
-						"app/views/club/tactics/team_sheet/substitute_shirt.rb"
-					],
-					[
-						"shortlist_player_but",
-						"app/lib/buttons/shortlist_player_button.rb"
-					],
-					[
-						"ui_search_but",
-						"app/lib/buttons/ui_search_button.rb"
-					],
-					[
-						"transfer_negotiation_cont",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"uiviewboxbut",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"schemes_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"routes.rb",
-						"config/routes.rb"
-					],
-					[
-						"scheme_contro",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"pension_plan.rb",
-						"app/models/payroll/pension_plan.rb"
-					],
-					[
-						"pension_plan_con",
-						"app/views/payroll/pension_plans/_section.html.erb"
-					],
-					[
-						"schema.rb",
-						"db/schema.rb"
-					],
-					[
-						"auto_enrol_valid_staging_date",
-						"app/views/payroll/pensions/uk/_auto_enrol_valid_staging_date.html.erb"
-					],
-					[
-						"spec/views/payroll/payroll_summary/index.html.erb_spec.rb",
-						"spec/views/payroll/payroll_summary/index.html.erb_spec.rb"
-					],
-					[
-						"app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb",
-						"app/views/payroll/pensions/uk/_auto_enrol_pod.html.erb"
-					],
-					[
-						"pension_scheme_controller",
-						"app/controllers/payroll/pension_schemes_controller.rb"
-					],
-					[
-						"schemes/index.html.erb",
-						"app/views/payroll/pension_schemes/index.html.erb"
-					],
-					[
-						"ie.yml",
-						"config/locales/payroll/en-IE.yml"
-					],
-					[
-						"pensions/form.html.erb",
-						"app/views/payroll/pension_schemes/_form.html.erb"
-					],
-					[
-						"pensions_scheme",
-						"app/assets/javascripts/payroll/pension_schemes/pension_schemes.js"
-					],
-					[
-						"payroll_employees/form",
-						"app/views/payroll/payroll_employees/_payroll_employees_form.html.erb"
-					],
-					[
-						"auto_enrol_pod.scss",
-						"app/assets/stylesheets/payroll/modules/_auto_enrol_pod.scss"
-					],
-					[
-						"auto_enrol_modal",
-						"app/views/payroll/pensions/uk/_auto_enrol_modal.html.erb"
-					],
-					[
-						"_auto_enrol_pod.scss",
-						"app/assets/stylesheets/payroll/modules/_auto_enrol_pod.scss"
-					],
-					[
-						"ui_custom",
-						"app/lib/ui_custom_picker_controller.rb"
-					],
-					[
-						"ui_view_box_button",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"shortlist_con",
-						"app/controllers/transfers/shortlist_controller.rb"
-					],
-					[
-						"uiviewbox_b",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"result_view.rb",
-						"app/views/match/scoreboard/result_view.rb"
-					],
-					[
-						"devise.css",
-						"app/assets/stylesheets/devise/devise.css.scss"
-					],
-					[
-						"organisation_controller.rb",
-						"app/controllers/candidates/organisation_controller.rb"
-					],
-					[
-						"registration_controller.rb",
-						"app/controllers/organisations/registrations_controller.rb"
-					],
-					[
-						"registrations_con",
-						"spec/features/organisations/registrations_controller_spec.rb"
-					],
-					[
-						"organisation_controller",
-						"app/controllers/candidates/organisation_controller.rb"
-					],
-					[
-						"organisation.rb",
-						"app/models/organisation.rb"
-					],
-					[
-						"organisation_spec",
-						"spec/features/organisations/organisation_users_controller_spec.rb"
-					],
-					[
-						"organisation_spec.rb",
-						"spec/models/organisation_spec.rb"
-					],
-					[
-						"migrate/admins",
-						"db/migrate/20131024092928_add_devise_to_admins.rb"
-					],
-					[
-						"transfer_negotiation_control",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"uiview_box_but",
-						"app/lib/ui_view_box_button.rb"
-					],
-					[
-						"transfer_list_controller",
-						"app/controllers/transfers/transfer_list_controller.rb"
-					],
-					[
-						"player_search_controller",
-						"app/controllers/transfers/search/player_search_controller.rb"
-					],
-					[
-						"club.rb",
-						"app/models/club.rb"
-					],
-					[
-						"club_specr.b",
-						"spec/models/club_spec.rb"
-					],
-					[
-						"container_controlle",
-						"app/controllers/container_controller.rb"
-					],
-					[
-						"approach_player_con",
-						"app/controllers/club/squad/approach_player_controller.rb"
-					],
-					[
-						"transfer_negoti",
-						"app/controllers/club/squad/transfer_negotiation_controller.rb"
-					],
-					[
-						"transfer_cofnirmation",
-						"app/controllers/club/squad/transfer_confirmation_controller.rb"
-					],
-					[
-						"transfer_confirmation",
-						"app/controllers/club/squad/transfer_confirmation_controller.rb"
-					],
-					[
-						"select_save_game",
-						"app/controllers/save_game/select_save_game_slot_contoller.rb"
 					]
 				],
 				"width": 0.0
@@ -6849,9 +3682,13 @@
 			},
 			"select_symbol":
 			{
-				"height": 370.0,
+				"height": 52.0,
 				"selected_items":
 				[
+					[
+						"auto_enrolment_work",
+						"auto_enrolment_worker_type"
+					],
 					[
 						"redCard",
 						"redCard"
@@ -6869,7 +3706,7 @@
 						"textFieldShouldReturn"
 					]
 				],
-				"width": 480.0
+				"width": 714.0
 			},
 			"settings":
 			{
@@ -6878,12 +3715,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 164.0,
+			"side_bar_width": 277.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 930,
+			"window_id": 986,
 			"workspace_name": ""
 		}
 	],

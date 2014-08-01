@@ -4,6 +4,8 @@
 		"Alignment",
 		"ApplySyntax",
 		"BracketHighlighter",
+		"Browser Refresh",
+		"ChangeQuotes",
 		"Color Highlighter",
 		"Copy to HipChat",
 		"DashDoc",
@@ -16,6 +18,7 @@
 		"SCSS",
 		"Spotify",
 		"SublimeGit",
+		"SublimeLinter",
 		"Theme - Flatland"
 	]
 }
