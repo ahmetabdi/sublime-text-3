@@ -1,23 +1,29 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
 		"ApplySyntax",
 		"BracketHighlighter",
-		"Browser Refresh",
-		"ChangeQuotes",
 		"Color Highlighter",
 		"Copy to HipChat",
 		"DashDoc",
 		"Dayle Rees Color Schemes",
 		"Delete Current File",
 		"GitGutter",
+		"Kulture",
 		"Monokai Gray",
 		"ObjC2RubyMotion",
+		"OmniSharp",
+		"Package Control",
 		"RubyTest",
 		"SCSS",
 		"Spotify",
 		"SublimeGit",
-		"Theme - Flatland"
+		"Theme - Flatland",
+		"Theme - Spacegray"
 	]
 }

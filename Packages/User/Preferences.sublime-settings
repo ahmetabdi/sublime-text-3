@@ -1,7 +1,11 @@
 {
-	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_indent_guides": true,
+	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -47,17 +51,30 @@
 		"Markdown",
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": -0.5,
+	"line_padding_top": -0.5,
+	"margin": 0,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
-		80
+		80,
+		120
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
+	"shift_tab_unindent": true,
 	"show_full_path": true,
+	"smart_indent": true,
 	"tab_size": 2,
 	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
 	"word_wrap": false
 }
