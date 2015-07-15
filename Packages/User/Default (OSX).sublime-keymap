@@ -17,18 +17,15 @@
   // },
   { "keys": ["super+d"], "command": "find_under_expand" },
   // { "keys": ["super+t"], "command": "toggle_side_bar" },
-  { "keys": ["super+shift+c"], "command": "copy_to_hip_chat" },
   { "keys": ["super+enter"], "command": "toggle_full_screen" },
-  { "keys": ["super+r"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
   { "keys": ["super+shift+x"], "command": "run_macro_file", "args": { "file": "res://Packages/Default/Delete Line.sublime-macro" } },
   { "keys": ["ctrl+r"], "command": "run_single_ruby_test",
     "context": [ { "key": "selector", "operator": "equal",
                    "operand": "source.ruby, source.rspec, text.gherkin.feature"
                } ]
   },
-  { "keys": ["ctrl+e"], "command": "show_test_panel" }, // show test panel
   { "keys": ["super+e"], "command": "goto_definition" },
-  { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
+  // { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
   { "keys": ["super+shift+1"], "command": "move_to_group", "args": { "group": 0 } },
   { "keys": ["super+shift+2"], "command": "move_to_group", "args": { "group": 1 } },
   { "keys": ["super+h"], "command": "dash_doc" },
@@ -36,10 +33,10 @@
   // { "keys": ["f2"], "command": "move_to_group", "args": { "group": 1 } },
   { "keys": ["f1"], "command": "new_pane" },
   { "keys": ["f2"], "command": "close_pane" },
-  { "keys": ["f3"], "command": "spotify_next_track"},
-  { "keys": ["f4"], "command": "change_quotes"},
+  // { "keys": ["f3"], "command": "spotify_next_track"},
+  { "keys": ["f3"], "command": "change_quotes"},
   // { "keys": ["f3"], "command": "erb" },
-  { "keys": ["super+shift+w"], "command": "delete_file"},
+  // { "keys": ["super+shift+w"], "command": "delete_file"},
   {
     "keys": ["shift+f1"],
     "command": "set_layout",
@@ -60,4 +57,13 @@
       "cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
     }
   },
+  { "keys": ["super+r"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
+  {
+    "keys": ["super+r"],
+    "command": "run_single_ruby_test",
+    "context": [ { "key": "selector", "operator": "equal",
+                   "operand": "source.ruby, source.rspec, text.gherkin.feature"
+               } ]
+  },
+  { "keys": ["super+shift+r"], "command": "show_test_panel" }, // show test panel
 ]

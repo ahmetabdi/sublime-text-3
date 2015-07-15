@@ -1,4 +1,4 @@
 {
-	"last_test_run": "bundle exec rspec spec/acceptance/app/user/account_controller_spec.rb",
-	"last_test_working_dir": "/Users/ahmet/Projects/app.blueskyeducation.co.uk"
+	"last_test_run": "rspec spec/controllers/pages_controller_spec.rb:15",
+	"last_test_working_dir": "/Users/ahmet/MyProjects/trakitem.com"
 }

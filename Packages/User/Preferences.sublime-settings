@@ -1,10 +1,18 @@
 {
-	"bold_folder_labels": true,
+	"after_callback": "",
+	"before_callback": "",
+	"bold_folder_labels": false,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
+	"check_for_bundler": false,
+	"check_for_rbenv": false,
+	"check_for_rvm": false,
+	"check_for_spring": false,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"erb_verify_command": "erb -xT - {file_name} | ruby -c",
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
@@ -30,7 +38,10 @@
 		".tags",
 		".keep",
 		".DS_Store",
-		"master"
+		"master",
+		"vendor",
+		"tmp",
+		"log"
 	],
 	"flatland_sidebar_tree_xsmall": true,
 	"flatland_square_tabs": true,
@@ -44,12 +55,19 @@
 		"host_app"
 	],
 	"font_size": 12,
+	"hide_panel": false,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignored_directories":
+	[
+		".git",
+		"vendor",
+		"tmp"
+	],
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_guide_options":
 	[
@@ -61,18 +79,30 @@
 	"line_padding_top": -0.5,
 	"margin": 0,
 	"overlay_scroll_bars": "enabled",
+	"ruby_cucumber_folder": "features",
+	"ruby_rspec_folder": "spec",
+	"ruby_unit_folder": "test",
+	"ruby_use_scratch": false,
+	"ruby_verify_command": "ruby -c {file_name}",
 	"rulers":
 	[
 		80,
 		120
 	],
+	"run_cucumber_command": "cucumber {relative_path}",
+	"run_rspec_command": "rspec {relative_path}",
+	"run_ruby_unit_command": "ruby -Itest {relative_path}",
+	"run_single_cucumber_command": "cucumber {relative_path} -l{line_number}",
+	"run_single_rspec_command": "rspec {relative_path}:{line_number}",
+	"run_single_ruby_unit_command": "ruby -Itest {relative_path} -n '{test_name}'",
 	"save_on_focus_lost": true,
+	"save_on_run": true,
 	"scroll_past_end": false,
 	"shift_tab_unindent": true,
 	"show_full_path": true,
 	"smart_indent": true,
 	"tab_size": 2,
-	"theme": "Flatland Dark.sublime-theme",
+	"terminal_encoding": "utf-8",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,

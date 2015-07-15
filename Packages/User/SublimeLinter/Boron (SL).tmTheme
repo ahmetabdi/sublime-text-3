@@ -152,18 +152,6 @@
 
     <dict>
       <key>name</key>
-      <string>Storage</string>
-      <key>scope</key>
-      <string>storage</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#8fbfdc</string>
-      </dict>
-    </dict>
-
-    <dict>
-      <key>name</key>
       <string>Diff insertion</string>
       <key>scope</key>
       <string>diff.inserted, markup.inserted</string>
@@ -228,6 +216,16 @@
 
   <dict>
             <key>name</key>
+            <string>SublimeLinter Gutter Mark</string>
+            <key>scope</key>
+            <string>sublimelinter.gutter-mark</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
             <string>SublimeLinter Warning</string>
             <key>scope</key>
             <string>sublimelinter.mark.warning</string>
@@ -245,16 +243,6 @@
             <dict>
                 <key>foreground</key>
                 <string>#D02000</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
-            <string>SublimeLinter Gutter Mark</string>
-            <key>scope</key>
-            <string>sublimelinter.gutter-mark</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFFFFF</string>
             </dict>
         </dict></array>
   <key>uuid</key>
