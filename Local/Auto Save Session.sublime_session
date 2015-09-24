@@ -1,33 +1,53 @@
 {
 	"folder_history":
 	[
+		"/Users/ahmet",
+		"/Users/ahmet/MyProjects/coreclr",
+		"/Users/ahmet/Projects/entertaina.com",
+		"/Users/ahmet/Projects/ios/transfermarkt_scraper",
+		"/Users/ahmet/MyProjects/metacortex",
+		"/Users/ahmet/Projects/surreylawsociety.org.uk",
+		"/Users/ahmet/Projects/SoulPad",
+		"/Users/ahmet/Projects/kgs.org.uk",
+		"/Users/ahmet/Projects/blueskyeducation-co-uk",
+		"/Users/ahmet/Projects/betwire/betwire.com",
+		"/Users/ahmet/MyProjects/igdb",
+		"/Users/ahmet/Projects/ct-group.com",
+		"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0",
+		"/Users/ahmet/MyProjects/Hello",
+		"/Users/ahmet/MyProjects/gfi",
+		"/Users/ahmet/Projects/becomeuk.com",
+		"/Users/ahmet/MyProjects/WebApplication",
+		"/Users/ahmet/Projects/barlowrobbins.com",
+		"/Users/ahmet/MyProjects/excon",
+		"/Users/ahmet/MyProjects",
 		"/Users/ahmet/Projects/saidso.co.uk",
 		"/Users/ahmet/Projects/preflight",
+		"/Users/ahmet/MyProjects/phez",
+		"/Users/ahmet/MyProjects/run",
+		"/Users/ahmet/.config/powerline",
 		"/Users/ahmet/Projects/Multiven",
+		"/Users/ahmet/MyProjects/old/run",
+		"/Users/ahmet/Library/Python/2.7/lib/python/site-packages/powerline",
+		"/Users/ahmet/Library/Python/2.7/lib/python/site-packages/powerline/config_files",
+		"/Users/ahmet/MyProjects/hound",
 		"/Users/ahmet/MyProjects/vida",
-		"/Users/ahmet/Projects/betwire/betwire.com",
-		"/Users/ahmet/Projects/ct-group.com",
 		"/Users/ahmet/Projects/ct-group.com2",
 		"/Users/ahmet/Projects/preflight-pubsub",
 		"/Users/ahmet/MyProjects/dotfiles-1",
 		"/Users/ahmet/Projects/preflight/script",
-		"/Users/ahmet/MyProjects",
 		"/Users/ahmet/MyProjects/old/ExternalUtilsCSharp",
 		"/Users/ahmet/MyProjects/old/ahmetabdi.github.io",
 		"/Users/ahmet/MyProjects/harmony",
 		"/Users/ahmet/Projects/whitelegg.com",
-		"/Users/ahmet/Projects/kgs.org.uk",
 		"/Users/ahmet/Projects/betwire",
 		"/Users/ahmet/Projects/ltms-litmuspartnership-co-uk",
 		"/Users/ahmet/MyProjects/trakitem.com",
 		"/Users/ahmet/MyProjects/old/themoviedb",
-		"/Users/ahmet/MyProjects/igdb",
-		"/Users/ahmet/Projects/blueskyeducation-co-uk",
 		"/Users/ahmet/MyProjects/gamer",
 		"/Users/ahmet/MyProjects/videoza",
 		"/Users/ahmet/MyProjects/gnwz",
 		"/Users/ahmet/Projects",
-		"/Users/ahmet/MyProjects/run",
 		"/Users/ahmet/MyProjects/Spina",
 		"/Users/ahmet/MyProjects/Spina-template",
 		"/Users/ahmet/MyProjects/hellop",
@@ -40,7 +60,6 @@
 		"/Users/ahmet/MyProjects/alluc",
 		"/Users/ahmet/Projects/ios/titlechallenge",
 		"/Users/ahmet/Projects/ReadWrite",
-		"/Users/ahmet/Projects/SoulPad",
 		"/Users/ahmet/MyProjects/hello_phoenix",
 		"/Users/ahmet/MyProjects/tmdb_phoenix",
 		"/Users/ahmet/MyProjects/tmdb",
@@ -55,7 +74,6 @@
 		"/Users/ahmet/MyProjects/movi",
 		"/Users/ahmet/Projects/admin.partnership.co.uk",
 		"/Users/ahmet/Projects/pippamann.com",
-		"/Users/ahmet/Projects/ios/transfermarkt_scraper",
 		"/Users/ahmet/Projects/betwire/betwire_market_manager",
 		"/Users/ahmet/MyProjects/Home",
 		"/Users/ahmet/Projects/stonehaven/ams.stonehaven-uk.com",
@@ -75,7 +93,6 @@
 		"/Users/ahmet/Projects/bisley.com",
 		"/Users/ahmet/Projects/test_app",
 		"/Users/ahmet/Projects/atom-lint",
-		"/Users/ahmet",
 		"/Users/ahmet/Projects/test_test",
 		"/Users/ahmet/MyProjects/movi2",
 		"/Users/ahmet/MyProjects/ahmetabdi.github.io",
@@ -111,37 +128,24 @@
 		"/Users/ahmet/Projects/ios/titlechallenge_csv",
 		"/Users/ahmet/Projects/titlechallenge",
 		"/Users/ahmet/Projects/titlechallenge_data",
-		"/Users/ahmet/Projects/transfermarkt_scraper",
-		"/Users/ahmet/MyProjects/github",
-		"/private/var/folders/4l/b1qd9qjd2x55h3x9ydq86b300000gn/T",
-		"/Users/ahmet/Projects/titlechallenge-validator",
-		"/Users/ahmet/Projects/titlechallenge_csv",
-		"/Users/ahmet/Projects/extra_time",
-		"/Users/ahmet/Projects/two_halves",
-		"/Users/ahmet/Projects/sage/sage_one_accounts_uk",
-		"/Users/ahmet/MyProjects/qualityexpressdrycleaners",
-		"/Users/ahmet/Projects/titlechallenge_exporter",
-		"/Users/ahmet/MyProjects/uikit-dynamics-catalog",
-		"/Users/ahmet/MyProjects/rubymotion-metal-MetalTexturedQuad",
-		"/Users/ahmet/Projects/deflow",
-		"/Users/ahmet/MyProjects/share",
-		"/Users/ahmet/Projects/app.blueskyeducation-co-uk",
-		"/Users/ahmet/MyProjects/scraper",
-		"/Users/ahmet/dotfiles",
-		"/Users/ahmet/MyProjects/errors"
+		"/Users/ahmet/Projects/transfermarkt_scraper"
 	],
 	"last_version": 3083,
-	"last_window_id": 2852,
+	"last_window_id": 3047,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1231.0,
+		"new_window_height": 993.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"cha",
+						"changeSearchColor"
+					],
 					[
 						"basic_",
 						"basic_auth_password"
@@ -649,10 +653,6 @@
 					[
 						"stagi",
 						"staging_date"
-					],
-					[
-						"request_rec",
-						"request_received"
 					]
 				]
 			},
@@ -1050,138 +1050,138 @@
 			},
 			"file_history":
 			[
-				"/Users/ahmet/Projects/Multiven/config/deploy.rb",
-				"/Users/ahmet/Projects/Multiven/app/models/product.rb",
-				"/Users/ahmet/Projects/Multiven/app/assets/stylesheets/core.css.scss",
-				"/Users/ahmet/Projects/Multiven/app/views/base/index.html.erb",
-				"/Users/ahmet/Projects/Multiven/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/preflight/lib/checks/css_check.rb",
-				"/Users/ahmet/Projects/Multiven/config/routes.rb",
-				"/Users/ahmet/Projects/Multiven/README.rdoc",
-				"/Users/ahmet/Projects/Multiven/config/database.yml",
-				"/Users/ahmet/Projects/Multiven/Gemfile",
-				"/Users/ahmet/Projects/Multiven/config/database.yml.example",
-				"/Users/ahmet/Projects/ct-group.com/app/views/base/index.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/posts/_related_posts.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/config/locales/en.yml",
-				"/Users/ahmet/Projects/ct-group.com/config/routes.rb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/posts/show.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/services/show.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/markets/show.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/models/service.rb",
-				"/Users/ahmet/Projects/ct-group.com/app/controllers/services_controller.rb",
-				"/Users/ahmet/Projects/ct-group.com/app/controllers/markets_controller.rb",
-				"/Users/ahmet/Projects/ct-group.com/Procfile",
-				"/Users/ahmet/Projects/ct-group.com/app/models/market.rb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/admin/markets/show.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/admin/services/show.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/models/user.rb",
-				"/Users/ahmet/Projects/preflight/app/jobs/crawler_job.rb",
-				"/Users/ahmet/Projects/preflight/lib/check_runner.rb",
-				"/Users/ahmet/Projects/preflight/lib/pubsub.rb",
-				"/Users/ahmet/Projects/preflight/app/jobs/check_job.rb",
-				"/Users/ahmet/MyProjects/dotfiles-1/vim/vimrc",
-				"/Users/ahmet/dotdotdot/.bash_prompt",
-				"/Users/ahmet/MyProjects/dotfiles-1/setup.sh",
+				"/Users/ahmet/.config/fish/config.fish",
 				"/Users/ahmet/.bash_profile",
-				"/Users/ahmet/.bash_prompt",
-				"/Users/ahmet/Projects/preflight/script/commands",
-				"/Users/ahmet/Projects/preflight/script/test",
-				"/Users/ahmet/Projects/preflight/script/setup",
-				"/Users/ahmet/Projects/preflight/script/bootstrap",
-				"/Users/ahmet/Projects/preflight/script/update",
-				"/Users/ahmet/Projects/preflight/script/server",
-				"/Users/ahmet/Projects/preflight/script/console",
-				"/Users/ahmet/Projects/preflight/script/cibuild",
-				"/Users/ahmet/Projects/preflight-pubsub/app.rb",
-				"/Users/ahmet/Projects/preflight-pubsub/middlewares/chat_backend.rb",
-				"/Users/ahmet/Projects/preflight-pubsub/Gemfile",
-				"/Users/ahmet/Projects/preflight-pubsub/config.ru",
-				"/Users/ahmet/Projects/preflight-pubsub/views/application.js.erb",
-				"/Users/ahmet/Projects/preflight-pubsub/views/index.html.erb",
-				"/Users/ahmet/Projects/preflight-pubsub/.env",
-				"/Users/ahmet/Projects/preflight-pubsub/.env.sample",
-				"/Users/ahmet/MyProjects/harmony/_config.yml",
-				"/Users/ahmet/MyProjects/harmony/_layouts/default.html",
-				"/Users/ahmet/MyProjects/harmony/assets/css/main.scss",
-				"/Users/ahmet/MyProjects/harmony/_site/assets/css/main.css",
-				"/Users/ahmet/MyProjects/harmony/_config-dev.yml",
-				"/Users/ahmet/MyProjects/harmony/README.md",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/kgs.org.uk/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/kgs.org.uk/app/views/partials/_primary_nav.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/shared/_header_nav.html.erb",
-				"/Users/ahmet/MyProjects/vida/db/migrate/20150707120445_video.rb",
-				"/Users/ahmet/MyProjects/vida/db/migrate/20150707120523_create_video.rb",
-				"/Users/ahmet/Projects/betwire/betwire.com/.gitignore",
-				"/Users/ahmet/MyProjects/vida/app/views/devise/shared/_links.html.erb",
-				"/Users/ahmet/MyProjects/vida/app/views/devise/sessions/new.html.erb",
-				"/Users/ahmet/MyProjects/vida/.gitignore",
-				"/Users/ahmet/Projects/preflight/spec/lib/checks/valid_link_check_spec.rb",
-				"/Users/ahmet/Projects/preflight/lib/http_client.rb",
-				"/Users/ahmet/Projects/preflight/spec/support/factories.rb",
-				"/Users/ahmet/Projects/preflight/lib/validators/domain_exists_validator.rb",
-				"/Users/ahmet/Projects/preflight/spec/lib/validators/domain_exists_validator_spec.rb",
-				"/Users/ahmet/Projects/preflight/spec/lib/checks/loading_time_check_spec.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/valid_link_check.rb",
-				"/Users/ahmet/Projects/preflight/app/models/check_run.rb",
-				"/Users/ahmet/Projects/preflight/spec/models/crawled_page_spec.rb",
-				"/Users/ahmet/Projects/preflight/spec/models/check_run_spec.rb",
-				"/Users/ahmet/Projects/preflight/spec/models/check_result_spec.rb",
-				"/Users/ahmet/Projects/preflight/spec/jobs/check_job_spec.rb",
-				"/Users/ahmet/Projects/preflight/lib/mixins/http.rb",
-				"/Users/ahmet/Projects/preflight/db/schema.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/views/registration/_protection_plan_fields.html.erb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/controllers/protection_plan_controller.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/views/registration/existing_protection_plans.html.erb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/javascripts/application/registration.js",
-				"/Users/ahmet/Projects/saidso.co.uk/db/schema.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/db/migrate/20150706094840_add_default_to_has_policy_documents.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/config/routes.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/admin/report_form.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/stylesheets/application/core.scss",
-				"/Users/ahmet/Projects/saidso.co.uk/app/models/report_form.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/stylesheets/application.css",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/javascripts/application/plugins/enquire.min.js",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/javascripts/application/plugins/slick.min.js",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/javascripts/application/core.js.erb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/views/registration/all_about_you.html.erb",
-				"/Users/ahmet/Projects/saidso.co.uk/db/migrate/20150703154116_add_policy_document_to_protection_plan.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/controllers/report_form_controller.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/controllers/protection_plan_document_controller.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/views/registration/_protection_plan_document_fields.html.erb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/models/protection_plan.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/models/protection_plan_document.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/.env",
-				"/Users/ahmet/Projects/saidso.co.uk/.env.example",
-				"/Users/ahmet/Projects/saidso.co.uk/config/initializers/carrierwave.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/config/database.yml",
-				"/Users/ahmet/Projects/saidso.co.uk/config/database.yml.example",
-				"/Users/ahmet/Projects/preflight/config/locales/en.yml",
-				"/Users/ahmet/Projects/preflight/app/assets/javascripts/check_event.js.erb",
-				"/Users/ahmet/Projects/preflight/app/views/check_runs/show.html.erb",
-				"/Users/ahmet/Projects/preflight/lib/checks/stylesheet_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/placeholder_content_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/meta_data_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/link_active_focus_style_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/google_analytics_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/four_oh_four_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/doctype_declaration_check.rb",
-				"/Users/ahmet/Projects/preflight/app/assets/stylesheets/application/base.css",
-				"/Users/ahmet/Projects/preflight/app/helpers/application_helper.rb",
-				"/Users/ahmet/Projects/preflight/app/assets/stylesheets/bootstrap_and_overrides.css",
-				"/Users/ahmet/Projects/preflight/app/assets/stylesheets/application.css",
-				"/Users/ahmet/Projects/preflight/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/preflight/.env",
-				"/Users/ahmet/Projects/preflight/sample_env",
-				"/Users/ahmet/Projects/preflight/README.md",
-				"/Users/ahmet/Projects/preflight/config/database.yml",
-				"/Users/ahmet/Projects/preflight/config/database.yml.example"
+				"/Users/ahmet/.bashrc",
+				"/Users/ahmet/MyProjects/coreclr/HelloWorld.cs",
+				"/Users/ahmet/MyProjects/coreclr/project.json",
+				"/Users/ahmet/.shuttle.json",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/redactor_custom.scss",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/style.scss",
+				"/Users/ahmet/Projects/entertaina.com/Gemfile",
+				"/Users/ahmet/Projects/entertaina.com/app/mailers/devise_custom_mailer.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/mailers/application_mailer.rb",
+				"/Users/ahmet/Projects/ios/transfermarkt_scraper/lib/transfermarkt.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/edit_media.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/base/index.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_card.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/acts.scss",
+				"/Users/ahmet/Projects/entertaina.com/app/views/partials/_act_card.html.erb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tasks/tmdb.rake",
+				"/Users/ahmet/MyProjects/metacortex/app/views/pages/index.erb",
+				"/Users/ahmet/MyProjects/metacortex/app/models/concerns/adapter.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/application.js",
+				"/Users/ahmet/MyProjects/metacortex/app/models/concerns/two_adapter.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/helpers/application_helper.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/views/movies/show.html.erb",
+				"/Users/ahmet/MyProjects/metacortex/.idea/.rakeTasks",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/config/initializers/dragonfly.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/Gemfile",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/app/views/refinery/_footer.html.erb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/courses/app/views/refinery/courses/courses/show.html.erb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/db/schema.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/views/refinery/cpd_annual_programmes/admin/cpd_annual_programmes/_form.html.erb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/app/decorators/models/refinery/image_decorator.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/models/refinery/cpd_annual_programmes/cpd_annual_programme.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/courses/app/models/refinery/courses/course.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/views/refinery/cpd_annual_programmes/admin/cpd_annual_programmes/_records.html.erb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/views/refinery/cpd_annual_programmes/admin/cpd_annual_programmes/edit.html.erb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/controllers/refinery/cpd_annual_programmes/admin/cpd_annual_programmes_controller.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/controllers/refinery/cpd_annual_programmes/cpd_annual_programmes_controller.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/app/models/grid.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/db/migrate/20150915104031_add_refinery_coursee_id_to_refinery_cpd_annual_programmes.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/sponsors/app/models/refinery/sponsors/sponsor.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/jobs/app/models/refinery/jobs/job.rb",
+				"/Users/ahmet/MyProjects/metacortex/Capfile",
+				"/Users/ahmet/MyProjects/metacortex/config/deploy/production.rb",
+				"/Users/ahmet/MyProjects/metacortex/config/environments/production.rb",
+				"/Users/ahmet/MyProjects/metacortex/config/deploy/templates/puma.rb.erb",
+				"/Users/ahmet/MyProjects/metacortex/config/deploy/templates/nginx_conf.erb",
+				"/Users/ahmet/MyProjects/metacortex/config/secrets.yml",
+				"/Users/ahmet/MyProjects/metacortex/config/deploy.rb",
+				"/Users/ahmet/MyProjects/metacortex/.gitignore",
+				"/Users/ahmet/MyProjects/metacortex/Gemfile",
+				"/Users/ahmet/MyProjects/metacortex/app/models/adapter.rb",
+				"/Users/ahmet/Projects/SoulPad/config/application.rb",
+				"/Users/ahmet/Projects/SoulPad/.env",
+				"/Users/ahmet/Projects/SoulPad/config/deploy.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/typeahead-0.11.1.js",
+				"/Users/ahmet/MyProjects/metacortex/app/controllers/search_controller.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/bootstrap.min.js",
+				"/Users/ahmet/MyProjects/metacortex/app/views/layouts/application.html.erb",
+				"/Users/ahmet/MyProjects/metacortex/app/views/layouts/_header.html.erb",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/stylesheets/jquery-ui.css",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/stylesheets/application.css",
+				"/Users/ahmet/MyProjects/metacortex/app/models/movie.rb",
+				"/Users/ahmet/MyProjects/metacortex/config/routes.rb",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/ahmet/MyProjects/metacortex/db/migrate/20150911081027_add_status_to_movies.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/stylesheets/bootstrap.min.css",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/models/movie.rb",
+				"/Users/ahmet/MyProjects/metacortex/.env",
+				"/Users/ahmet/Projects/entertaina.com/.ruby-version",
+				"/Users/ahmet/Projects/SoulPad/.rubocop.yml",
+				"/Users/ahmet/MyProjects/metacortex/db/migrate/20150910073324_create_movies.rb",
+				"/Users/ahmet/MyProjects/metacortex/db/schema.rb",
+				"/Users/ahmet/MyProjects/metacortex/config/database.yml.example",
+				"/Users/ahmet/MyProjects/metacortex/config/database.yml",
+				"/Users/ahmet/MyProjects/metacortex/app/controllers/pages_controller.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/requester.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/models/search.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/configuration/api.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/representers/multi_representer.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/representers/movie_representer.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/version.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/models/api_resource.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/exceptions.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb.rb",
+				"/Users/ahmet/MyProjects/metacortex/config/initializers/tmdb.rb",
+				"/Users/ahmet/MyProjects/metacortex/Procfile",
+				"/Users/ahmet/MyProjects/metacortex/README.rdoc",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/tmdb.gemspec",
+				"/Users/ahmet/MyProjects/metacortex/.env.sample",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/jquery-1.11.3.min.js",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/jquery-ui.js",
+				"/Users/ahmet/Downloads/jquery-ui-1.11.4/jquery-ui.js",
+				"/Users/ahmet/Downloads/jquery-ui-1.11.4/jquery-ui.css",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/jquery-animate-colors.min.js",
+				"/Users/ahmet/Downloads/jquery-1.11.3.min.js",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application.css",
+				"/Users/ahmet/Projects/entertaina.com/app/models/music_asset.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/javascripts/application/media_assets.js",
+				"/Users/ahmet/Projects/entertaina.com/app/views/music_assets/_item.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/models/video.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_photos.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/models/act.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/show.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/owl.theme.scss",
+				"/Users/ahmet/Projects/entertaina.com/app/controllers/acts_controller.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_videos.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_latest_videos.html.erb",
+				"/Users/ahmet/Projects/ct-group.com/Gemfile",
+				"/Users/ahmet/Projects/ct-group.com/app/controllers/application_controller.rb",
+				"/Users/ahmet/Projects/ct-group.com/app/views/devise/passwords/edit.html.erb",
+				"/Users/ahmet/Projects/ct-group.com/app/views/devise/mailer/reset_password_instructions.html.erb",
+				"/Users/ahmet/Projects/ct-group.com/app/views/devise/passwords/new.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_playlist.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/uploaders/media_uploader.rb",
+				"/Users/ahmet/Projects/entertaina.com/config/routes.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/partials/_footer.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/db/locations.yml",
+				"/Users/ahmet/Projects/entertaina.com/app/views/subscriptions/_show_repeated.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_latest_photos.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/shared/_calendar.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/accordian.scss",
+				"/Users/ahmet/Projects/SoulPad/config/initializers/flickr.rb",
+				"/Users/ahmet/Projects/SoulPad/extensions/sales_prices_engine/app/views/admin.rails2/variants/_form.html.erb",
+				"/Users/ahmet/Projects/SoulPad/config/database.yml",
+				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/lib/motion-game/ios/app_delegate.rb",
+				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/lib/motion-game.rb"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 22.0
 			},
 			"find_in_files":
 			{
@@ -1198,134 +1198,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"slide_3",
-					"APP_PATH",
+					"__bobthefish_finish_segments",
+					"__bobthefish_dk_orange",
+					"__bobthefish_finish_segments",
+					"__bobthefish_ruby_red",
+					"__bobthefish_finish_segments",
+					"set_color",
+					"__bobthefish_current_bg",
+					"__bobthefish_finish_segments",
+					"set_color",
+					"__bobthefish_dk_orange",
+					"flag_fg",
+					"__bobthefish_finish_segments",
+					"__bobthefish_start_segment",
+					"__bobthefish_dk_orange",
+					"__bobthefish_finish_segments",
+					"flag_fg",
+					"__bobthefish_finish_segments",
+					"__bobthefish_dk_orange",
+					"__bobthefish_prompt_git",
+					"__bobthefish_finish_segments",
+					"__bobthefish_prompt_git",
+					"__bobthefish_finish_segments",
+					"__bobthefish_prompt_dir",
+					"__bobthefish_finish_segments",
+					"green",
+					"normal",
+					"set_color",
+					"__bobthefish_prompt_hg",
+					"__bobthefish_finish_segments",
+					"body",
+					"=''",
+					".redactor-box",
+					"sub h2",
+					".act_profile_card .popular_enter_txt .sub h2",
+					"Our sponsors",
+					"name",
+					"cpd_annual",
+					"bin",
+					"139.162.215.66",
+					"assets",
+					"public",
+					"config",
+					"TMDB_API_KEY",
+					"env['locale']",
+					"AUS",
+					"cache_store",
+					"//",
+					"rendered += suggestions.length;",
+					"blood",
+					"ProfileCard-stats",
+					"ProfileCard-screenName",
+					"suggest",
+					"tt-menu",
+					"perform_caching",
+					"config.action_controller.perform_caching = true",
+					"new_movie",
+					".masthead",
+					"rock_band",
+					"sear_cont_wrap_Sec2",
+					"location_id",
+					"Typeahead-hint",
+					"Typeahead-input",
+					"act_profile_card",
 					"betwire_tag_manager",
-					"posts",
-					"unicorn.rb",
-					"@check_run.url",
-					"@check_run.id",
-					"create_page!",
-					"javascript.content",
-					"doc.encoding",
-					"@document",
-					"skip_link",
-					"perform_later",
-					"perofor",
-					"create_checks",
-					"crawled_pages",
-					"PubSub.trigger",
-					"ChatBackend",
-					"HEAD",
-					"pusher",
-					"878",
-					"canvas",
-					"/harmony",
-					"active_link",
-					"active",
-					"and_return('')",
-					"def http_connection",
-					"record",
-					"CheckRun",
+					":",
+					"statistic",
+					"poster_path",
+					"release_date",
+					"overview",
+					"release_date",
+					"paypal",
+					"url_for",
+					"params",
 					"url",
-					"check_run",
-					"validate",
-					"CheckRun.create!(",
-					"check_run",
-					"http_connection",
-					"Remove protection plan",
-					".show();",
-					"    if ($(this).val() == 'true') {\n      $(this).closest('.nested_fields').find('.policy_form').attr('style','display:none !important');\n      $(this).closest('.nested_fields').find('.policy_document').attr('style','display:block !important');\n    } else if ($(this).val() == 'false') {\n      $(this).closest('.nested_fields').find('.policy_document').attr('style','display:none !important');\n      $(this).closest('.nested_fields').find('.policy_form').attr('style','display:block !important');\n    }",
-					"protection_plan_document",
-					"protection_plan_documents",
-					"protection_plan_document",
-					"closest",
-					"show-if-this",
-					"has_policy_documents",
-					"show-if-this",
-					"data-show-if-this",
-					"advice_on_protection_needs_radio",
-					"id_document",
-					"has_policy_documents",
-					"documents\"",
-					"options_for_has_policy_documents",
-					"default_url_options",
-					"Upload your ident",
-					"'description'",
-					"stylesheets",
-					"placeholder_content",
-					"meta_data",
-					"loading_time",
-					"link_active_focus_style",
-					"google_analytics",
-					"four_oh_four",
-					"doctype_declaration",
-					"toggleWarnings",
-					"toggleInfo",
-					"id-toggle",
-					"toggleWarnings",
-					"id-toggle",
-					"fontawes",
-					"Sign in",
-					"sign_in",
-					"devise",
-					"made_a_will",
-					"made_a_will =",
-					"capital_gains_tax_allowance_how_much",
-					"used_capital_gains_tax_allowance",
-					"capital_gains_tax_allowance_how_much",
-					"used_capital_gains_tax_allowance",
-					"capital_gains_tax_allowance_how_much",
-					"How much?",
-					"capital_gains_tax_allowance_how_much",
-					"used_capital_gains_tax_allowance_radio",
-					"options_for_used_annual_gift_allowance",
-					"used_capital_gains_tax_allowance",
-					"Have you used your ISA",
-					"basic_auth",
-					"initialize_count",
-					"send_message",
-					"def send_mess",
-					".perform",
-					"CrawlerJob",
-					"http_connection",
-					"recreate",
-					"redirect_to_locale_and_territory",
-					".any?",
-					".map",
-					".exist",
-					".exists",
-					"true",
-					"[ [ true,",
-					"[[true",
-					"options_for",
-					"metadata",
-					"latest.dump",
-					"'",
-					"I18n.t",
-					".hello",
-					"check_runner",
-					"CheckRunner",
-					"CrawledPage",
-					"include Crawler",
-					"generate_crawled_pages",
-					"crawler",
-					"flash",
-					"flash[",
-					"betwire_tag_manager",
-					"auto_load",
-					"autoload",
-					"CheckJob.perform",
-					"Pusher.logger",
-					"def delay",
-					"html",
-					".errors",
-					"has_errors",
-					"permission_denied",
-					"        expect(current_path).to eq('/base/permission_denied')\n        expect(page).to have_content('Permission denied')",
-					"')\n",
-					"        expect(current_path).to eq('/base/permission_denied')\n        expect(page).to have_content('Permission denied')",
-					"cancan"
+					"request_headers",
+					"Igdb",
+					"TODO",
+					".css(",
+					"#current",
+					"0:00",
+					"pretty_duration",
+					"0:00",
+					".thumb_slider .owl-next",
+					".owl-theme .owl-controls .owl-buttons div",
+					".owl-buttons",
+					".owl-next",
+					"photos",
+					"Videos",
+					"visit_profile",
+					"locale",
+					"password",
+					"#audio_",
+					"Playlist",
+					"about_path",
+					"about",
+					"#section2",
+					"#section2\\",
+					"t",
+					"term",
+					"North West East of England",
+					"locations",
+					"North West East of England",
+					"SIGN UP",
+					"UPDATE",
+					"pointer;",
+					".latest_photo",
+					"latest photos",
+					".cancel_btn",
+					"#choose_all",
+					"CANCEL MEMBERSHIP",
+					"CHOOSE ALL",
+					"Spree.config",
+					"Spree::Config",
+					"pree::Config",
+					"track_inventory_levels",
+					"Spree::Config[:track_inventory_levels] ",
+					"input.send",
+					".how_does_wrap .search_buttons .owl-carousel .item",
+					"env",
+					"style=",
+					"benchmark",
+					"mygemserver",
+					"insights",
+					"mixin",
+					"Mxin",
+					"GameScreenshotRepresenter",
+					"queue_adapter",
+					"<%="
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1387,24 +1387,380 @@
 				"selected_items":
 				[
 					[
-						"deploy.rb",
-						"config/deploy.rb"
-					],
-					[
-						"application.html.erb",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"css_check",
-						"lib/checks/css_check.rb"
+						"style.scss",
+						"app/assets/stylesheets/application/style.scss"
 					],
 					[
 						"gemfile",
 						"Gemfile"
 					],
 					[
+						"style.",
+						"app/assets/stylesheets/application/style.scss"
+					],
+					[
+						"edit_med",
+						"app/views/acts/edit_media.html.erb"
+					],
+					[
+						"edit_media",
+						"app/views/acts/edit_media.html.erb"
+					],
+					[
+						"acts/card",
+						"app/views/acts/_card.html.erb"
+					],
+					[
+						"act_card",
+						"app/views/partials/_act_card.html.erb"
+					],
+					[
+						"base/index",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"acts.scss",
+						"app/assets/stylesheets/acts.scss"
+					],
+					[
+						"two_ada",
+						"app/models/concerns/two_adapter.rb"
+					],
+					[
+						"application_helper",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						".rake",
+						"lib/tasks/tmdb.rake"
+					],
+					[
+						"dragonfly.rb",
+						"config/initializers/dragonfly.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"course.rb",
+						"vendor/extensions/courses/app/models/refinery/courses/course.rb"
+					],
+					[
+						"courses/show.html.erb",
+						"vendor/extensions/courses/app/views/refinery/courses/courses/show.html.erb"
+					],
+					[
+						"grid.rb",
+						"app/models/grid.rb"
+					],
+					[
+						"capfile",
+						"Capfile"
+					],
+					[
+						"deploy.rb",
+						"config/deploy.rb"
+					],
+					[
+						"gitig",
+						".gitignore"
+					],
+					[
+						"nginx",
+						"config/deploy/templates/nginx_conf.erb"
+					],
+					[
+						"gitignore",
+						".gitignore"
+					],
+					[
+						"config/secret",
+						"config/secrets.yml"
+					],
+					[
+						"nginx_",
+						"config/deploy/templates/nginx_conf.erb"
+					],
+					[
+						"deploy/produ",
+						"config/deploy/production.rb"
+					],
+					[
+						"config/deploy.rb",
+						"config/deploy.rb"
+					],
+					[
+						"adapter.rb",
+						"app/models/adapter.rb"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"application.js",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"movie.rb",
+						"app/models/movie.rb"
+					],
+					[
+						"search_cont",
+						"app/controllers/search_controller.rb"
+					],
+					[
 						"routes",
 						"config/routes.rb"
+					],
+					[
+						"application_helper.rb",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"database.yml",
+						"config/database.yml"
+					],
+					[
+						"application.css",
+						"app/assets/stylesheets/application.css"
+					],
+					[
+						"pages/index",
+						"app/views/pages/index.erb"
+					],
+					[
+						"requester.rb",
+						"lib/tmdb/lib/tmdb/requester.rb"
+					],
+					[
+						"api.rb",
+						"lib/tmdb/lib/tmdb/configuration/api.rb"
+					],
+					[
+						"readme",
+						"README.rdoc"
+					],
+					[
+						"procfile",
+						"Procfile"
+					],
+					[
+						"music_asset.rb",
+						"app/models/music_asset.rb"
+					],
+					[
+						"act.rb",
+						"app/models/act.rb"
+					],
+					[
+						"act_controller",
+						"app/controllers/acts_controller.rb"
+					],
+					[
+						"style.sc",
+						"app/assets/stylesheets/application/style.scss"
+					],
+					[
+						"application_controller",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"music_asset/item",
+						"app/views/music_assets/_item.html.erb"
+					],
+					[
+						"register.html",
+						"app/views/members/registrations/new.html.erb"
+					],
+					[
+						"spree.rb",
+						"config/initializers/spree.rb"
+					],
+					[
+						"database",
+						"config/database.yml"
+					],
+					[
+						"project",
+						"lib/motion-game/project.rb"
+					],
+					[
+						"spri",
+						"doc/MG/Sprite.html"
+					],
+					[
+						".env.s",
+						".env.sample"
+					],
+					[
+						"gitign",
+						".gitignore"
+					],
+					[
+						"calendar_event.rb",
+						"app/models/calendar_event.rb"
+					],
+					[
+						"about.html.er",
+						"app/views/about/index.html.erb"
+					],
+					[
+						"production.rb",
+						"config/environments/production.rb"
+					],
+					[
+						"gemspec",
+						"metacortex.gemspec"
+					],
+					[
+						"http.rb",
+						"lib/mixins/http.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"api_reso",
+						"lib/igdb/models/api_resource.rb"
+					],
+					[
+						"gemfle",
+						"Gemfile"
+					],
+					[
+						"crawler",
+						"app/jobs/crawler_job.rb"
+					],
+					[
+						"resque.rb",
+						"config/initializers/resque.rb"
+					],
+					[
+						"base.css",
+						"app/assets/stylesheets/application/base.css.erb"
+					],
+					[
+						"routes.rb",
+						"config/routes.rb"
+					],
+					[
+						"check_runs/",
+						"app/views/check_runs/show.html.erb"
+					],
+					[
+						"check_runs/new.html",
+						"app/views/check_runs/new.html.erb"
+					],
+					[
+						"en-us.yml",
+						"config/locales/en-US.yml"
+					],
+					[
+						"en-au",
+						"config/locales/en-AU.yml"
+					],
+					[
+						"us.yml",
+						"config/locales/en-US.yml"
+					],
+					[
+						"shared/order_details",
+						"app/views/shared/_order_details.html.erb"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						".env.sample",
+						".env.sample"
+					],
+					[
+						"usa.rb",
+						"config/deploy/usa.rb"
+					],
+					[
+						"header",
+						"app/views/posts/_heading.html.erb"
+					],
+					[
+						"apidocs.html",
+						"app/views/home/apidocs.html.erb"
+					],
+					[
+						"player.rb",
+						"app/sprites/player.rb"
+					],
+					[
+						"pipe.rb",
+						"app/sprites/pipe.rb"
+					],
+					[
+						"physi",
+						"app/nodes/physical_ground.rb"
+					],
+					[
+						"game.rb",
+						"lib/igdb/models/game.rb"
+					],
+					[
+						"rakefile",
+						"Rakefile"
+					],
+					[
+						"shared/grid",
+						"app/views/shared/_grid.html.erb"
+					],
+					[
+						"school_life.html.erb",
+						"app/views/school_life/_school_life.html.erb"
+					],
+					[
+						"school_life/index",
+						"app/views/school_life/index.html.erb"
+					],
+					[
+						"core.css",
+						"app/assets/stylesheets/core.css.scss"
+					],
+					[
+						"20110531",
+						"app/views/advocacy/news_20110531.html.erb"
+					],
+					[
+						"20150605",
+						"app/views/advocacy/news_20150605.html.erb"
+					],
+					[
+						"2015006",
+						"app/views/advocacy/news_20150605.html.erb"
+					],
+					[
+						"google_anal",
+						"spec/lib/checks/google_analytics_check_spec.rb"
+					],
+					[
+						"google_analy",
+						"lib/checks/google_analytics_check.rb"
+					],
+					[
+						"css_check_spec",
+						"spec/lib/checks/css_check_spec.rb"
+					],
+					[
+						"css_check",
+						"lib/checks/css_check.rb"
+					],
+					[
+						"config/unicorn",
+						"config/unicorn.rb"
+					],
+					[
+						"application.html.erb",
+						"app/views/layouts/application.html.erb"
 					],
 					[
 						"en.yml",
@@ -1415,16 +1771,8 @@
 						"app/views/posts/_related_posts.html.erb"
 					],
 					[
-						"base/index",
-						"app/views/base/index.html.erb"
-					],
-					[
 						"post/show.html",
 						"app/views/posts/show.html.erb"
-					],
-					[
-						"procfile",
-						"Procfile"
 					],
 					[
 						"service.rb",
@@ -1461,10 +1809,6 @@
 					[
 						"pubsub.rb",
 						"lib/pubsub.rb"
-					],
-					[
-						"crawler",
-						"app/jobs/crawler_job.rb"
 					],
 					[
 						"setup.sh",
@@ -1505,14 +1849,6 @@
 					[
 						"video.rb",
 						"db/migrate/20150707120445_video.rb"
-					],
-					[
-						"gitign",
-						"betwire.com/.gitignore"
-					],
-					[
-						"gitignore",
-						".gitignore"
 					],
 					[
 						"shared/",
@@ -1561,342 +1897,6 @@
 					[
 						"loading_time",
 						"spec/lib/checks/loading_time_check_spec.rb"
-					],
-					[
-						"domain_exists_va",
-						"spec/lib/validators/domain_exists_validator_spec.rb"
-					],
-					[
-						"fact",
-						"spec/support/factories.rb"
-					],
-					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"crawler_job",
-						"app/jobs/crawler_job.rb"
-					],
-					[
-						"protection_plan_con",
-						"app/controllers/protection_plan_controller.rb"
-					],
-					[
-						"has_policy_do",
-						"db/migrate/20150706094840_add_default_to_has_policy_documents.rb"
-					],
-					[
-						"report_form.rb",
-						"app/admin/report_form.rb"
-					],
-					[
-						"application.css",
-						"app/assets/stylesheets/application.css"
-					],
-					[
-						"protection_plan_cont",
-						"app/controllers/protection_plan_controller.rb"
-					],
-					[
-						"all_about_you.ht",
-						"app/views/registration/all_about_you.html.erb"
-					],
-					[
-						"protection_plan_fields.html",
-						"app/views/registration/_protection_plan_fields.html.erb"
-					],
-					[
-						"protection_plan.rb",
-						"app/models/protection_plan.rb"
-					],
-					[
-						"protection_plan_document.rb",
-						"app/models/protection_plan_document.rb"
-					],
-					[
-						"add_policy_document",
-						"db/migrate/20150703154116_add_policy_document_to_protection_plan.rb"
-					],
-					[
-						"protection_plan_document_fields",
-						"app/views/registration/_protection_plan_document_fields.html.erb"
-					],
-					[
-						"extis",
-						"app/views/registration/existing_protection_plans.html.erb"
-					],
-					[
-						".env",
-						".env.example"
-					],
-					[
-						"carrierwave",
-						"config/initializers/carrierwave.rb"
-					],
-					[
-						"database",
-						"config/database.yml.example"
-					],
-					[
-						".js.erb",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						".scs",
-						"app/assets/stylesheets/application/base.css"
-					],
-					[
-						"application.html",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"check_run/show",
-						"app/views/check_runs/show.html.erb"
-					],
-					[
-						"check_event",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						".yml",
-						"config/locales/en.yml"
-					],
-					[
-						"will_",
-						"db/migrate/20150702143518_add_made_a_will_to_report_forms.rb"
-					],
-					[
-						"report_form",
-						"app/admin/report_form.rb"
-					],
-					[
-						"add_made",
-						"db/migrate/20150702143518_add_made_a_will_to_report_forms.rb"
-					],
-					[
-						"made_a",
-						"db/migrate/20150702143518_add_made_a_will_to_report_forms.rb"
-					],
-					[
-						"carrierwa",
-						"config/initializers/carrierwave.rb"
-					],
-					[
-						"w3",
-						"lib/checks/w3c_check.rb"
-					],
-					[
-						"check_event.js",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						"crawler.",
-						"app/jobs/crawler_job.rb"
-					],
-					[
-						"http.rb",
-						"lib/mixins/http.rb"
-					],
-					[
-						"check_run/new",
-						"app/views/check_runs/new.html.erb"
-					],
-					[
-						"environemnt.rb",
-						"config/environment.rb"
-					],
-					[
-						"puma.rb",
-						"config/puma.rb"
-					],
-					[
-						"image_upload",
-						"app/uploaders/image_uploader.rb"
-					],
-					[
-						"docker",
-						"Dockerfile"
-					],
-					[
-						"application_controller.rb",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"application.rb",
-						"config/application.rb"
-					],
-					[
-						"seeds",
-						"db/seeds/development/users.seeds.rb"
-					],
-					[
-						"plan.html.erb",
-						"app/views/registration/existing_protection_plans.html.erb"
-					],
-					[
-						"alla_bout_",
-						"app/views/registration/all_about_you.html.erb"
-					],
-					[
-						"gemspec",
-						"igdb.gemspec"
-					],
-					[
-						"readme",
-						"README.md"
-					],
-					[
-						"deprecation_check.rb",
-						"lib/checks/deprecation_check.rb"
-					],
-					[
-						"deprecation_check",
-						"spec/lib/checks/deprecation_check_spec.rb"
-					],
-					[
-						"check_job.rb",
-						"app/jobs/check_job.rb"
-					],
-					[
-						"event",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						"proc",
-						"Procfile"
-					],
-					[
-						"home.html",
-						"app/views/pages/home.html.erb"
-					],
-					[
-						"gemfil",
-						"Gemfile"
-					],
-					[
-						"crawler_spec",
-						"spec/controllers/concerns/crawler_spec.rb"
-					],
-					[
-						"w3c",
-						"lib/checks/w3c_check.rb"
-					],
-					[
-						"gemf",
-						"Gemfile"
-					],
-					[
-						"gemfile.lock",
-						"Gemfile.lock"
-					],
-					[
-						"checks/show.html",
-						"app/views/check_runs/show.html.erb"
-					],
-					[
-						"job",
-						"app/jobs/check_job.rb"
-					],
-					[
-						".js.er",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						"sitemap_chec",
-						"spec/lib/checks/sitemap_check_spec.rb"
-					],
-					[
-						"sitemap_ch",
-						"lib/checks/sitemap_check.rb"
-					],
-					[
-						"sitemap.",
-						"spec/lib/checks/sitemap_check_spec.rb"
-					],
-					[
-						"check_event.",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						"pages/home",
-						"app/views/pages/home.html.erb"
-					],
-					[
-						"rails_helper",
-						"spec/rails_helper.rb"
-					],
-					[
-						"pages_controller_",
-						"test/controllers/pages_controller_test.rb"
-					],
-					[
-						"pages_controller",
-						"app/controllers/pages_controller.rb"
-					],
-					[
-						"calendar_controller",
-						"app/controllers/orgadmin/calendar_controller.rb"
-					],
-					[
-						"permission_objec",
-						"spec/acceptance/permissions/permissions_objectives_spec.rb"
-					],
-					[
-						"orgadmin/objectives_controller",
-						"app/controllers/orgadmin/organisation_objectives_controller.rb"
-					],
-					[
-						"permission_object",
-						"spec/acceptance/permissions/permissions_objectives_spec.rb"
-					],
-					[
-						"calendar_event.rb",
-						"app/models/calendar_event.rb"
-					],
-					[
-						"permissions_calendar_spec.rb",
-						"spec/acceptance/permissions/permissions_calendar_spec.rb"
-					],
-					[
-						"orgadmin/calendar.rb",
-						"lib/abilities/orgadmin/calendar.rb"
-					],
-					[
-						"project_membership_controller_spec.rb",
-						"spec/controllers/myblue/project_memberships_controller_spec.rb"
-					],
-					[
-						"development.rb",
-						"config/environments/development.rb"
-					],
-					[
-						"ability.rb",
-						"app/models/job_ability.rb"
-					],
-					[
-						"pec/controllers/orgadmin/projects_controller_spec.rb",
-						"spec/controllers/orgadmin/projects_controller_spec.rb"
-					],
-					[
-						"projects_controller_spec.rb",
-						"spec/controllers/myblue/projects_controller_spec.rb"
-					],
-					[
-						"spec/lib/notification_formatter_spec.rb",
-						"spec/lib/notification_formatter_spec.rb"
-					],
-					[
-						"project_memberships_contro",
-						"spec/controllers/myblue/project_memberships_controller_spec.rb"
-					],
-					[
-						"project_topics_controller_spec.rb",
-						"spec/controllers/myblue/project_topics_controller_spec.rb"
-					],
-					[
-						"spec/controllers/myblue/project_comments_controller_spec.rb",
-						"spec/controllers/myblue/project_comments_controller_spec.rb"
 					]
 				],
 				"width": 0.0
@@ -1943,14 +1943,14 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 295.0,
+			"side_bar_width": 293.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 2
 			}
 		},
-		"new_window_width": 1419.0
+		"new_window_width": 1217.0
 	},
 	"windows":
 	[
@@ -1959,6 +1959,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"cha",
+						"changeSearchColor"
+					],
 					[
 						"basic_",
 						"basic_auth_password"
@@ -2466,20 +2470,16 @@
 					[
 						"stagi",
 						"staging_date"
-					],
-					[
-						"request_rec",
-						"request_received"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Users/ahmet/Projects/saidso.co.uk/db/schema.rb",
+					"file": "/Users/ahmet/.config/fish/config.fish",
 					"settings":
 					{
-						"buffer_size": 22034,
+						"buffer_size": 15130,
 						"line_ending": "Unix"
 					}
 				}
@@ -2877,140 +2877,136 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/Users/ahmet/Projects/saidso.co.uk"
-			],
 			"file_history":
 			[
-				"/Users/ahmet/Projects/Multiven/config/deploy.rb",
-				"/Users/ahmet/Projects/Multiven/app/models/product.rb",
-				"/Users/ahmet/Projects/Multiven/app/assets/stylesheets/core.css.scss",
-				"/Users/ahmet/Projects/Multiven/app/views/base/index.html.erb",
-				"/Users/ahmet/Projects/Multiven/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/preflight/lib/checks/css_check.rb",
-				"/Users/ahmet/Projects/Multiven/config/routes.rb",
-				"/Users/ahmet/Projects/Multiven/README.rdoc",
-				"/Users/ahmet/Projects/Multiven/config/database.yml",
-				"/Users/ahmet/Projects/Multiven/Gemfile",
-				"/Users/ahmet/Projects/Multiven/config/database.yml.example",
-				"/Users/ahmet/Projects/ct-group.com/app/views/base/index.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/posts/_related_posts.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/config/locales/en.yml",
-				"/Users/ahmet/Projects/ct-group.com/config/routes.rb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/posts/show.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/services/show.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/markets/show.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/models/service.rb",
-				"/Users/ahmet/Projects/ct-group.com/app/controllers/services_controller.rb",
-				"/Users/ahmet/Projects/ct-group.com/app/controllers/markets_controller.rb",
-				"/Users/ahmet/Projects/ct-group.com/Procfile",
-				"/Users/ahmet/Projects/ct-group.com/app/models/market.rb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/admin/markets/show.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/admin/services/show.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/models/user.rb",
-				"/Users/ahmet/Projects/preflight/app/jobs/crawler_job.rb",
-				"/Users/ahmet/Projects/preflight/lib/check_runner.rb",
-				"/Users/ahmet/Projects/preflight/lib/pubsub.rb",
-				"/Users/ahmet/Projects/preflight/app/jobs/check_job.rb",
-				"/Users/ahmet/MyProjects/dotfiles-1/vim/vimrc",
-				"/Users/ahmet/dotdotdot/.bash_prompt",
-				"/Users/ahmet/MyProjects/dotfiles-1/setup.sh",
+				"/Users/ahmet/.config/fish/config.fish",
 				"/Users/ahmet/.bash_profile",
-				"/Users/ahmet/.bash_prompt",
-				"/Users/ahmet/Projects/preflight/script/commands",
-				"/Users/ahmet/Projects/preflight/script/test",
-				"/Users/ahmet/Projects/preflight/script/setup",
-				"/Users/ahmet/Projects/preflight/script/bootstrap",
-				"/Users/ahmet/Projects/preflight/script/update",
-				"/Users/ahmet/Projects/preflight/script/server",
-				"/Users/ahmet/Projects/preflight/script/console",
-				"/Users/ahmet/Projects/preflight/script/cibuild",
-				"/Users/ahmet/Projects/preflight-pubsub/app.rb",
-				"/Users/ahmet/Projects/preflight-pubsub/middlewares/chat_backend.rb",
-				"/Users/ahmet/Projects/preflight-pubsub/Gemfile",
-				"/Users/ahmet/Projects/preflight-pubsub/config.ru",
-				"/Users/ahmet/Projects/preflight-pubsub/views/application.js.erb",
-				"/Users/ahmet/Projects/preflight-pubsub/views/index.html.erb",
-				"/Users/ahmet/Projects/preflight-pubsub/.env",
-				"/Users/ahmet/Projects/preflight-pubsub/.env.sample",
-				"/Users/ahmet/MyProjects/harmony/_config.yml",
-				"/Users/ahmet/MyProjects/harmony/_layouts/default.html",
-				"/Users/ahmet/MyProjects/harmony/assets/css/main.scss",
-				"/Users/ahmet/MyProjects/harmony/_site/assets/css/main.css",
-				"/Users/ahmet/MyProjects/harmony/_config-dev.yml",
-				"/Users/ahmet/MyProjects/harmony/README.md",
-				"/Users/ahmet/Projects/whitelegg.com/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/kgs.org.uk/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/kgs.org.uk/app/views/partials/_primary_nav.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/shared/_header_nav.html.erb",
-				"/Users/ahmet/MyProjects/vida/db/migrate/20150707120445_video.rb",
-				"/Users/ahmet/MyProjects/vida/db/migrate/20150707120523_create_video.rb",
-				"/Users/ahmet/Projects/betwire/betwire.com/.gitignore",
-				"/Users/ahmet/MyProjects/vida/app/views/devise/shared/_links.html.erb",
-				"/Users/ahmet/MyProjects/vida/app/views/devise/sessions/new.html.erb",
-				"/Users/ahmet/MyProjects/vida/.gitignore",
-				"/Users/ahmet/Projects/preflight/spec/lib/checks/valid_link_check_spec.rb",
-				"/Users/ahmet/Projects/preflight/lib/http_client.rb",
-				"/Users/ahmet/Projects/preflight/spec/support/factories.rb",
-				"/Users/ahmet/Projects/preflight/lib/validators/domain_exists_validator.rb",
-				"/Users/ahmet/Projects/preflight/spec/lib/validators/domain_exists_validator_spec.rb",
-				"/Users/ahmet/Projects/preflight/spec/lib/checks/loading_time_check_spec.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/valid_link_check.rb",
-				"/Users/ahmet/Projects/preflight/app/models/check_run.rb",
-				"/Users/ahmet/Projects/preflight/spec/models/crawled_page_spec.rb",
-				"/Users/ahmet/Projects/preflight/spec/models/check_run_spec.rb",
-				"/Users/ahmet/Projects/preflight/spec/models/check_result_spec.rb",
-				"/Users/ahmet/Projects/preflight/spec/jobs/check_job_spec.rb",
-				"/Users/ahmet/Projects/preflight/lib/mixins/http.rb",
-				"/Users/ahmet/Projects/preflight/db/schema.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/views/registration/_protection_plan_fields.html.erb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/controllers/protection_plan_controller.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/views/registration/existing_protection_plans.html.erb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/javascripts/application/registration.js",
-				"/Users/ahmet/Projects/saidso.co.uk/db/schema.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/db/migrate/20150706094840_add_default_to_has_policy_documents.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/config/routes.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/admin/report_form.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/stylesheets/application/core.scss",
-				"/Users/ahmet/Projects/saidso.co.uk/app/models/report_form.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/stylesheets/application.css",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/javascripts/application/plugins/enquire.min.js",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/javascripts/application/plugins/slick.min.js",
-				"/Users/ahmet/Projects/saidso.co.uk/app/assets/javascripts/application/core.js.erb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/views/registration/all_about_you.html.erb",
-				"/Users/ahmet/Projects/saidso.co.uk/db/migrate/20150703154116_add_policy_document_to_protection_plan.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/controllers/report_form_controller.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/controllers/protection_plan_document_controller.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/views/registration/_protection_plan_document_fields.html.erb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/models/protection_plan.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/app/models/protection_plan_document.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/.env",
-				"/Users/ahmet/Projects/saidso.co.uk/.env.example",
-				"/Users/ahmet/Projects/saidso.co.uk/config/initializers/carrierwave.rb",
-				"/Users/ahmet/Projects/saidso.co.uk/config/database.yml",
-				"/Users/ahmet/Projects/saidso.co.uk/config/database.yml.example",
-				"/Users/ahmet/Projects/preflight/config/locales/en.yml",
-				"/Users/ahmet/Projects/preflight/app/assets/javascripts/check_event.js.erb",
-				"/Users/ahmet/Projects/preflight/app/views/check_runs/show.html.erb",
-				"/Users/ahmet/Projects/preflight/lib/checks/stylesheet_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/placeholder_content_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/meta_data_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/link_active_focus_style_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/google_analytics_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/four_oh_four_check.rb",
-				"/Users/ahmet/Projects/preflight/lib/checks/doctype_declaration_check.rb",
-				"/Users/ahmet/Projects/preflight/app/assets/stylesheets/application/base.css",
-				"/Users/ahmet/Projects/preflight/app/helpers/application_helper.rb",
-				"/Users/ahmet/Projects/preflight/app/assets/stylesheets/bootstrap_and_overrides.css",
-				"/Users/ahmet/Projects/preflight/app/assets/stylesheets/application.css",
-				"/Users/ahmet/Projects/preflight/app/views/layouts/application.html.erb",
-				"/Users/ahmet/Projects/preflight/.env",
-				"/Users/ahmet/Projects/preflight/sample_env",
-				"/Users/ahmet/Projects/preflight/README.md",
-				"/Users/ahmet/Projects/preflight/config/database.yml",
-				"/Users/ahmet/Projects/preflight/config/database.yml.example"
+				"/Users/ahmet/.bashrc",
+				"/Users/ahmet/MyProjects/coreclr/HelloWorld.cs",
+				"/Users/ahmet/MyProjects/coreclr/project.json",
+				"/Users/ahmet/.shuttle.json",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/redactor_custom.scss",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/style.scss",
+				"/Users/ahmet/Projects/entertaina.com/Gemfile",
+				"/Users/ahmet/Projects/entertaina.com/app/mailers/devise_custom_mailer.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/mailers/application_mailer.rb",
+				"/Users/ahmet/Projects/ios/transfermarkt_scraper/lib/transfermarkt.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/edit_media.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/base/index.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_card.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/acts.scss",
+				"/Users/ahmet/Projects/entertaina.com/app/views/partials/_act_card.html.erb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tasks/tmdb.rake",
+				"/Users/ahmet/MyProjects/metacortex/app/views/pages/index.erb",
+				"/Users/ahmet/MyProjects/metacortex/app/models/concerns/adapter.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/application.js",
+				"/Users/ahmet/MyProjects/metacortex/app/models/concerns/two_adapter.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/helpers/application_helper.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/views/movies/show.html.erb",
+				"/Users/ahmet/MyProjects/metacortex/.idea/.rakeTasks",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/config/initializers/dragonfly.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/Gemfile",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/app/views/refinery/_footer.html.erb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/courses/app/views/refinery/courses/courses/show.html.erb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/db/schema.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/views/refinery/cpd_annual_programmes/admin/cpd_annual_programmes/_form.html.erb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/app/decorators/models/refinery/image_decorator.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/models/refinery/cpd_annual_programmes/cpd_annual_programme.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/courses/app/models/refinery/courses/course.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/views/refinery/cpd_annual_programmes/admin/cpd_annual_programmes/_records.html.erb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/views/refinery/cpd_annual_programmes/admin/cpd_annual_programmes/edit.html.erb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/controllers/refinery/cpd_annual_programmes/admin/cpd_annual_programmes_controller.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/controllers/refinery/cpd_annual_programmes/cpd_annual_programmes_controller.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/app/models/grid.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/db/migrate/20150915104031_add_refinery_coursee_id_to_refinery_cpd_annual_programmes.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/sponsors/app/models/refinery/sponsors/sponsor.rb",
+				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/jobs/app/models/refinery/jobs/job.rb",
+				"/Users/ahmet/MyProjects/metacortex/Capfile",
+				"/Users/ahmet/MyProjects/metacortex/config/deploy/production.rb",
+				"/Users/ahmet/MyProjects/metacortex/config/environments/production.rb",
+				"/Users/ahmet/MyProjects/metacortex/config/deploy/templates/puma.rb.erb",
+				"/Users/ahmet/MyProjects/metacortex/config/deploy/templates/nginx_conf.erb",
+				"/Users/ahmet/MyProjects/metacortex/config/secrets.yml",
+				"/Users/ahmet/MyProjects/metacortex/config/deploy.rb",
+				"/Users/ahmet/MyProjects/metacortex/.gitignore",
+				"/Users/ahmet/MyProjects/metacortex/Gemfile",
+				"/Users/ahmet/MyProjects/metacortex/app/models/adapter.rb",
+				"/Users/ahmet/Projects/SoulPad/config/application.rb",
+				"/Users/ahmet/Projects/SoulPad/.env",
+				"/Users/ahmet/Projects/SoulPad/config/deploy.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/typeahead-0.11.1.js",
+				"/Users/ahmet/MyProjects/metacortex/app/controllers/search_controller.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/bootstrap.min.js",
+				"/Users/ahmet/MyProjects/metacortex/app/views/layouts/application.html.erb",
+				"/Users/ahmet/MyProjects/metacortex/app/views/layouts/_header.html.erb",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/stylesheets/jquery-ui.css",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/stylesheets/application.css",
+				"/Users/ahmet/MyProjects/metacortex/app/models/movie.rb",
+				"/Users/ahmet/MyProjects/metacortex/config/routes.rb",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/ahmet/MyProjects/metacortex/db/migrate/20150911081027_add_status_to_movies.rb",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/stylesheets/bootstrap.min.css",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/models/movie.rb",
+				"/Users/ahmet/MyProjects/metacortex/.env",
+				"/Users/ahmet/Projects/entertaina.com/.ruby-version",
+				"/Users/ahmet/Projects/SoulPad/.rubocop.yml",
+				"/Users/ahmet/MyProjects/metacortex/db/migrate/20150910073324_create_movies.rb",
+				"/Users/ahmet/MyProjects/metacortex/db/schema.rb",
+				"/Users/ahmet/MyProjects/metacortex/config/database.yml.example",
+				"/Users/ahmet/MyProjects/metacortex/config/database.yml",
+				"/Users/ahmet/MyProjects/metacortex/app/controllers/pages_controller.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/requester.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/models/search.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/configuration/api.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/representers/multi_representer.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/representers/movie_representer.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/version.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/models/api_resource.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/exceptions.rb",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb.rb",
+				"/Users/ahmet/MyProjects/metacortex/config/initializers/tmdb.rb",
+				"/Users/ahmet/MyProjects/metacortex/Procfile",
+				"/Users/ahmet/MyProjects/metacortex/README.rdoc",
+				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/tmdb.gemspec",
+				"/Users/ahmet/MyProjects/metacortex/.env.sample",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/jquery-1.11.3.min.js",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/jquery-ui.js",
+				"/Users/ahmet/Downloads/jquery-ui-1.11.4/jquery-ui.js",
+				"/Users/ahmet/Downloads/jquery-ui-1.11.4/jquery-ui.css",
+				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/jquery-animate-colors.min.js",
+				"/Users/ahmet/Downloads/jquery-1.11.3.min.js",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application.css",
+				"/Users/ahmet/Projects/entertaina.com/app/models/music_asset.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/javascripts/application/media_assets.js",
+				"/Users/ahmet/Projects/entertaina.com/app/views/music_assets/_item.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/models/video.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_photos.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/models/act.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/show.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/owl.theme.scss",
+				"/Users/ahmet/Projects/entertaina.com/app/controllers/acts_controller.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_videos.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_latest_videos.html.erb",
+				"/Users/ahmet/Projects/ct-group.com/Gemfile",
+				"/Users/ahmet/Projects/ct-group.com/app/controllers/application_controller.rb",
+				"/Users/ahmet/Projects/ct-group.com/app/views/devise/passwords/edit.html.erb",
+				"/Users/ahmet/Projects/ct-group.com/app/views/devise/mailer/reset_password_instructions.html.erb",
+				"/Users/ahmet/Projects/ct-group.com/app/views/devise/passwords/new.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_playlist.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/uploaders/media_uploader.rb",
+				"/Users/ahmet/Projects/entertaina.com/config/routes.rb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/partials/_footer.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/db/locations.yml",
+				"/Users/ahmet/Projects/entertaina.com/app/views/subscriptions/_show_repeated.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_latest_photos.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/views/shared/_calendar.html.erb",
+				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/accordian.scss",
+				"/Users/ahmet/Projects/SoulPad/config/initializers/flickr.rb",
+				"/Users/ahmet/Projects/SoulPad/extensions/sales_prices_engine/app/views/admin.rails2/variants/_form.html.erb",
+				"/Users/ahmet/Projects/SoulPad/config/database.yml",
+				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/lib/motion-game/ios/app_delegate.rb",
+				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/lib/motion-game.rb"
 			],
 			"find":
 			{
@@ -3031,134 +3027,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"id_document",
-					"slide_3",
-					"APP_PATH",
+					"__bobthefish_finish_segments",
+					"__bobthefish_dk_orange",
+					"__bobthefish_finish_segments",
+					"__bobthefish_ruby_red",
+					"__bobthefish_finish_segments",
+					"set_color",
+					"__bobthefish_current_bg",
+					"__bobthefish_finish_segments",
+					"set_color",
+					"__bobthefish_dk_orange",
+					"flag_fg",
+					"__bobthefish_finish_segments",
+					"__bobthefish_start_segment",
+					"__bobthefish_dk_orange",
+					"__bobthefish_finish_segments",
+					"flag_fg",
+					"__bobthefish_finish_segments",
+					"__bobthefish_dk_orange",
+					"__bobthefish_prompt_git",
+					"__bobthefish_finish_segments",
+					"__bobthefish_prompt_git",
+					"__bobthefish_finish_segments",
+					"__bobthefish_prompt_dir",
+					"__bobthefish_finish_segments",
+					"green",
+					"normal",
+					"set_color",
+					"__bobthefish_prompt_hg",
+					"__bobthefish_finish_segments",
+					"body",
+					"=''",
+					".redactor-box",
+					"sub h2",
+					".act_profile_card .popular_enter_txt .sub h2",
+					"Our sponsors",
+					"name",
+					"cpd_annual",
+					"bin",
+					"139.162.215.66",
+					"assets",
+					"public",
+					"config",
+					"TMDB_API_KEY",
+					"env['locale']",
+					"AUS",
+					"cache_store",
+					"//",
+					"rendered += suggestions.length;",
+					"blood",
+					"ProfileCard-stats",
+					"ProfileCard-screenName",
+					"suggest",
+					"tt-menu",
+					"perform_caching",
+					"config.action_controller.perform_caching = true",
+					"new_movie",
+					".masthead",
+					"rock_band",
+					"sear_cont_wrap_Sec2",
+					"location_id",
+					"Typeahead-hint",
+					"Typeahead-input",
+					"act_profile_card",
 					"betwire_tag_manager",
-					"posts",
-					"unicorn.rb",
-					"@check_run.url",
-					"@check_run.id",
-					"create_page!",
-					"javascript.content",
-					"doc.encoding",
-					"@document",
-					"skip_link",
-					"perform_later",
-					"perofor",
-					"create_checks",
-					"crawled_pages",
-					"PubSub.trigger",
-					"ChatBackend",
-					"HEAD",
-					"pusher",
-					"878",
-					"canvas",
-					"/harmony",
-					"active_link",
-					"active",
-					"and_return('')",
-					"def http_connection",
-					"record",
-					"CheckRun",
+					":",
+					"statistic",
+					"poster_path",
+					"release_date",
+					"overview",
+					"release_date",
+					"paypal",
+					"url_for",
+					"params",
 					"url",
-					"check_run",
-					"validate",
-					"CheckRun.create!(",
-					"check_run",
-					"http_connection",
-					"Remove protection plan",
-					".show();",
-					"    if ($(this).val() == 'true') {\n      $(this).closest('.nested_fields').find('.policy_form').attr('style','display:none !important');\n      $(this).closest('.nested_fields').find('.policy_document').attr('style','display:block !important');\n    } else if ($(this).val() == 'false') {\n      $(this).closest('.nested_fields').find('.policy_document').attr('style','display:none !important');\n      $(this).closest('.nested_fields').find('.policy_form').attr('style','display:block !important');\n    }",
-					"protection_plan_document",
-					"protection_plan_documents",
-					"protection_plan_document",
-					"closest",
-					"show-if-this",
-					"has_policy_documents",
-					"show-if-this",
-					"data-show-if-this",
-					"advice_on_protection_needs_radio",
-					"id_document",
-					"has_policy_documents",
-					"documents\"",
-					"options_for_has_policy_documents",
-					"default_url_options",
-					"Upload your ident",
-					"'description'",
-					"stylesheets",
-					"placeholder_content",
-					"meta_data",
-					"loading_time",
-					"link_active_focus_style",
-					"google_analytics",
-					"four_oh_four",
-					"doctype_declaration",
-					"toggleWarnings",
-					"toggleInfo",
-					"id-toggle",
-					"toggleWarnings",
-					"id-toggle",
-					"fontawes",
-					"Sign in",
-					"sign_in",
-					"devise",
-					"made_a_will",
-					"made_a_will =",
-					"capital_gains_tax_allowance_how_much",
-					"used_capital_gains_tax_allowance",
-					"capital_gains_tax_allowance_how_much",
-					"used_capital_gains_tax_allowance",
-					"capital_gains_tax_allowance_how_much",
-					"How much?",
-					"capital_gains_tax_allowance_how_much",
-					"used_capital_gains_tax_allowance_radio",
-					"options_for_used_annual_gift_allowance",
-					"used_capital_gains_tax_allowance",
-					"Have you used your ISA",
-					"basic_auth",
-					"initialize_count",
-					"send_message",
-					"def send_mess",
-					".perform",
-					"CrawlerJob",
-					"http_connection",
-					"recreate",
-					"redirect_to_locale_and_territory",
-					".any?",
-					".map",
-					".exist",
-					".exists",
-					"true",
-					"[ [ true,",
-					"[[true",
-					"options_for",
-					"metadata",
-					"latest.dump",
-					"'",
-					"I18n.t",
-					".hello",
-					"check_runner",
-					"CheckRunner",
-					"CrawledPage",
-					"include Crawler",
-					"generate_crawled_pages",
-					"crawler",
-					"flash",
-					"flash[",
-					"betwire_tag_manager",
-					"auto_load",
-					"autoload",
-					"CheckJob.perform",
-					"Pusher.logger",
-					"def delay",
-					"html",
-					".errors",
-					"has_errors",
-					"permission_denied",
-					"        expect(current_path).to eq('/base/permission_denied')\n        expect(page).to have_content('Permission denied')",
-					"')\n",
-					"        expect(current_path).to eq('/base/permission_denied')\n        expect(page).to have_content('Permission denied')"
+					"request_headers",
+					"Igdb",
+					"TODO",
+					".css(",
+					"#current",
+					"0:00",
+					"pretty_duration",
+					"0:00",
+					".thumb_slider .owl-next",
+					".owl-theme .owl-controls .owl-buttons div",
+					".owl-buttons",
+					".owl-next",
+					"photos",
+					"Videos",
+					"visit_profile",
+					"locale",
+					"password",
+					"#audio_",
+					"Playlist",
+					"about_path",
+					"about",
+					"#section2",
+					"#section2\\",
+					"t",
+					"term",
+					"North West East of England",
+					"locations",
+					"North West East of England",
+					"SIGN UP",
+					"UPDATE",
+					"pointer;",
+					".latest_photo",
+					"latest photos",
+					".cancel_btn",
+					"#choose_all",
+					"CANCEL MEMBERSHIP",
+					"CHOOSE ALL",
+					"Spree.config",
+					"Spree::Config",
+					"pree::Config",
+					"track_inventory_levels",
+					"Spree::Config[:track_inventory_levels] ",
+					"input.send",
+					".how_does_wrap .search_buttons .owl-carousel .item",
+					"env",
+					"style=",
+					"benchmark",
+					"mygemserver",
+					"insights",
+					"mixin",
+					"Mxin",
+					"GameScreenshotRepresenter",
+					"queue_adapter",
+					"<%="
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3186,12 +3182,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "/Users/ahmet/Projects/saidso.co.uk"
-				}
-			],
 			"groups":
 			[
 				{
@@ -3200,19 +3190,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/ahmet/Projects/saidso.co.uk/db/schema.rb",
+							"file": "/Users/ahmet/.config/fish/config.fish",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 22034,
+								"buffer_size": 15130,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										20778,
-										20778
+										65,
+										65
 									]
 								],
 								"settings":
@@ -3221,46 +3211,36 @@
 									"apply_syntax_touched": true,
 									"bh_regions":
 									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -3271,16 +3251,28 @@
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
-										"bh_regex_content"
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
-									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 4767.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -3333,7 +3325,7 @@
 				"height": 86.0
 			},
 			"pinned_build_system": "",
-			"position": "0 570 64 1419 1253 0 0 2560 1418 ",
+			"position": "0 774 189 1217 1015 0 0 2560 1418 ",
 			"project": "",
 			"replace":
 			{
@@ -3347,28 +3339,380 @@
 				"selected_items":
 				[
 					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"deploy.rb",
-						"config/deploy.rb"
-					],
-					[
-						"application.html.erb",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"css_check",
-						"lib/checks/css_check.rb"
+						"style.scss",
+						"app/assets/stylesheets/application/style.scss"
 					],
 					[
 						"gemfile",
 						"Gemfile"
 					],
 					[
+						"style.",
+						"app/assets/stylesheets/application/style.scss"
+					],
+					[
+						"edit_med",
+						"app/views/acts/edit_media.html.erb"
+					],
+					[
+						"edit_media",
+						"app/views/acts/edit_media.html.erb"
+					],
+					[
+						"acts/card",
+						"app/views/acts/_card.html.erb"
+					],
+					[
+						"act_card",
+						"app/views/partials/_act_card.html.erb"
+					],
+					[
+						"base/index",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"acts.scss",
+						"app/assets/stylesheets/acts.scss"
+					],
+					[
+						"two_ada",
+						"app/models/concerns/two_adapter.rb"
+					],
+					[
+						"application_helper",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						".rake",
+						"lib/tasks/tmdb.rake"
+					],
+					[
+						"dragonfly.rb",
+						"config/initializers/dragonfly.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"course.rb",
+						"vendor/extensions/courses/app/models/refinery/courses/course.rb"
+					],
+					[
+						"courses/show.html.erb",
+						"vendor/extensions/courses/app/views/refinery/courses/courses/show.html.erb"
+					],
+					[
+						"grid.rb",
+						"app/models/grid.rb"
+					],
+					[
+						"capfile",
+						"Capfile"
+					],
+					[
+						"deploy.rb",
+						"config/deploy.rb"
+					],
+					[
+						"gitig",
+						".gitignore"
+					],
+					[
+						"nginx",
+						"config/deploy/templates/nginx_conf.erb"
+					],
+					[
+						"gitignore",
+						".gitignore"
+					],
+					[
+						"config/secret",
+						"config/secrets.yml"
+					],
+					[
+						"nginx_",
+						"config/deploy/templates/nginx_conf.erb"
+					],
+					[
+						"deploy/produ",
+						"config/deploy/production.rb"
+					],
+					[
+						"config/deploy.rb",
+						"config/deploy.rb"
+					],
+					[
+						"adapter.rb",
+						"app/models/adapter.rb"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"application.js",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"movie.rb",
+						"app/models/movie.rb"
+					],
+					[
+						"search_cont",
+						"app/controllers/search_controller.rb"
+					],
+					[
 						"routes",
 						"config/routes.rb"
+					],
+					[
+						"application_helper.rb",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"database.yml",
+						"config/database.yml"
+					],
+					[
+						"application.css",
+						"app/assets/stylesheets/application.css"
+					],
+					[
+						"pages/index",
+						"app/views/pages/index.erb"
+					],
+					[
+						"requester.rb",
+						"lib/tmdb/lib/tmdb/requester.rb"
+					],
+					[
+						"api.rb",
+						"lib/tmdb/lib/tmdb/configuration/api.rb"
+					],
+					[
+						"readme",
+						"README.rdoc"
+					],
+					[
+						"procfile",
+						"Procfile"
+					],
+					[
+						"music_asset.rb",
+						"app/models/music_asset.rb"
+					],
+					[
+						"act.rb",
+						"app/models/act.rb"
+					],
+					[
+						"act_controller",
+						"app/controllers/acts_controller.rb"
+					],
+					[
+						"style.sc",
+						"app/assets/stylesheets/application/style.scss"
+					],
+					[
+						"application_controller",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"music_asset/item",
+						"app/views/music_assets/_item.html.erb"
+					],
+					[
+						"register.html",
+						"app/views/members/registrations/new.html.erb"
+					],
+					[
+						"spree.rb",
+						"config/initializers/spree.rb"
+					],
+					[
+						"database",
+						"config/database.yml"
+					],
+					[
+						"project",
+						"lib/motion-game/project.rb"
+					],
+					[
+						"spri",
+						"doc/MG/Sprite.html"
+					],
+					[
+						".env.s",
+						".env.sample"
+					],
+					[
+						"gitign",
+						".gitignore"
+					],
+					[
+						"calendar_event.rb",
+						"app/models/calendar_event.rb"
+					],
+					[
+						"about.html.er",
+						"app/views/about/index.html.erb"
+					],
+					[
+						"production.rb",
+						"config/environments/production.rb"
+					],
+					[
+						"gemspec",
+						"metacortex.gemspec"
+					],
+					[
+						"http.rb",
+						"lib/mixins/http.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"api_reso",
+						"lib/igdb/models/api_resource.rb"
+					],
+					[
+						"gemfle",
+						"Gemfile"
+					],
+					[
+						"crawler",
+						"app/jobs/crawler_job.rb"
+					],
+					[
+						"resque.rb",
+						"config/initializers/resque.rb"
+					],
+					[
+						"base.css",
+						"app/assets/stylesheets/application/base.css.erb"
+					],
+					[
+						"routes.rb",
+						"config/routes.rb"
+					],
+					[
+						"check_runs/",
+						"app/views/check_runs/show.html.erb"
+					],
+					[
+						"check_runs/new.html",
+						"app/views/check_runs/new.html.erb"
+					],
+					[
+						"en-us.yml",
+						"config/locales/en-US.yml"
+					],
+					[
+						"en-au",
+						"config/locales/en-AU.yml"
+					],
+					[
+						"us.yml",
+						"config/locales/en-US.yml"
+					],
+					[
+						"shared/order_details",
+						"app/views/shared/_order_details.html.erb"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						".env.sample",
+						".env.sample"
+					],
+					[
+						"usa.rb",
+						"config/deploy/usa.rb"
+					],
+					[
+						"header",
+						"app/views/posts/_heading.html.erb"
+					],
+					[
+						"apidocs.html",
+						"app/views/home/apidocs.html.erb"
+					],
+					[
+						"player.rb",
+						"app/sprites/player.rb"
+					],
+					[
+						"pipe.rb",
+						"app/sprites/pipe.rb"
+					],
+					[
+						"physi",
+						"app/nodes/physical_ground.rb"
+					],
+					[
+						"game.rb",
+						"lib/igdb/models/game.rb"
+					],
+					[
+						"rakefile",
+						"Rakefile"
+					],
+					[
+						"shared/grid",
+						"app/views/shared/_grid.html.erb"
+					],
+					[
+						"school_life.html.erb",
+						"app/views/school_life/_school_life.html.erb"
+					],
+					[
+						"school_life/index",
+						"app/views/school_life/index.html.erb"
+					],
+					[
+						"core.css",
+						"app/assets/stylesheets/core.css.scss"
+					],
+					[
+						"20110531",
+						"app/views/advocacy/news_20110531.html.erb"
+					],
+					[
+						"20150605",
+						"app/views/advocacy/news_20150605.html.erb"
+					],
+					[
+						"2015006",
+						"app/views/advocacy/news_20150605.html.erb"
+					],
+					[
+						"google_anal",
+						"spec/lib/checks/google_analytics_check_spec.rb"
+					],
+					[
+						"google_analy",
+						"lib/checks/google_analytics_check.rb"
+					],
+					[
+						"css_check_spec",
+						"spec/lib/checks/css_check_spec.rb"
+					],
+					[
+						"css_check",
+						"lib/checks/css_check.rb"
+					],
+					[
+						"config/unicorn",
+						"config/unicorn.rb"
+					],
+					[
+						"application.html.erb",
+						"app/views/layouts/application.html.erb"
 					],
 					[
 						"en.yml",
@@ -3379,16 +3723,8 @@
 						"app/views/posts/_related_posts.html.erb"
 					],
 					[
-						"base/index",
-						"app/views/base/index.html.erb"
-					],
-					[
 						"post/show.html",
 						"app/views/posts/show.html.erb"
-					],
-					[
-						"procfile",
-						"Procfile"
 					],
 					[
 						"service.rb",
@@ -3425,10 +3761,6 @@
 					[
 						"pubsub.rb",
 						"lib/pubsub.rb"
-					],
-					[
-						"crawler",
-						"app/jobs/crawler_job.rb"
 					],
 					[
 						"setup.sh",
@@ -3469,14 +3801,6 @@
 					[
 						"video.rb",
 						"db/migrate/20150707120445_video.rb"
-					],
-					[
-						"gitign",
-						"betwire.com/.gitignore"
-					],
-					[
-						"gitignore",
-						".gitignore"
 					],
 					[
 						"shared/",
@@ -3525,338 +3849,6 @@
 					[
 						"loading_time",
 						"spec/lib/checks/loading_time_check_spec.rb"
-					],
-					[
-						"domain_exists_va",
-						"spec/lib/validators/domain_exists_validator_spec.rb"
-					],
-					[
-						"fact",
-						"spec/support/factories.rb"
-					],
-					[
-						"crawler_job",
-						"app/jobs/crawler_job.rb"
-					],
-					[
-						"protection_plan_con",
-						"app/controllers/protection_plan_controller.rb"
-					],
-					[
-						"has_policy_do",
-						"db/migrate/20150706094840_add_default_to_has_policy_documents.rb"
-					],
-					[
-						"report_form.rb",
-						"app/admin/report_form.rb"
-					],
-					[
-						"application.css",
-						"app/assets/stylesheets/application.css"
-					],
-					[
-						"protection_plan_cont",
-						"app/controllers/protection_plan_controller.rb"
-					],
-					[
-						"all_about_you.ht",
-						"app/views/registration/all_about_you.html.erb"
-					],
-					[
-						"protection_plan_fields.html",
-						"app/views/registration/_protection_plan_fields.html.erb"
-					],
-					[
-						"protection_plan.rb",
-						"app/models/protection_plan.rb"
-					],
-					[
-						"protection_plan_document.rb",
-						"app/models/protection_plan_document.rb"
-					],
-					[
-						"add_policy_document",
-						"db/migrate/20150703154116_add_policy_document_to_protection_plan.rb"
-					],
-					[
-						"protection_plan_document_fields",
-						"app/views/registration/_protection_plan_document_fields.html.erb"
-					],
-					[
-						"extis",
-						"app/views/registration/existing_protection_plans.html.erb"
-					],
-					[
-						".env",
-						".env.example"
-					],
-					[
-						"carrierwave",
-						"config/initializers/carrierwave.rb"
-					],
-					[
-						"database",
-						"config/database.yml.example"
-					],
-					[
-						".js.erb",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						".scs",
-						"app/assets/stylesheets/application/base.css"
-					],
-					[
-						"application.html",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"check_run/show",
-						"app/views/check_runs/show.html.erb"
-					],
-					[
-						"check_event",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						".yml",
-						"config/locales/en.yml"
-					],
-					[
-						"will_",
-						"db/migrate/20150702143518_add_made_a_will_to_report_forms.rb"
-					],
-					[
-						"report_form",
-						"app/admin/report_form.rb"
-					],
-					[
-						"add_made",
-						"db/migrate/20150702143518_add_made_a_will_to_report_forms.rb"
-					],
-					[
-						"made_a",
-						"db/migrate/20150702143518_add_made_a_will_to_report_forms.rb"
-					],
-					[
-						"carrierwa",
-						"config/initializers/carrierwave.rb"
-					],
-					[
-						"w3",
-						"lib/checks/w3c_check.rb"
-					],
-					[
-						"check_event.js",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						"crawler.",
-						"app/jobs/crawler_job.rb"
-					],
-					[
-						"http.rb",
-						"lib/mixins/http.rb"
-					],
-					[
-						"check_run/new",
-						"app/views/check_runs/new.html.erb"
-					],
-					[
-						"environemnt.rb",
-						"config/environment.rb"
-					],
-					[
-						"puma.rb",
-						"config/puma.rb"
-					],
-					[
-						"image_upload",
-						"app/uploaders/image_uploader.rb"
-					],
-					[
-						"docker",
-						"Dockerfile"
-					],
-					[
-						"application_controller.rb",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"application.rb",
-						"config/application.rb"
-					],
-					[
-						"seeds",
-						"db/seeds/development/users.seeds.rb"
-					],
-					[
-						"plan.html.erb",
-						"app/views/registration/existing_protection_plans.html.erb"
-					],
-					[
-						"alla_bout_",
-						"app/views/registration/all_about_you.html.erb"
-					],
-					[
-						"gemspec",
-						"igdb.gemspec"
-					],
-					[
-						"readme",
-						"README.md"
-					],
-					[
-						"deprecation_check.rb",
-						"lib/checks/deprecation_check.rb"
-					],
-					[
-						"deprecation_check",
-						"spec/lib/checks/deprecation_check_spec.rb"
-					],
-					[
-						"check_job.rb",
-						"app/jobs/check_job.rb"
-					],
-					[
-						"event",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						"proc",
-						"Procfile"
-					],
-					[
-						"home.html",
-						"app/views/pages/home.html.erb"
-					],
-					[
-						"gemfil",
-						"Gemfile"
-					],
-					[
-						"crawler_spec",
-						"spec/controllers/concerns/crawler_spec.rb"
-					],
-					[
-						"w3c",
-						"lib/checks/w3c_check.rb"
-					],
-					[
-						"gemf",
-						"Gemfile"
-					],
-					[
-						"gemfile.lock",
-						"Gemfile.lock"
-					],
-					[
-						"checks/show.html",
-						"app/views/check_runs/show.html.erb"
-					],
-					[
-						"job",
-						"app/jobs/check_job.rb"
-					],
-					[
-						".js.er",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						"sitemap_chec",
-						"spec/lib/checks/sitemap_check_spec.rb"
-					],
-					[
-						"sitemap_ch",
-						"lib/checks/sitemap_check.rb"
-					],
-					[
-						"sitemap.",
-						"spec/lib/checks/sitemap_check_spec.rb"
-					],
-					[
-						"check_event.",
-						"app/assets/javascripts/check_event.js.erb"
-					],
-					[
-						"pages/home",
-						"app/views/pages/home.html.erb"
-					],
-					[
-						"rails_helper",
-						"spec/rails_helper.rb"
-					],
-					[
-						"pages_controller_",
-						"test/controllers/pages_controller_test.rb"
-					],
-					[
-						"pages_controller",
-						"app/controllers/pages_controller.rb"
-					],
-					[
-						"calendar_controller",
-						"app/controllers/orgadmin/calendar_controller.rb"
-					],
-					[
-						"permission_objec",
-						"spec/acceptance/permissions/permissions_objectives_spec.rb"
-					],
-					[
-						"orgadmin/objectives_controller",
-						"app/controllers/orgadmin/organisation_objectives_controller.rb"
-					],
-					[
-						"permission_object",
-						"spec/acceptance/permissions/permissions_objectives_spec.rb"
-					],
-					[
-						"calendar_event.rb",
-						"app/models/calendar_event.rb"
-					],
-					[
-						"permissions_calendar_spec.rb",
-						"spec/acceptance/permissions/permissions_calendar_spec.rb"
-					],
-					[
-						"orgadmin/calendar.rb",
-						"lib/abilities/orgadmin/calendar.rb"
-					],
-					[
-						"project_membership_controller_spec.rb",
-						"spec/controllers/myblue/project_memberships_controller_spec.rb"
-					],
-					[
-						"development.rb",
-						"config/environments/development.rb"
-					],
-					[
-						"ability.rb",
-						"app/models/job_ability.rb"
-					],
-					[
-						"pec/controllers/orgadmin/projects_controller_spec.rb",
-						"spec/controllers/orgadmin/projects_controller_spec.rb"
-					],
-					[
-						"projects_controller_spec.rb",
-						"spec/controllers/myblue/projects_controller_spec.rb"
-					],
-					[
-						"spec/lib/notification_formatter_spec.rb",
-						"spec/lib/notification_formatter_spec.rb"
-					],
-					[
-						"project_memberships_contro",
-						"spec/controllers/myblue/project_memberships_controller_spec.rb"
-					],
-					[
-						"project_topics_controller_spec.rb",
-						"spec/controllers/myblue/project_topics_controller_spec.rb"
-					],
-					[
-						"spec/controllers/myblue/project_comments_controller_spec.rb",
-						"spec/controllers/myblue/project_comments_controller_spec.rb"
 					]
 				],
 				"width": 0.0
@@ -3907,13 +3899,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 295.0,
+			"side_bar_width": 293.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 2
 			},
-			"window_id": 2852,
+			"window_id": 3047,
 			"workspace_name": ""
 		}
 	],
