@@ -1,14 +1,79 @@
 {
 	"folder_history":
 	[
+		"/Users/ahmet/Projects/smart-training",
+		"/Users/ahmet/Projects/ios/cbre",
+		"/Users/ahmet/MyProjects/vida",
+		"/Users/ahmet/MyProjects/backend",
+		"/Users/ahmet/Projects/SoulPad",
+		"/Users/ahmet/Projects/graceconsulting.co.uk",
+		"/Users/ahmet/MyProjects/express-scrape",
+		"/Users/ahmet/MyProjects/odeon_api",
+		"/Users/ahmet/Projects/jukebox",
+		"/Users/ahmet/Projects/ios/kyan_bar",
+		"/Users/ahmet/Projects/ios/titlechallenge",
+		"/Users/ahmet/Projects/ios/jukebox-react-native",
+		"/Users/ahmet/Projects/ios/cbre_api",
+		"/Users/ahmet/OldProjects/kgs.org.uk",
+		"/Users/ahmet/OldProjects",
+		"/Users/ahmet/MyProjects/pig",
+		"/Users/ahmet/Projects/ios/AwesomeProject",
+		"/Library/RubyMotion",
+		"/Users/ahmet/Projects/ios/jukebox_app",
+		"/Users/ahmet/MyProjects/ConsoleApplication",
+		"/Users/ahmet/Projects/ios/globalcapitalflows-importer",
+		"/Users/ahmet/OldProjects/instantdeveloper.com",
+		"/Users/ahmet/Projects/askhelios.com",
+		"/Users/ahmet/Projects/reactjs",
+		"/Users/ahmet/Projects",
+		"/Users/ahmet/Projects/preflight",
+		"/Users/ahmet/MyProjects",
+		"/Users/ahmet/Desktop/files",
+		"/Users/ahmet/Projects/betwire/betwire.com",
+		"/Users/ahmet/Desktop/atee_gmod",
+		"/Users/ahmet/Desktop/GreenExternalTest",
+		"/Users/ahmet/Projects/instantdeveloper.com",
+		"/Users/ahmet/MyProjects/dry_clean/myApp",
+		"/Users/ahmet/Projects/Multiven",
+		"/Users/ahmet/MyProjects/dry_clean",
+		"/Users/ahmet/Projects/betwire",
+		"/Users/ahmet/MyProjects/dry_clean/dry_clean_api",
+		"/Users/ahmet/MyProjects/dry_clean_api",
+		"/Users/ahmet/Projects/kgs.org.uk",
+		"/Users/ahmet/Projects/angular_test",
+		"/Users/ahmet/Projects/preflight-pubsub",
+		"/Users/ahmet/MyProjects/odeon",
+		"/Users/ahmet/Projects/ConsoleApplication",
+		"/Users/ahmet/.config/fish/functions",
+		"/Users/ahmet/Projects/kyan_bar",
+		"/Users/ahmet/Desktop/capital-flows-app",
+		"/Users/ahmet/MyProjects/odeon_api_test",
+		"/Users/ahmet/cbre/csv_files",
+		"/Users/ahmet/cbre",
+		"/Users/ahmet/Projects/blueskyeducation-co-uk",
+		"/Users/ahmet/Projects/alphacrowd.com",
+		"/Users/ahmet/Desktop",
+		"/Users/ahmet/MyProjects/swtor",
+		"/Users/ahmet/MyProjects/myApp",
+		"/Users/ahmet/MyProjects/metacortex",
+		"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User",
+		"/Users/ahmet/Projects/capital-flows-app",
+		"/Users/ahmet/Projects/alphacrowd-holding-ca",
+		"/Users/ahmet/Projects/alphacrowd-datazoo",
+		"/Users/ahmet/Projects/alphacrowd-holding-nz",
+		"/Users/ahmet/Projects/alphacrowd-holding",
+		"/Users/ahmet/Projects/sage/sage_one_payroll_ukie",
+		"/Users/ahmet/MyProjects/themoviedb",
+		"/Users/ahmet/Projects/harvest_report_extras",
+		"/Users/ahmet/Projects/surreylawsociety.org.uk",
+		"/Users/ahmet/Projects/rockflow.com",
+		"/Users/ahmet/Projects/point-to-point",
+		"/Users/ahmet/Projects/bisley.com",
+		"/Users/ahmet/Projects/saidso.co.uk",
+		"/Users/ahmet",
+		"/Users/ahmet/MyProjects/coreclr",
 		"/Users/ahmet/Projects/entertaina.com",
 		"/Users/ahmet/Projects/ios/transfermarkt_scraper",
-		"/Users/ahmet/MyProjects/metacortex",
-		"/Users/ahmet/Projects/surreylawsociety.org.uk",
-		"/Users/ahmet/Projects/SoulPad",
-		"/Users/ahmet/Projects/kgs.org.uk",
-		"/Users/ahmet/Projects/blueskyeducation-co-uk",
-		"/Users/ahmet/Projects/betwire/betwire.com",
 		"/Users/ahmet/MyProjects/igdb",
 		"/Users/ahmet/Projects/ct-group.com",
 		"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0",
@@ -18,35 +83,26 @@
 		"/Users/ahmet/MyProjects/WebApplication",
 		"/Users/ahmet/Projects/barlowrobbins.com",
 		"/Users/ahmet/MyProjects/excon",
-		"/Users/ahmet/MyProjects",
-		"/Users/ahmet/Projects/saidso.co.uk",
-		"/Users/ahmet/Projects/preflight",
 		"/Users/ahmet/MyProjects/phez",
 		"/Users/ahmet/MyProjects/run",
 		"/Users/ahmet/.config/powerline",
-		"/Users/ahmet/Projects/Multiven",
 		"/Users/ahmet/MyProjects/old/run",
 		"/Users/ahmet/Library/Python/2.7/lib/python/site-packages/powerline",
 		"/Users/ahmet/Library/Python/2.7/lib/python/site-packages/powerline/config_files",
-		"/Users/ahmet",
 		"/Users/ahmet/MyProjects/hound",
-		"/Users/ahmet/MyProjects/vida",
 		"/Users/ahmet/Projects/ct-group.com2",
-		"/Users/ahmet/Projects/preflight-pubsub",
 		"/Users/ahmet/MyProjects/dotfiles-1",
 		"/Users/ahmet/Projects/preflight/script",
 		"/Users/ahmet/MyProjects/old/ExternalUtilsCSharp",
 		"/Users/ahmet/MyProjects/old/ahmetabdi.github.io",
 		"/Users/ahmet/MyProjects/harmony",
 		"/Users/ahmet/Projects/whitelegg.com",
-		"/Users/ahmet/Projects/betwire",
 		"/Users/ahmet/Projects/ltms-litmuspartnership-co-uk",
 		"/Users/ahmet/MyProjects/trakitem.com",
 		"/Users/ahmet/MyProjects/old/themoviedb",
 		"/Users/ahmet/MyProjects/gamer",
 		"/Users/ahmet/MyProjects/videoza",
 		"/Users/ahmet/MyProjects/gnwz",
-		"/Users/ahmet/Projects",
 		"/Users/ahmet/MyProjects/Spina",
 		"/Users/ahmet/MyProjects/Spina-template",
 		"/Users/ahmet/MyProjects/hellop",
@@ -57,7 +113,6 @@
 		"/Users/ahmet/MyProjects/phaser-jump/assets/sprites",
 		"/Users/ahmet/MyProjects/rubymotion-Cocos2DTemplate",
 		"/Users/ahmet/MyProjects/alluc",
-		"/Users/ahmet/Projects/ios/titlechallenge",
 		"/Users/ahmet/Projects/ReadWrite",
 		"/Users/ahmet/MyProjects/hello_phoenix",
 		"/Users/ahmet/MyProjects/tmdb_phoenix",
@@ -65,7 +120,6 @@
 		"/Users/ahmet/.rvm/gems/ruby-1.9.3-p551/gems/spree_backend-2.0.12",
 		"/Users/ahmet/MyProjects/test",
 		"/Users/ahmet/MyProjects/my_app",
-		"/Users/ahmet/MyProjects/themoviedb",
 		"/Users/ahmet/Projects/spree_soulpad_test",
 		"/Users/ahmet/.rvm/gems/ruby-1.9.3-p551/gems/spree_api-2.0.12",
 		"/Users/ahmet/.rvm/gems/ruby-1.9.3-p551/gems/spree_core-2.0.12",
@@ -74,74 +128,372 @@
 		"/Users/ahmet/Projects/admin.partnership.co.uk",
 		"/Users/ahmet/Projects/pippamann.com",
 		"/Users/ahmet/Projects/betwire/betwire_market_manager",
-		"/Users/ahmet/MyProjects/Home",
-		"/Users/ahmet/Projects/stonehaven/ams.stonehaven-uk.com",
-		"/Users/ahmet/Projects/my.mumbu.com",
-		"/Users/ahmet/Projects/mumbu.com",
-		"/Users/ahmet/Projects/betwire/betwire_article_tagger",
-		"/Users/ahmet/Projects/betwire/betwire_tag_manager",
-		"/Users/ahmet/Projects/betwire.com",
-		"/Users/ahmet/MyProjects/salts",
-		"/Users/ahmet/Projects/cobaltrecruitment.com",
-		"/Users/ahmet/MyProjects/localmarket",
-		"/Users/ahmet/MyProjects/simple-todos",
-		"/Users/ahmet/Projects/stonehaven",
-		"/Users/ahmet/MyProjects/monopoly",
-		"/Users/ahmet/Projects/stoneheaven/api.stonehaven-uk.com",
-		"/Users/ahmet/Projects/greenshieldsjcb.com",
-		"/Users/ahmet/Projects/bisley.com",
-		"/Users/ahmet/Projects/test_app",
-		"/Users/ahmet/Projects/atom-lint",
-		"/Users/ahmet/Projects/test_test",
-		"/Users/ahmet/MyProjects/movi2",
-		"/Users/ahmet/MyProjects/ahmetabdi.github.io",
-		"/Users/ahmet/MyProjects/webgl",
-		"/Users/ahmet/Desktop",
-		"/Users/ahmet/Projects/test",
-		"/Users/ahmet/Projects/CCS",
-		"/Users/ahmet/MyProjects/hello",
-		"/Users/ahmet/MyProjects/tower_defence",
-		"/Users/ahmet/MyProjects/joybox-ElementalTowerDefence",
-		"/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/OpenSSL",
-		"/Users/ahmet/Projects/ios/titlechallenge_data",
-		"/Users/ahmet/Projects/ios/titlechallenge-validator",
-		"/Users/ahmet/Downloads",
-		"/Users/ahmet/Projects/betfair-api-integration",
-		"/Users/ahmet/Projects/sage/sage_one_payroll_ukie",
-		"/Users/ahmet/Projects/ios/two_halves",
-		"/Users/ahmet/Projects/ios/extra_time",
-		"/Users/ahmet/Projects/betfair",
-		"/Users/ahmet/Desktop/scripts",
-		"/Users/ahmet/Projects/sage/mysageone_uk",
-		"/Users/ahmet/Projects/sage",
-		"/Users/ahmet/Projects/sage/sage_one_advanced",
-		"/Users/ahmet/Projects/sage/sage_one_advanced/host_app",
-		"/Users/ahmet/MyProjects/phaser-jump",
-		"/Users/ahmet/MyProjects/MyWatchApp",
-		"/Users/ahmet/MyProjects/BitWatch",
-		"/Users/ahmet/MyProjects/watchkit-app",
-		"/Users/ahmet/MyProjects/RubyMotionSamples/ios/BitWatch",
-		"/Users/ahmet/Projects/ios",
-		"/Users/ahmet/MyProjects/stripe_sales",
-		"/Users/ahmet/MyProjects/watchkit-play",
-		"/Users/ahmet/Projects/ios/titlechallenge_csv",
-		"/Users/ahmet/Projects/titlechallenge",
-		"/Users/ahmet/Projects/titlechallenge_data",
-		"/Users/ahmet/Projects/transfermarkt_scraper",
-		"/Users/ahmet/MyProjects/github"
+		"/Users/ahmet/MyProjects/Home"
 	],
-	"last_version": 3083,
-	"last_window_id": 3035,
+	"last_version": 3107,
+	"last_window_id": 3739,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 993.0,
+		"new_window_height": 1114.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"if_yes",
+						"if_yes_please_select	(en.yml)"
+					],
+					[
+						"seed_load",
+						"seed_loading_container"
+					],
+					[
+						"back",
+						"background_color"
+					],
+					[
+						"cli",
+						"clipsToBounds"
+					],
+					[
+						"countries_",
+						"countries_not_found"
+					],
+					[
+						"tot",
+						"total_value"
+					],
+					[
+						"seed_",
+						"seed_version_number"
+					],
+					[
+						"curren",
+						"currency_hash"
+					],
+					[
+						"intr_re",
+						"intra_regional_container"
+					],
+					[
+						"inter",
+						"inter_regional_container"
+					],
+					[
+						"intra_",
+						"intra_regional_container"
+					],
+					[
+						"lef",
+						"left_pie_container"
+					],
+					[
+						"domest",
+						"domestic_container"
+					],
+					[
+						"layout",
+						"layoutIfNeeded"
+					],
+					[
+						"Data",
+						"DataUnavailableError	(seed_data_manager.rb)"
+					],
+					[
+						"seed",
+						"seed_version"
+					],
+					[
+						"vers",
+						"version_json"
+					],
+					[
+						"seeding",
+						"seeding_finished"
+					],
+					[
+						"save",
+						"save_success"
+					],
+					[
+						"da",
+						"database_dir"
+					],
+					[
+						"auto",
+						"autocomplete"
+					],
+					[
+						"releas",
+						"release_objects"
+					],
+					[
+						"intra_region",
+						"intra_regional_container	(region_detail_view_controller.rb)"
+					],
+					[
+						"ch",
+						"cny_exchange_rate	(exchange_rates.rb)"
+					],
+					[
+						"jpy",
+						"jpy_exchange_rate	(exchange_rates.rb)"
+					],
+					[
+						"sg",
+						"sgd_exchange_rate	(exchange_rates.rb)"
+					],
+					[
+						"sin",
+						"singapore_dollars	(option_changed.rb)"
+					],
+					[
+						"didSel",
+						"didSelectRowAtIndexPath"
+					],
+					[
+						"intra_regio",
+						"intra_regional_amount"
+					],
+					[
+						"should",
+						"should_update_in_out_button"
+					],
+					[
+						"run",
+						"run_after	(region_detail_view_controller.rb)"
+					],
+					[
+						"contai",
+						"container	(region_detail_view_controller.rb)"
+					],
+					[
+						"cir",
+						"circle_size"
+					],
+					[
+						"backgrou",
+						"background_color"
+					],
+					[
+						"top_ran",
+						"top_ranking_button"
+					],
+					[
+						"butt",
+						"BUTTON_SIZE"
+					],
+					[
+						"invest",
+						"investment_label"
+					],
+					[
+						"la",
+						"layoutIfNeeded"
+					],
+					[
+						"get",
+						"get_in_out	(persistable.rb)"
+					],
+					[
+						"com",
+						"completion_block"
+					],
+					[
+						"opacit",
+						"opacity_animation"
+					],
+					[
+						"top_cit",
+						"top_cities_for_international_capital_container"
+					],
+					[
+						"UIContro",
+						"UIControlEventValueChanged"
+					],
+					[
+						"passwor",
+						"password_rules_container"
+					],
+					[
+						"password_rul",
+						"password_rules_header_label"
+					],
+					[
+						"pass_rul",
+						"password_rules_header_label"
+					],
+					[
+						"passw",
+						"password_rules_container"
+					],
+					[
+						"new_",
+						"new_password_container"
+					],
+					[
+						"backg",
+						"background"
+					],
+					[
+						"confirm_pass",
+						"confirm_password_label"
+					],
+					[
+						"new_pass",
+						"new_password_label"
+					],
+					[
+						"discl",
+						"disclaimer_menu_controller"
+					],
+					[
+						"about",
+						"about_cbre"
+					],
+					[
+						"flow",
+						"flowing_inwards"
+					],
+					[
+						"non_do",
+						"non_domestic_percentage"
+					],
+					[
+						"domestic_and_i",
+						"domestic_and_intra_regional_switch	(main_layout.rb)"
+					],
+					[
+						"Ali",
+						"UITextAlignmentLeft"
+					],
+					[
+						"inter_region",
+						"inter_regional_percentage"
+					],
+					[
+						"domestic_perc",
+						"domestic_percentage_label"
+					],
+					[
+						"coun",
+						"country_name"
+					],
+					[
+						"Interne",
+						"international_spend"
+					],
+					[
+						"intra_reg",
+						"intra_regional_label"
+					],
+					[
+						"reload",
+						"reloadData"
+					],
+					[
+						"region_com",
+						"region_comparison_controller_view"
+					],
+					[
+						"bottom",
+						"bottom_seperator_view"
+					],
+					[
+						"backgr",
+						"backgroundColor"
+					],
+					[
+						"size",
+						"sizeToFit"
+					],
+					[
+						"UIIm",
+						"UIImageView"
+					],
+					[
+						"region_labe",
+						"region_labels_lookup"
+					],
+					[
+						"circle_con",
+						"circle_container_view"
+					],
+					[
+						"PIN",
+						"PIN_HEIGHT"
+					],
+					[
+						"Country",
+						"CountryMapButton"
+					],
+					[
+						"circle_container",
+						"circle_container_view_lookup"
+					],
+					[
+						"addSub",
+						"addSubview"
+					],
+					[
+						"Futur",
+						"FuturaBT-Book"
+					],
+					[
+						"font",
+						"fontWithName"
+					],
+					[
+						"NS",
+						"NSTextAlignmentCenter"
+					],
+					[
+						"region",
+						"region_name_label"
+					],
+					[
+						"resign",
+						"resignFirstResponder"
+					],
+					[
+						"visib",
+						"visible_vertical_contraints"
+					],
+					[
+						"post",
+						"post_flow_out_notification	(region_detail_view_controller.rb)"
+					],
+					[
+						"MapV",
+						"MapViewController"
+					],
+					[
+						"UIImage",
+						"UIImageView	(main_layout.rb)"
+					],
+					[
+						"add",
+						"addSubview	(main_controller.rb)"
+					],
+					[
+						"contra",
+						"constraints"
+					],
+					[
+						"button",
+						"buttons_size"
+					],
+					[
+						"cinem",
+						"cinema_id"
+					],
+					[
+						"DATA",
+						"DATA_ZOO_XMLNS"
+					],
 					[
 						"cha",
 						"changeSearchColor"
@@ -275,10 +627,6 @@
 						"REPAYMENT_METHOD"
 					],
 					[
-						"post",
-						"postcode"
-					],
-					[
 						"proper",
 						"property_value"
 					],
@@ -305,354 +653,6 @@
 					[
 						"complet",
 						"completed_on"
-					],
-					[
-						"compl",
-						"completed_on"
-					],
-					[
-						"office",
-						"office_id"
-					],
-					[
-						"serach_cl",
-						"search_class_name"
-					],
-					[
-						"includ",
-						"include_ids"
-					],
-					[
-						"epis",
-						"episodes"
-					],
-					[
-						"news",
-						"NewsArticle"
-					],
-					[
-						"twee",
-						"NewsTweet"
-					],
-					[
-						"News",
-						"NewsArticle"
-					],
-					[
-						"searc",
-						"search_results"
-					],
-					[
-						"pl",
-						"Policies"
-					],
-					[
-						"poli",
-						"Policies"
-					],
-					[
-						"oauth",
-						"oauth_url"
-					],
-					[
-						"closes",
-						"closest"
-					],
-					[
-						"drop",
-						"drop_translation_table"
-					],
-					[
-						"if",
-						"if	<?php if (…) ?> … <?php endif ?>"
-					],
-					[
-						"organisatio",
-						"organisation_objectives"
-					],
-					[
-						"hide_over",
-						"hide_overall_comment"
-					],
-					[
-						"show_overa",
-						"show_overall_rating"
-					],
-					[
-						"group",
-						"group_by"
-					],
-					[
-						"period",
-						"periods_supply_cover_required"
-					],
-					[
-						"insta",
-						"instagram_client"
-					],
-					[
-						"twitter",
-						"twitter_message"
-					],
-					[
-						"cpds_grou",
-						"cpds_grouped_by_group_objectives"
-					],
-					[
-						"organisation_pr",
-						"organisation_priorities"
-					],
-					[
-						"curre",
-						"currentBalanceAmountLabel"
-					],
-					[
-						"fil",
-						"fillColor"
-					],
-					[
-						"container",
-						"container_view"
-					],
-					[
-						"local",
-						"localisedPrice"
-					],
-					[
-						"produ",
-						"productIdentifier"
-					],
-					[
-						"product",
-						"product_identifier"
-					],
-					[
-						"trans",
-						"transaction"
-					],
-					[
-						"pro",
-						"products"
-					],
-					[
-						"pri",
-						"priceLocale"
-					],
-					[
-						"high",
-						"highlight_class_name"
-					],
-					[
-						"queued_hig",
-						"queued_highlight"
-					],
-					[
-						"even",
-						"event_types"
-					],
-					[
-						"find_ele",
-						"find_element"
-					],
-					[
-						"find_l",
-						"find_elements"
-					],
-					[
-						"find_elem",
-						"find_elements"
-					],
-					[
-						"find_e",
-						"find_elements"
-					],
-					[
-						"number",
-						"number_to_currency"
-					],
-					[
-						"background_image",
-						"background_image_name"
-					],
-					[
-						"stadi",
-						"stadium_name"
-					],
-					[
-						"notif",
-						"notify_employees"
-					],
-					[
-						"sche",
-						"schedule_on_main"
-					],
-					[
-						"lock",
-						"lock_condition"
-					],
-					[
-						"centerContr",
-						"centerControlView"
-					],
-					[
-						"right",
-						"rightControlView"
-					],
-					[
-						"UIC",
-						"UICustomView"
-					],
-					[
-						"new",
-						"new_name"
-					],
-					[
-						"init",
-						"initial_value"
-					],
-					[
-						"warning",
-						"warnings_message"
-					],
-					[
-						"SeedDa",
-						"SeedDataEntry"
-					],
-					[
-						"names",
-						"namesContainerView"
-					],
-					[
-						"coco",
-						"cocoapods_text"
-					],
-					[
-						"motion_bundler",
-						"motion_bundler_text"
-					],
-					[
-						"motion_hock",
-						"motion_hockey_app_text"
-					],
-					[
-						"ruby_",
-						"ruby_xcdm_text"
-					],
-					[
-						"inter",
-						"interface_builder_text"
-					],
-					[
-						"bubble",
-						"bubble_wrap_text"
-					],
-					[
-						"motion_suppor",
-						"motion_support_text"
-					],
-					[
-						"fb_d",
-						"fb_digital_font_label"
-					],
-					[
-						"color_p",
-						"color_picker_label"
-					],
-					[
-						"ss_zip",
-						"ss_zip_archive_label"
-					],
-					[
-						"color_picke",
-						"color_picker_text"
-					],
-					[
-						"color",
-						"color_picker_text"
-					],
-					[
-						"bid_rec",
-						"bid_received_for_player_on_human_shortlist"
-					],
-					[
-						"bid_re",
-						"bid_received_for_player_on_human_shortlist"
-					],
-					[
-						"add",
-						"addSubview"
-					],
-					[
-						"new_da",
-						"new_database_name"
-					],
-					[
-						"forPos",
-						"forPositionPredicate"
-					],
-					[
-						"data",
-						"database_name"
-					],
-					[
-						"dat",
-						"database_name"
-					],
-					[
-						"round",
-						"round_by"
-					],
-					[
-						"abbrevia",
-						"abbreviated_number"
-					],
-					[
-						"c",
-						"cla	ClassName = Struct .. do .. end"
-					],
-					[
-						"ca",
-						"cla	Create controller class"
-					],
-					[
-						"corre",
-						"correspondence"
-					],
-					[
-						"rend",
-						"renderer"
-					],
-					[
-						"scraped",
-						"scraped_player"
-					],
-					[
-						"scrap",
-						"scraped_player"
-					],
-					[
-						"warn",
-						"warning_count"
-					],
-					[
-						"schedu",
-						"schedule_on_main"
-					],
-					[
-						"backgr",
-						"backgroundColor"
-					],
-					[
-						"request_per",
-						"request_period_ending"
-					],
-					[
-						"stagin",
-						"staging_date"
-					],
-					[
-						"stagi",
-						"staging_date"
 					]
 				]
 			},
@@ -662,10 +662,78 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 85.0,
-				"last_filter": "git blame",
+				"height": 116.0,
+				"last_filter": "browse",
 				"selected_items":
 				[
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"open reso",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"rubymotio",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubymotion",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"remove package",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"linter",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"lint",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"rubymot",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubymo",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"obj",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"update pack",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
 					[
 						"git blame",
 						"Git: Blame"
@@ -679,10 +747,6 @@
 						"Git: Status"
 					],
 					[
-						"rubymot",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
 						"install theme",
 						"Colorsublime: Install Theme"
 					],
@@ -691,28 +755,12 @@
 						"Colorsublime: Install Theme"
 					],
 					[
-						"install pack",
-						"Package Control: Install Package"
-					],
-					[
 						"go to spec",
 						"Rails Go to Spec"
 					],
 					[
-						"list pack",
-						"Package Control: List Packages"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"list",
 						"Package Control: List Packages"
-					],
-					[
-						"remove pack",
-						"Package Control: Remove Package"
 					],
 					[
 						"install pac",
@@ -735,10 +783,6 @@
 						"RubyTest: Show Test Panel"
 					],
 					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
 						"install ",
 						"Package Control: Install Package"
 					],
@@ -749,10 +793,6 @@
 					[
 						"remove Pac",
 						"Package Control: Remove Package"
-					],
-					[
-						"linter",
-						"SublimeLinter: Next Error"
 					],
 					[
 						"git statu",
@@ -779,20 +819,8 @@
 						"Git: Status"
 					],
 					[
-						"rubymo",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
 						"rubyot",
 						"RubyTest: Show Test Panel"
-					],
-					[
-						"rubymotion",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"install p",
-						"Package Control: Install Package"
 					],
 					[
 						"pack",
@@ -812,10 +840,6 @@
 					],
 					[
 						"rubym",
-						"ObjC2RubyMotion: objc_to_ruby_motion"
-					],
-					[
-						"rubymotio",
 						"ObjC2RubyMotion: objc_to_ruby_motion"
 					],
 					[
@@ -1023,7 +1047,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 593.0
+				"width": 561.0
 			},
 			"console":
 			{
@@ -1050,138 +1074,138 @@
 			},
 			"file_history":
 			[
-				"/Users/ahmet/.shuttle.json",
-				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/redactor_custom.scss",
-				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/style.scss",
-				"/Users/ahmet/Projects/entertaina.com/Gemfile",
-				"/Users/ahmet/Projects/entertaina.com/app/mailers/devise_custom_mailer.rb",
-				"/Users/ahmet/Projects/entertaina.com/app/mailers/application_mailer.rb",
-				"/Users/ahmet/Projects/ios/transfermarkt_scraper/lib/transfermarkt.rb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/acts/edit_media.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/base/index.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_card.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/acts.scss",
-				"/Users/ahmet/Projects/entertaina.com/app/views/partials/_act_card.html.erb",
-				"/Users/ahmet/MyProjects/metacortex/lib/tasks/tmdb.rake",
-				"/Users/ahmet/MyProjects/metacortex/app/views/pages/index.erb",
-				"/Users/ahmet/MyProjects/metacortex/app/models/concerns/adapter.rb",
-				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/application.js",
-				"/Users/ahmet/MyProjects/metacortex/app/models/concerns/two_adapter.rb",
-				"/Users/ahmet/MyProjects/metacortex/app/helpers/application_helper.rb",
-				"/Users/ahmet/MyProjects/metacortex/app/views/movies/show.html.erb",
-				"/Users/ahmet/MyProjects/metacortex/.idea/.rakeTasks",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/config/initializers/dragonfly.rb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/Gemfile",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/app/views/refinery/_footer.html.erb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/courses/app/views/refinery/courses/courses/show.html.erb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/db/schema.rb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/views/refinery/cpd_annual_programmes/admin/cpd_annual_programmes/_form.html.erb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/app/decorators/models/refinery/image_decorator.rb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/models/refinery/cpd_annual_programmes/cpd_annual_programme.rb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/courses/app/models/refinery/courses/course.rb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/views/refinery/cpd_annual_programmes/admin/cpd_annual_programmes/_records.html.erb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/views/refinery/cpd_annual_programmes/admin/cpd_annual_programmes/edit.html.erb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/controllers/refinery/cpd_annual_programmes/admin/cpd_annual_programmes_controller.rb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/cpd_annual_programmes/app/controllers/refinery/cpd_annual_programmes/cpd_annual_programmes_controller.rb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/app/models/grid.rb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/db/migrate/20150915104031_add_refinery_coursee_id_to_refinery_cpd_annual_programmes.rb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/sponsors/app/models/refinery/sponsors/sponsor.rb",
-				"/Users/ahmet/Projects/surreylawsociety.org.uk/vendor/extensions/jobs/app/models/refinery/jobs/job.rb",
-				"/Users/ahmet/MyProjects/metacortex/Capfile",
-				"/Users/ahmet/MyProjects/metacortex/config/deploy/production.rb",
-				"/Users/ahmet/MyProjects/metacortex/config/environments/production.rb",
-				"/Users/ahmet/MyProjects/metacortex/config/deploy/templates/puma.rb.erb",
-				"/Users/ahmet/MyProjects/metacortex/config/deploy/templates/nginx_conf.erb",
-				"/Users/ahmet/MyProjects/metacortex/config/secrets.yml",
-				"/Users/ahmet/MyProjects/metacortex/config/deploy.rb",
-				"/Users/ahmet/MyProjects/metacortex/.gitignore",
-				"/Users/ahmet/MyProjects/metacortex/Gemfile",
-				"/Users/ahmet/MyProjects/metacortex/app/models/adapter.rb",
-				"/Users/ahmet/Projects/SoulPad/config/application.rb",
-				"/Users/ahmet/Projects/SoulPad/.env",
-				"/Users/ahmet/Projects/SoulPad/config/deploy.rb",
-				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/typeahead-0.11.1.js",
-				"/Users/ahmet/MyProjects/metacortex/app/controllers/search_controller.rb",
-				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/bootstrap.min.js",
-				"/Users/ahmet/MyProjects/metacortex/app/views/layouts/application.html.erb",
-				"/Users/ahmet/MyProjects/metacortex/app/views/layouts/_header.html.erb",
-				"/Users/ahmet/MyProjects/metacortex/app/assets/stylesheets/jquery-ui.css",
-				"/Users/ahmet/MyProjects/metacortex/app/assets/stylesheets/application.css",
-				"/Users/ahmet/MyProjects/metacortex/app/models/movie.rb",
-				"/Users/ahmet/MyProjects/metacortex/config/routes.rb",
-				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/Seti_UI/Seti.sublime-theme",
 				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/ahmet/MyProjects/metacortex/db/migrate/20150911081027_add_status_to_movies.rb",
-				"/Users/ahmet/MyProjects/metacortex/app/assets/stylesheets/bootstrap.min.css",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/models/movie.rb",
-				"/Users/ahmet/MyProjects/metacortex/.env",
-				"/Users/ahmet/Projects/entertaina.com/.ruby-version",
-				"/Users/ahmet/Projects/SoulPad/.rubocop.yml",
-				"/Users/ahmet/MyProjects/metacortex/db/migrate/20150910073324_create_movies.rb",
-				"/Users/ahmet/MyProjects/metacortex/db/schema.rb",
-				"/Users/ahmet/MyProjects/metacortex/config/database.yml.example",
-				"/Users/ahmet/MyProjects/metacortex/config/database.yml",
-				"/Users/ahmet/MyProjects/metacortex/app/controllers/pages_controller.rb",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/requester.rb",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/models/search.rb",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/configuration/api.rb",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/representers/multi_representer.rb",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/representers/movie_representer.rb",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/version.rb",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/models/api_resource.rb",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb/exceptions.rb",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/lib/tmdb.rb",
-				"/Users/ahmet/MyProjects/metacortex/config/initializers/tmdb.rb",
-				"/Users/ahmet/MyProjects/metacortex/Procfile",
-				"/Users/ahmet/MyProjects/metacortex/README.rdoc",
-				"/Users/ahmet/MyProjects/metacortex/lib/tmdb/tmdb.gemspec",
-				"/Users/ahmet/MyProjects/metacortex/.env.sample",
-				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/jquery-1.11.3.min.js",
-				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/jquery-ui.js",
-				"/Users/ahmet/Downloads/jquery-ui-1.11.4/jquery-ui.js",
-				"/Users/ahmet/Downloads/jquery-ui-1.11.4/jquery-ui.css",
-				"/Users/ahmet/MyProjects/metacortex/app/assets/javascripts/jquery-animate-colors.min.js",
-				"/Users/ahmet/Downloads/jquery-1.11.3.min.js",
-				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application.css",
-				"/Users/ahmet/Projects/entertaina.com/app/models/music_asset.rb",
-				"/Users/ahmet/Projects/entertaina.com/app/assets/javascripts/application/media_assets.js",
-				"/Users/ahmet/Projects/entertaina.com/app/views/music_assets/_item.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/models/video.rb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_photos.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/models/act.rb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/acts/show.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/owl.theme.scss",
-				"/Users/ahmet/Projects/entertaina.com/app/controllers/acts_controller.rb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_videos.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_latest_videos.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/Gemfile",
-				"/Users/ahmet/Projects/ct-group.com/app/controllers/application_controller.rb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/devise/passwords/edit.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/devise/mailer/reset_password_instructions.html.erb",
-				"/Users/ahmet/Projects/ct-group.com/app/views/devise/passwords/new.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_playlist.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/uploaders/media_uploader.rb",
-				"/Users/ahmet/Projects/entertaina.com/config/routes.rb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/partials/_footer.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/db/locations.yml",
-				"/Users/ahmet/Projects/entertaina.com/app/views/subscriptions/_show_repeated.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/acts/_latest_photos.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/views/shared/_calendar.html.erb",
-				"/Users/ahmet/Projects/entertaina.com/app/assets/stylesheets/application/accordian.scss",
-				"/Users/ahmet/Projects/SoulPad/config/initializers/flickr.rb",
-				"/Users/ahmet/Projects/SoulPad/extensions/sales_prices_engine/app/views/admin.rails2/variants/_form.html.erb",
-				"/Users/ahmet/Projects/SoulPad/config/database.yml",
-				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/lib/motion-game/ios/app_delegate.rb",
-				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/lib/motion-game.rb",
-				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/lib/motion-game/project.rb",
-				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/doc/MG/Sprite.html",
-				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/build/android/motion-cocos.jar",
-				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/doc/top-level-namespace.html",
-				"/Users/ahmet/.rvm/gems/ruby-2.2.2/gems/motion-game-1.0/lib/motion-game/android/main_activity.rb"
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/Theme - Flatland/Flatland Dark.sublime-theme",
+				"/Users/ahmet/Projects/smart-training/app/views/layouts/devise.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/work_attachments/show.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/my_reviews/index.html.erb",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Flatland Dark.sublime-theme",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Flatland Dark (SL).tmTheme",
+				"/Users/ahmet/Projects/smart-training/app/models/employer_assessment_form.rb",
+				"/Users/ahmet/Projects/smart-training/app/models/employee_assessment_form.rb",
+				"/Users/ahmet/Projects/smart-training/app/models/assessment_form_entry.rb",
+				"/Users/ahmet/Projects/smart-training/app/models/assessment_form.rb",
+				"/Users/ahmet/Projects/smart-training/config/locales/en.yml",
+				"/Users/ahmet/Projects/smart-training/app/views/employer_assessment_forms/shared/_very_good_to_not_seen.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employer_assessment_forms/shared/_finding_the_level_tasks.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employer_assessment_forms/welcome.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employer_assessment_forms/_header.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/controllers/employer_assessment_forms_controller.rb",
+				"/Users/ahmet/Projects/smart-training/app/controllers/employee_assessment_forms_controller.rb",
+				"/Users/ahmet/Projects/smart-training/app/views/employee_assessment_forms/_header.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employee_assessment_forms/_entry_fields.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employee_assessment_forms/edit.html.erb",
+				"/Users/ahmet/Projects/smart-training/config/routes.rb",
+				"/Users/ahmet/Projects/smart-training/app/views/employee_assessment_forms/welcome.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employer_assessment_forms/edit.html.erb",
+				"/Users/ahmet/Projects/smart-training/spec/features/employee_assessment_forms_controller_spec.rb",
+				"/Users/ahmet/Projects/smart-training/spec/features/employer_assessment_forms_controller_spec.rb",
+				"/Users/ahmet/Projects/ios/cbre/Rakefile",
+				"/Users/ahmet/Projects/ios/cbre/README.md",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/country_detail_view_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/region_detail_view_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/detail_view_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/models/seed_data.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/application_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/menu_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/main_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/modules/region_data.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/app_delegate.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/top_sources_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/create_pie_center_view.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/views/comparison_view.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/country_in_detail_view_layout.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/region_detail_view_layout.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/tutorial_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/main_layout.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/models/country.rb",
+				"/Users/ahmet/Projects/ios/cbre/schemas/0001_initial.rb",
+				"/Users/ahmet/Projects/ios/cbre/schemas/0015_favourites.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/page.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/care_advice_page.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/document.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/business_page.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/article.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/admin_user.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/index_page.rb",
+				"/Users/ahmet/Projects/smart-training/spec/support/helpers/assessment_form_helpers.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/country_swipe_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/seeds/country_transactions.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/horizontal_cell_layout.rb",
+				"/Users/ahmet/.ssh/config",
+				"/Users/ahmet/MyProjects/express-scrape/app.js",
+				"/Users/ahmet/MyProjects/express-scrape/myDataBase.json",
+				"/Users/ahmet/MyProjects/express-scrape/package.json",
+				"/Users/ahmet/MyProjects/express-scrape/output.json",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/requester.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/representers/film_representer.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/representers/performance_attribute_representer.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/models/film.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/representers/film_attribute_representer.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/resource.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/representers/performance_representer.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/representers/multi_film_representer.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/models/settings_update.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/disclaimer.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/disclaimer_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/models/settings_request.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/modules/persistable.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layout_styles/menu_styles.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/menu_layout.rb",
+				"/Users/ahmet/Projects/ios/cbre/.dat.nosyncee6b.C2XVj3",
+				"/Users/ahmet/Projects/ios/cbre/.dat.nosync8f35.OT2hhp",
+				"/Users/ahmet/Projects/ios/cbre/.dat.nosync6343.VLwJv3",
+				"/Users/ahmet/Projects/ios/cbre/countries.json",
+				"/Users/ahmet/Projects/ios/cbre/cities.json",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/menu_admin_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/resources/zh.lproj/Localizable.strings",
+				"/Users/ahmet/Projects/ios/cbre/resources/ko.lproj/Localizable.strings",
+				"/Users/ahmet/Projects/ios/cbre/resources/en.lproj/Localizable.strings",
+				"/Users/ahmet/Projects/ios/cbre/resources/ja.lproj/Localizable.strings",
+				"/Users/ahmet/Projects/ios/cbre/build/iPhoneOS-7.1-Development/CBRE Capital Flows.app/zh.lproj/Localizable.strings",
+				"/Users/ahmet/MyProjects/odeon_api/odeon_api.gemspec",
+				"/Users/ahmet/MyProjects/odeon_api/Gemfile",
+				"/Users/ahmet/Projects/jukebox/config/application.rb",
+				"/Users/ahmet/Projects/jukebox/db/seeds.rb",
+				"/Users/ahmet/Projects/jukebox/lib/mpd.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/seed_data/seed_data_manager.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/seed_data/seed_data_importer.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/assets/asset_updater.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/modules/option_changed.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/assets/asset_processors/asset_processor.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/disclaimer_layout.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/assets/asset_downloader.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/about_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/cells/region_selection_cell.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/pop_up_layout.rb",
+				"/Users/ahmet/Projects/ios/jukebox-react-native/index.android.js",
+				"/Users/ahmet/Projects/ios/jukebox-react-native/index.ios.js",
+				"/Users/ahmet/MyProjects/odeon_api/spec/odeon_api/models/cinema_spec.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/models/cinema.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/_remote_file_opener.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/assets/asset_processors/currency_image_processor.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/cells/country_selection_cell.rb",
+				"/Users/ahmet/Projects/ios/titlechallenge/app/_models/player_history.rb",
+				"/Users/ahmet/Projects/ios/titlechallenge/app/_models/_custom_ns_managed_object.rb",
+				"/Users/ahmet/Projects/ios/titlechallenge/vendor/Pods/MagicalRecord/Library/Categories/CoreData/NSManagedObject/NSManagedObject+MagicalRecord.m",
+				"/Users/ahmet/Projects/ios/titlechallenge/app/_models/players/player.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/seeds/version.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/login_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/models/year_half.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/_local_file_opener.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/seed_data/database_creator.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/seed_data/seed_data_checker.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/targeted_query.rb",
+				"/Users/ahmet/Projects/ios/cbre/report_builder.rb",
+				"/Users/ahmet/Documents/run_me.rb",
+				"/Users/ahmet/Downloads/api_users.csv"
 			],
 			"find":
 			{
-				"height": 22.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -1198,134 +1222,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					".redactor-box",
-					"sub h2",
-					".act_profile_card .popular_enter_txt .sub h2",
-					"Our sponsors",
-					"name",
-					"cpd_annual",
-					"bin",
-					"139.162.215.66",
-					"assets",
-					"public",
-					"config",
-					"TMDB_API_KEY",
-					"env['locale']",
-					"AUS",
-					"cache_store",
-					"//",
-					"rendered += suggestions.length;",
-					"blood",
-					"ProfileCard-stats",
-					"ProfileCard-screenName",
-					"suggest",
-					"tt-menu",
-					"perform_caching",
-					"config.action_controller.perform_caching = true",
-					"new_movie",
-					".masthead",
-					"rock_band",
-					"sear_cont_wrap_Sec2",
-					"location_id",
-					"Typeahead-hint",
-					"Typeahead-input",
-					"act_profile_card",
-					"betwire_tag_manager",
-					":",
-					"statistic",
-					"poster_path",
-					"release_date",
-					"overview",
-					"release_date",
-					"paypal",
-					"url_for",
+					"theme",
+					"        \"font.face\": \"Monaco\",\n        \"font.size\": 5",
+					"sidebar_",
+					"11",
+					"12",
+					"font",
+					"sidebar_label",
+					"Monaco",
+					"font",
+					"flatland_sidebar_tree_xsmall",
+					"Please ensure all answers have been answered.",
+					"additional_question_message",
+					"dropdown_options",
+					": ",
+					"employer_assessment_form_questions",
+					"set_assessment_form",
+					"welcome_employer_assessment_forms_path",
+					"welcome_employer",
+					"welcome_employee_assessment_forms_path",
+					"collection",
+					"dealloc",
+					"root",
+					"add_reg",
+					"region_",
+					"reset_controllers",
+					"autorelease",
+					"NSLog",
+					"region_map_controller",
+					"@region_map_controller",
+					"RegionMapViewController",
+					"def clear_token!",
+					"controllers",
+					"@view_container",
+					"@view_container =",
+					"@country_detail_controller",
+					"CountryDetailViewController",
+					"reset_selected_location",
+					"remove_all_subviews",
+					"App.delegate.main_controller.",
+					"main_controller",
+					"def main_controller",
+					"App.delegate.main",
+					"def hide_menu",
+					"App.delegate.",
+					"update_in_out_button",
+					"App.delegate.",
+					"def hide_menu",
+					"App.delegate.",
+					"reset_views",
+					"logout",
+					"reset_views",
+					"reset_controllers",
+					"@country_detail_controller",
+					"CountryDetailViewController",
+					"shrink_pie_chart_section",
+					"load_charts",
+					"set_up_international_spend_chart",
+					"international_spend_table",
+					"didDeselectSliceAtIndex",
+					"deselect_pie",
+					"didSelectRowAtIndexPath",
+					"didSelectSliceAtIndex",
+					"didSelectRowAtIndexPath",
+					"didDeselectSliceAtIndex",
+					"selected_pie_index",
+					"def pieChart(pieChart, didSelectSliceAtIndex: index)",
+					"piechart",
+					"pie",
+					"domestic_container",
+					"cross_bo",
+					"domestic_container",
+					"@layout",
+					"show_sub_nav",
+					"show_region_sub_nav",
+					"hide_data_toggles",
+					":domestic_and_intra_regional_container",
+					"domestic_and_intra_regional_container",
+					"region_domestic_and_intra_regional_container.hidden",
+					"country_domestic_container",
+					"region_domestic_and_intra_regional_container",
+					"UNHIDE",
+					"region_domestic_and_intra_regional_container",
+					"region_domestic_and_intra_regional_container UNHIDE",
+					"region_domestic_and_intra_regional_container",
+					"hide_data_toggles",
+					"show_top_ranking_sub_nav",
+					"hide_data_toggles",
+					"region_domestic_and_intra_regional_container HIDE",
+					"region_domestic_and_intra_regional_container",
+					"domestic_and_intra_regional_container",
+					"domestic_and_intra",
+					"create_region_subnav",
+					"hide_sub_nav",
+					"show_sub_nav",
+					"loaded",
+					"favourite_unavailable_header",
+					"delete_if",
+					"favourites_hash",
+					"year_half",
+					"favourite_unavailable_alert",
+					"if get_full_name.empty?",
+					"country_detail_view_controller.rb:169",
+					"Saudi Arabia",
+					"Quatar",
+					"Azerbaijan",
+					"THRESHOLD",
+					"N/A",
+					"insignificant",
+					"Twitter",
+					"twitter",
+					"The Big Short",
+					"listing",
+					"#main_container > div.single_left >",
+					"category",
+					"str",
+					"finditi",
+					"([])",
+					".collect",
+					"/'",
 					"params",
-					"url",
-					"request_headers",
-					"Igdb",
-					"TODO",
-					".css(",
-					"#current",
-					"0:00",
-					"pretty_duration",
-					"0:00",
-					".thumb_slider .owl-next",
-					".owl-theme .owl-controls .owl-buttons div",
-					".owl-buttons",
-					".owl-next",
-					"photos",
-					"Videos",
-					"visit_profile",
-					"locale",
-					"password",
-					"#audio_",
-					"Playlist",
-					"about_path",
-					"about",
-					"#section2",
-					"#section2\\",
-					"t",
-					"term",
-					"North West East of England",
-					"locations",
-					"North West East of England",
-					"SIGN UP",
-					"UPDATE",
-					"pointer;",
-					".latest_photo",
-					"latest photos",
-					".cancel_btn",
-					"#choose_all",
-					"CANCEL MEMBERSHIP",
-					"CHOOSE ALL",
-					"Spree.config",
-					"Spree::Config",
-					"pree::Config",
-					"track_inventory_levels",
-					"Spree::Config[:track_inventory_levels] ",
-					"input.send",
-					".how_does_wrap .search_buttons .owl-carousel .item",
-					"env",
-					"style=",
-					"benchmark",
-					"mygemserver",
-					"insights",
-					"mixin",
-					"Mxin",
-					"GameScreenshotRepresenter",
-					"queue_adapter",
-					"<%=",
-					"country_id",
-					"counties",
-					"currency:",
-					"number_to_currency",
-					"currency:",
-					"£",
-					"$",
-					"£",
-					"currency",
-					"Shipping",
-					"Please choose from one of the following payment methods",
-					"CURRENCY_CODE",
-					"Spree::Config[:currency]",
-					"path",
-					"throttle",
-					"Woah there cowboy",
-					"peek",
-					"Search",
-					"speed_check",
-					"api_key",
-					"scroll_action",
-					"physicsWorld",
-					"check_controller",
-					"rotate_player",
-					"physicsBody",
-					"bodyWithRectangleOfSize",
-					"physics_body",
-					"add_player",
-					"  def rotate_player\n    dy = player.physicsBody.velocity.dy\n    player.zRotation = max_rotate(dy * (dy < 0 ? 0.003 : 0.001))\n  end\n\n  def max_rotate(value)\n    if value > 0.7\n      0.7\n    elsif value < -0.3\n      -0.3\n    else\n      value\n    end\n  end",
-					"rotate_player",
-					"player"
+					"title",
+					"halfRating",
+					"certificate",
+					"imageUrl",
+					"releaseDate",
+					"genre",
+					"trailerUrl",
+					"isRateable"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1355,7 +1379,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 21.0
+				"height": 23.0
 			},
 			"input":
 			{
@@ -1377,7 +1401,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 40.0
+				"height": 42.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1387,516 +1411,516 @@
 				"selected_items":
 				[
 					[
-						"style.scss",
-						"app/assets/stylesheets/application/style.scss"
+						"en.yml",
+						"config/locales/en.yml"
 					],
 					[
-						"gemfile",
-						"Gemfile"
-					],
-					[
-						"style.",
-						"app/assets/stylesheets/application/style.scss"
-					],
-					[
-						"edit_med",
-						"app/views/acts/edit_media.html.erb"
-					],
-					[
-						"edit_media",
-						"app/views/acts/edit_media.html.erb"
-					],
-					[
-						"acts/card",
-						"app/views/acts/_card.html.erb"
-					],
-					[
-						"act_card",
-						"app/views/partials/_act_card.html.erb"
-					],
-					[
-						"base/index",
-						"app/views/base/index.html.erb"
-					],
-					[
-						"acts.scss",
-						"app/assets/stylesheets/acts.scss"
-					],
-					[
-						"two_ada",
-						"app/models/concerns/two_adapter.rb"
-					],
-					[
-						"application_helper",
-						"app/helpers/application_helper.rb"
-					],
-					[
-						".rake",
-						"lib/tasks/tmdb.rake"
-					],
-					[
-						"dragonfly.rb",
-						"config/initializers/dragonfly.rb"
-					],
-					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"course.rb",
-						"vendor/extensions/courses/app/models/refinery/courses/course.rb"
-					],
-					[
-						"courses/show.html.erb",
-						"vendor/extensions/courses/app/views/refinery/courses/courses/show.html.erb"
-					],
-					[
-						"grid.rb",
-						"app/models/grid.rb"
-					],
-					[
-						"capfile",
-						"Capfile"
-					],
-					[
-						"deploy.rb",
-						"config/deploy.rb"
-					],
-					[
-						"gitig",
-						".gitignore"
-					],
-					[
-						"nginx",
-						"config/deploy/templates/nginx_conf.erb"
-					],
-					[
-						"gitignore",
-						".gitignore"
-					],
-					[
-						"config/secret",
-						"config/secrets.yml"
-					],
-					[
-						"nginx_",
-						"config/deploy/templates/nginx_conf.erb"
-					],
-					[
-						"deploy/produ",
-						"config/deploy/production.rb"
-					],
-					[
-						"config/deploy.rb",
-						"config/deploy.rb"
-					],
-					[
-						"adapter.rb",
-						"app/models/adapter.rb"
-					],
-					[
-						".env",
-						".env"
-					],
-					[
-						"application.js",
-						"app/assets/javascripts/application.js"
-					],
-					[
-						"movie.rb",
-						"app/models/movie.rb"
-					],
-					[
-						"search_cont",
-						"app/controllers/search_controller.rb"
+						"employer_assess",
+						"app/controllers/employer_assessment_forms_controller.rb"
 					],
 					[
 						"routes",
 						"config/routes.rb"
 					],
 					[
-						"application_helper.rb",
-						"app/helpers/application_helper.rb"
+						"employer_ass",
+						"app/controllers/employer_assessment_forms_controller.rb"
 					],
 					[
-						"database.yml",
-						"config/database.yml"
+						"employer_assessment_form_spec",
+						"spec/features/employer_assessment_forms_controller_spec.rb"
 					],
 					[
-						"application.css",
-						"app/assets/stylesheets/application.css"
-					],
-					[
-						"pages/index",
-						"app/views/pages/index.erb"
-					],
-					[
-						"requester.rb",
-						"lib/tmdb/lib/tmdb/requester.rb"
-					],
-					[
-						"api.rb",
-						"lib/tmdb/lib/tmdb/configuration/api.rb"
+						"employer_assessment_form.rb",
+						"app/models/employer_assessment_form.rb"
 					],
 					[
 						"readme",
-						"README.rdoc"
-					],
-					[
-						"procfile",
-						"Procfile"
-					],
-					[
-						"music_asset.rb",
-						"app/models/music_asset.rb"
-					],
-					[
-						"act.rb",
-						"app/models/act.rb"
-					],
-					[
-						"act_controller",
-						"app/controllers/acts_controller.rb"
-					],
-					[
-						"style.sc",
-						"app/assets/stylesheets/application/style.scss"
-					],
-					[
-						"application_controller",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"music_asset/item",
-						"app/views/music_assets/_item.html.erb"
-					],
-					[
-						"register.html",
-						"app/views/members/registrations/new.html.erb"
-					],
-					[
-						"spree.rb",
-						"config/initializers/spree.rb"
-					],
-					[
-						"database",
-						"config/database.yml"
-					],
-					[
-						"project",
-						"lib/motion-game/project.rb"
-					],
-					[
-						"spri",
-						"doc/MG/Sprite.html"
-					],
-					[
-						".env.s",
-						".env.sample"
-					],
-					[
-						"gitign",
-						".gitignore"
-					],
-					[
-						"calendar_event.rb",
-						"app/models/calendar_event.rb"
-					],
-					[
-						"about.html.er",
-						"app/views/about/index.html.erb"
-					],
-					[
-						"production.rb",
-						"config/environments/production.rb"
-					],
-					[
-						"gemspec",
-						"metacortex.gemspec"
-					],
-					[
-						"http.rb",
-						"lib/mixins/http.rb"
-					],
-					[
-						"gem",
-						"Gemfile"
-					],
-					[
-						"api_reso",
-						"lib/igdb/models/api_resource.rb"
-					],
-					[
-						"gemfle",
-						"Gemfile"
-					],
-					[
-						"crawler",
-						"app/jobs/crawler_job.rb"
-					],
-					[
-						"resque.rb",
-						"config/initializers/resque.rb"
-					],
-					[
-						"base.css",
-						"app/assets/stylesheets/application/base.css.erb"
-					],
-					[
-						"routes.rb",
-						"config/routes.rb"
-					],
-					[
-						"check_runs/",
-						"app/views/check_runs/show.html.erb"
-					],
-					[
-						"check_runs/new.html",
-						"app/views/check_runs/new.html.erb"
-					],
-					[
-						"en-us.yml",
-						"config/locales/en-US.yml"
-					],
-					[
-						"en-au",
-						"config/locales/en-AU.yml"
-					],
-					[
-						"us.yml",
-						"config/locales/en-US.yml"
-					],
-					[
-						"shared/order_details",
-						"app/views/shared/_order_details.html.erb"
-					],
-					[
-						"application.rb",
-						"config/application.rb"
-					],
-					[
-						".env.sample",
-						".env.sample"
-					],
-					[
-						"usa.rb",
-						"config/deploy/usa.rb"
-					],
-					[
-						"header",
-						"app/views/posts/_heading.html.erb"
-					],
-					[
-						"apidocs.html",
-						"app/views/home/apidocs.html.erb"
-					],
-					[
-						"player.rb",
-						"app/sprites/player.rb"
-					],
-					[
-						"pipe.rb",
-						"app/sprites/pipe.rb"
-					],
-					[
-						"physi",
-						"app/nodes/physical_ground.rb"
-					],
-					[
-						"game.rb",
-						"lib/igdb/models/game.rb"
+						"README.md"
 					],
 					[
 						"rakefile",
 						"Rakefile"
 					],
 					[
-						"shared/grid",
-						"app/views/shared/_grid.html.erb"
+						"region_detail_view_con",
+						"app/controllers/region_detail_view_controller.rb"
 					],
 					[
-						"school_life.html.erb",
-						"app/views/school_life/_school_life.html.erb"
+						"detail_view_con",
+						"app/controllers/country_detail_view_controller.rb"
 					],
 					[
-						"school_life/index",
-						"app/views/school_life/index.html.erb"
+						"main_controller",
+						"app/controllers/main_controller.rb"
 					],
 					[
-						"core.css",
-						"app/assets/stylesheets/core.css.scss"
+						"menu_controller.rb",
+						"app/controllers/menu_controller.rb"
 					],
 					[
-						"20110531",
-						"app/views/advocacy/news_20110531.html.erb"
+						"application_controller.rb",
+						"app/controllers/application_controller.rb"
 					],
 					[
-						"20150605",
-						"app/views/advocacy/news_20150605.html.erb"
+						"menu_controller",
+						"app/controllers/menu_controller.rb"
 					],
 					[
-						"2015006",
-						"app/views/advocacy/news_20150605.html.erb"
+						"top_sources_con",
+						"app/controllers/top_sources_controller.rb"
 					],
 					[
-						"google_anal",
-						"spec/lib/checks/google_analytics_check_spec.rb"
+						"gemfile",
+						"Gemfile"
 					],
 					[
-						"google_analy",
-						"lib/checks/google_analytics_check.rb"
+						"createpiecenterview",
+						"app/lib/create_pie_center_view.rb"
 					],
 					[
-						"css_check_spec",
-						"spec/lib/checks/css_check_spec.rb"
+						"top_sour",
+						"app/controllers/top_sources_controller.rb"
 					],
 					[
-						"css_check",
-						"lib/checks/css_check.rb"
+						"rake",
+						"Rakefile"
 					],
 					[
-						"config/unicorn",
-						"config/unicorn.rb"
+						"country_deai",
+						"app/controllers/country_detail_view_controller.rb"
 					],
 					[
-						"application.html.erb",
-						"app/views/layouts/application.html.erb"
+						"region_detail_view",
+						"app/controllers/region_detail_view_controller.rb"
 					],
 					[
-						"en.yml",
-						"config/locales/en.yml"
+						"00",
+						"schemas/0001_initial.rb"
 					],
 					[
-						"related_post",
-						"app/views/posts/_related_posts.html.erb"
+						"001",
+						"schemas/0015_favourites.rb"
 					],
 					[
-						"post/show.html",
-						"app/views/posts/show.html.erb"
+						"country.rb",
+						"app/models/country.rb"
 					],
 					[
-						"service.rb",
-						"app/models/service.rb"
+						"main_layout.rb",
+						"app/layouts/main_layout.rb"
 					],
 					[
-						"market.rb",
-						"app/models/market.rb"
+						"page.rb",
+						"app/models/page.rb"
 					],
 					[
-						"services/show",
-						"app/views/admin/services/show.html.erb"
+						"rakef",
+						"Rakefile"
 					],
 					[
-						"markets/show",
-						"app/views/admin/markets/show.html.erb"
+						"country_swipe",
+						"app/controllers/country_swipe_controller.rb"
+					],
+					[
+						"disclaimer",
+						"app/controllers/disclaimer.rb"
+					],
+					[
+						"disclaimer_con",
+						"app/controllers/disclaimer_controller.rb"
+					],
+					[
+						"menu_con",
+						"app/controllers/menu_controller.rb"
+					],
+					[
+						"perssi",
+						"app/modules/persistable.rb"
+					],
+					[
+						"persistable",
+						"app/modules/persistable.rb"
+					],
+					[
+						"application.js.erb",
+						"app/assets/javascripts/application.js.erb"
+					],
+					[
+						"gemspec",
+						"odeon_api.gemspec"
+					],
+					[
+						"application.js",
+						"app/assets/javascripts/application.js.erb"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						"seed_data_manag",
+						"app/lib/seed_data/seed_data_manager.rb"
+					],
+					[
+						"disclaimer_controll",
+						"app/controllers/disclaimer_controller.rb"
+					],
+					[
+						"ass",
+						"app/lib/assets/asset_downloader.rb"
+					],
+					[
+						"seed_data_importer",
+						"app/lib/seed_data/seed_data_importer.rb"
+					],
+					[
+						"rctwebsocketexecutor.m",
+						"node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.m"
+					],
+					[
+						"country_transactions.rb",
+						"app/seeds/country_transactions.rb"
+					],
+					[
+						"asset_download",
+						"app/lib/assets/asset_downloader.rb"
+					],
+					[
+						"seed_data_impo",
+						"app/lib/seed_data/seed_data_importer.rb"
+					],
+					[
+						"disclaimer_controller",
+						"app/controllers/disclaimer_controller.rb"
+					],
+					[
+						"seed_data_importer.rb",
+						"app/lib/seed_data/seed_data_importer.rb"
+					],
+					[
+						"version.rb",
+						"app/seeds/version.rb"
+					],
+					[
+						"app_delegate.rb",
+						"app/app_delegate.rb"
+					],
+					[
+						"seed_",
+						"app/models/seed_data.rb"
+					],
+					[
+						"app_delegate",
+						"app/app_delegate.rb"
+					],
+					[
+						"seed_data_checker",
+						"app/lib/seed_data/seed_data_checker.rb"
+					],
+					[
+						"asset_process",
+						"app/lib/assets/asset_processors/asset_processor.rb"
+					],
+					[
+						"data_manager",
+						"app/lib/seed_data/seed_data_manager.rb"
+					],
+					[
+						"main_controll",
+						"app/controllers/main_controller.rb"
+					],
+					[
+						"menu_layout",
+						"app/layouts/menu_layout.rb"
+					],
+					[
+						"importer",
+						"app/lib/seed_data/seed_data_importer.rb"
+					],
+					[
+						"seeddatamanager",
+						"app/lib/seed_data/seed_data_manager.rb"
+					],
+					[
+						"remote_file_op",
+						"app/lib/_remote_file_opener.rb"
+					],
+					[
+						"menu_cont",
+						"app/controllers/menu_controller.rb"
+					],
+					[
+						"main_con",
+						"app/controllers/main_controller.rb"
+					],
+					[
+						"app_dle",
+						"app/app_delegate.rb"
+					],
+					[
+						"men",
+						"app/controllers/menu_controller.rb"
+					],
+					[
+						"main_layout",
+						"app/layouts/main_layout.rb"
+					],
+					[
+						"country_flow_button",
+						"app/controls/country_flow_button.rb"
+					],
+					[
+						"remote_file",
+						"app/lib/_remote_file_opener.rb"
+					],
+					[
+						"seed_data.json",
+						"resources/seed_data.json"
+					],
+					[
+						"0002",
+						"schemas/0002_country_investment_domestic.rb"
+					],
+					[
+						"cityinvestment",
+						"resources/CBRE Capital Flows.momd/0002 country_investment_domestic.mom"
+					],
+					[
+						"top_cities",
+						"app/controllers/top_cities_controller.rb"
+					],
+					[
+						"persistance.rb",
+						"app/lib/persistance.rb"
+					],
+					[
+						"seed_data_import",
+						"app/lib/seed_data/seed_data_importer.rb"
+					],
+					[
+						"asset",
+						"app/lib/assets/asset_downloader.rb"
+					],
+					[
+						"login",
+						"app/controllers/login_controller.rb"
+					],
+					[
+						"seed_data_downloader",
+						"app/lib/seed_data/seed_data_downloader.rb"
+					],
+					[
+						"pages_controller.rb",
+						"app/controllers/pages_controller.rb"
+					],
+					[
+						"faqs.html",
+						"app/views/pages/faqs.html.erb"
+					],
+					[
+						"login.html",
+						"app/views/devise/sessions/_login.html.erb"
+					],
+					[
+						"session/new",
+						"app/views/devise/sessions/new.html.erb"
+					],
+					[
+						"nav.html",
+						"app/views/layouts/_nav.html.erb"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						"verify.rb",
+						"app/api/verify.rb"
+					],
+					[
+						"authen",
+						"app/api/authenticate.rb"
+					],
+					[
+						"akefile",
+						"Rakefile"
+					],
+					[
+						"app_deleta",
+						"app/app_delegate.rb"
+					],
+					[
+						"gemfi",
+						"Gemfile.lock"
+					],
+					[
+						"development",
+						"config/environments/development.rb"
+					],
+					[
+						"procfile",
+						"Procfile"
 					],
 					[
 						"user.rb",
-						"app/models/user.rb"
+						"app/api/user_details.rb"
 					],
 					[
-						"market_controler",
-						"app/controllers/markets_controller.rb"
+						"pages_con",
+						"app/controllers/pages_controller.rb"
 					],
 					[
-						"services_controller",
-						"app/controllers/services_controller.rb"
+						"pages/home",
+						"app/views/pages/home.html.erb"
 					],
 					[
-						"services/show.html",
-						"app/views/services/show.html.erb"
+						"office.rb",
+						"app/models/office.rb"
 					],
 					[
-						"pubsub.rb",
-						"lib/pubsub.rb"
+						"add_directio",
+						"db/migrate/20160208141920_add_directions_file_to_offices.rb"
 					],
 					[
-						"setup.sh",
-						"setup.sh"
+						"contact",
+						"app/views/pages/contact.html.erb"
 					],
 					[
-						"console",
-						"script/console"
+						"redactor",
+						"app/assets/javascripts/active_admin/redactor-rails/config.js"
 					],
 					[
-						".css",
-						"_site/assets/css/main.css"
+						"blog_articles/index",
+						"app/views/blog_articles/index.html.erb"
 					],
 					[
-						"layout/app",
-						"app/views/layouts/application.html.erb"
+						"blog_articles/index.hmtl",
+						"app/views/blog_articles/index.html.erb"
 					],
 					[
-						"primary_nav",
-						"app/views/partials/_primary_nav.html.erb"
+						"news_articles/index",
+						"app/views/news_articles/index.html.erb"
 					],
 					[
-						"layouts/appl",
-						"app/views/layouts/application.html.erb"
+						"articles.html",
+						"app/views/application/_articles.html.erb"
 					],
 					[
-						"header_nav.html",
-						"app/views/shared/_header_nav.html.erb"
+						"tag.rb",
+						"app/models/tag.rb"
 					],
 					[
-						"aplication.html.erb",
-						"app/views/layouts/application.html.erb"
+						"article.html",
+						"app/views/application/_article.html.erb"
 					],
 					[
-						"create_vid",
-						"db/migrate/20150707120523_create_video.rb"
+						"aricle.html.er",
+						"app/views/application/_article.html.erb"
 					],
 					[
-						"video.rb",
-						"db/migrate/20150707120445_video.rb"
+						"articles.html.",
+						"app/views/application/_articles.html.erb"
 					],
 					[
-						"shared/",
-						"app/views/devise/shared/_links.html.erb"
+						"blog/index",
+						"app/views/blog_articles/index.html.erb"
 					],
 					[
-						"http",
-						"lib/http_client.rb"
+						"schema",
+						"db/schema.rb"
 					],
 					[
-						"valid_link_check_spec",
-						"spec/lib/checks/valid_link_check_spec.rb"
+						"testimonials.see",
+						"db/seeds/testimonials.seeds.rb"
 					],
 					[
-						"valid_link_chec.rb",
-						"lib/checks/valid_link_check.rb"
+						"countrydetailviewcontroller",
+						"app/controllers/country_detail_view_controller.rb"
 					],
 					[
-						"factor",
-						"spec/support/factories.rb"
+						"country_detail_view_con",
+						"app/controllers/country_detail_view_controller.rb"
 					],
 					[
-						"factories.rb",
-						"spec/support/factories.rb"
+						"disclaim",
+						"app/controllers/disclaimer_controller.rb"
 					],
 					[
-						"valid_link_check_spec.rb",
-						"spec/lib/checks/valid_link_check_spec.rb"
+						"usa.rb",
+						"config/deploy/usa.rb"
 					],
 					[
-						"domain_exists",
-						"spec/lib/validators/domain_exists_validator_spec.rb"
+						"zzz_",
+						"config/initializers/zzz_rails_cache.rb"
 					],
 					[
-						"domain_",
-						"lib/validators/domain_exists_validator.rb"
+						"zzz_rails",
+						"config/initializers/zzz_rails_cache.rb"
 					],
 					[
-						"spec/lib/validators/domain_exists_validator_spec.rb",
-						"spec/lib/validators/domain_exists_validator_spec.rb"
+						"aus.rb",
+						"config/deploy/aus.rb"
 					],
 					[
-						"check_run.rb",
-						"app/models/check_run.rb"
+						"sched",
+						"config/schedule.rb"
 					],
 					[
-						"loading_time",
-						"spec/lib/checks/loading_time_check_spec.rb"
+						"twitter",
+						"lib/tasks/twitter.rake"
+					],
+					[
+						"sync",
+						"lib/tasks/sync.rake"
+					],
+					[
+						"seed_data_che",
+						"app/lib/seed_data/seed_data_checker.rb"
+					],
+					[
+						"currency_table_view_cell.rb",
+						"app/views/currency_table_view_cell.rb"
+					],
+					[
+						"ersion.",
+						"app/seeds/version.rb"
+					],
+					[
+						"favou",
+						"app/models/favourite.rb"
+					],
+					[
+						"seedman",
+						"app/lib/seed_data/seed_data_manager.rb"
+					],
+					[
+						"assetd",
+						"app/lib/seed_data/asset_downloader.rb"
+					],
+					[
+						"assets",
+						"resources/assets.json"
+					],
+					[
+						"asset_upader",
+						"app/lib/asset_updater.rb"
+					],
+					[
+						"countrycom",
+						"app/views/country_comparison_view.rb"
+					],
+					[
+						"regionda",
+						"app/modules/region_data.rb"
+					],
+					[
+						"citycom",
+						"app/views/city_comparison_view.rb"
+					],
+					[
+						"regioncompv",
+						"app/views/region_comparison_view.rb"
 					]
 				],
 				"width": 0.0
@@ -1943,17 +1967,2006 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 293.0,
+			"side_bar_width": 255.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 				"max_columns": 2
 			}
 		},
-		"new_window_width": 1426.0
+		"new_window_width": 1415.0
 	},
 	"windows":
 	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"if_yes",
+						"if_yes_please_select	(en.yml)"
+					],
+					[
+						"seed_load",
+						"seed_loading_container"
+					],
+					[
+						"back",
+						"background_color"
+					],
+					[
+						"cli",
+						"clipsToBounds"
+					],
+					[
+						"countries_",
+						"countries_not_found"
+					],
+					[
+						"tot",
+						"total_value"
+					],
+					[
+						"seed_",
+						"seed_version_number"
+					],
+					[
+						"curren",
+						"currency_hash"
+					],
+					[
+						"intr_re",
+						"intra_regional_container"
+					],
+					[
+						"inter",
+						"inter_regional_container"
+					],
+					[
+						"intra_",
+						"intra_regional_container"
+					],
+					[
+						"lef",
+						"left_pie_container"
+					],
+					[
+						"domest",
+						"domestic_container"
+					],
+					[
+						"layout",
+						"layoutIfNeeded"
+					],
+					[
+						"Data",
+						"DataUnavailableError	(seed_data_manager.rb)"
+					],
+					[
+						"seed",
+						"seed_version"
+					],
+					[
+						"vers",
+						"version_json"
+					],
+					[
+						"seeding",
+						"seeding_finished"
+					],
+					[
+						"save",
+						"save_success"
+					],
+					[
+						"da",
+						"database_dir"
+					],
+					[
+						"auto",
+						"autocomplete"
+					],
+					[
+						"releas",
+						"release_objects"
+					],
+					[
+						"intra_region",
+						"intra_regional_container	(region_detail_view_controller.rb)"
+					],
+					[
+						"ch",
+						"cny_exchange_rate	(exchange_rates.rb)"
+					],
+					[
+						"jpy",
+						"jpy_exchange_rate	(exchange_rates.rb)"
+					],
+					[
+						"sg",
+						"sgd_exchange_rate	(exchange_rates.rb)"
+					],
+					[
+						"sin",
+						"singapore_dollars	(option_changed.rb)"
+					],
+					[
+						"didSel",
+						"didSelectRowAtIndexPath"
+					],
+					[
+						"intra_regio",
+						"intra_regional_amount"
+					],
+					[
+						"should",
+						"should_update_in_out_button"
+					],
+					[
+						"run",
+						"run_after	(region_detail_view_controller.rb)"
+					],
+					[
+						"contai",
+						"container	(region_detail_view_controller.rb)"
+					],
+					[
+						"cir",
+						"circle_size"
+					],
+					[
+						"backgrou",
+						"background_color"
+					],
+					[
+						"top_ran",
+						"top_ranking_button"
+					],
+					[
+						"butt",
+						"BUTTON_SIZE"
+					],
+					[
+						"invest",
+						"investment_label"
+					],
+					[
+						"la",
+						"layoutIfNeeded"
+					],
+					[
+						"get",
+						"get_in_out	(persistable.rb)"
+					],
+					[
+						"com",
+						"completion_block"
+					],
+					[
+						"opacit",
+						"opacity_animation"
+					],
+					[
+						"top_cit",
+						"top_cities_for_international_capital_container"
+					],
+					[
+						"UIContro",
+						"UIControlEventValueChanged"
+					],
+					[
+						"passwor",
+						"password_rules_container"
+					],
+					[
+						"password_rul",
+						"password_rules_header_label"
+					],
+					[
+						"pass_rul",
+						"password_rules_header_label"
+					],
+					[
+						"passw",
+						"password_rules_container"
+					],
+					[
+						"new_",
+						"new_password_container"
+					],
+					[
+						"backg",
+						"background"
+					],
+					[
+						"confirm_pass",
+						"confirm_password_label"
+					],
+					[
+						"new_pass",
+						"new_password_label"
+					],
+					[
+						"discl",
+						"disclaimer_menu_controller"
+					],
+					[
+						"about",
+						"about_cbre"
+					],
+					[
+						"flow",
+						"flowing_inwards"
+					],
+					[
+						"non_do",
+						"non_domestic_percentage"
+					],
+					[
+						"domestic_and_i",
+						"domestic_and_intra_regional_switch	(main_layout.rb)"
+					],
+					[
+						"Ali",
+						"UITextAlignmentLeft"
+					],
+					[
+						"inter_region",
+						"inter_regional_percentage"
+					],
+					[
+						"domestic_perc",
+						"domestic_percentage_label"
+					],
+					[
+						"coun",
+						"country_name"
+					],
+					[
+						"Interne",
+						"international_spend"
+					],
+					[
+						"intra_reg",
+						"intra_regional_label"
+					],
+					[
+						"reload",
+						"reloadData"
+					],
+					[
+						"region_com",
+						"region_comparison_controller_view"
+					],
+					[
+						"bottom",
+						"bottom_seperator_view"
+					],
+					[
+						"backgr",
+						"backgroundColor"
+					],
+					[
+						"size",
+						"sizeToFit"
+					],
+					[
+						"UIIm",
+						"UIImageView"
+					],
+					[
+						"region_labe",
+						"region_labels_lookup"
+					],
+					[
+						"circle_con",
+						"circle_container_view"
+					],
+					[
+						"PIN",
+						"PIN_HEIGHT"
+					],
+					[
+						"Country",
+						"CountryMapButton"
+					],
+					[
+						"circle_container",
+						"circle_container_view_lookup"
+					],
+					[
+						"addSub",
+						"addSubview"
+					],
+					[
+						"Futur",
+						"FuturaBT-Book"
+					],
+					[
+						"font",
+						"fontWithName"
+					],
+					[
+						"NS",
+						"NSTextAlignmentCenter"
+					],
+					[
+						"region",
+						"region_name_label"
+					],
+					[
+						"resign",
+						"resignFirstResponder"
+					],
+					[
+						"visib",
+						"visible_vertical_contraints"
+					],
+					[
+						"post",
+						"post_flow_out_notification	(region_detail_view_controller.rb)"
+					],
+					[
+						"MapV",
+						"MapViewController"
+					],
+					[
+						"UIImage",
+						"UIImageView	(main_layout.rb)"
+					],
+					[
+						"add",
+						"addSubview	(main_controller.rb)"
+					],
+					[
+						"contra",
+						"constraints"
+					],
+					[
+						"button",
+						"buttons_size"
+					],
+					[
+						"cinem",
+						"cinema_id"
+					],
+					[
+						"DATA",
+						"DATA_ZOO_XMLNS"
+					],
+					[
+						"cha",
+						"changeSearchColor"
+					],
+					[
+						"basic_",
+						"basic_auth_password"
+					],
+					[
+						"attribute",
+						"attributes_table_for"
+					],
+					[
+						"Anem",
+						"Anemone::Storage"
+					],
+					[
+						"texture",
+						"textureWithImageNamed"
+					],
+					[
+						"link_to_un",
+						"link_to_unless_current_controller"
+					],
+					[
+						"en",
+						"enquiry-form"
+					],
+					[
+						"deele",
+						"delete_document"
+					],
+					[
+						"project_member",
+						"project_memberships"
+					],
+					[
+						"notifi",
+						"notification_type"
+					],
+					[
+						"descript",
+						"description_changed"
+					],
+					[
+						"generate",
+						"generate_notifications"
+					],
+					[
+						"Active",
+						"ActiveSupport"
+					],
+					[
+						"logi",
+						"login_app_user"
+					],
+					[
+						"lam",
+						"lambda"
+					],
+					[
+						"view",
+						"viewer"
+					],
+					[
+						"random",
+						"random_user_2"
+					],
+					[
+						"random_user",
+						"random_user_2"
+					],
+					[
+						"deactivate_project",
+						"deactivate_project_members_myblue_project_url"
+					],
+					[
+						"Project",
+						"ProjectFileGroup"
+					],
+					[
+						"Projec",
+						"ProjectConversation"
+					],
+					[
+						"ActiveRec",
+						"ActiveRecord::Base"
+					],
+					[
+						"visibi",
+						"visibility_state"
+					],
+					[
+						"stock_loca",
+						"stock_location_id"
+					],
+					[
+						"calc",
+						"calculated_apr"
+					],
+					[
+						"calculated",
+						"calculated_irr"
+					],
+					[
+						"interes",
+						"interest_rate"
+					],
+					[
+						"appl",
+						"application_fee"
+					],
+					[
+						"intere",
+						"interest"
+					],
+					[
+						"inita",
+						"initial_cashflow"
+					],
+					[
+						"initial",
+						"initial_cashflow"
+					],
+					[
+						"month",
+						"monthly_payment"
+					],
+					[
+						"rep",
+						"REPAYMENT_METHOD"
+					],
+					[
+						"proper",
+						"property_value"
+					],
+					[
+						"prope",
+						"property_value"
+					],
+					[
+						"assert",
+						"assert_difference"
+					],
+					[
+						"start",
+						"start_a_new_search"
+					],
+					[
+						"countdo",
+						"countdown_from"
+					],
+					[
+						"count",
+						"countdown_from"
+					],
+					[
+						"complet",
+						"completed_on"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 2441,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 116.0,
+				"last_filter": "browse",
+				"selected_items":
+				[
+					[
+						"browse",
+						"Preferences: Browse Packages"
+					],
+					[
+						"open reso",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"rubymotio",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubymotion",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"remove package",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"linter",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"lint",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"list pack",
+						"Package Control: List Packages"
+					],
+					[
+						"rubymot",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubymo",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"obj",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"update pack",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"git blame",
+						"Git: Blame"
+					],
+					[
+						" git status",
+						"Git: Status"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"install theme",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"go to spec",
+						"Rails Go to Spec"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"debug ",
+						"SublimeLinter: Enable Debug Mode"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"rubytest",
+						"RubyTest: Show Test Panel"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"git bl",
+						"Set Syntax: SublimeGit Blame"
+					],
+					[
+						"remove Pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"git statu",
+						"Git: Status"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					],
+					[
+						"gutter",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"gits tatus",
+						"Git: Status"
+					],
+					[
+						"rubyot",
+						"RubyTest: Show Test Panel"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"spotify",
+						"Spotify: Search"
+					],
+					[
+						"spot",
+						"Spotify: Search"
+					],
+					[
+						"spotif",
+						"Spotify: Search"
+					],
+					[
+						"rubym",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"git show",
+						"Git: Show"
+					],
+					[
+						"git ",
+						"Git: Show"
+					],
+					[
+						" git show",
+						"GitGutter: Show Comparing Against"
+					],
+					[
+						"lint mode",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"evalu",
+						"Worksheet: Evaluate worksheet"
+					],
+					[
+						"worksh",
+						"Worksheet: Evaluate worksheet"
+					],
+					[
+						"license",
+						"SublimeGit: Add License"
+					],
+					[
+						"install packa",
+						"Package Control: Install Package"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"markdown pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"path",
+						"Snippet: path_from_here( .. )"
+					],
+					[
+						"git st",
+						"Set Syntax: SublimeGit Status"
+					],
+					[
+						"git s",
+						"Set Syntax: SublimeGit Show"
+					],
+					[
+						"next tra",
+						"Spotify: Next Track"
+					],
+					[
+						"list package",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"Git: Show"
+					],
+					[
+						"convert case",
+						"Convert Case: Title Case"
+					],
+					[
+						"conver case",
+						"Convert Case: Swap Case"
+					],
+					[
+						"upper case",
+						"Convert Case: Upper Case"
+					],
+					[
+						"delete",
+						"File: Delete"
+					],
+					[
+						" git blame",
+						"Git: Blame"
+					],
+					[
+						"next",
+						"Spotify: Next Track"
+					],
+					[
+						"ruubymo",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubymoti",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubymto",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"rubynot",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"ribymot",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"inde",
+						"Indent XML"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"open",
+						"File: Open In Browser - Production Server"
+					],
+					[
+						"git staut",
+						"Git: Status"
+					],
+					[
+						"spell",
+						"Google Spell Check"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"ruby mot",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"git satus",
+						"Git: Status"
+					],
+					[
+						"git satu",
+						"Set Syntax: SublimeGit Status"
+					],
+					[
+						"ruby moti",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"SublimeLinter",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"build",
+						"Build: Build"
+					],
+					[
+						"ruby motion",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"obb",
+						"ObjC2RubyMotion: objc_to_ruby_motion"
+					],
+					[
+						"list packa",
+						"Package Control: List Packages"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"remoe",
+						"Package Control: Remove Package"
+					],
+					[
+						"Git: Status",
+						"Git: Status"
+					],
+					[
+						"git: diff",
+						"Git: Diff"
+					],
+					[
+						"git: status",
+						"Git: Status"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 235.0,
+				"history":
+				[
+					"ruby",
+					"clear",
+					"puts name",
+					"p name",
+					"name = 1",
+					"python",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/ahmet/Projects/smart-training",
+				"/Users/ahmet/Projects/smart-training/app"
+			],
+			"file_history":
+			[
+				"/Users/ahmet/Projects/smart-training/app/models/assessment_form.rb",
+				"/Users/ahmet/Projects/smart-training/.rubocop.yml",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/Seti_UI/Seti.sublime-theme",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/Theme - Flatland/Flatland Dark.sublime-theme",
+				"/Users/ahmet/Projects/smart-training/app/views/layouts/devise.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/work_attachments/show.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/my_reviews/index.html.erb",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Flatland Dark.sublime-theme",
+				"/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Flatland Dark (SL).tmTheme",
+				"/Users/ahmet/Projects/smart-training/app/models/employer_assessment_form.rb",
+				"/Users/ahmet/Projects/smart-training/app/models/employee_assessment_form.rb",
+				"/Users/ahmet/Projects/smart-training/app/models/assessment_form_entry.rb",
+				"/Users/ahmet/Projects/smart-training/config/locales/en.yml",
+				"/Users/ahmet/Projects/smart-training/app/views/employer_assessment_forms/shared/_very_good_to_not_seen.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employer_assessment_forms/shared/_finding_the_level_tasks.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employer_assessment_forms/welcome.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employer_assessment_forms/_header.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/controllers/employer_assessment_forms_controller.rb",
+				"/Users/ahmet/Projects/smart-training/app/controllers/employee_assessment_forms_controller.rb",
+				"/Users/ahmet/Projects/smart-training/app/views/employee_assessment_forms/_header.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employee_assessment_forms/_entry_fields.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employee_assessment_forms/edit.html.erb",
+				"/Users/ahmet/Projects/smart-training/config/routes.rb",
+				"/Users/ahmet/Projects/smart-training/app/views/employee_assessment_forms/welcome.html.erb",
+				"/Users/ahmet/Projects/smart-training/app/views/employer_assessment_forms/edit.html.erb",
+				"/Users/ahmet/Projects/smart-training/spec/features/employee_assessment_forms_controller_spec.rb",
+				"/Users/ahmet/Projects/smart-training/spec/features/employer_assessment_forms_controller_spec.rb",
+				"/Users/ahmet/Projects/ios/cbre/Rakefile",
+				"/Users/ahmet/Projects/ios/cbre/README.md",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/country_detail_view_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/region_detail_view_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/detail_view_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/models/seed_data.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/application_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/menu_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/main_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/modules/region_data.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/app_delegate.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/top_sources_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/create_pie_center_view.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/views/comparison_view.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/country_in_detail_view_layout.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/region_detail_view_layout.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/tutorial_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/main_layout.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/models/country.rb",
+				"/Users/ahmet/Projects/ios/cbre/schemas/0001_initial.rb",
+				"/Users/ahmet/Projects/ios/cbre/schemas/0015_favourites.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/page.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/care_advice_page.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/document.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/business_page.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/article.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/admin_user.rb",
+				"/Users/ahmet/Projects/graceconsulting.co.uk/app/models/index_page.rb",
+				"/Users/ahmet/Projects/smart-training/spec/support/helpers/assessment_form_helpers.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/country_swipe_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/seeds/country_transactions.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/horizontal_cell_layout.rb",
+				"/Users/ahmet/.ssh/config",
+				"/Users/ahmet/MyProjects/express-scrape/app.js",
+				"/Users/ahmet/MyProjects/express-scrape/myDataBase.json",
+				"/Users/ahmet/MyProjects/express-scrape/package.json",
+				"/Users/ahmet/MyProjects/express-scrape/output.json",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/requester.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/representers/film_representer.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/representers/performance_attribute_representer.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/models/film.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/representers/film_attribute_representer.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/resource.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/representers/performance_representer.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/representers/multi_film_representer.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/models/settings_update.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/disclaimer.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/disclaimer_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/models/settings_request.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/modules/persistable.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layout_styles/menu_styles.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/menu_layout.rb",
+				"/Users/ahmet/Projects/ios/cbre/.dat.nosyncee6b.C2XVj3",
+				"/Users/ahmet/Projects/ios/cbre/.dat.nosync8f35.OT2hhp",
+				"/Users/ahmet/Projects/ios/cbre/.dat.nosync6343.VLwJv3",
+				"/Users/ahmet/Projects/ios/cbre/countries.json",
+				"/Users/ahmet/Projects/ios/cbre/cities.json",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/menu_admin_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/resources/zh.lproj/Localizable.strings",
+				"/Users/ahmet/Projects/ios/cbre/resources/ko.lproj/Localizable.strings",
+				"/Users/ahmet/Projects/ios/cbre/resources/en.lproj/Localizable.strings",
+				"/Users/ahmet/Projects/ios/cbre/resources/ja.lproj/Localizable.strings",
+				"/Users/ahmet/Projects/ios/cbre/build/iPhoneOS-7.1-Development/CBRE Capital Flows.app/zh.lproj/Localizable.strings",
+				"/Users/ahmet/MyProjects/odeon_api/odeon_api.gemspec",
+				"/Users/ahmet/MyProjects/odeon_api/Gemfile",
+				"/Users/ahmet/Projects/jukebox/config/application.rb",
+				"/Users/ahmet/Projects/jukebox/db/seeds.rb",
+				"/Users/ahmet/Projects/jukebox/lib/mpd.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/seed_data/seed_data_manager.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/seed_data/seed_data_importer.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/assets/asset_updater.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/modules/option_changed.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/assets/asset_processors/asset_processor.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/disclaimer_layout.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/assets/asset_downloader.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/about_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/cells/region_selection_cell.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/layouts/pop_up_layout.rb",
+				"/Users/ahmet/Projects/ios/jukebox-react-native/index.android.js",
+				"/Users/ahmet/Projects/ios/jukebox-react-native/index.ios.js",
+				"/Users/ahmet/MyProjects/odeon_api/spec/odeon_api/models/cinema_spec.rb",
+				"/Users/ahmet/MyProjects/odeon_api/lib/odeon_api/models/cinema.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/_remote_file_opener.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/assets/asset_processors/currency_image_processor.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/cells/country_selection_cell.rb",
+				"/Users/ahmet/Projects/ios/titlechallenge/app/_models/player_history.rb",
+				"/Users/ahmet/Projects/ios/titlechallenge/app/_models/_custom_ns_managed_object.rb",
+				"/Users/ahmet/Projects/ios/titlechallenge/vendor/Pods/MagicalRecord/Library/Categories/CoreData/NSManagedObject/NSManagedObject+MagicalRecord.m",
+				"/Users/ahmet/Projects/ios/titlechallenge/app/_models/players/player.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/seeds/version.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/controllers/login_controller.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/models/year_half.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/_local_file_opener.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/seed_data/database_creator.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/seed_data/seed_data_checker.rb",
+				"/Users/ahmet/Projects/ios/cbre/app/lib/targeted_query.rb",
+				"/Users/ahmet/Projects/ios/cbre/report_builder.rb",
+				"/Users/ahmet/Documents/run_me.rb"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 91.0,
+				"where_history":
+				[
+					"",
+					"/Users/ahmet/Projects/sage/sage_one_payroll_ukie/app/views/payroll/payroll_pay_submission",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"theme",
+					"        \"font.face\": \"Monaco\",\n        \"font.size\": 5",
+					"sidebar_",
+					"11",
+					"12",
+					"font",
+					"sidebar_label",
+					"Monaco",
+					"font",
+					"flatland_sidebar_tree_xsmall",
+					"Please ensure all answers have been answered.",
+					"additional_question_message",
+					"dropdown_options",
+					": ",
+					"employer_assessment_form_questions",
+					"set_assessment_form",
+					"welcome_employer_assessment_forms_path",
+					"welcome_employer",
+					"welcome_employee_assessment_forms_path",
+					"collection",
+					"dealloc",
+					"root",
+					"add_reg",
+					"region_",
+					"reset_controllers",
+					"autorelease",
+					"NSLog",
+					"region_map_controller",
+					"@region_map_controller",
+					"RegionMapViewController",
+					"def clear_token!",
+					"controllers",
+					"@view_container",
+					"@view_container =",
+					"@country_detail_controller",
+					"CountryDetailViewController",
+					"reset_selected_location",
+					"remove_all_subviews",
+					"App.delegate.main_controller.",
+					"main_controller",
+					"def main_controller",
+					"App.delegate.main",
+					"def hide_menu",
+					"App.delegate.",
+					"update_in_out_button",
+					"App.delegate.",
+					"def hide_menu",
+					"App.delegate.",
+					"reset_views",
+					"logout",
+					"reset_views",
+					"reset_controllers",
+					"@country_detail_controller",
+					"CountryDetailViewController",
+					"shrink_pie_chart_section",
+					"load_charts",
+					"set_up_international_spend_chart",
+					"international_spend_table",
+					"didDeselectSliceAtIndex",
+					"deselect_pie",
+					"didSelectRowAtIndexPath",
+					"didSelectSliceAtIndex",
+					"didSelectRowAtIndexPath",
+					"didDeselectSliceAtIndex",
+					"selected_pie_index",
+					"def pieChart(pieChart, didSelectSliceAtIndex: index)",
+					"piechart",
+					"pie",
+					"domestic_container",
+					"cross_bo",
+					"domestic_container",
+					"@layout",
+					"show_sub_nav",
+					"show_region_sub_nav",
+					"hide_data_toggles",
+					":domestic_and_intra_regional_container",
+					"domestic_and_intra_regional_container",
+					"region_domestic_and_intra_regional_container.hidden",
+					"country_domestic_container",
+					"region_domestic_and_intra_regional_container",
+					"UNHIDE",
+					"region_domestic_and_intra_regional_container",
+					"region_domestic_and_intra_regional_container UNHIDE",
+					"region_domestic_and_intra_regional_container",
+					"hide_data_toggles",
+					"show_top_ranking_sub_nav",
+					"hide_data_toggles",
+					"region_domestic_and_intra_regional_container HIDE",
+					"region_domestic_and_intra_regional_container",
+					"domestic_and_intra_regional_container",
+					"domestic_and_intra",
+					"create_region_subnav",
+					"hide_sub_nav",
+					"show_sub_nav",
+					"loaded",
+					"favourite_unavailable_header",
+					"delete_if",
+					"favourites_hash",
+					"year_half",
+					"favourite_unavailable_alert",
+					"if get_full_name.empty?",
+					"country_detail_view_controller.rb:169",
+					"Saudi Arabia",
+					"Quatar",
+					"Azerbaijan",
+					"THRESHOLD",
+					"N/A",
+					"insignificant",
+					"Twitter",
+					"twitter",
+					"The Big Short",
+					"listing",
+					"#main_container > div.single_left >",
+					"category",
+					"str",
+					"finditi",
+					"([])",
+					".collect",
+					"/'",
+					"params",
+					"title",
+					"halfRating",
+					"certificate",
+					"imageUrl",
+					"releaseDate",
+					"genre",
+					"trailerUrl",
+					"isRateable"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<a href=\"http://v2.blueskyeducation.dev/myblue/projects",
+					"🔒 OAuth Required",
+					"🔓 OAuth Optional",
+					" [OAuth Optional]",
+					" ",
+					"",
+					"whitelegg_development",
+					"link_to_add_fields",
+					"SelectClubController",
+					"tabs",
+					"CoreImage",
+					"  {",
+					"\n  "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/ahmet/Projects/smart-training"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/ahmet/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2441,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2302,
+										2302
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 638.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 238.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.variable_get":
+			{
+				"height": 86.0
+			},
+			"pinned_build_system": "",
+			"position": "0 467 161 1415 1136 0 0 2560 1417 ",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"en.yml",
+						"config/locales/en.yml"
+					],
+					[
+						"employer_assess",
+						"app/controllers/employer_assessment_forms_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"employer_ass",
+						"app/controllers/employer_assessment_forms_controller.rb"
+					],
+					[
+						"employer_assessment_form_spec",
+						"spec/features/employer_assessment_forms_controller_spec.rb"
+					],
+					[
+						"employer_assessment_form.rb",
+						"app/models/employer_assessment_form.rb"
+					],
+					[
+						"readme",
+						"README.md"
+					],
+					[
+						"rakefile",
+						"Rakefile"
+					],
+					[
+						"region_detail_view_con",
+						"app/controllers/region_detail_view_controller.rb"
+					],
+					[
+						"detail_view_con",
+						"app/controllers/country_detail_view_controller.rb"
+					],
+					[
+						"main_controller",
+						"app/controllers/main_controller.rb"
+					],
+					[
+						"menu_controller.rb",
+						"app/controllers/menu_controller.rb"
+					],
+					[
+						"application_controller.rb",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"menu_controller",
+						"app/controllers/menu_controller.rb"
+					],
+					[
+						"top_sources_con",
+						"app/controllers/top_sources_controller.rb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"createpiecenterview",
+						"app/lib/create_pie_center_view.rb"
+					],
+					[
+						"top_sour",
+						"app/controllers/top_sources_controller.rb"
+					],
+					[
+						"rake",
+						"Rakefile"
+					],
+					[
+						"country_deai",
+						"app/controllers/country_detail_view_controller.rb"
+					],
+					[
+						"region_detail_view",
+						"app/controllers/region_detail_view_controller.rb"
+					],
+					[
+						"00",
+						"schemas/0001_initial.rb"
+					],
+					[
+						"001",
+						"schemas/0015_favourites.rb"
+					],
+					[
+						"country.rb",
+						"app/models/country.rb"
+					],
+					[
+						"main_layout.rb",
+						"app/layouts/main_layout.rb"
+					],
+					[
+						"page.rb",
+						"app/models/page.rb"
+					],
+					[
+						"rakef",
+						"Rakefile"
+					],
+					[
+						"country_swipe",
+						"app/controllers/country_swipe_controller.rb"
+					],
+					[
+						"disclaimer",
+						"app/controllers/disclaimer.rb"
+					],
+					[
+						"disclaimer_con",
+						"app/controllers/disclaimer_controller.rb"
+					],
+					[
+						"menu_con",
+						"app/controllers/menu_controller.rb"
+					],
+					[
+						"perssi",
+						"app/modules/persistable.rb"
+					],
+					[
+						"persistable",
+						"app/modules/persistable.rb"
+					],
+					[
+						"application.js.erb",
+						"app/assets/javascripts/application.js.erb"
+					],
+					[
+						"gemspec",
+						"odeon_api.gemspec"
+					],
+					[
+						"application.js",
+						"app/assets/javascripts/application.js.erb"
+					],
+					[
+						"seeds",
+						"db/seeds.rb"
+					],
+					[
+						"seed_data_manag",
+						"app/lib/seed_data/seed_data_manager.rb"
+					],
+					[
+						"disclaimer_controll",
+						"app/controllers/disclaimer_controller.rb"
+					],
+					[
+						"ass",
+						"app/lib/assets/asset_downloader.rb"
+					],
+					[
+						"seed_data_importer",
+						"app/lib/seed_data/seed_data_importer.rb"
+					],
+					[
+						"rctwebsocketexecutor.m",
+						"node_modules/react-native/Libraries/WebSocket/RCTWebSocketExecutor.m"
+					],
+					[
+						"country_transactions.rb",
+						"app/seeds/country_transactions.rb"
+					],
+					[
+						"asset_download",
+						"app/lib/assets/asset_downloader.rb"
+					],
+					[
+						"seed_data_impo",
+						"app/lib/seed_data/seed_data_importer.rb"
+					],
+					[
+						"disclaimer_controller",
+						"app/controllers/disclaimer_controller.rb"
+					],
+					[
+						"seed_data_importer.rb",
+						"app/lib/seed_data/seed_data_importer.rb"
+					],
+					[
+						"version.rb",
+						"app/seeds/version.rb"
+					],
+					[
+						"app_delegate.rb",
+						"app/app_delegate.rb"
+					],
+					[
+						"seed_",
+						"app/models/seed_data.rb"
+					],
+					[
+						"app_delegate",
+						"app/app_delegate.rb"
+					],
+					[
+						"seed_data_checker",
+						"app/lib/seed_data/seed_data_checker.rb"
+					],
+					[
+						"asset_process",
+						"app/lib/assets/asset_processors/asset_processor.rb"
+					],
+					[
+						"data_manager",
+						"app/lib/seed_data/seed_data_manager.rb"
+					],
+					[
+						"main_controll",
+						"app/controllers/main_controller.rb"
+					],
+					[
+						"menu_layout",
+						"app/layouts/menu_layout.rb"
+					],
+					[
+						"importer",
+						"app/lib/seed_data/seed_data_importer.rb"
+					],
+					[
+						"seeddatamanager",
+						"app/lib/seed_data/seed_data_manager.rb"
+					],
+					[
+						"remote_file_op",
+						"app/lib/_remote_file_opener.rb"
+					],
+					[
+						"menu_cont",
+						"app/controllers/menu_controller.rb"
+					],
+					[
+						"main_con",
+						"app/controllers/main_controller.rb"
+					],
+					[
+						"app_dle",
+						"app/app_delegate.rb"
+					],
+					[
+						"men",
+						"app/controllers/menu_controller.rb"
+					],
+					[
+						"main_layout",
+						"app/layouts/main_layout.rb"
+					],
+					[
+						"country_flow_button",
+						"app/controls/country_flow_button.rb"
+					],
+					[
+						"remote_file",
+						"app/lib/_remote_file_opener.rb"
+					],
+					[
+						"seed_data.json",
+						"resources/seed_data.json"
+					],
+					[
+						"0002",
+						"schemas/0002_country_investment_domestic.rb"
+					],
+					[
+						"cityinvestment",
+						"resources/CBRE Capital Flows.momd/0002 country_investment_domestic.mom"
+					],
+					[
+						"top_cities",
+						"app/controllers/top_cities_controller.rb"
+					],
+					[
+						"persistance.rb",
+						"app/lib/persistance.rb"
+					],
+					[
+						"seed_data_import",
+						"app/lib/seed_data/seed_data_importer.rb"
+					],
+					[
+						"asset",
+						"app/lib/assets/asset_downloader.rb"
+					],
+					[
+						"login",
+						"app/controllers/login_controller.rb"
+					],
+					[
+						"seed_data_downloader",
+						"app/lib/seed_data/seed_data_downloader.rb"
+					],
+					[
+						"pages_controller.rb",
+						"app/controllers/pages_controller.rb"
+					],
+					[
+						"faqs.html",
+						"app/views/pages/faqs.html.erb"
+					],
+					[
+						"login.html",
+						"app/views/devise/sessions/_login.html.erb"
+					],
+					[
+						"session/new",
+						"app/views/devise/sessions/new.html.erb"
+					],
+					[
+						"nav.html",
+						"app/views/layouts/_nav.html.erb"
+					],
+					[
+						"application.rb",
+						"config/application.rb"
+					],
+					[
+						"verify.rb",
+						"app/api/verify.rb"
+					],
+					[
+						"authen",
+						"app/api/authenticate.rb"
+					],
+					[
+						"akefile",
+						"Rakefile"
+					],
+					[
+						"app_deleta",
+						"app/app_delegate.rb"
+					],
+					[
+						"gemfi",
+						"Gemfile.lock"
+					],
+					[
+						"development",
+						"config/environments/development.rb"
+					],
+					[
+						"procfile",
+						"Procfile"
+					],
+					[
+						"user.rb",
+						"app/api/user_details.rb"
+					],
+					[
+						"pages_con",
+						"app/controllers/pages_controller.rb"
+					],
+					[
+						"pages/home",
+						"app/views/pages/home.html.erb"
+					],
+					[
+						"office.rb",
+						"app/models/office.rb"
+					],
+					[
+						"add_directio",
+						"db/migrate/20160208141920_add_directions_file_to_offices.rb"
+					],
+					[
+						"contact",
+						"app/views/pages/contact.html.erb"
+					],
+					[
+						"redactor",
+						"app/assets/javascripts/active_admin/redactor-rails/config.js"
+					],
+					[
+						"blog_articles/index",
+						"app/views/blog_articles/index.html.erb"
+					],
+					[
+						"blog_articles/index.hmtl",
+						"app/views/blog_articles/index.html.erb"
+					],
+					[
+						"news_articles/index",
+						"app/views/news_articles/index.html.erb"
+					],
+					[
+						"articles.html",
+						"app/views/application/_articles.html.erb"
+					],
+					[
+						"tag.rb",
+						"app/models/tag.rb"
+					],
+					[
+						"article.html",
+						"app/views/application/_article.html.erb"
+					],
+					[
+						"aricle.html.er",
+						"app/views/application/_article.html.erb"
+					],
+					[
+						"articles.html.",
+						"app/views/application/_articles.html.erb"
+					],
+					[
+						"blog/index",
+						"app/views/blog_articles/index.html.erb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"testimonials.see",
+						"db/seeds/testimonials.seeds.rb"
+					],
+					[
+						"countrydetailviewcontroller",
+						"app/controllers/country_detail_view_controller.rb"
+					],
+					[
+						"country_detail_view_con",
+						"app/controllers/country_detail_view_controller.rb"
+					],
+					[
+						"disclaim",
+						"app/controllers/disclaimer_controller.rb"
+					],
+					[
+						"usa.rb",
+						"config/deploy/usa.rb"
+					],
+					[
+						"zzz_",
+						"config/initializers/zzz_rails_cache.rb"
+					],
+					[
+						"zzz_rails",
+						"config/initializers/zzz_rails_cache.rb"
+					],
+					[
+						"aus.rb",
+						"config/deploy/aus.rb"
+					],
+					[
+						"sched",
+						"config/schedule.rb"
+					],
+					[
+						"twitter",
+						"lib/tasks/twitter.rake"
+					],
+					[
+						"sync",
+						"lib/tasks/sync.rake"
+					],
+					[
+						"seed_data_che",
+						"app/lib/seed_data/seed_data_checker.rb"
+					],
+					[
+						"currency_table_view_cell.rb",
+						"app/views/currency_table_view_cell.rb"
+					],
+					[
+						"ersion.",
+						"app/seeds/version.rb"
+					],
+					[
+						"favou",
+						"app/models/favourite.rb"
+					],
+					[
+						"seedman",
+						"app/lib/seed_data/seed_data_manager.rb"
+					],
+					[
+						"assetd",
+						"app/lib/seed_data/asset_downloader.rb"
+					],
+					[
+						"assets",
+						"resources/assets.json"
+					],
+					[
+						"asset_upader",
+						"app/lib/asset_updater.rb"
+					],
+					[
+						"countrycom",
+						"app/views/country_comparison_view.rb"
+					],
+					[
+						"regionda",
+						"app/modules/region_data.rb"
+					],
+					[
+						"citycom",
+						"app/views/city_comparison_view.rb"
+					],
+					[
+						"regioncompv",
+						"app/views/region_comparison_view.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 370.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"auto_enrolment_work",
+						"auto_enrolment_worker_type"
+					],
+					[
+						"redCard",
+						"redCard"
+					],
+					[
+						"cellidenti",
+						"cellIdentifier"
+					],
+					[
+						"",
+						"AboutController"
+					],
+					[
+						"return",
+						"textFieldShouldReturn"
+					]
+				],
+				"width": 552.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 316.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 3739,
+			"workspace_name": ""
+		}
 	],
 	"workspaces":
 	{

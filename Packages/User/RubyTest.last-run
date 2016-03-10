@@ -1,4 +1,4 @@
 {
-	"last_test_run": "rspec spec/controllers/pages_controller_spec.rb:15",
-	"last_test_working_dir": "/Users/ahmet/MyProjects/trakitem.com"
+	"last_test_run": "rspec spec/features/dashboard/watchlist_spec.rb:12",
+	"last_test_working_dir": "/Users/ahmet/Projects/alphacrowd.com"
 }

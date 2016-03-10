@@ -33,9 +33,8 @@
   // { "keys": ["f2"], "command": "move_to_group", "args": { "group": 1 } },
   { "keys": ["f1"], "command": "new_pane" },
   { "keys": ["f2"], "command": "close_pane" },
-  // { "keys": ["f3"], "command": "spotify_next_track"},
   { "keys": ["f3"], "command": "change_quotes"},
-  // { "keys": ["f3"], "command": "erb" },
+  // { "keys": ["f4"], "command": "erb" },
   // { "keys": ["super+shift+w"], "command": "delete_file"},
   {
     "keys": ["shift+f1"],
